@@ -1,0 +1,32 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageName = "English"
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  weight = 1
+  title = "Peter Herman"
+  [en.params]
+    # Show a copyright license from creativecommons.org in the site footer?
+    # Page specific copyright licenses are also possible by adding this option to a page's front matter.
+    copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = true, notice = "This work is licensed under {license}"}
+
+# Uncomment the lines below to configure your website in a second language.
+[hu]
+  languageName = "Magyar"
+  languageCode = "hu"
+  contentDir = "content/hu"
+  weight = 2
+  title = "Herman Péter"
+  [hu.params]
+    description = "Herman Péter személyes honlapja"
+    # Need to set it here. Surprisingly, it can be set by this way.
+    # https://github.com/wowchemy/wowchemy-hugo-modules/issues/67#issuecomment-279551652
+    copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = true, notice = "Az oldal a {license} liszensz hatálya alá tartozik."}
+  # [[hu.menu.main]]
+  #   name = "Rólam"
+  #   url = "#about"
+  #   weight = 1
