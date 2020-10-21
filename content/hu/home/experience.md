@@ -36,7 +36,7 @@ experience:
   date_start: "2020-01-01"
   description: |-
     Kutatócsoport munkájának támogatása, bioinformatikai és statisztikai feladatok ellátása, nemzetközi szervezet munkájában adminisztráció:
-    * bioinformatika: R programnyelv és Microsoft Excel
+    * bioinformatika: R és Microsoft Excel
     * statisztika: R Shiny és Microsoft Excel (tudománymetria)
     * adminisztráció: [ELIXIR Europe](https://elixir-europe.org/) (európai bioinformatikai kutatási infrastruktúra szervezet) magyar tagság ([ELIXIR Hungary](http://www.elixir-hungary.org)) adminisztrációja (együttműködési megállapodások összeállítása, ügyintézése)
   location: Budapest
@@ -48,12 +48,12 @@ experience:
   date_start: "2015-02-01"
   description: |-
     Kutatócsoport munkájának támogatása, bioinformatikai és statisztikai feladatok ellátása, szervezés és részvétel konferenciákon, nemzetközi szervezet munkájában adminisztráció:
-    * bioinformatika: R programnyelv és Microsoft Excel (többek között: génchip adatok feldolgozása, adatbázis építés, karbantartás)
+    * bioinformatika: R és Microsoft Excel (többek között: génchip adatok feldolgozása, adatbázis építés, karbantartás)
     * statisztika: R Shiny és Microsoft Excel (túlélés elemzés, kutatási eredmények szabadalmi beágyazottság elemzése, tudománymetria)
     * adminisztráció: [ELIXIR Europe](https://elixir-europe.org/) (európai bioinformatikai kutatási infrastruktúra szervezet) magyar tagság ([ELIXIR Hungary](http://www.elixir-hungary.org)) adminisztrációja (vezetői találkozók jegyzőkönyv vezetése, felvételi kérelem és együttműködési megállapodások összeállítása, ügyintézése)
     * rendezvény szervezés: intézeti házi konferencia, [Mátraházai Akadémiai Tudós Üdülő](https://udulo.mta.hu/uduloink/matrahazai-akademiai-tudos-udulo), 2017. A kutatócsoport többi konferenciáinak szervezésében aktív részvétel.
   location: Budapest
-  title: tudományos segédmunkatárs, Onkológiai Biomarker Kutatócsoport, Enzimológiai Intézet
+  title: tudományos segédmunkatárs, [Onkológiai Biomarker Kutatócsoport](http://gyorffy.semmelweis.hu/), Enzimológiai Intézet
   
 - company: Dreher Sörgyárak Zrt.
   company_url: "https://www.dreherzrt.hu/"

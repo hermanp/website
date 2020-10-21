@@ -36,7 +36,7 @@ experience:
   date_start: "2020-01-01"
   description: |-
     Supporting the work of the research group through bioinformatics and statistical jobs, administering in an international organization:
-    * bioinformatics: R language and Microsoft Excel
+    * bioinformatics: R and Microsoft Excel
     * statistics: R Shiny and Microsoft Excel (scientometrics)
     * administration: [ELIXIR Europe](https://elixir-europe.org/) (european bioinformatics research infrastructure's) Hungarian member society's ([ELIXIR Hungary](http://www.elixir-hungary.org)) (collaboration agreements compilation, administration)
   location: Budapest
@@ -48,12 +48,12 @@ experience:
   date_start: "2015-02-01"
   description: |-
     Supporting the work of the research group through bioinformatics and statistical jobs, organizing and participation in conferences, administering in an international organization:
-    * bioinformatics: R language and Microsoft Excel (among others: processing gene chip data, database building and maintaining)
+    * bioinformatics: R and Microsoft Excel (among others: processing gene chip data, database building and maintaining)
     * statistics: R Shiny and Microsoft Excel (survival analysis, embeddedness of research in patents, scientometrics)
-    * administration: [ELIXIR Europe](https://elixir-europe.org/) (european bioinformatics research infrastructure's) Hungarian member society's ([ELIXIR Hungary](http://www.elixir-hungary.org)) (minutes taking of board meetings, application and collaboration agreements compilation, administration)
+    * administration: the Hungarian member society ([ELIXIR Hungary](http://www.elixir-hungary.org)) of [ELIXIR Europe](https://elixir-europe.org/), the european bioinformatics research infrastructure (minutes taking of board meetings, application and collaboration agreements compilation, supervising)
     * event planning: departmental conference, [Mátraházai Akadémiai Tudós Üdülő](https://udulo.mta.hu/uduloink/matrahazai-akademiai-tudos-udulo), 2017. Active participation in other conference plannings of the research group. 
   location: Budapest
-  title: assistant research fellow, Cancer Biomarker Research Group, Institute of Enzymology
+  title: assistant research fellow, [Cancer Biomarker Research Group](http://gyorffy.semmelweis.hu/), Institute of Enzymology
   
 - company: Dreher Sörgyárak Zrt. (Dreher Breweries Plc.)
   company_url: "https://www.dreherzrt.hu/"
