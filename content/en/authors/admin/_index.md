@@ -1,5 +1,5 @@
 ---
-bio: Something about me.
+bio: Placeholder text.
 education:
   courses:
   - course: MSc in Environmental Engineering
@@ -16,7 +16,7 @@ role: []
 social:
 - icon: cv
   icon_pack: ai
-  link: "files/cv.pdf"
+  link: "files/resume_en.pdf"
 - icon: envelope
   icon_pack: fas
   link: mailto:peter.herman.89@gmail.com
@@ -25,7 +25,7 @@ social:
   link: https://github.com/hermanp
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/péter-herman-a96691a6
+  link: https://www.linkedin.com/in/hermanp1/
 - icon: stackoverflow
   icon_pack: ai
   link: https://stackoverflow.com/users/14261671/hermanp
@@ -34,6 +34,6 @@ title:
 user_groups: []
 ---
 
-Something longer about me.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Greetings! Please, have a look around!  
+  
+I share multiple thigs under the [Resources](/en/resources/) tab: my bookmarks, books worth reading, articles, news and ideas - basically everything which spurred my interest. From these, a post may arise under [Posts](/en/post/), but there can be found a description about creating this website. Things spanning through multiple posts and having a start and end can be find under the [Projects](/en/project/) tab. I share my [resume](/en/files/resume_en.pdf) and CV also.

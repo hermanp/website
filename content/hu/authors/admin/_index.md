@@ -1,5 +1,5 @@
 ---
-bio: Némi infó.
+bio: Helykitöltő szöveg.
 education:
   courses:
   - course: Környezetmérnök MSc
@@ -16,7 +16,7 @@ role: []
 social:
 - icon: cv
   icon_pack: ai
-  link: "files/cv.pdf"
+  link: "files/resume_hu.pdf"
 - icon: envelope
   icon_pack: fas
   link: mailto:peter.herman.89@gmail.com
@@ -25,7 +25,7 @@ social:
   link: https://github.com/hermanp
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/péter-herman-a96691a6
+  link: https://www.linkedin.com/in/hermanp1/
 - icon: stackoverflow
   icon_pack: ai
   link: https://stackoverflow.com/users/14261671/hermanp
@@ -34,6 +34,6 @@ title:
 user_groups: []
 ---
 
-Valamit kellene ide írni rólam.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Üdvözöllek! Kérlek, nézz szét!  
+  
+A [Források](/hu/resources/) alatt többféle dolgot osztok meg: könyvjelzőimet, olvasásra érdemes könyveket, cikkeket, híreket és ötleteket - alapvetően olyasmiket, amik felkeltik érdeklődésem. Ezekből a [Posztok](/hu/post/) alatt bejegyzés születhet, de ott található meg például ezen honlap létrehozásának leírása is. Azok a dolgok, amik több bejegyzést átfognak és van elejük és végük, a [Projektek](/hu/project/) alatt lesznek megtalálhatóak. Elérhetővé teszem továbbá az önéletrajzom [rövid](/hu/files/resume_hu.pdf) és teljes terjedelemben.
