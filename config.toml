@@ -25,6 +25,11 @@ copyright = ""
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
+# To make multilingual support in "New post" RStudio addin work,
+# it seems that capitalizing defaultContentLanguage parameter to 
+# DefaultContentLanguage needed. It seems Hugo doesn't care about the
+# capitalization of parameters in config.toml.
+# https://github.com/rstudio/blogdown/issues/323#issuecomment-499290941
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = true
@@ -35,7 +40,7 @@ paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]

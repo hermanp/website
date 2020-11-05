@@ -5,7 +5,7 @@
 # Configure the English version of the site.
 [en]
   languageName = "English"
-  languageCode = "en-us"
+  languageCode = "en"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   weight = 1
   title = "Peter Herman"
