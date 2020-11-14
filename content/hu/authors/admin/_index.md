@@ -1,5 +1,5 @@
 ---
-bio: Helykitöltő szöveg.
+bio: 
 education:
   courses:
   - course: Környezetmérnök MSc
@@ -29,6 +29,9 @@ social:
 - icon: stackoverflow
   icon_pack: ai
   link: https://stackoverflow.com/users/14261671/hermanp
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/4024198/peter-herman/
 superuser: true
 title: 
 user_groups: []
@@ -36,4 +39,4 @@ user_groups: []
 
 Üdvözöllek! Kérlek, nézz szét!  
   
-A [Források](/hu/resources/) alatt többféle dolgot osztok meg: könyvjelzőimet, olvasásra érdemes könyveket, cikkeket, híreket és ötleteket - alapvetően olyasmiket, amik felkeltik érdeklődésem. Ezekből a [Posztok](/hu/post/) alatt bejegyzés születhet, de ott található meg például ezen honlap létrehozásának leírása is. Azok a dolgok, amik több bejegyzést átfognak és van elejük és végük, a [Projektek](/hu/project/) alatt lesznek megtalálhatóak. Elérhetővé teszem továbbá az önéletrajzom [rövid](/hu/files/resume_hu.pdf) és teljes terjedelemben.
+A [Források](/hu/resources/) alatt többféle dolgot osztok meg: könyvjelzőimet, olvasásra érdemes könyveket, cikkeket, híreket és ötleteket - alapvetően olyasmiket, amik felkeltik érdeklődésem. Ezekből a [Posztok](/hu/post/) alatt bejegyzés születhet, de ott található meg például ezen honlap létrehozásának leírása is. Azok a dolgok, amik több bejegyzést átfognak és van elejük és végük, a [Projektek](/hu/project/) alatt lesznek megtalálhatóak. Elérhetővé teszem továbbá az önéletrajzom [egyoldalas](/hu/files/resume_hu.pdf) és [teljes](/hu/files/CV_hu.pdf) terjedelemben.
