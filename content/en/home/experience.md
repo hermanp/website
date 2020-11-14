@@ -38,7 +38,6 @@ experience:
     Supporting the work of the research group through bioinformatics and statistical jobs, administering in an international organization:
     * bioinformatics: R and Microsoft Excel
     * statistics: R Shiny and Microsoft Excel (scientometrics)
-    * administration: [ELIXIR Europe](https://elixir-europe.org/) (european bioinformatics research infrastructure's) Hungarian member society's ([ELIXIR Hungary](http://www.elixir-hungary.org)) (collaboration agreements compilation, administration)
   location: Budapest
   title: assistant research fellow, Research Laboratory
   

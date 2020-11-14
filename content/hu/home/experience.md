@@ -38,7 +38,6 @@ experience:
     Kutatócsoport munkájának támogatása, bioinformatikai és statisztikai feladatok ellátása, nemzetközi szervezet munkájában adminisztráció:
     * bioinformatika: R és Microsoft Excel
     * statisztika: R Shiny és Microsoft Excel (tudománymetria)
-    * adminisztráció: [ELIXIR Europe](https://elixir-europe.org/) (európai bioinformatikai kutatási infrastruktúra szervezet) magyar tagság ([ELIXIR Hungary](http://www.elixir-hungary.org)) adminisztrációja (együttműködési megállapodások összeállítása, ügyintézése)
   location: Budapest
   title: tudományos segédmunkatárs, Kutatólabor
   
