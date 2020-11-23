@@ -1,5 +1,5 @@
 ---
-title: How this blogdown site was created
+title: How I created this blogdown site
 author: Peter Herman
 date: '2020-11-16'
 slug: how-this-blogdown-site-was-created
