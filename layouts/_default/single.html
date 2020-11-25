@@ -1,0 +1,30 @@
+{{- define "main" -}}
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    {{ if and (gt .WordCount 400) (.Params.toc) }}
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "table_of_contents" }}</a></li>
+      </ul>
+      {{ .TableOfContents }}
+      {{ partial "docs_toc_foot" . }}
+    </div>
+    {{ end }}
+    <main class="col-12 col-md-0 col-xl-10 py-md-3 pl-md-5 docs-content" role="main">
+    <article class="article">
+      {{ partial "page_header" . }}
+      <div class="article-container">
+        <div class="article-style">
+          {{ .Content }}
+        </div>
+        {{ partial "page_footer" . }}
+      </div>
+    </article>
+{{ if .Params.toc }}
+    </main>
+  </div>
+</div>
+{{ end }}
+
+{{- end -}}
