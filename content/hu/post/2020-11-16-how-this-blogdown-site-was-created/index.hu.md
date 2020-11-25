@@ -20,6 +20,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+toc: true
 ---
 
 "Lehet, hogy létre kellene hoznom egy weboldalt vagy blogot. Talán portfóliót is bemutathatnék? (Hahaha ... Először létre kellene hozni egy portfóliót.:smile:) Csak szeretnék egy egyszerű módszert weboldal készítéshez és fenntartáshoz. Hm... `blogdown`? Szuper, meg tudom csinálni az egészet RStudio-ban!" — valahogy így fantáziáltam róla hónapokkal ezelőtt.
@@ -146,3 +147,6 @@ Két stratégiát látok, de nem zárják ki egymást:
 
 Ne stresszeld magad, ha nem tudod olyan gyorsan beindítani, mint mások. Hiszen sok bejegyzés található a telepítés közbeni félresiklásokról is! Ha szerencséd van, nem ragadsz bele a mocsárba. De a szerencse azok oldalán áll, akik tesznek is érte. :wink:
 
+{{% callout note %}}
+Ez a poszt az [angol változat](/en/post/how-this-blogdown-site-was-created/) fordításaként készült.
+{{% /callout %}}

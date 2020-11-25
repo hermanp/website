@@ -20,6 +20,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+toc: true
 ---
 
 "Maybe I should create a website or blog. Showcasing a portfolio? (Bwahaha... First, you have to create a portfolio.:smile:) I just want a simple way to make and maintain a website. Hm... `blogdown`? Nice, I can do the whole thing in RStudio!" — or how I have fantasized about it months ago.
