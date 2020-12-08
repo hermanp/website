@@ -22,4 +22,4 @@ writeLines(text = bookmarks_md,
 
 # Download favicons for display.
 # https://superuser.com/questions/157925/how-to-download-favicon-from-website
-
+# Dismissed.

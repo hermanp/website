@@ -31,6 +31,7 @@
 #                          "bookmarks-example.json")))
 
 library(httr)
+source("static/generate_md.R", encoding = "UTF-8")
 
 useragent <- user_agent("R httr package, Peter Herman, hermanp.github.io")
 
