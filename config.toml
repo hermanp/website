@@ -22,7 +22,7 @@ copyright = ""
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 # To make multilingual support in "New post" RStudio addin work,
