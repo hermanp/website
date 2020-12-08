@@ -28,9 +28,9 @@
 # 
 # Example ####
 # cat(generate_md(paste0("https://gist.githubusercontent.com/hermanp/",
-#                        "c01365b8f4931ea7ff9d1aee1cbbc391/raw/",
-#                        "33c21c88dad35145e2792b6258ede9c882c580ec/",
-#                        "bookmarks-example.json")))
+#                        "381eaf9f2bf5f2b9cdf22f5295e73eb5/raw/",
+#                        "76b74b2c3b5e34c2410e99a3f1b6ef06977b2ec7/",
+#                        "bookmarks-example-hyphen.json"), foricondownload = F))
 
 library(jsonlite)
 
@@ -60,8 +60,7 @@ recursive_func <- function (level, foricondownload) {
         md_listitem <- paste0("- ", md_link, "\n")
       } else {
         md_link <- paste0("[", md_title, "]", "(", md_uri, ")")
-        md_image <- paste0("![favicon](", "/static/favicons/", host_url, ")")
-        md_listitem <- paste0("- ", md_image, md_link, "\n")
+        md_listitem <- paste0("- ", md_link, "\n")
       }
       
       # If this element is a folder, then get into it, call this
