@@ -92,8 +92,12 @@ generate_md <- function (jsonfile, foricondownload) {
   # elements inside the Bookmarks Toolbar in Firefox.
   level1 <- bmarks_json_lite$children$children[[2]]
   # Choose only certain folders to keep.
-  level1 <- level1[level1$title
-                   %in% c("Adat", "R", "Info", "Érdekesség", "Forrás", "Sport"), ]
+  level1 <- level1[level1$title %in% c("Adat",
+                                       "R",
+                                       "Info",
+                                       "Érdekesség",
+                                       "Forrás",
+                                       "Sport"), ]
   
   # Do not know how to make it prettier, but it works.
   markdown_result <- recursive_func(level = level1,

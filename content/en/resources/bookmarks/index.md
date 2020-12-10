@@ -3,12 +3,12 @@ title: Bookmarks
 # linktitle: Bookmarks
 date: '2020-12-01'
 summary: ''
-lastmod: '2020-12-01T14:25:56+01:00'
+lastmod: ''
 type: book
 draft: false
 ---
-- Adat
-  - Stat
+- # Adat
+  - ## Stat
     - [Outline of statistics](https://en.wikipedia.org/wiki/Outline_of_statistics)
     - [Significant figures](https://en.wikipedia.org/wiki/Significant_figures)
     - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
@@ -26,8 +26,8 @@ draft: false
     - [Simply Statistics](http://simplystatistics.org/)
     - [Thoughts on statistical consulting](http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
     - [Hivatalos statisztika és a Big Data](http://www.ksh.hu/statszemle_archive/2017/2017_05/2017_05_461.pdf)
-  - Data science
-    - Képzés
+  - ## Data science
+    - ### Képzés
       - [datajobs.hu - Facebook](https://www.facebook.com/datajobshu)
       - [Data Science képzések - 2020](https://dmlab.hu/blog/data-science-kepzesek-2020/)
       - [Mi a véleményetek a programozó kurzusokról?](https://www.reddit.com/r/hungary/comments/9u6if4/mi_a_v%C3%A9lem%C3%A9nyetek_a_programoz%C3%B3/)
@@ -63,7 +63,7 @@ draft: false
     - [4 tricks to be a more efficient data scientist](https://jonkeane.com/blog/simple_tricks/)
     - [Meet whale! 🐳 The stupidly simple data discovery tool. | by Robert Yi](https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47)
     - [Ethics in Web Scraping](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
-  - Geoinf
+  - ## Geoinf
     - [Lechner Tudásközpont](http://lechnerkozpont.hu/)
     - [TeIR](https://www.teir.hu/)
     - [Earth Data Science](https://www.earthdatascience.org/)
@@ -81,7 +81,7 @@ draft: false
     - [Műszaki térinformatika szakirányú továbbképzés](https://geod.bme.hu/geod/muszaki_terinf)
     - [Echoes in space – EO College](https://eo-college.org/courses/echoes-in-space/)
     - [OSGeo](https://www.osgeo.org/)
-  - Bioinfo
+  - ## Bioinfo
     - [Bioconductor](http://www.bioconductor.org/)
     - [Neuroconductor](https://neuroconductor.org/)
     - [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
@@ -94,13 +94,13 @@ draft: false
     - [Bioinformatics scientists versus bioinformatics technicians](https://academic.oup.com/bioinformatics/article-pdf/20/14/2159/566247/bth217.pdf)
     - [SequencEnG](http://education.knoweng.org/sequenceng/)
     - [What is the next "big thing" or method in your niche? : bioinformatics](https://www.reddit.com/r/bioinformatics/comments/61tq1w/what_is_the_next_big_thing_or_method_in_your_niche/)
-  - Legal informatics
+  - ## Legal informatics
     - [Global Legal Hackathon](https://globallegalhackathon.com/)
     - [Jurimetrics](https://en.wikipedia.org/wiki/Jurimetrics)
     - [MIT Computational Law Report](https://law.mit.edu/)
     - [Legal text processing within the MIREL project](http://lrec-conf.org/workshops/lrec2018/W22/pdf/6_W22.pdf)
     - [A bírósági ítéletek adatbázisa mint Big Data](http://unipub.lib.uni-corvinus.hu/3513/1/2017_05_505.pdf)
-  - Panel
+  - ## Panel
     - [Panel lakás alaprajzok](https://orszagos-tanusito-kozpont.hu/tanusitas/tanusitas-panel-lakas-alaprajzok)
     - [Lakótelepek · Ferkai András](https://moly.hu/konyvek/ferkai-andras-lakotelepek)
     - [Az első igazi panelbontás és tanulságai (interjú)](https://www.portfolio.hu/ingatlan/iroda/az-elso-igazi-panelbontas-es-tanulsagai--interju.165311.html)
@@ -116,8 +116,8 @@ draft: false
   - [The Programming Historian](https://programminghistorian.org/)
   - [EU Open Data Portal](https://data.europa.eu/euodp/en/home/)
   - [GDPR Compliance Guidelines](https://gdpr.eu/)
-- R
-  - R issues
+- # R
+  - ## R issues
     - [R and version control for the solo data analyst](http://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst/2715569#2715569)
     - [Workflow for statistical analysis and report writing](https://stackoverflow.com/questions/1429907/workflow-for-statistical-analysis-and-report-writing)
     - [Designing projects - Nice R Code](https://nicercode.github.io/blog/2013-04-05-projects/)
@@ -145,7 +145,7 @@ draft: false
     - [Is there any difference between 'valid xml' and 'well formed xml'?](https://stackoverflow.com/questions/134494/is-there-any-difference-between-valid-xml-and-well-formed-xml/25830482#25830482)
     - [Testing text() nodes vs string values in XPath](https://stackoverflow.com/questions/34593753/testing-text-nodes-vs-string-values-in-xpath/34595441#34595441)
     - [Troubleshooting RStudio Rendering Errors](https://support.rstudio.com/hc/en-us/articles/360017886674-Troubleshooting-RStudio-Rendering-Errors)
-  - Hadley
+  - ## Hadley
     - [Hadley Wickham](http://hadley.nz/)
     - [Advanced R](http://adv-r.had.co.nz/)
     - [R for Data Science](http://r4ds.had.co.nz/)
@@ -153,8 +153,8 @@ draft: false
     - [Tidyverse](https://www.tidyverse.org/)
     - [Tidymodels](https://www.tidymodels.org/)
     - [tidytuesday](https://github.com/rfordatascience/tidytuesday)
-  - Plot
-    - Tools
+  - ## Plot
+    - ### Tools
       - [Adobe Color](https://color.adobe.com/create/color-wheel)
       - [Leonardo](https://leonardocolor.io/)
       - [Coolors](https://coolors.co/)
@@ -192,7 +192,7 @@ draft: false
     - [Data Visualization - Kieran Healy](https://socviz.co/)
     - [Data Visualization Weekly | AnyChart](https://www.anychart.com/blog/category/data-visualization-weekly/)
     - [The Dimensions of Colour](http://www.huevaluechroma.com/index.php)
-  - Blogdown
+  - ## Blogdown
     - [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
     - [Making a Website with R and the Blogdown Package](https://makingwebsiteswithr.rbind.io/)
     - [Hugo Multilingual Part 1: Content translation](https://regisphilibert.com/blog/2018/08/hugo-multilingual-part-1-managing-content-translation/)
@@ -259,8 +259,8 @@ draft: false
   - [Alkalmazott statisztika? R!   - Daróczi](http://real.mtak.hu/40962/1/04_daroczi.pdf)
   - [Big Book of R](https://www.bigbookofr.com/index.html)
   - [Section 8 Other Worthy (and Free) Resources](https://thomaselove.github.io/431-2020-syllabus/other-worthy-and-free-resources.html)
-- Info
-  - Git
+- # Info
+  - ## Git
     - [Git](http://git-scm.com/)
     - [GitHub](https://github.com/)
     - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
@@ -276,15 +276,15 @@ draft: false
     - [Get Your Database Under Version Control](https://blog.codinghorror.com/get-your-database-under-version-control/)
     - [Learn Git Branching](https://learngitbranching.js.org/)
     - [Dangit, Git!?!](https://dangitgit.com/en)
-  - SQL
+  - ## SQL
     - [SQL style guide](https://www.sqlstyle.guide/)
     - [6 Incredible Resources to Learn Advanced SQL | by Terence S](https://towardsdatascience.com/6-incredible-resources-to-learn-advanced-sql-364fe0889dcd)
-  - Python
+  - ## Python
     - [The Ultimate Python Beginner's Handbook](https://www.freecodecamp.org/news/the-python-guide-for-beginners/)
     - [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
     - [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-  - Frontend
+  - ## Frontend
     - [CodePen](https://codepen.io/)
     - [JavaScript](https://www.javascript.com/)
     - [CSS-Tricks](https://css-tricks.com/)
@@ -292,7 +292,7 @@ draft: false
     - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
     - [Using Ethics In Web Design](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/)
     - [Client-Side Web Development](https://info340.github.io/)
-  - General
+  - ## General
     - [Summary of Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
     - [Refactoring](https://refactoring.com/)
     - [The Twelve-Factor App](https://12factor.net/)
@@ -300,7 +300,7 @@ draft: false
     - [IT szakmák](https://legyelteis.hu/it_szakmak)
     - [Van-e különbség programozó és szoftverfejlesztő között?](https://codeberryschool.com/blog/hu/kulonbseg-programozo-es-szoftverfejleszto/?fbclid=IwAR2b2W2vYdEbu5IHroLaIBgSHqz0ymFmecF_zWHbhaM4hBq_jEX6VmtrYh0#Mi_a_kulonbseg_a_data_analyst_es_a_data_scientist_kozott)
     - [5 Unexpected Skills to Master as a Beginner Software Engineer](https://codeburst.io/5-unexpected-skills-to-master-as-a-beginner-software-engineer-96ada8b0ba11)
-  - Tools
+  - ## Tools
     - [Docker](https://www.docker.com/)
     - [Slack](https://slack.com/)
     - [Doodle](http://doodle.com/)
@@ -322,17 +322,17 @@ draft: false
     - [Smallpdf](http://smallpdf.com/)
     - [Unix Timestamp Epoch Converter](https://www.epochconverter.com/)
     - [Helyesírás](http://helyesiras.mta.hu/)
-  - License
+  - ## License
     - [Choose a License](https://choosealicense.com/)
     - [Creative Commons](https://creativecommons.org/)
     - [SPDX License List](https://spdx.org/licenses/)
     - [Hogyan válassz szabad (szoftver) licencet?](https://lacyc3.eu/hogyan-valassz-szabad-szoftver-licencet-1?fbclid=IwAR20-w-zlsU9YWlqT-z2CEAl_4NnEPU66Pzev5uphUUlvn2fZUUBW9M4kRc)
     - [A nyílt forráskódú szoftverek licenceiről](https://bitport.hu/ezt-tudnod-kell-a-nyilt-forraskodu-szoftverek-licenceirol?fbclid=IwAR3TKZQSoKpHmmdlQ-c3BsPjWxHYrm-jDEfFhP1CKtr3iwtZatfp4CcqgDM)
-  - Security
+  - ## Security
     - [Index Nagy Netbiztonsági Kalauza](https://index.hu/tech/helpdeszka/2019/03/05/netbiztonsagi_kalauz_kiberbiztonsag_adatvedelem_jelszo_adathalaszat_titkositas/)
     - [Australian Cyber Security Center](https://www.cyber.gov.au/)
     - [Nemzeti Kibervédelmi Intézet](https://nki.gov.hu/)
-  - Google
+  - ## Google
     - [List of Google products](http://en.wikipedia.org/wiki/List_of_Google_products)
     - [All of Google's Products & Services](https://about.google/intl/hu/products/?tab=uh)
     - [Google Developers](https://developers.google.com/)
@@ -352,7 +352,7 @@ draft: false
     - [Tartsa kordában a levelezését!](http://index.hu/tech/helpdeszka/2016/10/12/gmail_torles_levelezes_betelt/)
     - [Grow with Google](https://grow.google/)
     - [Google Digital Workshop](https://learndigital.withgoogle.com/digitalworkshop-hu)
-  - DeGoogle
+  - ## DeGoogle
     - [De-Google-ify your life for a less intrusive web](https://markosaric.com/surveillance-capitalism/)
     - [Kiss my device goodbye](https://blog.prototypr.io/kiss-my-device-goodbye-degoogle-your-online-life-with-these-11-alternatives-3d8b33a99948)
     - [How to De-Google Your Life](https://www.bestvpnguru.com/degoogle-alternatives-to-google/)
@@ -365,7 +365,7 @@ draft: false
     - [OsmAnd](https://osmand.net/)
     - [Standard Notes](https://standardnotes.org/)
     - [Matomo](https://matomo.org/)
-  - Unicode
+  - ## Unicode
     - [Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
     - [ASCII Value Tool](http://www.asciivalue.com/index.php)
     - [ASCII - Wikipedia](https://en.wikipedia.org/wiki/ASCII)
@@ -378,7 +378,7 @@ draft: false
     - [Automatically escape unicode characters R](https://stackoverflow.com/questions/25308913/automatically-escape-unicode-characters)
     - [UTF-8 encoding problems with R](https://stackoverflow.com/questions/29379771/utf-8-encoding-problems-with-r)
     - [Removing non-ASCII characters from data files](https://stackoverflow.com/questions/9934856/removing-non-ascii-characters-from-data-files)
-  - Regular Expressions
+  - ## Regular Expressions
     - [Regex Tutorial, Examples and Reference](http://www.regular-expressions.info/)
     - [Learn, Build, & Test RegEx](http://regexr.com/)
     - [Regular Expressions FAQ](http://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
@@ -392,7 +392,7 @@ draft: false
     - [Weird space character in string, that's not a space?](http://stackoverflow.com/questions/15565479/weird-space-character-in-string-thats-not-a-space)
     - [Parsing html containing non-breaking space](http://stackoverflow.com/questions/27237233/parsing-html-containing-non-breaking-space)
     - [Extract numeric part of strings of mixed numbers and characters in R](http://stackoverflow.com/questions/15451251/extract-numeric-part-of-strings-of-mixed-numbers-and-characters-in-r)
-  - Q&A
+  - ## Q&A
     - [Is it possible to get a list of files under a directory of a website? How?](https://stackoverflow.com/questions/4010158/is-it-possible-to-get-a-list-of-files-under-a-directory-of-a-website-how)
     - [How can I split in half a double-page scanned PDF in a single pass?](http://superuser.com/questions/791022/how-can-i-split-in-half-a-double-page-scanned-pdf-in-a-single-pass)
     - [Rename profile folder on Windows 7/8](http://superuser.com/questions/570601/rename-profile-folder-on-windows-7-8)
@@ -407,8 +407,8 @@ draft: false
   - [IVSZ](https://ivsz.hu/)
   - [VALI](https://vali.ifka.hu/)
   - [Hope in Source](https://hopeinsource.com/)
-- Érdekesség
-  - Logika
+- # Érdekesség
+  - ## Logika
     - [Thou shalt not commit logical fallacies](https://yourlogicalfallacyis.com/)
     - [Ne kövess el érvelési hibákat!](http://a.te.ervelesi.hibad.hu/)
     - [Informális logika](http://www.uni-miskolc.hu/~bolantro/informalis/tartalom.html)
@@ -416,7 +416,7 @@ draft: false
     - [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
     - [Logical Fallacies](http://www.logicalfallacies.info/)
     - [Taxonomy of the Logical Fallacies](http://www.fallacyfiles.org/taxonomy.html)
-  - Futurológia
+  - ## Futurológia
     - [Why Big Data Missed the Early Warning Signs of Ebola](http://www.foreignpolicy.com/articles/2014/09/26/why_big_data_missed_the_early_warning_signs_of_ebola)
     - [Mesterséges intelligenciát tett a zsebünkbe a Google](http://index.hu/tech/2015/08/05/google_fordito_mesterseges_intelligencia_neuralis_halozat_melytanulas/)
     - [Robot ölt embert, ez már az apokalipszis?](http://index.hu/tech/2015/07/08/robot_gyilkossag_buntetojog_gepek_vilagvege/)
@@ -432,13 +432,13 @@ draft: false
     - [Mobiljukon követné lakóit Chicago városa](http://www.origo.hu/techbazis/20140627-mobiljukon-at-figyelne-lakoit-chicago-varosa.html)
     - [Seattle becomes next city to use crime prediction software](http://www.examiner.com/article/seattle-becomes-next-city-to-use-crime-prediction-software)
     - [A Deutsche Bank vezére szerint nagy számban kell majd kirúgniuk embereket a robotok terjedése miatt](https://444.hu/2017/09/06/a-deutsche-bank-vezere-szerint-nagy-szamban-kell-majd-kirugniuk-embereket-a-robotok-terjedese-miatt)
-  - Galamb
+  - ## Galamb
     - [The Pigeon Movie Database](http://pigeonmoviedb.blogspot.co.uk/)
     - [Pigeons as Trainable Observers of Pathology and Radiology Breast Cancer Images](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357)
     - [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
     - [Index - Mindeközben - Egy galamb 20 kilométeren keresztül cikázott az autók között 90 km/órás sebességgel](http://index.hu/mindekozben/poszt/2016/08/04/egy_galamb_20_kilometeren_keresztul_cikazott_az_autok_kozott_90_km_oras_sebesseggel/)
     - [A galamb látja a különbséget szavak és betűk között](http://index.hu/tudomany/2016/09/20/a_galamb_latja_a_kulonbseget_szavak_es_betuk_kozott/)
-  - Interjú
+  - ## Interjú
     - [Példakép](http://www.peldakep.hu/)
     - [Jó emberi kapcsolatokat is kell ápolni - Vicsek Tamás](https://www.elte.hu/content/jo-emberi-kapcsolatokat-is-kell-apolni-enelkul-nem-megy-a-szeker-se.t.15807)
     - [Aki ide belép, az tátott szájjal bámuljon - Holló-Szabó Ferenc](https://www.elte.hu/content/aki-ide-belep-az-tatott-szajjal-bamuljon.t.16024)
@@ -453,8 +453,8 @@ draft: false
   - [The Likely Cause of Addiction Has Been Discovered](http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html)
   - [Purpose Economy](https://purpose-economy.org/en/)
   - [How to build a world with 6x more sustainable organisations that are 10x more innovative](https://medium.com/worldbrain/how-vc-money-prevents-innovation-and-what-we-can-do-about-it-2f8867b2fff8)
-- Forrás
-  - MOOC
+- # Forrás
+  - ## MOOC
     - [Coursera](https://www.coursera.org/)
     - [edX](https://www.edx.org/)
     - [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
@@ -491,7 +491,7 @@ draft: false
     - [20 Types Of Learning Journals That Help Students Think](https://www.teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/)
     - [Science of Learning](https://carpentries.github.io/instructor-training/papers/science-of-learning-2015.pdf)
     - [Hogyan kérdezzünk okosan](https://prog.hu/support/hogyankerdezzunk.html)
-  - Tananyagok
+  - ## Tananyagok
     - [Digitális Tankönyvtár](https://dtk.tankonyvtar.hu/)
     - [Digitális Tankönyvtár régi](https://regi.tankonyvtar.hu/hu)
     - [Videotorium](http://videotorium.hu/)
@@ -513,7 +513,7 @@ draft: false
     - [Lean szótár](http://leanszotar.hu/page.php?1)
     - [Minőségmenedzsment módszerek](http://www.feherotto.hu/index.html)
     - [Nexius Learning](https://account.nexiuslearning.com/login)
-  - Cikk
+  - ## Cikk
     - [Compass](http://compass.konyvtar.mta.hu/)
     - [Microsoft Academic](https://academic.microsoft.com/home)
     - [Google Tudós](https://scholar.google.com/)
@@ -552,8 +552,8 @@ draft: false
   - [National Geographic Map Archive](http://www.natgeomaps.com/wall-maps/map-archive)
   - [Hungaricana](https://hungaricana.hu/hu/)
   - [Fortepan](http://www.fortepan.hu/)
-- Sport
-  - Túra
+- # Sport
+  - ## Túra
     - [Természetjáró](https://www.termeszetjaro.hu/hu/)
     - [Index - A Kék menet](https://index.hu/akekmenet/)
     - [Teljesítménytúrázók Társasága OKT fórum](https://www.teljesitmenyturazoktarsasaga.hu/okt_forum)
@@ -562,7 +562,7 @@ draft: false
     - [TAK](http://tak.e-epites.hu/#)
     - [Magyar Zarándokút](http://magyarzarandokut.hu/)
     - [Városnéző túrák – Imagine Budapest](http://imaginebp.hu/)
-  - Térkép
+  - ## Térkép
     - [Cartographia](https://cartographia.hu/)
     - [Szarvas térképek](http://map.hu/)
     - [Budai Térképbolt](http://terkep-center.hu/)
@@ -576,4 +576,3 @@ draft: false
   - [Bicycles Stack Exchange](http://bicycles.stackexchange.com/)
   - [Magyar Kerékpárosklub](http://kerekparosklub.hu/)
   - [DAREBEE](https://darebee.com/)
-
