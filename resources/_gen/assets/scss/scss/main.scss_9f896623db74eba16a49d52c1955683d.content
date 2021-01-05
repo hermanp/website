@@ -9250,7 +9250,7 @@ nav#navbar-main li.nav-item {
    Header list items are not always the first items in the row of
    list items. A list item under an <ul> tag can be a header
    list item and an average list item also. Because CSS do not
-   have currently a parent selector, Idecided to remove the
+   have currently a parent selector, I decided to remove the
    markers altogether.*/
 .docs-article-container li {
   list-style-type: none; }
