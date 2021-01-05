@@ -13,7 +13,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-11-23T14:52:54+01:00'
+lastmod: '2021-01-05'
 featured: no
 image:
   caption: ''
@@ -138,6 +138,9 @@ Megjegyzés: Hallottam az [forestry.io](https://forestry.io/)-ról, amely lehet�
 4. Commit-olom a változásokat.
 5. Feltolom (push) a GitHubra a [forrás repóba](https://github.com/hermanp/website).
 6. Hagyom, hogy a GitHub Actions elvégezze a dolgát: építse fel a weboldalt és telepítse a `public` mappát a [GitHub Pages repóba](https://github.com/hermanp/hermanp.github.io).
+
+### Az weboldal működtetése
+Próbálom a munkám a repó [Projects](https://github.com/hermanp/website/projects) oldala alapján kezelni. Ez egy [Trello](https://trello.com/)-hoz hasonlító tábla, ahol a feladatok nyomon követhetők. Ha valami eszembe jut, akkor egy Note-ot (jegyzetet) készítek róla a To Do listán belül. Ha felér magában egy feladattal, akkor átalakítom Issue-vá. Ha elkezdek dolgozni egy Note-on vagy Issue-n (azzal a céllal, hogy le is zárjam), akkor áthelyezem az In Progress listába. A nyitott Issue-k automatikusan lezárhatók egy git push-sal, a [dokumentációnak](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) megfelelően.
 
 # Tanulságok
 Két stratégiát látok, de nem zárják ki egymást:

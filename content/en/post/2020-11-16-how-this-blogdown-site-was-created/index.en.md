@@ -13,7 +13,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-11-16T09:29:05+01:00'
+lastmod: '2021-01-05'
 featured: no
 image:
   caption: ''
@@ -136,6 +136,9 @@ Note: I heard of [forestry.io](https://forestry.io/) which makes it possible to 
 4. Commit the changes.
 5. Push the changes to GitHub [source repository](https://github.com/hermanp/website).
 6. Let GitHub Actions do its job: build the website and deploy its `public` folder in the [GitHub Pages repository](https://github.com/hermanp/hermanp.github.io).
+
+### Managing the site
+I try to manage my work using the repo's [Projects](https://github.com/hermanp/website/projects) page. This is a [Trello](https://trello.com/) like board, where tasks can be tracked. If something pops in my mind, I create a Note about it in the To Do list. If it amounts to be a task on its own, then I convert it to an Issue. If I start to work on an Issue or Note (with the aim to close it), I move it to the In Progress list. The open Issues can be automatically closed by a git push, according to the [documentation](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
 
 # Lessons learned
 I see two strategies, but they do not exclude each other:
