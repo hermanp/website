@@ -1,5 +1,5 @@
 ---
-title: Bookmarks
+title: Könyvjelzők
 # linktitle: Bookmarks
 date: '2020-12-01'
 summary: ''
@@ -7,7 +7,7 @@ lastmod: '2021-01-06'
 type: book
 draft: false
 ---
-See the [post](/en/post/about-the-bookmarks/) about the bookmarks for clarification about their structure, characteristics and the generation of this page.
+A könyvjelzők szerkezetéről, jellegzetességeiről és ezen oldal létrehozásának módjáról lehet olvasni ebben a [posztban](/hu/post/a-konyvjelzokrol/).
 - ## Adat
   - ### Stat
     - [Outline of statistics](https://en.wikipedia.org/wiki/Outline_of_statistics)

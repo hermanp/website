@@ -12,14 +12,27 @@ source("static/generate_md.R", encoding = "UTF-8")
 #                        "33c21c88dad35145e2792b6258ede9c882c580ec/",
 #                        "bookmarks-example.json")))
 
+index_md_en <- readLines("content/en/resources/bookmarks/index.md",
+                         encoding = "UTF-8")
+end_of_yaml_en <- which(grepl("---", index_md_en))[2]
+front_matter_en <- index_md_en[seq.int(from = 1, to = end_of_yaml_en + 1, by = 1L)]
+lastmod_index_en <- grepl("lastmod", front_matter_en)
+front_matter_en[lastmod_index_en] <- paste0("lastmod: '",
+                                            strftime(Sys.Date(), "%Y-%m-%d"),
+                                            "'")
+
+index_md_hu <- readLines("content/hu/resources/bookmarks/index.md",
+                         encoding = "UTF-8")
+end_of_yaml_hu <- which(grepl("---", index_md_hu))[2]
+front_matter_hu <- index_md_hu[seq.int(from = 1, to = end_of_yaml_hu + 1, by = 1L)]
+lastmod_index_hu <- grepl("lastmod", front_matter_hu)
+front_matter_hu[lastmod_index_hu] <- paste0("lastmod: '",
+                                            strftime(Sys.Date(), "%Y-%m-%d"),
+                                            "'")
+
 jsonfile <- file.path("static", "bookmarks.json")
 pretty_json <- prettify(toJSON(fromJSON(jsonfile)), indent = 2)
 writeLines(pretty_json, jsonfile, useBytes = T)
-
-index_md <- readLines("content/en/resources/bookmarks/index.md",
-                      encoding = "UTF-8")
-end_of_yaml <- which(grepl("---", index_md))[2]
-front_matter <- index_md[seq.int(from = 1, to = end_of_yaml, by = 1L)]
 
 bookmarks_md <- generate_md(jsonfile = jsonfile, foricondownload = F)
 # I want to insert header signs (#: pound or hash) before every folder
@@ -52,34 +65,34 @@ bookmarks_md <- generate_md(jsonfile = jsonfile, foricondownload = F)
 
 bookmarks_list <- strsplit(bookmarks_md, "\\n", perl = T)[[1]]
 level1_hash <- gsub(pattern = "(^ {0}- )([[:alpha:] &]+$)",
-                    replacement = "\\1# \\2",
-                    x = bookmarks_list,
-                    perl = F)
-level2_hash <- gsub(pattern = "(^ {2}- )([[:alpha:] &]+$)",
                     replacement = "\\1## \\2",
                     x = bookmarks_list,
                     perl = F)
-level3_hash <- gsub(pattern = "(^ {4}- )([[:alpha:] &]+$)",
+level2_hash <- gsub(pattern = "(^ {2}- )([[:alpha:] &]+$)",
                     replacement = "\\1### \\2",
                     x = bookmarks_list,
                     perl = F)
-level4_hash <- gsub(pattern = "(^ {6}- )([[:alpha:] &]+$)",
+level3_hash <- gsub(pattern = "(^ {4}- )([[:alpha:] &]+$)",
                     replacement = "\\1#### \\2",
                     x = bookmarks_list,
                     perl = F)
-level1_logi <- grepl("^ {0}- # [[:alpha:] &]+$", level1_hash, perl = F)
-level2_logi <- grepl("^ {2}- ## [[:alpha:] &]+$", level2_hash, perl = F)
-level3_logi <- grepl("^ {4}- ### [[:alpha:] &]+$", level3_hash, perl = F)
-level4_logi <- grepl("^ {6}- #### [[:alpha:] &]+$", level4_hash, perl = F)
+level4_hash <- gsub(pattern = "(^ {6}- )([[:alpha:] &]+$)",
+                    replacement = "\\1##### \\2",
+                    x = bookmarks_list,
+                    perl = F)
+level1_logi <- grepl("^ {0}- ## [[:alpha:] &]+$", level1_hash, perl = F)
+level2_logi <- grepl("^ {2}- ### [[:alpha:] &]+$", level2_hash, perl = F)
+level3_logi <- grepl("^ {4}- #### [[:alpha:] &]+$", level3_hash, perl = F)
+level4_logi <- grepl("^ {6}- ##### [[:alpha:] &]+$", level4_hash, perl = F)
 
 level1_coalesce <- ifelse(level1_logi, level1_hash, NA)
 level2_coalesce <- ifelse(level2_logi, level2_hash, NA)
 level3_coalesce <- ifelse(level3_logi, level3_hash, NA)
 level4_coalesce <- ifelse(level4_logi, level4_hash, NA)
 nohash_coalesce <- ifelse(level1_logi |
-                          level2_logi |
-                          level3_logi |
-                          level4_logi,
+                            level2_logi |
+                            level3_logi |
+                            level4_logi,
                           yes = NA,
                           no = bookmarks_list)
 
@@ -90,12 +103,18 @@ bookmarks_hash <- coalesce(level1_coalesce,
                            nohash_coalesce)
 bookmarks_hash <- paste0(bookmarks_hash, collapse = "\n")
 
-bookmarks_end <- paste0(paste0(front_matter, collapse = "\n"),
-                       "\n",
-                       bookmarks_hash)
+bookmarks_end_en <- paste0(paste0(front_matter_en, collapse = "\n"),
+                           "\n",
+                           bookmarks_hash)
+bookmarks_end_hu <- paste0(paste0(front_matter_hu, collapse = "\n"),
+                           "\n",
+                           bookmarks_hash)
 
-writeLines(text = bookmarks_end,
+writeLines(text = bookmarks_end_en,
            con = "content/en/resources/bookmarks/index.md",
+           useBytes = T)
+writeLines(text = bookmarks_end_hu,
+           con = "content/hu/resources/bookmarks/index.md",
            useBytes = T)
 
 # Download favicons for display.
