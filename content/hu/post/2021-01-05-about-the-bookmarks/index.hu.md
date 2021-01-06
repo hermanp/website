@@ -20,7 +20,7 @@ projects: []
 toc: true
 ---
 
-Jelenleg Mozilla Firefox böngészőt használok, korábban Google Chrome-ot. A weboldalakat kezdetektől fogva könyvjelzőzöm. De miért is?  
+A [könyvjelzőim](/hu/resources/bookmarks/) a Források menüpont alatt vannak közzétéve. Jelenleg Mozilla Firefox böngészőt használok, korábban Google Chrome-ot. A weboldalakat kezdetektől fogva könyvjelzőzöm. De miért is?  
 
 ## Jellegzetességek
 ### Mentés

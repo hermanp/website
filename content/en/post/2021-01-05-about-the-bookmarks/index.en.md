@@ -20,7 +20,7 @@ projects: []
 toc: true
 ---
 
-I currently use Mozilla Firefox, formerly Google Chrome for browsing. I bookmark websites from the beginning. But why do I?
+My [bookmarks](/en/resources/bookmarks/) is published under the Resources tab. I currently use Mozilla Firefox, formerly Google Chrome for browsing. I bookmark websites from the beginning. But why do I?
 
 ## Characteristics
 ### Saving
