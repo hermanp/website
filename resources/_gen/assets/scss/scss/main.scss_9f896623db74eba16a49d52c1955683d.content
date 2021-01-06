@@ -9241,7 +9241,3 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
-
-/* Enlarge font for the navbar list items.*/
-nav#navbar-main li.nav-item {
-  font-size: 18px; }
