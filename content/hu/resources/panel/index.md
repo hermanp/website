@@ -109,7 +109,16 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
     - [Budapest és környéke általános városrendezési terve](https://maps.hungaricana.hu/hu/BFLTerkeptar/4806/), ez szerepel az 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvében! Ott megtalálható a csak Budapestet ábrázoló térkép is.
     - [Budapest övezeti térképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/4798)
     - [Budapest övezeti térképe, Állami lakótelepi építkezések.](https://maps.hungaricana.hu/hu/BFLTerkeptar/4801). Nincs térkép, ezt meg kellene nézni!
-
+- keresés `HIER=(BFLTerkeptarHierarchy-6) kispest`, 9 találat:
+    - [Kispest alaptérképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/5748), 1959. Erre a térképre (térképtípusra) hivatkoznak a Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek 1959. szeptember 30-i jegyzőkönyvében is. Lásd lejjebb, ezen az oldalon.
+    - [XIX. kerület Kispest tervpályázat. Általános városrendezési terv kivonata és környezetvázlat](https://maps.hungaricana.hu/hu/BFLTerkeptar/5758). Itt jelölve van a városközpont és a "tömör városias beépítés" területe, ami a kispesti lakótelepet fedi le.
+    - [XIX. kerület Kispest tervpályázat](https://maps.hungaricana.hu/hu/BFLTerkeptar/5750), az Üllői út–Ady Endre utca közti terület helyszínrajza városrendezési tervpályázat céljából. Nincs térkép, érdemes lenne megszerezni!
+- keresés `HIER=(BFLTerkeptarHierarchy-6) XIX`, 16 találat (az előzőekkel átfedők nem listázva):
+    - [A XIX. kerület városrendezési alaptérképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/5753), 1961. Fel vannak tüntetve és sorolva az egyes oktatási, ipari, kereskedelmi stb. egységek és épületük. Vannak furcsa színes vonalas területi jelölések, ezek lennének a jelmagyarázatban említett szabályozási térrajzok?
+    - [XIX. kerület övezeti térképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/5751), 1961. Készült az 1027/1960 Minisztertanácsi határozat alapján. Ez IV. építési övezetként tartja számon az Üllői út mentét a Lehel utcától, amiből néhány év múlva kinő a rekonstrukciós terület (ami már a későbbi lakótelep területét fedi le). Tervezett és meglévő közintézmények.
+    - [XIX. kerület. Intézkedési terv. Tervezés, építési lehetőségek, zöldterület, közlekedés](https://maps.hungaricana.hu/hu/BFLTerkeptar/5756), 1961. A Fővárosi Tanács Végrehajtó Bizottság VIII. Városrendezési és Építészeti Osztály osztályvezetője, Szilágyi Lajos hagyta jóvá 1961. május 22-én. Üllői út átépítése, Kosárfonó utca (elődjének) meghosszabbítása, véderdő sáv az ipari terület körül (ma a Lehel utcától ÉNY-ra eső terület a Határ úti csomópontig).
+    - [A XIX. kerület városrendezési alaptérképe a beépítési mód, lakókörzet, közintézmények utólagos jelölésével](https://maps.hungaricana.hu/hu/BFLTerkeptar/5754), 1967. február 6. Meglévő és tervezett közintézmények külön jelölve. Az R-12224 jóváhagyott részletes rendezési terv jelölt területe majdnem teljesen lefedi a későbbi kispesti lakótelep területét. A hivatkozott rendezési terv lenne az 1964. július 22-i Fővárosi Tanács Végrehajó Bizottság jegyzőkönyvében szereplő részletes rendezési terv?
+    - [XIX. kerület intézkedési tervének módosítási javaslata](https://maps.hungaricana.hu/hu/BFLTerkeptar/5752). Megközelítési távolságok köreivel és a rekonstrukciós terület határának jelölésével.
 
 ### Arcanum Digitális Tudománytár
 [Arcanum Digitális Tudománytár](https://adtplus.arcanum.hu/hu/) keresés:
@@ -162,7 +171,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - UVATERV (Bp. XIX. Kispest lakótelep III. ütem beépítési tanulmányterv)
 - Építésgazdasági és Szervezési Intézet (ÉGSZI) 31. Főosztály Lakótelep Szervezési Osztály
 - Általános Épülettervező Vállalat (ÁÉTV)
-- Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV)
+- Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV), a kispesti térképek jó részét készítette.
 - Tervezésfejlesztési és Típustervező Intézet, röviden Típustervező Intézet (TTI)
 - Építésügyi és Városfejlesztési Minisztérium Műszaki Tervezési Főosztály
 - BME ÉPK [Urbanisztika Tanszék](http://www.urbanisztika.bme.hu/)
