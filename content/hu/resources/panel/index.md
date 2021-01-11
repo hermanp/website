@@ -134,7 +134,17 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
 #### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
 
-- *1967. május 5.* (Kibővített ülés.): A budapesti lakásépítés, -elosztás, -telepítés és -felújítás problémái. [talán innen kezdődött], benne: Budapest Főváros XIX. ker. Tanács Végrehajtó Bizottsága. Észrevételek. 1967. május 2. [Benne lakáshelyzet, lakásigénylés, nyomatékos kérés a kispesti városközpont rendezésének megkezdésére, lakás statisztikák. Cél: a negyedik ötéves tervben sor kerüljön rá.]
+- keresés: Hungaricana, `városrészközpont`, 763 találat, nincs szűrés
+    - *1976. április 27.*: A Fővárosi Tanács VB V. ötéves fejlesztési tervjavaslata. [Idézet](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1976/?pg=102&layout=s):
+
+    > "Lakásépítési javaslatunk szorosan kapcsolódik a főváros általános városrendezési tervéhez, amely szerint a Belváros egyközpontúságát megszüntetve fokozatosan **6 városrészközpontot** kell kiépiteni. Amint a tervjavaslatból is kitűnik, Újpesten, Zuglóban, Kispesten, Óbudán és a kelenföldi lakótelep körzetében folytatjuk a városrészközpontok kiépitését. A Moszkva téren a városrészközpont kiépítésének az elkezdése egy későbbi időpontra halasztódik a rendkivül nagy szanálási arányszám miatt."
+    - *1970. február 25.*: Budapest és környéke általános városrendezésének felülvizsgálata, valamint a főváros IV. ötéves tervjavaslatának irányelvei. [A városrészközpontok, közte Kispest megnevezése, rövid jellemzés. Voltaképp itt nevezték meg Kispestet, mint városrészközpontot.] 4 db térkép:
+        - A budapesti agglomeráció városszerkezetének területi váza (útvonalak, metró, elővárosi vasút, központrendszer és területi tagozódás)
+        - Koncentrált lakástelepítés a budapesti agglomerációban (lakásépítés és bontás)
+        - Ipari munkahelyek a budapesti agglomerációban
+        - Központok rendszere a budapesti agglomerációban (főközpont, városrész központok, kerületi központok)
+- keresés: valami XIX. kerülettel kapcsolatos lehetett
+    - *1967. május 5.* (Kibővített ülés.): A budapesti lakásépítés, -elosztás, -telepítés és -felújítás problémái. [talán innen kezdődött], benne: Budapest Főváros XIX. ker. Tanács Végrehajtó Bizottsága. Észrevételek. 1967. május 2. [Benne lakáshelyzet, lakásigénylés, nyomatékos kérés a kispesti városközpont rendezésének megkezdésére, lakás statisztikák. Cél: a negyedik ötéves tervben sor kerüljön rá.]
 
 #### MSZMP BP VB
 MSZMP Budapesti Végrehajtó Bizottságának ülései
@@ -149,6 +159,10 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     > "A IV. és V. ötéves tervre irányuló telepítési javaslatot az 1. sz. melléklet tartalmazza." [benne Kispestet is]
     > "A IV. ötéves tervre irányuló javaslat a nagymérvű mennyiségi lakáshiány mielőbbi felszámolását állítja előtérbe. [...] A peremkerületi központok rekonstrukcióját Újpesten és Rákospalotán nagy ütemben, Kispesten, Pesterzsébeten, Csepelen és Budafokon szerényebb ütemben megkezdjük, illetve folytatjuk. Ezáltal a külső kerületeinkben jelentős mennyiségű lakás fog épülni. [...]
     > Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshiány felszámolása áll, de emellett fokozódik az avult belső városrészek és peremkerületi központok rekonstrukciója. [...] Újpest és Kispest központjának átépítését jelentős ütemben folytatjuk."
+- keresés: Hungaricana `városrészközpont`, 763 találat, nincs szűrés
+    - *1969. június 6.*: A Fővárosi Tanács VB jelentése Budapest és környéke általános városrendezési tervének felülvizsgálata 1967–1968. évi munkálatairól, a lakó- és iparterületi tervről. [Nincs térkép, de Bartos István, a BFT VB elnökhelyettese [hivatkozik](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1969/?pg=916&layout=s&query=t%C3%A9rk%C3%A9p) 4 db térképre, amik valószínűleg megegyeznek az 1970. február 25-i MSZMP BP PB ülésen bemutatottakkal.]
+    > "Az 1960-ban jóváhagyott általános terv a város szerkezeti tagolásának és a központrendszer kialakításának a kérdésével behatóbban nem foglalkozott. Az azóta végzett vizsgálatok és demográfiai, valamint lakástelepitési tanulmányok, de nem utolsó sorban a sokrétű igények felismerése is ezt a hiányosságot nemcsak nyilvánvalóvá tették, hanem a várostagolás és a központrendszer koncepcionális kialakításának lehetőségére egyben módot is nyújtanak."
+    - *1975. április 15.*: A Fővárosi Tanács VB javaslata a főváros V. ötéves lakástelepítési és lakásépítési tervére. [Az állami célcsoportos lakástelepítés telepítési helyein belül az alternatívákban kijelölt helyek között Kispest II. ütem. Javasolják az A alternatíva elfogadását. Táblázat is. Térkép nincs.]
 
 ### Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
@@ -190,8 +204,8 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     :arrow_right: Hungaricana, Tanácsok Közlönye keresés `Budapest és környéke általános rendezési terv 1971`: Tanácsok közlönye, 1971 (20. évfolyam, 1-61. szám) 1971/8. szám, 232. oldal.
     > "egyben felhívja Budapest Főváros Tanácsának Végrehajtó Bizottságát, hogy a felülvizsgált általános rendezési terv, továbbá az Országos Építésügyi Szabályzat város- és községrendezési előírásainak alapján a Budapesti Városrendezési Szabályzat módosítását készíttesse el és annak tanácsrendeletként történő kiadásáról gondoskodjék."
         
-    :arrow_right: Hungaricana, Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei keresés `Budapest és környéke általános rendezési terv 1971`  
-    :arrow_right_hook: 1972. október 31.
+    :arrow_right: Hungaricana, keresés `Budapest és környéke általános rendezési terv 1971`  
+    :arrow_right_hook: 1972. október 31. Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei.
     > "Épitési és Városfejlesztési Minisztériumnak a már hatályba lévő [Országos Építésügyi Szabályzat] I. kötetet is módosítania kell, és ezek a módosítások több vonatkozásban hatással lesznek az uj Budapesti Városrendezési Szabályzatra." [Ezért későbbre halasztották]
         
     :arrow_right_hook: 1975. április 8.  
