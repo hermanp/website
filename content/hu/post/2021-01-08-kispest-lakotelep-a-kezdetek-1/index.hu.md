@@ -122,23 +122,49 @@ A hivatkozott [1969. március 5-i](https://library.hungaricana.hu/hu/view/HU_BFL
 > "A IV. ötéves terv lakástelepitési javaslatának kidolgozása során, valamint annak az V. ötéves tervben előreláthatóan bekövetkező szerves folytatása figyelembevételével, nyilvánvalóvá vált, hogy az [1960-as] általános tervben kijelölt lakóterület keretein belül, a szükséges lakásépítkezéseket telepiteni nem lehet."  
 > " [...] ami az átlagos családnagyság csökkenésében mutatkozott meg. Így az azonos lélekszám mellett a családok, vagyis az önálló lakást igénylők száma a korábbinál lényegesen nagyobb lesz. Ez a körülmény több lakás építését, tehát a lakóterületek növelését teszi elengedhetetlenné." [lásd 1. és 2. számú mellékletek, számításokkal]
 
-Vagyis ezek szerint a korábbi háttéranyagokban voltak megnevezve a városrészközpontok.
+A fentiek alapján megtudhattuk, mikor voltak először megnevezve a városrészközpontok, melyre az 1971-es kormányhatározat is hivatkozik.
 
 ## Az 1960-as kormányhatározat
 
 A fentiek alapján látható volt, hogyan formálódott a dél-pesti városrészközpont terve és térképek is alátámasztották, hogy ez a mai kispesti lakóteleppel területileg átfed. Mégis, az 1971-es kormányhatározat tárgyalásánál úgy foglamaznak, hogy csak kisebb módosításokra szorult az 1960-as általános rendezési tervhez viszonyítva. Ez nem hagyott nyugodni — mégis megjelent volna a kispesti lakótelep koncepciója már 1960-ban? Ezért folytattam tovább a kutakodást időben visszafele haladva.
 
-Ehhez a folytatáshoz ad támpontot fentebb is hivatkozott, Budapest Főváros Tanácsa Végrehajtó Bizottság **1970. január 7-i** ülésének [jegyzőkönyve](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1970-01-07/?pg=40&layout=s) "Budapest és környéke általános rendezési terv felülvizsgálata" tárgyban. Az első bekezdést idézem:
+Ehhez a folytatáshoz ad támpontot a fentebb is hivatkozott, Budapest Főváros Tanácsa Végrehajtó Bizottság **1970. január 7-i** ülésének [jegyzőkönyve](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1970-01-07/?pg=40&layout=s) "Budapest és környéke általános rendezési terv felülvizsgálata" tárgyban. Az első bekezdést idézem:
 
 > "Budapest Általános Városrendezési Tervének készítése lényegében a felszabadulás óta folyamatban van. Az 1945-48 években a Fővárosi Közmunkák Tanácsa, majd az Építéstudományi és Tervező Intézet által elkészített terv nem került jóváhagyásra. A Fővárosi Tanács VB. fenti munka alapján 1951-54 években ujabb általános rendezési tervet dolgoztatott ki, amelyet a Fővárosi Tanács VB. és a Magyar Dolgozók Pártja Budapesti PB. Végrehajtóbizottsága **1955. február 11-i együttes ülésén** vitatott meg. Időközben a regionális tervezésről szóló kormányhatározatnak megfelelően a budapesti régió fejlesztésére vonatkozó tervjavaslat is elkészült. Ennek alapján szükségesnek mutatkozott a terv átdolgozása és - mint egységes koncepciónak - Budapest környékére való kiterjesztése."
 
-Később, az előterjesztés végén olvasható az alábbi mondat, ami böki a csőrömet, mert nem csatoltak semmit a jegyzőkönyvhöz!
+[Később, az előterjesztés végén olvasható az alábbi mondat, ami böki a csőrömet, mert nem csatoltak semmit a jegyzőkönyvhöz!]
 
 > "A felülvizsgálat részletes elemzését, indoklását, eredményét és javasltait a bekötött melléklet tartalmazza."
 
-Ezt hagyta jóvá a Magyar Forradalmi Munkás-Paraszt Kormány 1027/1960./XI.4./ sz. [határozatával](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?pg=718&layout=s) (a Hungaricanaban, a Tanácsok Közlönyében fellelve). Ez a kormányhatározat sem informatív, talán az 1.b) pontja használható fel:
+Az 1955. február 11-i ülés anyagát hagyta jóvá a Magyar Forradalmi Munkás-Paraszt Kormány 1027/1960./XI.4./ sz. [határozatával](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?pg=718&layout=s) (a Hungaricanaban, a Tanácsok Közlönyében fellelve). Ez a kormányhatározat sem informatív, talán az 1.b) pontja használható fel:
 
-> " a *részletes városrendezési terveket* a Fővárosi Tanács végrehajtó bizottsága az általános városrendezési terv megvalósításához szükséges ütemben készíttesse el és az érdekelt szervekkel egyetértésben, saját hatáskörében hagyja jóvá;"
+> " a *részletes városrendezési terveket* a Fővárosi Tanács végrehajtó bizottsága az általános városrendezési terv megvalósításához szükséges ütemben készíttesse el és az érdekelt szervekkel egyetértésben, saját hatáskörében hagyja jóvá"
 
+Az 1970-es kormányhatározat tükrében sejthető, hogy az 1960-as kormányhatározat előzményeként Budapest Főváros Tanácsa fogadhatta el és esetleg a Végrehajtó Bizottsága terjeszthette a kormány elé elfogadásra. A Hungaricanaban `budapest általános terv`-re keresve, a sorozatot "Budapest Főváros Tanácsának jegyzőkönyvei 1950-1990"-re szűkítve és időben közeli találatokat böngészve meg is találtam egy közeli forrást: BFT VB [1959. szeptember 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1959-09-30/?pg=92&layout=s)-i ülését, benne "Budapest és környéke általános rendezési tervének elkészítése" tárgyát. Ebben szerepel térkép "Budapest környék fejlesztési programjáról", de ez Kispest tekintetében nem releváns. Hasznosak azonban az előterjesztés elején foglaltak:
 
-Jó összefoglalót ad Budapest és környéke általános rendezési tervének alakulásáról Kőszeghy Lea "Tömeges lakásépítés és várostervezés" című tanulmányának [A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s) fejezete. (Urbs - Magyar várostörténeti évkönyv 2., Budapest, 2007) Ebben olvasható
+> "A Fővárosi Tanács VB. Városrendezési és építészeti osztálya Budapest általános tervét elkészítette. [...] A tervet Budapest **Főváros Tanácsának Végrehajtóbizottsága** és a Magyar Dolgozók Pártja Budapesti Pártbizottságának **1955. február 11-i** közös ülése tárgyalta"  
+> "A hivatkozott határozat értelmében a VB. Városrendezési és építészeti osztálya az általános terv alapján, elsősorban az ütemterv és a részletes tervek kidolgozásának elősegítése céljából, 1959. december 31-ig elkészíti az egyes városrészek u.n. **kerületi alapterveit**. Ezek a tervek lényegében az 1:20000-es léptékben készült általános terv megállapításait pontosabb területlehatárolással és az összefüggések fokozottabb érvényesítésével 1:5000-es léptékben rögzítik. Ezek a tervek mind a területfelhasználás, mind a forgalmi úthálózat, mind pedig a város építészeti kialakítása szempontjából a részletes tervek kidolgozása és a végrehajtás ütemezése számára egyaránt egyértelmű alapul szolgálnak."  
+> "Utasitja a Városrendezési és építészeti osztályt, hogy egészítse ki az 1955-ben tárgyalt Budapest általános városrendezési tervét a városkörnyékének rendezési tervével [...] a szükséges korrekciók végrehajtása és egyeztetések után Budapestnek és környékének rendezési tervét terjessze a Fővárosi Tanács elé."
+
+Amikor rákerestem `Budapest és környéke általános rendezési tervének elkészítése`-re, hogy az 1959. szeptember 30-i ülést megtaláljam, akkor találtam rá véletlenül a BFT VB **1960. március 28**-i ülésére. Ebben az ugyanezen tárgyú napirendi pontban nem esett szó Kispestről, de egy olyan [térképmellékletet](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1960-03-28/?pg=14&layout=s) találtam (2. sz. melléklet, Telepítési vázlat az irányelvekhez), ami alátámasztja a lejjebb hivatkozott Kőszeghy Lea "Tömeges lakásépítés és várostervezés" című tanulmányában foglaltakat. Ezek szerint olyan területeken javasoltak nagyobb lakásépítéseket, amelyek könnyen beépíthető, szabad területek, így Kispest itt még nincs megjelölve.
+
+Az [1955. február 11](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1955-02-11/?pg=0&layout=s)-i BFT VB ülésen csak Budapest Általános Városrendezési Tervét tárgyalták. Sajnos nem tartalmaz térképet, de a terv *három tervlapjára* hivatkoznak (lásd az idézetben lejjebb), ezek:
+- területfelhasználás
+- közlekedési hálózat
+- városépítészeti kialakítás
+
+A terv mellékleteiként további *hét darab térkép* kerül felsorolásra:
+- övezetbeosztás (építkezés mód, laksűrűség, átlagos emeletmagasság)
+- a város belső egységeinek (kerületek, lakónegyedek) kialakításának javaslatát a jelenlegi és tervezett lakásszám, a helyi központok és legjelentősebb közintézmények helyének feltüntetésével
+- zöld és üdülőterületek
+- termelési területek
+- közműhálózat
+- ütemezési javaslat pl. 90000 lakás elhelyezésről, tilalmi területek
+- jelentős útvonalak és terek részletes beépítési vázlatai.
+
+> "A Főváros Tanácsának Végrehajtóbizottsága Budapest általános tervét megállapítja a bemutatott 1955. évi január hó 7-én kelt tervlapok (területfelhasználás, közlekedési hálózat, városépitészeti kialakítás) szerint." [erre a három térképre, másnéven tervlapra hivatkoznak közben, de nincs mellékelve]  
+> "Zártsorú nagyvárosias jelleggel alakítja ki a legjelentősebb peremkerületek: Óbuda, Ujpest, Rákospalota, Zugló, Kőbánya, Kispest és Erzsébet, továbbá Csepel és Budafok központjait, azokat szervesen összekapcsolja a belső várostesttel, a bevezető főútvonalak /Knurr Pálné utca, Béke út, Thököly út, Kerepesi ut, Üllői ut, Fehérvári ut, stb./ mentén tervezett nagyvárosias beépítéssel."
+
+Hivatkoznak még az **1955. február 3-4**-i BFT VB ülésre, mint ankétra, ahol megvitatták a tervet. Sajnos itt sincsenek térképek mellékelve és hivatkozás sincs Kispestre. Így mondhatnám, hogy nincs is értékelhető forrás a kispesti lakótelep kezdeményeiről, de a korábban hivatkozott Hungaricana Térképtárban kutakodva szuper térképeket találtam Kispestről:
+
+Jó összefoglalót ad Budapest és környéke általános rendezési tervének alakulásáról Kőszeghy Lea "Tömeges lakásépítés és várostervezés" című tanulmányának [A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s) fejezete.
