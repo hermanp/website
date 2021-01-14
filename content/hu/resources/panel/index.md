@@ -38,6 +38,9 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
     - [A panelos épületek műszaki tervállománya](https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/) [Érdekes komment a cikk alján Gonda Ferenc építészmérnöktől! Rákeresve erre a CD-re, nem találtam érdemi infót, úgy tűnik, már nem lelhető fel. Más hasznos cikk is van többlakásos témában.]
         - [Többlakásos és emeletes házak 4 kategóriája](https://kreativlakas.com/tobblakasos-hazak/tobblakasos-es-emeletes-hazak-4-kategoriaja/) [Vélhetőleg Reischl Antal (1979) féle könyvből vett át ábrákat. Látható az ábrákon a kézzel rajzolt mivoltuk és az a fajta stílus, ami például a Tankönyvkiadó Vállalatra, Műszaki Kiadóra és az Akadémiai Kiadóra jellemző.]
         - [A panelos építési módok kialakulása](https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/)
+- Hungaricana: `Budapest és környéke általános rendezési terv 1971`:
+    - Kőszeghy Lea (2007): Tömeges lakásépítés és várostervezés: A budapesti várostervezés szociológiai elemzése 1960-1975. In: URBS II : Magyar várostörténeti évkönyv, Budapest, Budapest Főváros Levéltára, pp. 293-322, 30 p. Benne
+[A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s). [Jó összefoglaló!]
 
 ### FSZEK
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
@@ -108,9 +111,16 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 - keresés `XIX kerület településfejlesztési tervjavaslat`, 8 találat:  
     - *1968. december 18.*: Javaslat a XIX. ker. településfejlesztési tervére. Hivatkozza Budapest Főváros Tanácsa 1969. január 28-i ülése. [térképvázlatok, grafikonok, utca és épületfotók, rendkívül részletes! Érdemes az érintett személyek neveit kigyűjteni, mert későbbi kereséshez felhasználható!]
 - A Budapest Főváros Tanácsa 1959. szeptember 30-i tánácsülésén hivatkozva (lásd lejjebb), `budapest rendezési terv` kapcsán:
+    - *1959. szeptember 30.*: Budapest és környéke általános rendezési tervének elkészítése. Benne [térkép](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1959-09-30/?pg=96&layout=s) Budapest környék fejlesztési programjáról.
+    > "A Fővárosi Tanács VB. Városrendezési és építészeti osztálya Budapest általános tervét elkészítette. [...] A tervet Budapest **Főváros Tanácsának Végrehajtóbizottsága** és a Magyar Dolgozók Pártja Budapesti Pártbizottságának **1955. február 11-i** közös ülése tárgyalta"  
+    > "A hivatkozott határozat értelmében a VB. Városrendezési és építészeti osztálya az általános terv alapján, elsősorban az ütemterv és a részletes tervek kidolgozásának elősegítése céljából, 1959. december 31-ig elkészíti az egyes városrészek u.n. kerületi alapterveit. Ezek a tervek lényegében az 1:20000-es léptékben készült általános terv megállapításait pontosabb területlehatárolással és az összefüggések fokozottabb érvényesítésével 1:5000-es léptékben rögzítik. Ezek a tervek mind a területfelhasználás, mind a forgalmi úthálózat, mind pedig a város építészeti kialakítása szempontjából a részletes tervek kidolgozása és a végrehajtás ütemezése számára egyaránt egyértelmű alapul szolgálnak."  
+    > "Utasitja a Városrendezési és építészeti osztályt, hogy egészítse ki az 1955-ben tárgyalt Budapest általános városrendezési tervét a városkörnyékének rendezési tervével [...] a szükséges korrekciók végrehajtása és egyeztetések után Budapestnek és környékének rendezési tervét terjessze a Fővárosi Tanács elé."
     - *1955. február 11.*: Budapest Általános Városrendezési Terve. [A terv három tervlapjára hivatkoznak, a terv mellékleteiként további hét darab térkép kerül felsorolásra: övezetbeosztás, lakásszám és közintézményi helyek, zöld és üdülőterületek, termelési területek, közműhálózat, ütemezési javaslat pl. 90000 lakás elhelyezésről, jelentős útvonalak és terek részletes beépítései vázlatai]
     > "A Főváros Tanácsának Végrehajtóbizottsága Budapest általános tervét megállapítja a bemutatott 1955. évi január hó 7-én kelt tervlapok (területfelhasználás, közlekedési hálózat, városépitészeti kialakítás) szerint." [erre a három térképre, másnéven tervlapra hivatkoznak közben, de nincs mellékelve]  
     > "Zártsorú nagyvárosias jelleggel alakítja ki a legjelentősebb peremkerületek: Óbuda, Ujpest, Rákospalota, Zugló, Kőbánya, Kispest és Erzsébet, továbbá Csepel és Budafok központjait, azokat szervesen összekapcsolja a belső várostesttel, a bevezető főútvonalak /Knurr Pálné utca, Béke út, Thököly út, Kerepesi ut, Üllői ut, Fehérvári ut, stb./ mentén tervezett nagyvárosias beépítéssel." [Ez látható a későbbi térképen!]
+    - *1955. február 3-4.*: Budapest általános városrendezési tervének nyilvános vitája [Nincs térkép, csak a hivatkoznak rá, ahogy 1955. február 11-i BFT VB ülésen, akár térképként, akár tervlapként.]
+- keresés `Budapest és környéke általános rendezési tervének elkészítése`:
+    - *1960. március 28.*: Budapest és környéke általános városrendezési tervének elkészítése. [Nem ejtenek szót benne Kispestről, de egy jó térkép van benne, amin lakástelepítési területek javaslatai vannak megjelölve és Kispest területén nincs ilyen. Ezzel egybecsengenek Kőszeghy Lea tanulmányának állításai.]
 
 #### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
@@ -120,14 +130,9 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
     > "[**Budapest Főváros Tanácsának Végrehajtó Bizottsága**] Megtárgyalta a XIX. kerület településfejlesztési tervjavaslatát" [véletlenül akadtam rá, ahogy átnéztem oldalakat]  
     > "Megtárgyalta és jóváhagyta a XIX. és XXII. kerület városközpontjában tervezett lakásépítkezések beruházási programját." [A BFT VB 1968. december 4-i ülésén]
 - keresés `budapest általános terv`, Sorozat: Budapest Főváros Tanácsának jegyzőkönyvei 1950-1990, Rendezés: alapértelmezett, 4688 találat.
-    - *1959. szeptember 30.*: Budapest és környéke általános rendezési tervének elkészítése. Benne [térkép](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1959-09-30/?pg=96&layout=s) Budapest környék fejlesztési programjáról.
-    > "A Fővárosi Tanács VB. Városrendezési és építészeti osztálya Budapest általános tervét elkészítette. [...] A tervet Budapest **Főváros Tanácsának Végrehajtóbizottsága** és a Magyar Dolgozók Pártja Budapesti Pártbizottságának **1955. február 11-i** közös ülése tárgyalta"  
-    > "A hivatkozott határozat értelmében a VB. Városrendezési és építészeti osztálya az általános terv alapján, elsősorban az ütemterv és a részletes tervek kidolgozásának elősegítése céljából, 1959. december 31-ig elkészíti az egyes városrészek u.n. kerületi alapterveit. Ezek a tervek lényegében az 1:20000-es léptékben készült általános terv megállapításait pontosabb területlehatárolással és az összefüggések fokozottabb érvényesítésével 1:5000-es léptékben rögzítik. Ezek a tervek mind a területfelhasználás, mind a forgalmi úthálózat, mind pedig a város építészeti kialakítása szempontjából a részletes tervek kidolgozása és a végrehajtás ütemezése számára egyaránt egyértelmű alapul szolgálnak."  
-    > "Utasitja a Városrendezési és építészeti osztályt, hogy egészítse ki az 1955-ben tárgyalt Budapest általános városrendezési tervét a városkörnyékének rendezési tervével [...] a szükséges korrekciók végrehajtása és egyeztetések után Budapestnek és környékének rendezési tervét terjessze a Fővárosi Tanács elé."
     - *1955. március 28.*: Budapest Főváros Tanácsának 1955. évi községpolitikai terve. A Végrehajtóbizottság tervjavaslata [Benne Városrendezés és Építészet]
     > "Ezzel párhuzamosan április 4-ig az illetékes párt- és kormányszervekkel is megbeszéljük, a jóváhagyást megszerezzük [Budapest általános városrendezési tervére]. [...] Az általános terv jóváhagyását követően a Tanács feladata lesz megállapítani annak 10 évre szóló ütemtervét [...] Ebben az ütemtervben kell meghatározni a 10 év alatt építendő lakótelepek [...] helyét és monnyisegét. Ezen ütemterv alapján határozzuk meg a második ötéves tervünk főbb létesítményeit."  
     > "Az általános terv alapján részletes városrendezési tervet készítünk majd. Elsősorban azokra a területekre készítjük el, ahol a második 5 éves terv során fővárosunk fejlesztésére éehetőség nyílik. Így elsősorban feladataink között szerepel Óbuda, Lágymányos, Angyalföld és Zugló részletes rendezési tervének az elkészítése." [Tehát Kispest ekkor még nem szerepel.]
-    - *1955. február 3-4.*: Budapest általános városrendezési tervének nyilvános vitája [Nincs térkép, csak a hivatkoznak rá, ahogy 1955. február 11-i BFT VB ülésen, akár térképként, akár tervlapként.]
     - *1954. október 20.*: Beszámoló a fővárosi tanács négyéves munkájáról és feladatairól. Pongrácz Kálmán a Fővárosi Tanács VB-elnökének az 1954. október 20-i tanácsülésen tartott beszámolója.
     > "Ennek ez általános tervnek készítése folyamatban van. [...] Ezek alapján az általános terv ez év vegéig elkészül és az uj tanács elé terjeszthető lesz."
 
@@ -143,7 +148,7 @@ MSZMP Budapesti Pártbizottságának ülései
         - Koncentrált lakástelepítés a budapesti agglomerációban (lakásépítés és bontás)
         - Ipari munkahelyek a budapesti agglomerációban
         - Központok rendszere a budapesti agglomerációban (főközpont, városrész központok, kerületi központok)
-- keresés: valami XIX. kerülettel kapcsolatos lehetett
+- keresés: hivatkozik rá az 1967. október 27-i MSZMP BP VB ülés, lent idézet.
     - *1967. május 5.* (Kibővített ülés.): A budapesti lakásépítés, -elosztás, -telepítés és -felújítás problémái. [talán innen kezdődött], benne: Budapest Főváros XIX. ker. Tanács Végrehajtó Bizottsága. Észrevételek. 1967. május 2. [Benne lakáshelyzet, lakásigénylés, nyomatékos kérés a kispesti városközpont rendezésének megkezdésére, lakás statisztikák. Cél: a negyedik ötéves tervben sor kerüljön rá.]
 
 #### MSZMP BP VB
@@ -194,8 +199,6 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     :arrow_right: *1972. február 11.* MSZMP Budapesti Végrehajtó Bizottságának ülései: A KPM jelentése a közlekedési és hírközlési ágazat budapesti helyzetéről és fejlesztési célkitűzéseiről [link](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1972/?pg=192&layout=s)
     > "[...] "Budapest és környéke általános rendezési terve 1970"-nel, amelyet a Kormány 1005/1971/II.16./sz. határozatával hagyott jóvá."
     
-    :star: Urbs - Magyar várostörténeti évkönyv 2. (Budapest, 2007): Kőszeghy Lea: Tömeges lakásépítés és várostervezés. A budapesti várostervezés szociológiai elemzése. Benne
-[A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s). [Jó összefoglaló!]  
     :star: *1988. február 8.* MSZMP Budapesti Végrehajtó Bizottságának ülései: [A Fővárosi Tanács VB jelentése Budapest Általános Rendezési Tervének programjáról ](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1988/?pg=308&layout=s). [Rengeteg térkép, grafikon!]
     
     :heavy_plus_sign: valahogy elkeveredtem a Fővárosi blogra, [Budapest jövője 1971 1. rész](https://fovarosi.blog.hu/2009/02/02/budapest_jovoje_1971_1_resz):
@@ -257,6 +260,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 ## Személyek
 - Iván László
 - [Csizmady Adrienne](https://tk.hu/kutato/csizmady-adrienne) (ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet)
+- [Kőszeghy Lea](https://tk.hu/kutato/koszeghy-lea) (ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet)
 - [Benkő Melinda](http://www.urbanisztika.bme.hu/en/tanszek/munkatarsak/benko-melinda/) (BME ÉPK Urbanisztika Tanszék)
 - Balla Regina (PhD hallgató, BME ÉPK Urbanisztika Tanszék)
 - Weiszkopf András (tanársegéd, BME ÉPK [Lakóépülettervezési Tanszék](http://www.lako.bme.hu/?page_id=98))
