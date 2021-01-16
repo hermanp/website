@@ -172,7 +172,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 ### Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
 - keresés `HIER=(BFLTerkeptarHierarchy-6) rendezési terv`, 15 találat:
-    - [Budapest övezeti térképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/4798)
+    - [Budapest övezeti térképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/4798), 1960.
     - [Budapest övezeti térképe, Állami lakótelepi építkezések.](https://maps.hungaricana.hu/hu/BFLTerkeptar/4801). Nincs térkép, ezt meg kellene nézni!
     - [Budapest és környéke általános városrendezési terve](https://maps.hungaricana.hu/hu/BFLTerkeptar/4806/), ez szerepel az 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvében! Ott megtalálható a csak Budapestet ábrázoló térképpel együtt.
 - keresés `budapest városrendezési terve`, 62 találat:
