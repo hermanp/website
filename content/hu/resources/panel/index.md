@@ -50,7 +50,7 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
     - Gulyás Teréz: A kispesti városrészközpont és környéke. _Városépítés_ 11. évf. 3. sz. (1974), p. 34-35.
     - Kálmánchey Endréné: A kispesti lakótelep közlekedési kapcsolatai. _Városi Közlekedés_ 23. évf. 2. sz. (1983), p. 93-96.
     - Nyárádi Éva: Várospolitika Kispesten. _Budapesti Fórum_ 7. évf. 2-3. sz. (1987), p. 99-101.
-    - Oszlay István: Új városközpont a régi Kispesten. _Budapest_ 19. évf. 7. sz. (1981), p. 5-7.
+    - Oszlay István: [Új városközpont a régi Kispesten](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=318&layout=s). _Budapest_ 19. évf. 7. sz. (1981), p. 5-7.
     - Vedres György: Várostervezők gondjai. _Budapest_ 10. évf. 7. sz. (1972), p. 7-9.
     - Alapfokú ellátó központ, Kispest. _Magyar Építőipar_ 33. évf. 11. sz. (1984), p. 676-677.
     - Kasza Sándor: Kispest : XIX. kerület. CEBA Kiadó, Budapest, 2006, 120 p.
@@ -231,6 +231,23 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     
     :leftwards_arrow_with_hook: 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 148. oldal. Itt terjesztik fel a Kormánynak a rendezési tervet, amit ő határozatban jóváhagy. Ebben szerepel térkép! Egyúttal Dianoczky János elvtárs felszólal:
     > "Kerületünk élete lakás szempontjából 20 éve stagnál és ebből a dermedtségből most már egy minőségi csúszás is bekövetkezik. [...] Szeretném a lakásépítési koncepcióhoz csatlakozva a végleges terv kidolgozásakor konkréten Kispestre vonatkozólag a lakásépítési tervek felülvizsgálását kérni. Abban a reményben vagyunk, hogy ez az 500 lakás csak kezdete a kerület rekonstrukciójának." [Ez lenne az I. ütem, szerintem. A tanácsülés elnöke, Kelemen Lajos reagált: "Kispest vonatkozáséban vállaljuk az ottani városközpont indítását, és ezzel kapcsolatban a kispesti közmüvesítés építésére Giltner elvtársék már kidolgozták a tervet."]
+
+### Arcanum alkalmazások
+[Arcanum alkalmazások](http://apps.arcanum.hu/), melyen belül elérhető a [Budapest](http://apps.arcanum.hu/app/budapest/) folyóirat! Keresés `kispest*`, 594 találat:
+- Dr. Székely vera (1968): [Egy peremkerület előtörténete](http://apps.arcanum.hu/app/budapest/view/Budapest_1968/?query=SZO%3D(kispest*)&pg=297&layout=s). *Budapest*, 6. évfolyam, 6. szám, 36-37. pp. [Kispest előtörténete! Nagyon jó forrás!]
+- Szamos Rudolf (1969): [Faluból város](http://apps.arcanum.hu/app/budapest/view/Budapest_1969/?query=SZO%3D(kispest*)&pg=13&layout=s). *Budapest*, 7. évfolyam, 1. szám, 12. p.
+- A Szerkesztő postája (1969). Válasz Dr. Waigand József levelére a utcanevek körüli zűrzavarról. *Budapest*, 7. évfolyam, 12. szám, 46. p.
+> "Egyébként az is tarthatatlan, hogy az Üllői út Kispest határánál egyszerre Vörös hadsereg útjává lesz, majd Lőrinc határától ismét Vörös hadsereg útja — de élőről kezdődő házszámozással!"
+
+- Preisich Gábor (1971): [A központok rendszere](http://apps.arcanum.hu/app/budapest/view/Budapest_1971/?query=SZO%3D(kispest*)&pg=213&layout=s). *Budapest*, 9. évfolyam, 5. szám, 1-4. pp.
+- Fekete Gábor: Fővárosi őrjárat III.: [A „csendes” városrész](http://apps.arcanum.hu/app/budapest/view/Budapest_1972/?query=SZO%3D(kispest*)&pg=323&layout=s).
+- Zolnay László (1973): [A paraszti élet kezdete, tündöklése és elmúlása](http://apps.arcanum.hu/app/budapest/view/Budapest_1973/?query=SZO%3D(kispest*)&pg=626&layout=s). *Budapest*, 11. évfolyam, 12. szám, 36-38. pp. [Benne: Minor Pest, azaz Kispest, de ez a Gellért-hegynél!]
+- Tömöry Márta, Benyó Márta (1974): ["Ős"-Kispest házai között](http://apps.arcanum.hu/app/budapest/view/Budapest_1974/?query=SZO%3D(kispest*)&pg=139&layout=s). *Budapest*, 12. évfolyam, 3. szám, 34-35. pp.
+- Hajduska István (): [A főváros múltjának kutatói](http://apps.arcanum.hu/app/budapest/view/Budapest_1976/?query=SZO%3D(kispest*)&pg=210&layout=s). *Budapest*, 14. évfolyam, 5. szám, 1-3. pp. [Nagyrészt a kispesti helytörténeti mozgalomról szól, példaként állítva a többi kerület elé.]
+- Dr. Buza Péter (1981): [A kispesti Gondűző-villa](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=174&layout=s). *Budapest*, 19. évfolyam, 4. szám, 17-19. pp.
+- Oszlay István: [Új városközpont a régi Kispesten](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=318&layout=s). _Budapest_ 19. évf. 7. sz. (1981), p. 5-7.
+- Dr. Buza Péter (1981): A postamestert Klári néninek hívták. *Budapest* 19. évf. 7. sz, 18-21. pp. [Móricz Zsigmond kispesti kapcsolata.]
+- Szakolczay Lajos (1981): Kispest és a kisember. *Budapest*, 19. évfolyam, 7. szám, pp. 8-9. [Benne utalás a kispesti piac védelméről, ugyanis a II/B ütemben vagy legkésőbb az intézményközpont építésekor elbontották volna és vásárcsarnokot építettek volna. Lehet emiatt nem valósult meg az összes épület a tervből?]
 
 ### Térképi ábrázolás
 Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dashboard map select click`, `r interactive map highlight polygon`
