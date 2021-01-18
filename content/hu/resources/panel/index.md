@@ -121,6 +121,15 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1955. február 3-4.*: Budapest általános városrendezési tervének nyilvános vitája [Nincs térkép, csak a hivatkoznak rá, ahogy 1955. február 11-i BFT VB ülésen, akár térképként, akár tervlapként.]
 - keresés `Budapest és környéke általános rendezési tervének elkészítése`:
     - *1960. március 28.*: Budapest és környéke általános városrendezési tervének elkészítése. [Nem ejtenek szót benne Kispestről, de egy jó térkép van benne, amin lakástelepítési területek javaslatai vannak megjelölve és Kispest területén nincs ilyen. Ezzel egybecsengenek Kőszeghy Lea tanulmányának állításai.]
+- keresés `(III OR harmadik) ötéves terv lakástelepítés`:
+    - *1967. június 7.*: „A budapesti lakásépítés, elosztás, telepítés és felújítás néhány időszerű problémája” c. témában a Budapesti Párt Végrehajtó Bizottság által hozott határozatokról.
+    - *1965. október 27.*: Előterjesztés a III. ötéves terv lakástelepítésének módosításáról. [Kispest még 500 lakással szerepel. Előzmény összefoglaló az elején.]
+    - *1962. szeptember 19.*: Előterjesztés a III. ötéves terv lakásépítkezéseinek területi elhelyezéséről. Ez szerepelt az MSZMP BP VB ülésén 1962. szeptember 3-án.
+- keresés: `(XIX OR kispest) beépítési terv`
+    - *1964. szeptember 16.*: Jelentés Budapest lakásépítésének helyzetéről. [Benne: lakás és lakó statisztikák, II. és III. ötéves tervi feladatok, építési technológiák szerinti megoszlás a II. ötéves tervben, a III. ötéves terv lakásépitési feladatainak előkészítése, Kispest beruházási programja készítés alatt. 1. sz. melléklet: III. ötéves lakásépitési területek előkészítésének részletes ismertetése, benne Kispest.]
+- Hungaricana: `Budapest és környéke általános rendezési terv 1971`:
+    - *1973. december 5.*: Jelentés az V. ötéves lakástelepítési terv előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra. [Benne: A koncentrált lakástelepités szempontjából számbajövő területek kiválasztása, a IV. ötéves terv lakástelepítésének matematikai programozása. Térkép!] De ugyanezen az ülésen:
+    > "Zala megye és a Kispesti Közért Vállalat megállapodása alapján a megyei Húsipari Vállalat és a Nagykanizsai Sörgyár folyamatosan szállít húskészítményt, valamint sört a kerület üzleteibe."
 
 #### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
@@ -135,6 +144,9 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
     > "Az általános terv alapján részletes városrendezési tervet készítünk majd. Elsősorban azokra a területekre készítjük el, ahol a második 5 éves terv során fővárosunk fejlesztésére éehetőség nyílik. Így elsősorban feladataink között szerepel Óbuda, Lágymányos, Angyalföld és Zugló részletes rendezési tervének az elkészítése." [Tehát Kispest ekkor még nem szerepel.]
     - *1954. október 20.*: Beszámoló a fővárosi tanács négyéves munkájáról és feladatairól. Pongrácz Kálmán a Fővárosi Tanács VB-elnökének az 1954. október 20-i tanácsülésen tartott beszámolója.
     > "Ennek ez általános tervnek készítése folyamatban van. [...] Ezek alapján az általános terv ez év vegéig elkészül és az uj tanács elé terjeszthető lesz."
+- keresés passz
+    - *1966. március 7.*: A Fővárosi Tanács 1966. évi városfejlesztési tervjavaslata. [Benne: 1966. évi városfejlesztési terv. Melléklet. 
+Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generáltervező BUVÁTI, altervezők FÖMTI, KERTI.]
 
 #### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
