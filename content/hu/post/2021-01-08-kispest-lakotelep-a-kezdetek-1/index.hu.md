@@ -128,7 +128,7 @@ A hivatkozott [1969. március 5-i](https://library.hungaricana.hu/hu/view/HU_BFL
 > "A IV. ötéves terv lakástelepitési javaslatának kidolgozása során, valamint annak az V. ötéves tervben előreláthatóan bekövetkező szerves folytatása figyelembevételével, nyilvánvalóvá vált, hogy az [1960-as] általános tervben kijelölt lakóterület keretein belül, a szükséges lakásépítkezéseket telepiteni nem lehet."  
 > " [...] ami az átlagos családnagyság csökkenésében mutatkozott meg. Így az azonos lélekszám mellett a családok, vagyis az önálló lakást igénylők száma a korábbinál lényegesen nagyobb lesz. Ez a körülmény több lakás építését, tehát a lakóterületek növelését teszi elengedhetetlenné." [lásd 1. és 2. számú mellékletek, számításokkal]
 
-A fentiek alapján megtudhattuk, mikor voltak először megnevezve a városrészközpontok, melyre az 1971-es kormányhatározat is hivatkozik.
+A fentiek alapján megtudhattuk, mikor voltak először megnevezve a városrészközpontok, melyre az 1971-es kormányhatározat is hivatkozik. Jó összefoglalót ad Budapest és környéke általános rendezési tervének alakulásáról Kőszeghy Lea "Tömeges lakásépítés és várostervezés" című tanulmányának [A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s) fejezete.
 
 ## Az 1960-as kormányhatározat
 
@@ -212,7 +212,7 @@ Ezt a lakástelepítési javaslatot tárgyalta meg a BFT VB **1962. szeptember 1
 > "E területnek a Vöröshadsereg útját szegélyező részén, az ottlévő alacsony és elavult beépítés felszámolásával, valamint a felsőfokú közintézmények elhelyezésével, többemeletes beépítésű lakóterület kialakítását kell biztosítani. Az ehhez a magasabb beépítésű területsávhoz szervesen kaposolodó területek viszont lényegében nem tekinthetők ujjáépítendőnek. Ezért itt csupán városszerkezeti alapot kell szolgáltatni ahhoz, hogy továbbfejlesztésük során a korszerű városépítési elvek érvényesüljenek."
 
 Vagyis itt még szó sincs a lakótelepről! Aztán egy oldallal később már árnyalódik a kép és a mai lakótelep egy részletére ismerhetünk rá (az Üllői út - Hunyadi utca - József Attila utca közötti területen):
-> "A rendezési terv kialakítása során a Vöröshadsereg útja menti beépítés uralkodó magasságánál fdsz + 4 emeletnek megfelelő beépités nyert megállapítást. Ily módon biztosítható, hogy a kialakult állapottal szemben nem fog aránytalan léptékváltás bekövetkezni. De biztosítható az is, hogy a lakóházak a rendelkezésre álló típustervek alkalmazásával és felvonó nélkül építhetők meg. A főutvonal mentén ritmikusan elhelyezett néhány 10 szintes pontház egyrészt gazdaságosabb beépítési lehetőséget eredményez, másrészt a kiemelt főútvonal városképi egyhangúságát feloldja."  
+> "A rendezési terv kialakítása során a Vöröshadsereg útja menti beépítés uralkodó magasságánál fdsz + 4 emeletnek megfelelő beépités nyert megállapítást. Ily módon biztosítható, hogy a kialakult állapottal szemben nem fog aránytalan léptékváltás bekövetkezni. De biztosítható az is, hogy **a lakóházak a rendelkezésre álló típustervek alkalmazásával** és felvonó nélkül építhetők meg. A főutvonal mentén ritmikusan elhelyezett néhány 10 szintes pontház egyrészt gazdaságosabb beépítési lehetőséget eredményez, másrészt a kiemelt főútvonal városképi egyhangúságát feloldja."  
 > "A terv kiépítésének ütemezése során a III. ötéves tervben **500 lakás** létesítésére kerül sor. Ezek elhelyezésére a Hunyadi utca és Vörösmarty utca közötti lakóegység kialakítása bizonyul a legalkalmasabbnak. [...] A tömb ezenkívül a kerület városképileg is legexponáltabb része és így a további szanálás ebből kiindulva szervesen folytatható."
 
 Ír még az Üllői út kiszélesítéséről, ami a területet kelet-nyugati irányban tárja fel. (Akkoriban Kispest határától Vöröshadsereg útja a neve és számozása innen indul.) Az észak-déli irányú közlekedési útvonal tervről és a csomópontjukról pedig az alábbiakat olvashatjuk (kitűnő ábraként pedig alábbi térkép szolgál: [XIX. kerület. Intézkedési terv. Tervezés, építési lehetőségek, zöldterület, közlekedés](https://maps.hungaricana.hu/hu/BFLTerkeptar/5756/), 1961):
@@ -257,7 +257,7 @@ Ez a kérés meghallgatásra talált, mert az [1967. szeptember 25](https://libr
 | Bontás                    | 250             | 1100           | 600             |
 
 A 2. és 3. sz. mellékletekben olvashatjuk, hogy a IV. ötéves terv lakásait *blokkos*, az V. ötéves terv lakásait *Larsen-Nielsen* technológiával építenék. Láthatunk egy [térképet](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1967-09-25/?pg=76&layout=s) is a IV. ötéves terv telepítési javaslatáról. Lassan visszaérünk a poszt kiindulásához: Budapest általános rendezési tervének 1970-es változatához, melynek kidolgozására felhívják a figyelmet az ülésen a lakástelepítési javaslat tükrében:
-> "Megállapítható továbbá, hogy a IV. és V. ötéves terv lakástelépítésében történő állásfoglalás [...] lényegében eldönti az általános rendezési terv további fejlesztésének fő irányvonalát. [...] az itt bemutatott telepítési javaslat, mint az általános terv konkrét módosítását tartalmazó korrekció is megállapítást és jóváhagyást nyerjen. "
+> "Megállapítható továbbá, hogy a IV. és V. ötéves terv lakástelépítésében történő állásfoglalás [...] lényegében **eldönti az általános rendezési terv további fejlesztésének fő irányvonalát**. [...] az itt bemutatott telepítési javaslat, mint az általános terv konkrét módosítását tartalmazó korrekció is megállapítást és jóváhagyást nyerjen. "
 
 Egy évvel később, [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében."
 > "[...] blokkos épitési mód valószínűleg egy haladottabb épitési technológiával lesz megoldva a munkaerőhelyzet miatt. **Blokk helyett: öntési technológia**. [...] A kispesti lakások nem szerepeltek ebben [a III.] az ötéves tervben, csak vonal alatt, mint előkészítendők. Valószínüleg a IV. ötéves terv első felében indítjuk el. A XIX. ker. általános városfejlesztési tervével összhangban van ez a rész. Úgy készítettük elő, hogy a nagy fejlesztési tervnek egy része." — Heincz Mihály (BFT VB Városrendezési és Építészeti Főosztály főosztályvezetője)
@@ -267,9 +267,8 @@ Egy évvel később, [1968. december 4](https://library.hungaricana.hu/hu/view/H
 Két héttel a fenti ülés után, [1968. december 18](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-18/?pg=3&layout=s)-án tárgyalta a BFT VB a **XIX. kerület településfejlesztési tervét**.
 
 Lados Mihályné XIX. kerület Tanács VB elnök indoklása az előterjesztéshez:
-> "ma már útjainknak 36 %-a szilárd, 56 %-a kaviccsal nemesített felülettel elátott burkolatú és mindössze 6-8 % a III. 5 éves terv végére felszámolásra kerülő földút."  
 > "Sem az elmúlt másfél évtizedben, sem a jövőben nem tudtuk és nem tudjuk meggátolni a régi Kispest területén döntő többségében alapozás nélküli, szigeteletlen, korszerűtlen lakásegységeket magukban foglaló ingatlanaink tönkremenetelét. Ezt fokozza, hogy a rendkívül kis területen, földszintes szinten elhelyezkedő összezsúfoltan élő lakosságunk ma már egészségét súlyosan veszélyeztető állapotok között lakik."  
-> "Arra a megállapításra jutottunk, hogy az öreg Kispestnek a jelenlegi övezeti meghatározás szerinti fenntartása pazarlását jelenti a sokféle adottsággal ellátott fővárosi területnek; e szerinti átépítése gazdaságilag teljesen ésszerűtlen [...] Az 1967-es választásnál az e miatt elemi erővel feltörő elkeseredést fokozta, hogy a minket körülvevő négy kerületben új lakótelepek épültek, illetve kezdődött építésük. Mi a megoldásnak mégcsak várható idejére, vagy módjára sem tudtunk ígéretet tenni. Azóta vált már szinte szállóigévé Kispesten az a mondás, hogy „Az 1967-os választásoknál a Tanács nem Ígért semmit, de azt legalább következetesen betartja.""  
+> "Arra a megállapításra jutottunk, hogy **az öreg Kispestnek a jelenlegi övezeti meghatározás szerinti fenntartása pazarlását jelenti a sokféle adottsággal ellátott fővárosi területnek**; e szerinti átépítése gazdaságilag teljesen ésszerűtlen [...] Az 1967-es választásnál az e miatt elemi erővel feltörő elkeseredést fokozta, hogy a minket körülvevő négy kerületben új lakótelepek épültek, illetve kezdődött építésük. Mi a megoldásnak mégcsak várható idejére, vagy módjára sem tudtunk ígéretet tenni. Azóta vált már szinte szállóigévé Kispesten az a mondás, hogy „Az 1967-os választásoknál a Tanács nem Ígért semmit, de azt legalább következetesen betartja.""  
 > "A javaslat megtétele csak most vált időszerűvé számítva arra, hogy a főváros környékén lassan elfogynak az üres, beépíthető és a főváros meglévő járulékos ellátásában szervesen beilleszkedő területek."
 
 ### Szöveges javaslat
@@ -288,11 +287,23 @@ Lados Mihályné XIX. kerület Tanács VB elnök indoklása az előterjesztéshe
     4. Zöldterület.
     5. Ipar.
     6. A tervezett lakástelepítés.
+    
+    > "Legrégibb, legrosszabb állagú épületeink a Vöröshadsereg útja és Ady Endre út közötti területen helyezkednek el. Ez a rész a kerület súlypontja, e területen intenzív, magasházas beépítést javaslunk. [...] beépítésének feltétele a jelenlegi lakásállomány szanálása. Az intenzív beépítés a IX. kerület felőli magasházas es magas laksűrűségű, a XVIII. kerület felőli részén alacsonyabb fokozatú es kisebb laksűrűségű lenne. Ugyancsak intenzív beépítéssel kívánjuk kialakítani a Vöröshadsereg útja - Vak Bottyán utca - Szabó Ervin utca - Lehel utca közé eső területet, továbbá a főútvonalak mindkét oldalán lévő területek egy-egy tömb melységében szanálást és átépítést igényelnek. A kerület további részén laza telepítésű, társasházas, alacsony fokozatú épületek építését irányozzuk elő, helyenként egy-egy tömb erőteljes megjelenítésével, magasházas beépítéssel."
+    
     7. A kerületi központ kialakítása és elhelyezése.
+    > "A kerület jelenlegi közintézményei három tér köré csoportosulnak:
+    > 1. Lenin tér [ma Városház tér] /ez jelenleg az igazgatási központ/
+    > 2. Bajcsy-Zsilinszky tér [ma Templom tér] /egészségügyi központ/ 
+    > 3. Kossuth Lajos tér [ez akkor elírás, mert ahogy ma is, akkor is csak: Kossuth tér] /kereskedelmi és kulturális központ/  
+    
+    > Célszerű a kerületi központ olymódon való elhelyezése, hogy az a kerület súlypontjában legyen, de főleg helyi es részben átmenő forgalmat lebonyolító útvonalak érintsék. A Kossuth tér **kultúrcentrumként** való kialakítását a távlatban központi kultúrház, könyvtár, mozi, bemutató termek stb-vel javasoljuk bőviteni. A **kereskedelmi és szolgáltató centrumot** a tervezett kisáruházhoz és vásárcsarnokhoz csatlakozva a Hunyadi utca vonalában, a Vöröshadsereg útja és Ady Endre út közötti területen kívánjuk kialakítani."
+    
     8. Közműfejlesztés. (Víz-, csatornahálózat, energia.)
 
+{{< figure src="Kispest_fejlesztesi_terv_1968.png" title="Kispest fejlesztési terve, 1968. Az előterjesztett anyag borítója." numbered="true" >}}
+
 ### Fejlesztési terv
-A szöveges javaslat több részlete megtalálható benne, kiegészítve rengeteg képpel, térképpel, ábrával:
+A szöveges javaslat több részlete megtalálható [benne](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-18/?pg=20&layout=s), kiegészítve rengeteg képpel, térképpel, ábrával:
 - Kispest tagozódása, városrészei (képek, térkép).
 - Kispest helye a fővárosban. Szerepköre (gyűrűk) és közkeledési lehetőségek grafikonja (út-idő).
 - Népszaporulat grafikonja (idő-népesség).
@@ -309,12 +320,24 @@ A rekonstrukció alapelvei:
 1. Városszerkezeti szerepkör. Egy furcsa grafikon (városiasodás színvonala).
 2. Népszaporulat. A főváros népesség terve grafikon.
 3. Társadalmi struktúra. Társadalmi összetétel terve kördiagram.
-4. Közlekedés, úthálózat. 
+4. Közlekedés, úthálózat. Megoldandó forgalmi csomópontok térkép és fényképek.
+5. Iparfejlesztés. A traktorgyári rekonstrukció modellje. Főbb ipari területek térképen és fényképek.
+6. Zöldterület.
+7. A kerületi központ kialakítása és elhelyezése, közintézmények. A központ főbb helyei térkép és fényképek.
+8. Lakásfejlesztési koncepció. Egy igen furcsa egyszintes társasházterv rajza.
+> "A lakások felét kb. 10.000 - 12.000 lakás nagyságrendben **intenzív beépítésű korszerű házgyári épületekkel** kell megvalósítani. Ezek telepítésére a kerület középcentrumát célszerű felhasználni. Így a Vöröshadsereg és Ady Endre út közötti területeket. Ez a beépítés egy folyamatos városszerkezeti kapcsolatot teremthet a IX. és XVIII. kerületekben már kialakult ilyen jellegű beépítések között. A nagyobb intenzitású beépítést javasoljuk a kerület felső — IX. ker. felőli részére koncentrálni. Ez az intenzív beépítés érvényesülhet a javasolt városközponti területen belül és annak közvetlen környékén is."
+
+9. Közműfejlesztés. Közműhálózatok aktuális és tervezett méretei grafikon (hálózat-hossz, típusok szerinti tagolás)
 
 Kik készítették a tervjavaslatot?
-- Castiglione Endre, XIX. kerület Tanács VB elnökhelyettes
-- Dianoczki János
-- Romhányi Mátyás 
+- Castiglione Endre, XIX. ker. Tanács VB elnökhelyettes
+- Dianoczki János, a XIX. ker. fővárosi tanácstag, 
+- Romhányi Mátyás, XIX. ker. Tanács VB hivatali szervezet tagja 
 
+Érdemes még a jegyzőkönyvből idézni a következőket:
+> "Castiglione elvtárs azt mondta ugyan, hogy ezt a munkát nem tekinti a műszaki tervezés alapjának, de minthogy valami, amit elkészítünk, és amit jónak tartunk, az valaminek az alapja, tehát: **ez az alapja a budapesti városrendezési tervnek** egy meghatározott területre, - az adott esetben Kispestre" — Sarlós István, BFT VB elnök
 
-Jó összefoglalót ad Budapest és környéke általános rendezési tervének alakulásáról Kőszeghy Lea "Tömeges lakásépítés és várostervezés" című tanulmányának [A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s) fejezete.
+Így, a cikk végére érve visszajutottunk az 1971-es általános rendezési tervhez, annak elkészítéséhez. A fenti kispesti településfejlesztési tervben már egyértelműen meg vannak nevezve a területek (a későbbi ütemek), a beépítés módja és a házgyári technológia is, ekkor már kijelenthető, hogy megérett a lakótelep gondolata. Láthattuk, hogy bár áttolódott a negyedik ötéves terv időszakára az I. ütem építése, a beruházási programban (sőt, az 1964-es részletes rendezési tervben is!) már olvashatunk az épülettípusokról. Így ez az I. ütem a lakótelep kezdeményeként is felfogható, kevésbé intenzív beépítési módjával együtt. A folytatásban rátérek az I. ütemre és az alakuló fővárosi lakásépítési tervekre is kitekintek. De, hogy egy csattanóval zárjam le, hadd idézzem a településfejlesztési tervet:
+> "Nem egy új lakótelepet kell létrehozni, hanem egy élő társadalmi egységet magában foglaló városrészt fejleszteni."
+
+Meglátjuk, ez hogyan sikerül. :slightly_smiling_face: 
