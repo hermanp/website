@@ -83,6 +83,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1982. március 3.*: Új egységesített lakóház, illetve lakástípusok műszaki-gazdasági tervezési rendszerének bemutatása, különös tekintettel a fővárosi igények érvényesítésére. [az E sorozat tervei, épület és lakásváltozatokkal, LAKÓTERV, III. iroda]
     > "Különösen a szűk, étkezésre alkalmatlan konyhák állnak a jogos kritikák középpontjában." és "az új tervek áttérnek a lakások, közlekedők/lépcsőházak/ tipizálására, a korábbi épület-tipizálás helyett." 
     - *1981. október 28.*: Tájékoztató a XIX. ker. Kispest rekonstrukciójával kapcsolatos beruházások helyzetéről. [előzmények, tervek, ütemek, időpontok, térkép, kispesti áruház]. 190-206. oldal
+    - *1981. február 11.*: A XIX. kerületi délpesti intézményközpont további tervezési munkáinak leállítása, [indoklással](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-02-11/?pg=205&layout=s). 
     - *1980. július 30.*: Jelentés a VB határozatok végrehajtásáról. [hivatkozik az 1980. február 14-i ülés határozatára] 
     > "Fővárosi Városrendezési és Építészeti Tervvéleményező Bizottság elfogadta a II/B. ütem 2. és 3. szakaszára vonatkozó színmintákat." (197-198. o.), 1. melléklet a színezés és a zajvédő dombokról (215-216. o.)
     - *1980. február 14.*: A XIX. ker. Kispest II/B ütem beruházási programja
@@ -137,6 +138,8 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1967. szeptember 25.*: A IV. és az V. ötéves terv lakásépítési javaslata. [Benne Kispesti tervezett lakásszámok táblázatokban. Térkép a IV. ötéves tervi telepítési javaslatról.]
 - már nem tudom honnan:
     - *1969. június 25.*: Jelentés a IV. és V. ötéves lakásépítési terv előkészítéséről.
+- keresés:
+    - *1975. október 29.*: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]
 
 #### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
