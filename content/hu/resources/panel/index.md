@@ -121,6 +121,9 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1955. február 3-4.*: Budapest általános városrendezési tervének nyilvános vitája [Nincs térkép, csak a hivatkoznak rá, ahogy 1955. február 11-i BFT VB ülésen, akár térképként, akár tervlapként.]
 - keresés `Budapest és környéke általános rendezési tervének elkészítése`:
     - *1960. március 28.*: Budapest és környéke általános városrendezési tervének elkészítése. [Nem ejtenek szót benne Kispestről, de egy jó térkép van benne, amin lakástelepítési területek javaslatai vannak megjelölve és Kispest területén nincs ilyen. Ezzel egybecsengenek Kőszeghy Lea tanulmányának állításai.]
+- egyszerűen ráakadtam `kispest XIX rendezési terv` közben:
+    - *1981. február 11.*: Budapest és környéke általános rendezési tervének felülvizsgálata.
+    - *1981. június 3.*: Budapest főváros VI. ötéves területfejlesztési tervjavaslata.
 - keresés `(III OR harmadik) ötéves terv lakástelepítés`:
     - *1967. június 7.*: „A budapesti lakásépítés, elosztás, telepítés és felújítás néhány időszerű problémája” c. témában a Budapesti Párt Végrehajtó Bizottság által hozott határozatokról.
     - *1965. október 27.*: Előterjesztés a III. ötéves terv lakástelepítésének módosításáról. [Kispest még 500 lakással szerepel. Előzmény összefoglaló az elején.]
@@ -130,6 +133,10 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 - Hungaricana: `Budapest és környéke általános rendezési terv 1971`:
     - *1973. december 5.*: Jelentés az V. ötéves lakástelepítési terv előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra. [Benne: A koncentrált lakástelepités szempontjából számbajövő területek kiválasztása, a IV. ötéves terv lakástelepítésének matematikai programozása. Térkép!] De ugyanezen az ülésen:
     > "Zala megye és a Kispesti Közért Vállalat megállapodása alapján a megyei Húsipari Vállalat és a Nagykanizsai Sörgyár folyamatosan szállít húskészítményt, valamint sört a kerület üzleteibe."
+- hivatkozás az MSZMP BP VB 1967. október 27-i ülésén:
+    - *1967. szeptember 25.*: A IV. és az V. ötéves terv lakásépítési javaslata. [Benne Kispesti tervezett lakásszámok táblázatokban. Térkép a IV. ötéves tervi telepítési javaslatról.]
+- már nem tudom honnan:
+    - *1969. június 25.*: Jelentés a IV. és V. ötéves lakásépítési terv előkészítéséről.
 
 #### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
@@ -255,7 +262,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 ## Folyóiratok, könyvek
 - Magyar Építőművészet ([MATARKA](https://matarka.hu/)-n böngészhető tartalomjegyzék)
 - Magyar Építőipar
-- Budapest
+- [Budapest](http://apps.arcanum.hu/app/budapest/)
 - Városépítés
 - Műszaki Tervezés
 - Bitó János (2013): Lakóépületek tervezése
