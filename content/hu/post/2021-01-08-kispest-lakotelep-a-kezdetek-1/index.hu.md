@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-01-13'
+lastmod: '2021-01-21'
 featured: no
 image:
   caption: ''
@@ -260,7 +260,7 @@ A 2. és 3. sz. mellékletekben olvashatjuk, hogy a IV. ötéves terv lakásait 
 > "Megállapítható továbbá, hogy a IV. és V. ötéves terv lakástelépítésében történő állásfoglalás [...] lényegében **eldönti az általános rendezési terv további fejlesztésének fő irányvonalát**. [...] az itt bemutatott telepítési javaslat, mint az általános terv konkrét módosítását tartalmazó korrekció is megállapítást és jóváhagyást nyerjen. "
 
 Egy évvel később, [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében."
-> "[...] blokkos épitési mód valószínűleg egy haladottabb épitési technológiával lesz megoldva a munkaerőhelyzet miatt. **Blokk helyett: öntési technológia**. [...] A kispesti lakások nem szerepeltek ebben [a III.] az ötéves tervben, csak vonal alatt, mint előkészítendők. Valószínüleg a IV. ötéves terv első felében indítjuk el. A XIX. ker. általános városfejlesztési tervével összhangban van ez a rész. Úgy készítettük elő, hogy a nagy fejlesztési tervnek egy része." — Heincz Mihály (BFT VB Városrendezési és Építészeti Főosztály főosztályvezetője)
+> "[...] blokkos épitési mód valószínűleg egy haladottabb épitési technológiával lesz megoldva a munkaerőhelyzet miatt. **Blokk helyett: öntési technológia**. [...] A kispesti lakások nem szerepeltek ebben [a III.] az ötéves tervben, csak vonal alatt, mint előkészítendők. **Valószínűleg a IV. ötéves terv első felében indítjuk el**. A XIX. ker. általános városfejlesztési tervével összhangban van ez a rész. Úgy készítettük elő, hogy a nagy fejlesztési tervnek egy része." — Heincz Mihály (BFT VB Városrendezési és Építészeti Főosztály főosztályvezetője)
 
 ## Kispest településfejlesztési terve 1968
 
