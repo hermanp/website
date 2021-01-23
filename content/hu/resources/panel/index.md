@@ -38,9 +38,12 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
     - [A panelos épületek műszaki tervállománya](https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/) [Érdekes komment a cikk alján Gonda Ferenc építészmérnöktől! Rákeresve erre a CD-re, nem találtam érdemi infót, úgy tűnik, már nem lelhető fel. Más hasznos cikk is van többlakásos témában.]
         - [Többlakásos és emeletes házak 4 kategóriája](https://kreativlakas.com/tobblakasos-hazak/tobblakasos-es-emeletes-hazak-4-kategoriaja/) [Vélhetőleg Reischl Antal (1979) féle könyvből vett át ábrákat. Látható az ábrákon a kézzel rajzolt mivoltuk és az a fajta stílus, ami például a Tankönyvkiadó Vállalatra, Műszaki Kiadóra és az Akadémiai Kiadóra jellemző.]
         - [A panelos építési módok kialakulása](https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/)
-- Hungaricana: `Budapest és környéke általános rendezési terv 1971`:
+- Hungaricana `Budapest és környéke általános rendezési terv 1971`:
     - Kőszeghy Lea (2007): Tömeges lakásépítés és várostervezés: A budapesti várostervezés szociológiai elemzése 1960-1975. In: URBS II : Magyar várostörténeti évkönyv, Budapest, Budapest Főváros Levéltára, pp. 293-322, 30 p. Benne
 [A főváros Általános Rendezési Tervei](https://library.hungaricana.hu/hu/view/BFLV_urbs_02_2007/?pg=303&layout=s). [Jó összefoglaló!]
+- Hungaricana `15 éves lakásfejlesztési terv`:
+    - Kondor Attila Csaba, Szabó Balázs (2010): [A lakásépítési politika hatása Budapest térszerkezetére a Kádár-korszakban](https://library.hungaricana.hu/hu/view/BFLV_urbs_05_2010/?pg=390&layout=s). Urbs - Magyar várostörténeti évkönyv 5. (Budapest, 2010)
+    - A Magyar Forradalmi Munkás-Paraszt Kormány 1002/1960. (I.10.) számú határozata [a 15 éves lakásfejlesztési tervről](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?pg=80&layout=s). Tanácsok Közlönye, 8. évfolyam, 3. szám
 
 ### FSZEK
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
@@ -77,6 +80,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 - keresés: `Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest`, 175 találat; `Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem`, 14 találat; `Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program`, 43 találat; `XIX. ker Tanács végrehajtó bizottság`, 59 találat; `kispest "beruházási program"`, 422 találat. Rendezés: alapértelmezett (időrendi).
     - *1986. szeptember 10.*: A VII. ötéves tervi beruházási programok helyzetének áttekintése, javaslat a módosítások rendjére. 
     > "XIX., Kispest ltp. II/B ütem. A beruházási programban 8369 db lakás került jóváhagyásra. Az időközben érvénybe lépett "E" program és a pótlólag telepített 2 db garzonház megvalósításával a lakásszém 8562 db-ra emelkedett."
+    - *1985. július 31.*: Javaslat a VII. ötéves tervi, kiemelten az 1986-87. évi lakásépítési helyekre. [Benne Kispest III. ütem terület, mely nem azonos a máshol olvashatóval, előkészítésének elvetése]
     - *1985. április 24.*: Jelentés a VII. ötéves tervi lakásépítési feladatok előkészítéséről, különös tekintettel az 1986-1987. évi lakásépítési feladatokra. 7. számú melléklet: Nagyobb VII. ötéves tervi új induló telepszerű lakásépitési területek. Közte: XIX., Kispest, Corvin krt.
     > "a 8. és 9. oldalon felsorolt lakótelepek beruházási programjait folyamatosan, még ez évben [1985] terjessze a Végrehajtó Bizottság elé jóváhagyás végett." 
     - *1982. június 9.*: Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről [Hivatkozik az 1977. II. 2-i ülésen a 114-122/1977.sz. V.B. határozatokkal elfogadott II/A ütem beruházási programjára. Megemlíti, hogy többször módosították az I. ütemet, nem lehet mindegyik hivatkozást beazonosítani.]
@@ -138,8 +142,13 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1967. szeptember 25.*: A IV. és az V. ötéves terv lakásépítési javaslata. [Benne Kispesti tervezett lakásszámok táblázatokban. Térkép a IV. ötéves tervi telepítési javaslatról.]
 - már nem tudom honnan:
     - *1969. június 25.*: Jelentés a IV. és V. ötéves lakásépítési terv előkészítéséről.
-- keresés:
+- vegyes:
+    - *1972. április 12*: Az V. ötéves terv lakásépítési terv és telepítésének előkészítése. [keress `kispest`-re benne, fellelés oka: `kispest "117oo"` figyelj a nullák mint "o" szerepeltetésére! Keresés indok: 1969. június 25-i ülés szerint a részletes rendezési terv szerint építhető lakásszám 11700. Ezzel szemben nincs is leírva benne ez a szám! Honnan vették akkor?] [térkép](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=36&layout=s) a lakástelepítési javaslatról, és az I. és II. alternatívák szerinti telepítésekre.
     - *1975. október 29.*: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]
+    - *1976. október 26.*: Jelentés az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről. [és] Jelentés a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről.
+- keresés `"Kispest III. ütem"`:
+    - *1977. december 21.*: Az 1981-1982. évekre vonatkozó és a VI. ötéves tervi előzetes lakásépítési javaslat. [Benne Kispest III. ütem! Térkép! Táblázat! Területleírás!]
+    - *1979. március 27.*: A főváros 15 éves lakásépítési és telepítési tervének koncepciója.
 
 #### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
@@ -172,6 +181,8 @@ MSZMP Budapesti Pártbizottságának ülései
         - Központok rendszere a budapesti agglomerációban (főközpont, városrész központok, kerületi központok)
 - keresés: hivatkozik rá az 1967. október 27-i MSZMP BP VB ülés, lent idézet.
     - *1967. május 5.* (Kibővített ülés.): A budapesti lakásépítés, -elosztás, -telepítés és -felújítás problémái. [talán innen kezdődött], benne: Budapest Főváros XIX. ker. Tanács Végrehajtó Bizottsága. Észrevételek. 1967. május 2. [Benne lakáshelyzet, lakásigénylés, nyomatékos kérés a kispesti városközpont rendezésének megkezdésére, lakás statisztikák. Cél: a negyedik ötéves tervben sor kerüljön rá.]
+- keresés `15 éves lakásfejlesztési terv`:
+    - *1978. november 3.*: Fővárosi Tanács VB javaslata a főváros [tizenöt éves lakásépítési tervének irányelveire](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1978/?pg=219&layout=s), valamint a VI. ötéves terv lakásépítési és telepítési koncepciója. 
 
 #### MSZMP BP VB
 MSZMP Budapesti Végrehajtó Bizottságának ülései
@@ -304,6 +315,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Balla Regina (PhD hallgató, BME ÉPK Urbanisztika Tanszék)
 - Weiszkopf András (tanársegéd, BME ÉPK [Lakóépülettervezési Tanszék](http://www.lako.bme.hu/?page_id=98))
 - [Mészáros Ábel](https://hu.linkedin.com/in/%C3%A1bel-m%C3%A9sz%C3%A1ros-50b83b56) (Lechner Tudásközpont)
+- [Ihrig Dénes](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Sajnos 2019-ben elhunyt. [Kispest központjának részletes rendezési terve](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s). (Társtervező: Takács Máté.) 1963. Ekkor 33 éves, adjunktus. 
 - Zoltai István:
     - Magyar Építőművészet, 1979/6.szám :
     > "Időközben műtermünkben Zoltai István kollégám megtervezte a csatlakozó kispesti lakótelepet mely hasonló az Üllői útra"
