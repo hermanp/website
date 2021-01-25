@@ -44,6 +44,11 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
 - Hungaricana `15 éves lakásfejlesztési terv`:
     - Kondor Attila Csaba, Szabó Balázs (2010): [A lakásépítési politika hatása Budapest térszerkezetére a Kádár-korszakban](https://library.hungaricana.hu/hu/view/BFLV_urbs_05_2010/?pg=390&layout=s). Urbs - Magyar várostörténeti évkönyv 5. (Budapest, 2010)
     - A Magyar Forradalmi Munkás-Paraszt Kormány 1002/1960. (I.10.) számú határozata [a 15 éves lakásfejlesztési tervről](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?pg=80&layout=s). Tanácsok Közlönye, 8. évfolyam, 3. szám
+- Hungaricana `Preisich Gábor (1998): Budapest városépítésének története`:
+    - Kocsis János Balázs (2010): [Döntéshozatali mechanizmus a fővárosban az 1960-as és az 1970-es években](https://library.hungaricana.hu/hu/view/BFLV_urbs_05_2010/?pg=376&layout=s). Urbs - Magyar várostörténeti évkönyv 5. (Budapest, 2010)
+- Fővárosi blog keresés `kispest`
+    - [Ötven éve írták. 1964 február](https://fovarosi.blog.hu/2014/02/19/otven_eve_irtak_1964_februar). Az itt hivatkozott részlet a Magyar Nemzet 1964. február 29-i számában jelent meg:
+    >"Az Építőipari és Közlekedési Műszaki Egyetem városépítési tanszéke által készített terv szerint Kispest központját a Kossuth téren és annak körzetében alakítják ki."
 
 ### FSZEK
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
@@ -142,6 +147,8 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1967. szeptember 25.*: A IV. és az V. ötéves terv lakásépítési javaslata. [Benne Kispesti tervezett lakásszámok táblázatokban. Térkép a IV. ötéves tervi telepítési javaslatról.]
 - már nem tudom honnan:
     - *1969. június 25.*: Jelentés a IV. és V. ötéves lakásépítési terv előkészítéséről.
+- keresés `ötéves lakástelepítés lakásépítés terv javaslat`:
+    - *1970. december 23*: Jelentés a IV-V. ötéves fővárosi lakásépítési program előkészítésének helyzetéről. [néhány számadat: V. ötéves 6000 lakás, BULAV által 1972-ben átadott 60 db (?), IV. ötéves 600 lakás.]
 - vegyes:
     - *1972. április 12*: Az V. ötéves terv lakásépítési terv és telepítésének előkészítése. [keress `kispest`-re benne, fellelés oka: `kispest "117oo"` figyelj a nullák mint "o" szerepeltetésére! Keresés indok: 1969. június 25-i ülés szerint a részletes rendezési terv szerint építhető lakásszám 11700. Ezzel szemben nincs is leírva benne ez a szám! Honnan vették akkor?] [térkép](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=36&layout=s) a lakástelepítési javaslatról, és az I. és II. alternatívák szerinti telepítésekre.
     - *1975. október 29.*: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]
@@ -201,6 +208,8 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     - *1969. június 6.*: A Fővárosi Tanács VB jelentése Budapest és környéke általános városrendezési tervének felülvizsgálata 1967–1968. évi munkálatairól, a lakó- és iparterületi tervről. [Nincs térkép, de Bartos István, a BFT VB elnökhelyettese [hivatkozik](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1969/?pg=916&layout=s&query=t%C3%A9rk%C3%A9p) 4 db térképre, amik valószínűleg megegyeznek az 1970. február 25-i MSZMP BP PB ülésen bemutatottakkal.]
     > "Az 1960-ban jóváhagyott általános terv a város szerkezeti tagolásának és a központrendszer kialakításának a kérdésével behatóbban nem foglalkozott. Az azóta végzett vizsgálatok és demográfiai, valamint lakástelepitési tanulmányok, de nem utolsó sorban a sokrétű igények felismerése is ezt a hiányosságot nemcsak nyilvánvalóvá tették, hanem a várostagolás és a központrendszer koncepcionális kialakításának lehetőségére egyben módot is nyújtanak."
     - *1975. április 15.*: A Fővárosi Tanács VB javaslata a főváros V. ötéves lakástelepítési és lakásépítési tervére. [Az állami célcsoportos lakástelepítés telepítési helyein belül az alternatívákban kijelölt helyek között Kispest II. ütem. Javasolják az A alternatíva elfogadását. Táblázat is. Térkép nincs.]
+- keresés: valami összetett, az ötéves lakástelepítési tervről
+    - *1972. augusztus 11.*: Jelentés a IV. ötéves tervben előirányzott budapesti lakásépítés időarányos teljesítéséről. Javaslat az V. ötéves terv budapesti lakásépítési és telepítési előzetes programjára. [benne Az V. ötéves terv lakástelepitése céljára számításba vehető területek. Térkép. Sokban hasonlít az 1972. október 5-i MSZMP BP PB ülésén előadottakkal. Különbség: a 2. melléklet átdolgozva, más számok, Kispest a IV. számú házgyári technológiára jelölve.]
 
 ### Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
@@ -281,6 +290,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Műszaki Tervezés
 - Bitó János (2013): Lakóépületek tervezése
 - Reischl Antal (1979): Lakóépületek tervezése, Tankönyvkiadó Vállalat, p 328.
+- Ferkai András (2005): [Lakótelepek](https://library.hungaricana.hu/hu/view/VaroshazaKiado_0112/?pg=0&layout=s)
 - Preisich Gábor (1998): Budapest városépítésének története, Műszaki Könyvkiadó
 - Panelki: [Construct Your Socialist Prefab Panel Block](https://www.zupagrafika.com/shop/panelki)
 
