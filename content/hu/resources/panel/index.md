@@ -189,6 +189,8 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 
 - vegyes:
     - *1972. április 12*: Az V. ötéves terv lakásépítési terv és telepítésének előkészítése. [keress `kispest`-re benne, fellelés oka: `kispest "117oo"` figyelj a nullák mint "o" szerepeltetésére! Keresés indok: 1969. június 25-i ülés szerint a részletes rendezési terv szerint építhető lakásszám 11700. Ezzel szemben nincs is leírva benne ez a szám! Honnan vették akkor?] [térkép](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=36&layout=s) a lakástelepítési javaslatról, és az I. és II. alternatívák szerinti telepítésekre.
+    - *1972. április 26.*: Az V. ötéves terv lakásépítéssel kapcsolatos teendői. Az 1972. április 12-i ülés megtárgyalása, mert akkor levették a napirendről, csak az előterjesztés olvasható ott. Itt térkép, táblázat nincs.
+    - *1973. február 28.*: Jelentés az V. ötéves terv lakásépítési terve előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra.
     - *1975. október 29.*: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]
     - *1976. október 26.*: Jelentés az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről. [és] Jelentés a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről.
 
@@ -372,6 +374,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Lakó és Kommunális Épületeket Tervező Vállalat (LAKÓTERV) (**generáltervező**, Kispest)
 - Fővárosi Építőipari Beruházási Vállalat (FŐBER) (**lebonyolító**, Kispest)
 - *43.* számú Állami Építőipari Vállalat (**generálkivitelező**, Kispest)
+- BULAK vagy BULAV vagy BLV
 - UVATERV (Bp. XIX. Kispest lakótelep III. ütem beépítési tanulmányterv)
 - Építésgazdasági és Szervezési Intézet (ÉGSZI) 31. Főosztály Lakótelep Szervezési Osztály
 - Általános Épülettervező Vállalat (ÁÉTV)
