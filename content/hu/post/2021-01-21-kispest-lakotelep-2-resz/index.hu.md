@@ -84,4 +84,55 @@ Pedig még [ígéretet](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_
 
 Vagyis vélhetőleg ezekre gondoltak a kispesti részletes rendezési tervben és az I. ütem beruházási programjában 1968-ban, bár utóbbiban pontházak már nem szerepelnek! Érdekesség, hogy az a Pomsár János terezte a 167-es jelű pontházat, akihez kötődik Kispest városközpont I. ütem beépítési terve is (e díj [felterjesztés](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-01-14/?query=mot%20t%C3%ADpusterv%20%C3%B6nt%C3%B6tt*&pg=219&layout=s) alapján). További hasznos információ, hogy *"a hatályban levő típustervek jegyzékét teszi közzé a minisztérium [ÉM] a lap [Építésügyi Értesítő] 50. számában a 84/1961. számú közleményben"* (Műszaki Élet, 17. évfolyam, 1. szám, 1962. január 4.). Innen eredhet az 1961 vagy csak 61-es utótagja a típusjelnek.
 
-Visszautalás az 1. rész ötéves lakásépítési számaira Kispest tekintetében. Aztán az új számok.
+[1966. március 7](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1966-03-07/?pg=64&layout=s)-én fogadta el BFT a főváros III. ötéves tervét. Érdemes az alábbi részt idézni, mert később hasznos információ lesz:
+> "A tervidőszak kezdetekor már termel az *I. hazai házépítő kombinát*, melynek terméke a kelenföldi, majd az óbudai lakótelepeken kerül elhelyezésre. A *II. számú un. "Larsen-Nielsen" házgyár* belépésével 1968. III. negyedévében számolunk. A tervidőszak II. felében a *III. számú házépítő kombinát* is üzembe lép. A két utóbbi házgyár a pesti oldalon lévő lakótelepeket látja majd el nagypanel elemekkel. Így a III. ötéves tervben már döntően korszerű - paneles, blokkos és öntött - építési technológiával építjük e lakótelepeket."
+
+A fővárosi III. ötéves tervben Kispest nincs említve és mint tudjuk, még az 1967. május 5-én tárgyalt (az 1. részben ismertetett) budapesti lakásépítési problémák IV. ötéves lakástelepítési javaslatában sem jelenik meg. Ugyanezen év, 1967. szeptember 25-én tárgyalt IV. és V. ötéves tervi lakásépítési javaslatban már megjelenik Kispest (lásd 1. részt).
+
+*1. sz. melléklet: A IV. és V. ötéves terv lakástelepítési javaslata, a VI. ötéves tervre való átnyúlással*
+
+| XIX. Kispest központ rek. | IV. ötéves terv | V. ötéves terv       | VI. ötéves terv |
+| ------------------------- | --------------- | -------------------- | --------------- |
+| Építés                    | 600             | 3000                 | 2000            |
+| Bontás                    | 250             | 1100                 | 600             |
+| Technológia (házgyár)     | blokkos (?)     | Larsen-Nielsen (II.) | ?               |
+
+Az 1968. december 4-én elfogadott kispesti I. ütem beruházási programjában tényleg csak blokkos technológiájú, földszint + 4 emeletes épületekkel találkozunk, viszont már csak 525 lakással! Konkrét típusjel itt még nincs megemlítve.
+
+Így érünk el az 1969-es évre. Ekkor, [1969. június 25](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1969-06-25/?pg=0&layout=s)-én tárgyalja a BFT VB a *jelentést a IV. és V. ötéves lakásépítési terv előkészítéséről*. Ebben visszaköszön az előbbi lakástelepítési táblázat, de egy újabbat is kapunk, távoli kitekintéssel:
+
+*2. sz. melléklet: Az Általános Városrendezési Terv lakásépítési elgondolásai táblázatos összeállításban*
+
+| XIX. Kispest központ (ötéves terv) | IV. | V.   | VI.  | 1985 után | Összesen |
+| ---------------------------------- | --- | ---- | ---- | --------- | -------- |
+| Építés                             | 600 | 3000 | 3000 | 5100      | 11700    |
+| Bontás                             | 250 | 1100 | 1200 | 1150      | 3700     |
+
+Van azonban egy furcsa megállapítás: a IV. ötéves terv lakástelepítési javaslatának táblázatában az szerepel, hogy Kispest városközpont esetén a részletes rendezési terv szerint építhető lakásszám 11700! Holott ilyesmi nincs is benne említve! Ezért kell majd megszereznem a térképet és a makett fotóját, amire hivatkoznak akkor a jegyzőkönyvi részben, de nincs mellékelve. Nem úgy, mint itt! *Lakásépítési területek részletes rendezési tervei és telepítési modeljei* részben, rengeteg térkép és fotó illusztrálja a javaslatot, de Kispest nem szerepel köztük!
+
+Fontos részlet még a technológiákról:
+> "A negyedik házgyár 1972-ben tervezett belépésével további 6000 összesen mintegy 48000 panelos lakás építhető. A BULAK korszerű öntött technológiával BVM panelek szerelésével, a blokkos és hagyományos technológia alkalmazásával 19000 lakás kivitelezését vállalta."
+
+Elérünk 1970-be, amikor [1970. december 23]()-án tárgyalja a BFT VB a *jelentést a IV-V. ötéves fővárosi lakásépítési program előkészítésének helyzetéről*. Ennek előterjesztése részre oszlik:
+- területi megoszlás
+- kivitelezési kapacitás
+- a tervezés helyzete
+> "Úgy számolunk, hogy az 1970. évi tervezési feladatok végrehajtása elméletileg egy kb. 850 fős tervező vállalat teljes létszámát veszi igénybe."
+
+- területfelszabadítások helyzete
+- beruházások előkészítettsége
+- bruttó lakásköltségek alakulása
+- magánerős építkezések
+- a 91.000 lakás kapacitáshelyzete (59.850 lakás építésére elegendő, megoszlás közölve)
+- alapközművek, alapközutak
+- az V. ötéves lakésépítési program előkészítése
+
+A mellékletek közül az alábbiak érdekesek:
+- 4. sz: A FŐBER IV. ötéves komplex lakásépítési programja. Újonnan induló munkák között Kispest, ahol a 600 db lakás kivitelezője a BULAV.
+- 12. sz: A FŐBER 1972. évi komplex lakásátadási programja. A BULAV 60 db lakást ad át Kispesten.
+- 16. sz: Javaslat az V. ötéves terv lakásépítési területeire. Kispesten 6000, a fenti 3000-rel szemben!
+
+A jegyzőkönyvi részből az alábbit érdemes kiemelni:
+> "A tervezéssel kapcsolatban! Ez év tavaszán az ÉVM-ben Szabó elvtárs elosztotta a vállalatok között a tervezési kapacitást. Meg lett határozva, hogy a Típustervező, a Lakóterv, a BUVÁTI melyik területnek a tervezője." — Heincz Mihály, BFT VB Városrendezési és Építészeti Főosztály vezetője
+
+1971-ből nincs említenivaló, csak visszautalok az 1. részben tárgyalt általános rendezési tervre, aminek felülvizsgált változatát ekkor hirdették ki. 1972-ben viszont 
