@@ -51,6 +51,12 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
     > "Az Építőipari és Közlekedési Műszaki Egyetem városépítési tanszéke által készített terv szerint Kispest központját a Kossuth téren és annak körzetében alakítják ki."
 - Google `"mot" típus terv`, pl. MOT.I.58/76 esetén mi az a MOT?:
     - Magyar országos típustervek katalógusa. Ennek több kötete létezik, lakó és műszaki épületekkel is. Az ÉM fogadja el.
+- Google `lakás moti irányelv`:
+    - Az építésügyi miniszter [7/1965. (XII. 30.) ÉM számú rendelete](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1966/?pg=70&layout=s) a harmadik ötéves terv időszakában épülő lakóépületek és lakások tervezésének fontosabb irányelveiről.
+    - Dömök Sándor: Tervezési irányelvek - A III. ötéves terv időszakában épülő lakóépületek és lakások tervezésének fontosabb irányelvei. Építésügyi Tájékoztatási Központ, Budapest, 1967. Kötetszám: 37-65. Oldalszám 40 oldal. [Magyar Országos Tervezési Irányelvek. Rövidítve MOTI.]
+- Hungaricana `tervezési irányelv lakó*`:
+    - A lakások és lakóépületek tervezésének fontosabb irányelveiről szóló 25/1960. (Ép Ért 20) ÉM számú utasítás.
+    - Az Építésügyi és Városfejlesztési Minisztérium [10/1970. ÉVM számú közleménye](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1970/?pg=340&layout=s) a ME 95—67 számú, a panelos lakóépületek tervezéséről és kivitelezéséről szóló Műszaki Előírás módosításáról.
 - Hungaricana `tipusterv`:
     - [Új Típusterv Katalógus megjelenése](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?query=%C3%89M%20tipusterv&pg=206&layout=s), *Tanácsok Közlönye*, 1960, 8. évfolyam, 16. szám
 - Hungaricana `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
@@ -381,6 +387,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV), a kispesti térképek jó részét készítette.
 - Tervezésfejlesztési és Típustervező Intézet, röviden Típustervező Intézet (TTI)
 - Építésügyi és Városfejlesztési Minisztérium Műszaki Tervezési Főosztály
+- Építésügyi Tájékoztatási Központ (Budapest VII.; Rumbach Sebestyén utca 15 a)
 - BME ÉPK [Urbanisztika Tanszék](http://www.urbanisztika.bme.hu/)
     - Budapest, XIX. Kispest központjának részletes rendezési terve. (akkoriban Városépítési Tanszék. [A Budapesti Műszaki Egyetem Évkönyve 1970-1971.](https://library.hungaricana.hu/hu/view/BME_Evkonyv_1970-71/?pg=155&layout=s))
 - BME ÉPK [Lakóépülettervezési Tanszék](http://www.lako.bme.hu/)
