@@ -2,7 +2,7 @@
 title: Kispesti lakótelep, 1. rész. A kezdetek
 author: Peter Herman
 date: '2021-01-08'
-slug: kispesti-lakotelep-1-a-kezdetek
+slug: kispest-lakotelep-1-resz
 categories: []
 tags:
   - kispest
@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-01-21'
+lastmod: '2021-01-27'
 featured: no
 image:
   caption: ''
