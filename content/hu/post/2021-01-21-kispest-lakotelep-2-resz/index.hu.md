@@ -171,7 +171,7 @@ A lakástelepítési javaslat részei:
 
 Ezt követik a **területismertető műleírások**, amiket a BUVÁTI I. Városrendezési és Városgazdasági Irodáján készítettek még 1971. októberében. Ez Kispest esetében 3 oldalas anyag, mely az alábbi pontokból épül fel:
 - Általános tervi sorszám: 40
-- A terület megnevezése.
+- A terület megnevezése: XIX. Kispest központ.
 - Elhelyezkedés.
 - Tervellátottság. (*"Néhány tömbre beruházási program, a rekonstrukció teljes területére részletes rendezési terv készült. Ez azonban átdolgozásra szorul."*)
 - Tecnológiai lehetőségek. (*"A terület beépítése a II. házgyár termékeivel van előirányozva."*)
@@ -193,10 +193,103 @@ Ugyanezen év, [1972. október 5](https://library.hungaricana.hu/hu/view/BUDAPES
 | Építés                             | 11000    | 6750 |
 | Bontás                             | 3400     | 1900 |
 
-A 4. sz. táblázatban *A IV. ötéves tervben felépíthető lakások területenkénti bontásban*, olvashatjuk, hogy az eredeti IV. ötéves terv szerint Kispesten 600 lakás épülne meg, de kapacitás és pénzügyi helyzet miatt ez 510-re mérséklődött.
+A 4. sz. táblázatban *A IV. ötéves tervben felépíthető lakások területenkénti bontásban*, olvashatjuk, hogy az eredeti IV. ötéves terv szerint (tehát az I. ütemben) Kispesten 600 lakás épülne meg, de kapacitás és pénzügyi helyzet miatt ez 510-re mérséklődött.
 
 Hogy ez mivel magyarázható? Talán az alábbi részlettel az előterjesztésből:
 > "Az észak-déli metró vonal déli szakaszára kapcsolható telepítések /:Kispest városközpont, Kőbánya-Újhegy, Lőrinc város központ, Lőrinc Állami telep:/ nagyságrendjét közmüvesitési nehézségek határolják be."
 
-Az 1973. február 28-i és az 1973. december 5-i BFT VB ülésen tárgyalt V. ötéves tervi jelentések és javaslatok már csak a II. ütemre vonatkozó adatokat tartalmaz, így ezek már a cikksorozat [3. részében](/hu/post/kispest-lakotelep-3-resz/) olvashatóak.
+Az 1973. február 28-i és az 1973. december 5-i BFT VB ülésen tárgyalt V. ötéves tervi jelentések és javaslatok már csak a II. ütemre vonatkozó adatokat tartalmaznak, így ezek már a cikksorozat [3. részében](/hu/post/kispest-lakotelep-3-resz/) olvashatóak. Furcsa, hogy nem találtam ilyen részletességű javasatokat, feladat ütemezést a IV. ötéves terv, és így az I. ütem tekintetében. Az eddigiek után érkezünk el az I. ütem módosított (általam inkább valódinak mondott) beruházási programjához.
+
+[1973. december 19](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1973-12-19/?pg=222&layout=s)-én tárgyalta a BFT VB *XIX. ker. Kispest lakótelep I. ütem módosított beruházási programját*. Hivatkozik az 1968. december 4-i *egyszerűsített beruházási programra*. Hogy miért csak egyszerűsített, arra a következő rész ad választ:
+> "A terület részletes rendezési terve, mely a program szerinti 525 lakásra terjed ki, R-16274.ttsz. alatt került jóváhagyásra. Az előterjesztett program költségelőirányzata az alkalmazni kívánt különböző építési technológiák és építményfajták, valamint az új árrendszer költségkihatásainak ismerete hiányában becsült értékkel került megállapításra az 1967. évi hasonló technológiák költségeinek alapulvételével."
+
+Miután a kiviteli tervek elkészültek, lehetőség volt ezen módosításra. Ezen előterjesztés előtt már módosítottak a részletes rendezési terven is, a változásokat az alábbi táblázatban foglalom össze:
+
+| Rendezési terv | Építés | Bontás | Technológia                   |
+| -------------- | ------ | ------ | ----------------------------- |
+| R-16274 ttsz.  | 525    | 159    | blokkos                       |
+| R-20407 ttsz.  | 822    | 260    | alagútzsalu + IV. házgyár     |
+
+A bontandó lakások jellemzőit a 2. sz. melléklet tartalmazza. Megszűnik ezeken kívül 41 db üzlet és 22 db kisműhely is. A 822 építendő lakás megoszlása technológia szerint:
+
+| Építési technológia | szintszám | lakásszám | megoszlási % |
+| ------------------- | --------- | --------- | ------------ |
+| Alagútzsalus        | PF + 4    | 504       |         61,3 |
+| Paneles             |  F + 9    | 318       |         38,7 |
+| Összesen            |           | 822       |        100,0 |
+
+Miért váltottak blokkról alagútzsalus technológiára? Erre ad választ a 2. sz. melléklet: *"A kiviteli kapacitás biztosítása érdekében kellett ezt a közismerten drága technológiát alkalmazni. A IV. sz. Házgyár termékei [...] jelenleg a legköltségesebbek a négy budapesti házgyár közül."* Ez a költségnövekedést is részben magyarázza. Ezen mellékletben indokolják a tervezett autóparkoló számot, ami hivatkozott országos előírások alapján három lakásonként 1 db (ami később emelésre kerül). Ezután táblázat foglalja össze a szobaszám megoszlás és az átlagos mutatók változását a tervek között. A lakástípusokról érdekes indoklás:
+> "A tájolási és városképi viszonyok miatt a IV. sz. Házgyárból csak az u.n. "A" típusok telepíthetők."
+
+Ez hogyan is értendő?
+> "Ez úgy értendő, hogy a IV. Házgyárnak csak két típusa között lehetett választani. Átmenő lakásokra csak ez a típus alkalmas. Ha azonban alaprajzát nézzük, tulajdonképpen másfélszobás lakások." — Polonyi Károly, BFT VB Városrendezési és Építészeti Főosztály megbízott főosztályvezető
+
+> "Megint szeretném hangsúlyozni, hogy **az esődleges cél: az emberekről való gondoskodás egy lakás esetében és azt kell hogy kiszolgálja minden szervezet**. Nem lehet tehát fordítva csinálni: hogy azért, mert a városépítők valamikor elfogadták a hurkákat, azokat most nem szabad megváltoztatni, és így rossz lakásokat vagyok kénytelen odatenni. Ezen a szemléleten kell változtatni." — dr. [Reischl Antal](https://mek.oszk.hu/00300/00355/html/ABC12527/12847.htm), BFT VB tag, egyetemi tanár a BME ÉPK Lakóépülettervezési Tanszékén
+
+A lakások felszereltségéről szóló részben pedig:
+> "Valamennyi lakás beépített szekrénnyel és konyhabútorral készül, a lakások fűtése az épületek tetején elhelyezett gáztüzelésű kazánból történik. A 32-82/1973 MT sz. határozat végrehajtásaként a IV. sz. Házgyár paneljeiből itt épülő lakóházak fűtését is *tetőkazános* megoldással kell biztositani, ezért a kisérleti jellegre való tekintettel a lakásokat bérlakásként való elosztásra javasoljuk."
+
+Majd pedig a kapcsolódó létesítményekről olvashatunk összehasonlítást (megtartom a kategóriákat). Mit terveznek építeni?
+- oktatás:
+    - óvoda: 150 férőhely (ma: [Kispesti Arany Óvoda](http://aranyovoda.kispest.hu/index.php))
+- egészségügy:
+    - bölcsőde: 60 férőhely (ma: ?)
+    - gyógyszertár: 290 m2 (ma: [BENU Gyógyszertár Budapest Apolló](https://benu.hu/gyogyszertaraink/gyogyszertarak-budapest/gyogyszertarak-budapest-xix-kerulet/benu-gyogyszertar-budapest-apollo/))
+- kereskedelem:
+    - ABC: 642 m2 (ma: Red dragon üzlet, korábban Spar, előtte Plus)
+    - virágbolt: 60 m2 (ma: [Virágért Encián Virágbolt](https://viragert.hu/pages/zleteink), 1191 Budapest, Üllői út 257.)
+    - dohánybolt: 30 m2 (ma: ?)
+    - KERAVILL: 300 m2 (ma: talán a használt ruhabolt és a műszaki bizományi bolt helyén?)
+- szolgáltatóipar:
+    - fodrászat: 140 m2 (ma: [Egység Fodrász Szövetkezet](https://www.kispesti.info/Szepsegszalon-szepsegapolas/Csaladi-fodraszat-kozmetika-XIX.-kerulet-494/Reszletek-megtekintese.html), családi fodrászat, kozmetika. Érdekesség, hogy megtalálhatóak már az 1972-es Budapesti Szolgáltató Ipari Szövetkezetek Szövetségének alapszabálya I. sz. [mellékletében](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-08-02/?pg=251&layout=s), mint a Szövetséghez tartozó szövetkezet.)
+    - textiltisztító: 250 m2 (ma: [Hattyú Textil és Ruhatisztítás](https://www.hattyutextiltisztito.hu/), röviden Hattyú Kispest, 1191 Budapest, Üllői út 255.)
+    - GELKA: 280 m2 (ma: talán a Pátria papírbolt?)
+
+A lakásépítés menetrendjével kapcsolatban pedig az tudható meg, hogy a teljes befejezést 1977-re tervezik.
+
+*Lakásátadás és a pénzügyi felhasználás éves ütemezése*
+
+|                       | Össz  | 1972 | 1973 | 1974  | 1975  | IV. ötéves | V. ötéves |
+| --------------------- | ----- | ---- | ---- | ----- | ----- | ---------- | --------- |
+| Építendő              |   822 |    - |  144 |   192 |   168 |        504 |       318 |
+| Szanálandó            |   260 |  122 |   40 |    98 |     - |        260 |         - |
+| Pénz. előirányzat MFt | 446,7 | 33,3 | 74,0 | 100,0 | 100,0 |      307,3 |     139,4 |
+
+A jegyzőkönyvben főképp az IV. házgyár egyszobás lakásairól megy a kimerítő vita. Reischl Antal nem fogadja el a beruházási programot Polonyi Károly következő mondatai után (kivonatolva):
+> Polonyi: 17.64 m2-es, ami önmagában úgy másfélszobás, hogy van egy étkező-konyha, 2.26 m2-el. Csak a végszekciókon van hozzá egy 6 m2-es második szoba.  
+> Reischl: E megjegyzés után nem javasolom elfogadni ezt a beruházást. Eszerint az ilyen lakásoknak a szobája nem éri el a minimális 18 m2—t. A IV. Házgyárnak bizonyosan van olyan típusa, amelyben nem szerepel ez a kis lakás. Tessék tehát módosítani ezt a beépitési formát.  
+> Sallai Mihály: 37 m2 az egy szobás teljes alapterülete, 62.5 m2 a két és félszobás. [...] Egyébként az ÉVM által kidolgozott típus.  
+> Reischl: Amelyet az ÉVM., mint egyszobást hagyott jóvá, azt nevezitek másfélszobásnak.  
+> Elnök (Kelemen Lajos, a kivonatos [jegyzőkönyv](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1973-12-19/?pg=458&layout=s) szerint): Ha 6 m2 felett van, félszobásnak minősül. Ez van a jogszabályban. Egy személy elhelyezésére. 9 m2 felett: két személy. Ezt a jogszabályt nem mi hoztuk. Tudomásul kell vennünk.  
+> Csehik Ferencné: De azért nem olyan egyszerű, mert hozzátartozik, hogy milyen a konyha. Ha pl. a konyha étkezésre nem alkalmas, akkor a félszoba: étkezőhelyiség, ott már senkit sem lehet elhelyezni. A gyakorlatban is látom.  
+> Reischl: Ezt a típust nem lehet másfélszobásnak nevezni. /Mutatja a rajzon/. Áll egy 17.64 m2-es lakószobából és egy konyhából. A konyha nem hálófülke.  
+> Elnök: Az étkező-konyha 7.25 kvadrát. Étkezőkonyhának megfelel.  
+> Csehik Ferencné: Nézd meg a gyakorlatban.  
+> Elnök: Nyolctagú családnak mindenesetre kicsi.  
+> Reischl: Háromtagú családnak is kicsi. Más típusa nincs a házgyárnak?  
+> Kőmíves István: Itt most mi minden egyes program tárgyalásán hiába ostorozzuk önmagunkat. Csak azt szeretném mondani, hogy mindaz igaz, amit itt a Végrehajtóbizottság tagjai mondanak, de ezzel az igazsággal szemben áll a 420000 forint [átlagos lakásköltség], áll az 52 négyzetméter [átlagos lakás alapterület] és áll a 47000 lakás [IV. ötéves tervi cél]. Különben ki kell mondani, hogy nem 47000 lakást kell építeni, hanem csak 43000-et, az azonban nem létezik, hogy minden követelmény tartható legyen.  
+> Reischl: [...] magunk rontottuk el a helyzetünket, mert itt most az sül ki, hogy nagyobb átlag lakás alapterület mellett rosszabb lakásokat fogunk megépíteni [...] Nem akarok itt belemenni a részletekbe, de nevetséges dolog, hogy az egyszobás lakás előtt van egy óriási nagy loggia. [...] Kelenföldön azon veszekedünk a lakókkal, hogy ne építsék be a loggiájukat. Mit csináljanak szegények, ha mi nem adunk nekik alapterületet, de odatesszük eléjük az óriási loggiát. A terv elemi hibákkal van teli és ezeket mi gátlástalanul tudomásul vesszük és építjük drágább pénzért, mert szeretném azt is közölni, hogy mindezek mellett ezek a lakások még drágábbak, mint az I-III. sz. Házgyár lakásai. Én nem valami lehetetlenséget kívánok, én a pénz sokkal logikusabb és következetesebb felhasználását kívánom.  
+> Fajkos Aladárné: [...] a jelenlegi rendszer szerint az ÉVM hagyja jóvá a terveket [mert kb. 200 lakás építése felett megvan erre a joga], a házgyári sablonokat, a kivitelező vállalatok az ő kezében vannak, gyakorlatilag a főváros csak azt kaphatja, amit az ÉVM ad.  
+> Polonyi: [...] bennünket nemcsak az ÉVM köt, hanem kismillió norma, szabvány, egészségügyi és egyéb előírás.  
+> Elnök: Kétféle döntés lehetséges most. Vagy elfogadjuk ezt az előterjesztést így, vagy levesszük a napirendről és jön vissza az eredeti program.  
+> Kőmíves István: El lehet fogadni az eredeti programot. Benne van az előterjesztésben, csak nincs kapacitás rá.  
+> Elnök: Egy-kettőnket fegyelmi elé fognak állítani, hogy a IV. sz. Házgyár termékeit nem tudjuk elhelyezni.  
+> Virágh Ferencné: [...] Állandóan munkáspolitikáról beszélünk, a fizikai dolgozók segítéséről, ugyanakkor tényleg a peremkerületekben sorban az a helyzet, hogy újabb nehéz helyzetet teremtünk kulturáltabb formában.  
+> Reischl: [A főváros] a kormány biztosította anyagi lehetőségek keretein belül kényszeríti a házgyárakat jobb típusok létrehozására. Tehát nem arról van szó, hogy több pénzért menjünk a kormányhoz, hanem a milliárdokat, amit felhasználunk, ne kényszerhelyzetbe hozottan kelljen elkezdeni. Tehát ezt tudomásul veszem azzal a feltétellel, hogy záros határidőn belül hozzák ide a IV. sz. Házgyár összes típusait, amelyekből a VB ki tudja választani, hogy melyik típusok azok, amelyeket hajlandó a jövőben megrendelni.  
+> Elnök: Az 1. napirendnél döntöttünk, Sallai elvtárséknak be kell hozni márciusban a típusokat, helyes, ha nem döntünk még egyszer. [...] Javasolom, fogadjuk el [ezt a beruházási programot], a II. ütemnél visszatérünk annak függvényében, amikor ismertek lesznék előttünk az V. ötéves terv irányelv-számai a négyzetmétert illetően. [És elfogadták.]
+
+{{< figure src="I_utem_terkep.png" title="Kispest lakótelep I. ütem beruházási program térkép. Látszik, hogy részlet. A földszint + 9 emeletes pontházakból úgy tűnik, sorházakat alakítottak volna ki az Üllői út mentén. Ez sem és a Hunyadi és Báthory utca közötti épületek sem valósultak meg." numbered="true" >}}
+
+Oh, mi is ez a márciusi típusterv választék átnézés? Rákerestem ebben az 1. napirendben.
+> Elnök [Szépvölgyi Zoltán]: Azt javasolom, hogy a következő ötéves terv időszakára, szánjunk időt arra, hogy nézzük át egyszer a lakástípusokat. Soha nem néztük meg. Hozzák ide, tegyék dossziéba, adják meg az összes lakástípus terveit, hogy át tudjuk azokat nézni. Azután írják mellé, melyikből mennyit szándékoznak a következő ötéves terv időszakában épiteni. Márciusban kellene megcsinálni, amikor visszajön a következő ötéves lakástelepítési terv végleges javaslata. [...] A jövőben nem lehet rabízni sem a tervezőkre, sem a FŐBER-re, hogy ők döntsék el, hogy adott esztendőben milyen típusú lakást, hol építenek. Ennek következménye az, hogy többször vissza kell adni a beruházási programot, mert egyik lakótelepen sokkal nagyobb, a másikon sokkal kisebb lakások épülnek. [...]
+
+És a határozat is megszületett: a **BFT VB 755/1973. sz. határozata** utasítja a Terv- és Közgazdasági Főosztály vezetőjét, valamint a FŐBER igazgatóját, hogy az összes lakástípust terjesszék a Végrehajtó Bizottság elé, feltüntetve, hogy az egyes típusokból az V. ötéves tervben hány lakás építése van tervezve. *Határidő: 1974. március 31.* Felelős: dr. Viszkei Mihály (BFT Terv- és Közgazdasági Főosztály vezetője), Sallai Mihály (FŐBER igazgatója). A Terv- és Közgazdasági Főosztály a [határidő módosítását](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1974-05-29/?pg=337&layout=s) kéri, amit elfogad a BFT VB 392/1974. sz. határozatában. Tovább tolják a határidőt az 583/1974. sz. határozatban 1974 december 31-re. Majd pedig 1975. január 22-i ülésen:
+> "A Terv- és Közgazdasági Főosztály a határozat végrehajtásáról a következőket jelenti: 
+a Végrehajtó Bizottság határozatának megfelelően összeállították azt a **tervgyűjteményt**, amely magában foglalja az V. ötéves tervidőszakra előirányzott házgyári lakásfajták műszaki terveit, alaprajzait. Elkészült továbbá az az előterjesztés tervezet, amelyet a lakástípusokkal együtt a Végrehajtó Bizottság elé kíván terjeszteni. [...] Tudomására jutott a Főosztálynak továbbá az is, hogy a fővárosi katalógusokban lévő tervfajták nem mindegyike tervezhető. Az ÉVM által felülvizsgált, ill. újabban ajánlott lakásfajták viszont még fővárosi állásfoglalást és hatósági egyeztetéseket igényelnek. Az említettek figyelembe vételével a Terv- és Közgazdasági Főosztály javasolja a 755/1973, a 392/1974, ill. 583/1974. sz. határozat hatályon kívül helyezését."
+
+Ez meg is történt a BFT VB 3/1975. sz. határozatával. Próbáltam ezt a *tervgyűjteményt*, de nem találtam.
+
+Feljebb láthattuk, hogy áthúzódott az I. ütem lakásépítése az V. ötéves terv idejére. Erre az időszakra vonatkozóan az **1975. október 29**-i BFT VB ülésen tárgyalt *A főváros V. ötéves lakástelepítési és lakásépítési tervében* találunk táblázatot. A 6. sz. mellékletben, *Az állami célcsoportos lakásépítés előkészítettsége, a tervezett lakásszám éves ütemezése* táblázatban láthatjuk, hogy 1976-ban 120, 1977-ben 198 lakást terveztek építeni, ami együtt adja a fentebb látható 318-at. Így a lakótelep I. ütem befejezése 1977-re volt időzítve.
+
+Az I. ütem 
 
