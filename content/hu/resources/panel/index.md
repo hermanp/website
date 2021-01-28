@@ -199,6 +199,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1973. február 28.*: Jelentés az V. ötéves terv lakásépítési terve előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra.
     - *1975. október 29.*: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]
     - *1976. október 26.*: Jelentés az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről. [és] Jelentés a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről.
+    - *1978. június 21.*: A főváros 1976-1990. közötti 15 éves lakásépítési és lakásfejlesztési programja.
 
 - keresés `"Kispest III. ütem"`:
     - *1977. december 21.*: Az 1981-1982. évekre vonatkozó és a VI. ötéves tervi előzetes lakásépítési javaslat. [Benne Kispest III. ütem! Térkép! Táblázat! Területleírás!]
@@ -279,15 +280,6 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 
 - keresés `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
     - *1965. április 9.*: A Bp. VB és a Fővárosi Tanács VB együttes ülése Budapest fejlesztésének problémáiról. [Megtalálható a BFT VB alatt is!]
-    
-    > "A II. ötéves terv tényszámait, valamint a III. ötéves tervre előirányozható lakásépités tervszámait figyelembevéve, a IV. ötéves tervben mintegy 160-180.000 lakást kellene megépiteni. Ezt a feladatot a jelenleg kialakult lakásépítési ütem, valamint a jelenleg ismert'fejlesztési elképzelések figyelembevétele mellett nem lehet megoldani. Véleményünk szerint a reálisan előirányozható lakásszám a IV. ötéves terv időszakában 80.000 állami lakásra tehető. Ez esetben a 15 éves lakásfejlesztési terv végére, 1976. január 1-re, még mintegy 90-100.000 lakáshiánnyal kell számolni. Megállapítható, hogy **a 15 éves lakásépitési terv célkitűzései** országosan esetleg teljesíthetők, de **Budapesten** az épitőipar jelenlegi kapacitását figyelembevéve, **nem lehet teljesíteni**." — az előterjesztés 9. oldala
-    
-    > "A III. ötéves tervben végrehajtandó budapesti lakásépítés előkészítése nem mondható sikeresnek annak ellenére, hogy a Fővárosi Tanács és a Budapesti Pártbizottság a lakások telepítési javaslatát még 1962 szeptemberébon elfogadta. [...] Az OT és az ÉM a megadott irányszámot több izben változtatták. Először 60.000, majd 45.000 és legutóbb 34.000 db, állami lakás épitését irányozták elő. Végleges jóváhagyott lakásépítési tervszám még ma sincs. 1964. őszén az ÉM módosította az 1962-ben kiadott tervezési irányelveket. Ennek következtében az addig elkészült típustervek alkalmatlanokká váltak és uj típusterveket kellett készíteni. A szovjet házgyár által termelt lakások, valamint az ötszintes blokkos lakóépületek típusain kívül **ma sem rendelkezik a főváros a további szükséges tipustervekkel**. További bizonytalanság van a magasházak számának és építési technológiájának rendezésében is. A rendelkezésre álló kevés terület miatt, továbbá a nagy szanálási közlekedési, közmüvesitési költségek miatt, a lakosságsürüség növelése érdekében, ma már feltétlenül szükséges 10-12 szintes középmagas, illetve 15-16 szintes magasépületek építése. A középmagas épületek paneltechnológiával készülnek, a magas épületek technológiája még nincs egyértelműen megoldva." — az előterjesztés [12. oldala](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1965/?pg=462&layout=s)
-
-    > "A 12.oldal utolsó előtti bekezdése azt mondja, hogy a főváros ma sem rendelkezik a szükséges típustervekkel - két lakástipus kivételével. Kérdésem: az utóbbi években a népgazdaság nagy erőt forditott a típustervek készítésére, - mi az oka annak, hogy nem állnak rendelkezésre típustervek, és ki a felelős ezért?" — Rózsa László, UVATERV mérnöke, BFT VB tag
-    > "A típustervek vonalán bizonyos mértékig lemaradás van, a technológia nem végleges egyeztetéséből és eldöntéséből kifolyólag. A magasházak, a középmagas épületek technológiája, amely épületek nem házgyárban készülnek, nincs még egyértelmüleg lezárva. Az ÉM azt mondja, hogy a főváros néhány héten belül megkapja a technológiai előírásokat és akkor ki lehet majd alakítani ezekre a véglegesen meghatározott technológiákra a végleges típusterveket. A szovjet házgyár technológiája és arra a típustervek megvannak. A II. Ötéves tervben zömében használt középblokkos - földszint + 4 emeletes - épületek típusterve és az öntöttbeton-pontházak technológiája megvan. A további típustervek technológiája a tervek végleges eldöntésekor lesz jóváhagyva, nem általunk, hanem az ÉM tipustervező intézete által." — Szilágyi Lajos, a BFT VB Városrendezési és Építészeti Osztály osztályvezetője (hivatali szervezete tagja) válasza, amelyben kitér a poligonos és a házgyári építkezés gazdaságosságára is
-    > "Itt van például a lakáskérdés. Sok hiba, sok baj van ebben a tekintetben, - de mi ebben az alapvető kérdés? Véleményem szerint nem az a döntő, hogy házgyár van-e, vagy panel. Erre vonatkozóan már nyilvánítottam a véleményemet, amikor a Központi Bizottság ülésén ez a téma szerepelt. A Végrehajtóbizottságnak nem abban kell állásfoglalnia, hogy poligon van-e, vagy házgyár, - hanem azt kell rögzíteni, hogy Budapesten a lakásépítés műszaki bázisa, ipari bázisa nincsen megteremtve, illetve rossz a szervezete. Már pedig a lakásépítés ezen áll vagy bukik." — Perényi Imre, BFT VB tag, de korábbról úgy tűnik, ÉM miniszterhelyettes
-    > "A típustervekkel olyan problémáink vannak, hogy megváltozott a technológia, és igy a korábbi típustervek nem használhatók. Ehhez járul még, hogy kétizben is megváltoztatták a lakások alapterületére vonatkozó határozatot." — Sarlós István, BFT VB elnök
 
 ### Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
@@ -359,6 +351,10 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 
 ### Térképi ábrázolás
 Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dashboard map select click`, `r interactive map highlight polygon`
+
+## Képek
+[Fortepan](https://fortepan.hu): 65841, 66152-66156, 66264-66266, 66269, 66270, 66275-66278, 80082, 111500, 110523, 187837-187844, 195782, 195784, 195814-195817, 197911, 197912
+[Ilyesmi is volt Budapest](http://www.ilyenisvoltbudapest.hu): a fenti Fortepan képek, leírásokkal. [XIX. kerület](http://www.ilyenisvoltbudapest.hu/ilyen-is-volt/tizenkilencedik-kerulet-kispest)
 
 ## Folyóiratok, könyvek
 - Magyar Építőművészet ([MATARKA](https://matarka.hu/)-n böngészhető tartalomjegyzék)
