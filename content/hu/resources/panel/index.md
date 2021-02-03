@@ -14,8 +14,7 @@ Mivel a források néhány kivétellel magyar nyelvűek és a téma jellege miat
 
 Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogadom az érdeklődést!
 
-## Források
-### Cikkek
+## Cikkek
 - Google: `panel térkép`, `panel épület típus`, `panelház típusok`
     - [Panel lakás alaprajzok](https://orszagos-tanusito-kozpont.hu/tanusitas/tanusitas-panel-lakas-alaprajzok)
     - Iván László (1996): Budapesti falanszterek, *Földrajzi Értesítő*, 45(1-2) pp. 73-99.
@@ -62,7 +61,7 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
 - Hungaricana `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
     - [Az ezredik panellakás](https://library.hungaricana.hu/hu/view/DunantuliNaplo_1965_10/?pg=124&layout=s). *Dunántúli Napló*, 1965. október 22., 22. évfolyam, 249. szám. [Benne Juhász Ferenc, a Baranya megyei Építőipari Vállalat főtechnológusát, a panelgyártás technológiájának kidolgozóját, Tillai Ernő építészt, a panelépületek prototípusának és típusterveinek készítőjét és Wolf István építésvezetőt, aki az ezer lakás összeszerelését irányította szólaltatták meg.]
 
-### FSZEK
+## FSZEK
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
 - `kispest` kulcsszó, 315 találat:
     - Fodor L. István: Kispest: új városrész születik. _Élet és tudomány_ 33. évf. 39. sz. (1978), p. 1235-1237.
@@ -88,13 +87,14 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
     - Csorba Zoltán: Panelos lakóépületek a Budapesti 3.sz. Házgyár elemeiből. _Műszaki Tervezés_ 15. évf. 4. sz. (1975), p. 10-14.
     - Fülöp Imre: Budapesti 4. sz. Házgyár. _Ipari Építészeti Szemle_ 29. évf. (1979), p. 6-8.
 
-### Hungaricana Könyvtár
+## Hungaricana Könyvtár
 [Hungaricana Könyvtár](https://library.hungaricana.hu/hu/)
 
-#### BFT VB
+### BFT VB
 Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 
 - keresés: `Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest`, 175 találat; `Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem`, 14 találat; `Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program`, 43 találat; `XIX. ker Tanács végrehajtó bizottság`, 59 találat; `kispest "beruházási program"`, 422 találat. Rendezés: alapértelmezett (időrendi).
+    - *1988. június 29.*: Javaslat a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeire.
     - *1986. szeptember 10.*: A VII. ötéves tervi beruházási programok helyzetének áttekintése, javaslat a módosítások rendjére. 
     
     > "XIX., Kispest ltp. II/B ütem. A beruházási programban 8369 db lakás került jóváhagyásra. Az időközben érvénybe lépett "E" program és a pótlólag telepített 2 db garzonház megvalósításával a lakásszém 8562 db-ra emelkedett."
@@ -214,7 +214,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     
     > "Valamit kellene csinálni, mert a fővárosi tanácsnak jó lenne tudni, hogy abból a globális számból, amely a 15 évre szóló tervben bennefoglaltatik, mi lesz a részesedése. Tudniillik a helyzet az, hogy évekkel előbb kell már előkészíteni az építkezést. Ahhoz, hogy a lakótelepek helyét előkészítsük, kb két év szükséges. Azonkívül az új típusterveket is elő kell készíteni a harmadik ötéves tervhez. A jelenlegi tervek azért sem megfelelők, mert a 40 négyzetméter helyett 53 négyzetméter lesz a lakások alapterülete." — Bondor József, BFT VB elnökhelyettes
 
-#### BFT
+### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
 
 - keresés `"rendezési terv" (kispest OR XIX)`, Sorozat: Budapest Főváros Tanácsának jegyzőkönyvei 1950-1990, Rendezés: alapértelmezett, 331 találat:
@@ -231,7 +231,7 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
     - *1966. március 7.*: A Fővárosi Tanács 1966. évi városfejlesztési tervjavaslata. [Benne: 1966. évi városfejlesztési terv. Melléklet. 
 Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generáltervező BUVÁTI, altervezők FÖMTI, KERTI.]
 
-#### MSZMP BP PB
+### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
 
 - keresés: Hungaricana, `városrészközpont`, 763 találat, nincs szűrés
@@ -251,7 +251,7 @@ MSZMP Budapesti Pártbizottságának ülései
 - keresés `15 éves lakásfejlesztési terv`:
     - *1978. november 3.*: Fővárosi Tanács VB javaslata a főváros [tizenöt éves lakásépítési tervének irányelveire](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1978/?pg=219&layout=s), valamint a VI. ötéves terv lakásépítési és telepítési koncepciója. 
 
-#### MSZMP BP VB
+### MSZMP BP VB
 MSZMP Budapesti Végrehajtó Bizottságának ülései
 
 - keresés `III ötéves terv lakás kispest`:
@@ -281,7 +281,11 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 - keresés `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
     - *1965. április 9.*: A Bp. VB és a Fővárosi Tanács VB együttes ülése Budapest fejlesztésének problémáiról. [Megtalálható a BFT VB alatt is!]
 
-### Hungaricana Térképtár
+- keresés (kispest OR xix) 2W rekonstrukció*: 
+    - *1982. november 17.*: A XIX. Kerületi PB és a PTO beszámolója a XII. kongresszus óta végzett kerületi munkáról. [Őszinteség az összefoglalóban. Pl. szervezési nehézségek]
+    - *1986. szeptember 3.*: A XIX. Kerületi PB és a PTO jelentése a XIII. kongresszus óta végzett kerületi munka tapasztalatairól, különös tekintettel a kerület közrendjére, közbiztonságára.
+
+## Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
 - keresés `HIER=(BFLTerkeptarHierarchy-6) rendezési terv`, 15 találat:
     - [Budapest övezeti térképe](https://maps.hungaricana.hu/hu/BFLTerkeptar/4798), 1960.
@@ -301,7 +305,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     - [A XIX. kerület városrendezési alaptérképe a beépítési mód, lakókörzet, közintézmények utólagos jelölésével](https://maps.hungaricana.hu/hu/BFLTerkeptar/5754), 1967. február 6. Meglévő és tervezett közintézmények külön jelölve. Az R-12224 jóváhagyott részletes rendezési terv jelölt területe majdnem teljesen lefedi a későbbi kispesti lakótelep területét. A hivatkozott rendezési terv lenne az 1964. július 22-i Fővárosi Tanács Végrehajó Bizottság jegyzőkönyvében szereplő részletes rendezési terv?
     - [XIX. kerület intézkedési tervének módosítási javaslata](https://maps.hungaricana.hu/hu/BFLTerkeptar/5752). Megközelítési távolságok köreivel és a rekonstrukciós terület határának jelölésével.
 
-### Arcanum Digitális Tudománytár
+## Arcanum Digitális Tudománytár
 [Arcanum Digitális Tudománytár](https://adtplus.arcanum.hu/hu/) keresés:
 - `pomsár jános`, `kispest`:  
     Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. szám:
@@ -332,7 +336,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     :leftwards_arrow_with_hook: 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 148. oldal. Itt terjesztik fel a Kormánynak a rendezési tervet, amit ő határozatban jóváhagy. Ebben szerepel térkép! Egyúttal Dianoczky János elvtárs felszólal:
     > "Kerületünk élete lakás szempontjából 20 éve stagnál és ebből a dermedtségből most már egy minőségi csúszás is bekövetkezik. [...] Szeretném a lakásépítési koncepcióhoz csatlakozva a végleges terv kidolgozásakor konkréten Kispestre vonatkozólag a lakásépítési tervek felülvizsgálását kérni. Abban a reményben vagyunk, hogy ez az 500 lakás csak kezdete a kerület rekonstrukciójának." [Ez lenne az I. ütem, szerintem. A tanácsülés elnöke, Kelemen Lajos reagált: "Kispest vonatkozáséban vállaljuk az ottani városközpont indítását, és ezzel kapcsolatban a kispesti közmüvesítés építésére Giltner elvtársék már kidolgozták a tervet."]
 
-### Arcanum alkalmazások
+## Arcanum alkalmazások
 [Arcanum alkalmazások](http://apps.arcanum.hu/), melyen belül elérhető a [Budapest](http://apps.arcanum.hu/app/budapest/) folyóirat! Keresés `kispest*`, 594 találat:
 - Dr. Székely vera (1968): [Egy peremkerület előtörténete](http://apps.arcanum.hu/app/budapest/view/Budapest_1968/?query=SZO%3D(kispest*)&pg=297&layout=s). *Budapest*, 6. évfolyam, 6. szám, 36-37. pp. [Kispest előtörténete! Nagyon jó forrás!]
 - Szamos Rudolf (1969): [Faluból város](http://apps.arcanum.hu/app/budapest/view/Budapest_1969/?query=SZO%3D(kispest*)&pg=13&layout=s). *Budapest*, 7. évfolyam, 1. szám, 12. p.
@@ -343,18 +347,14 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 - Fekete Gábor: Fővárosi őrjárat III.: [A „csendes” városrész](http://apps.arcanum.hu/app/budapest/view/Budapest_1972/?query=SZO%3D(kispest*)&pg=323&layout=s).
 - Zolnay László (1973): [A paraszti élet kezdete, tündöklése és elmúlása](http://apps.arcanum.hu/app/budapest/view/Budapest_1973/?query=SZO%3D(kispest*)&pg=626&layout=s). *Budapest*, 11. évfolyam, 12. szám, 36-38. pp. [Benne: Minor Pest, azaz Kispest, de ez a Gellért-hegynél!]
 - Tömöry Márta, Benyó Márta (1974): ["Ős"-Kispest házai között](http://apps.arcanum.hu/app/budapest/view/Budapest_1974/?query=SZO%3D(kispest*)&pg=139&layout=s). *Budapest*, 12. évfolyam, 3. szám, 34-35. pp.
-- Hajduska István (): [A főváros múltjának kutatói](http://apps.arcanum.hu/app/budapest/view/Budapest_1976/?query=SZO%3D(kispest*)&pg=210&layout=s). *Budapest*, 14. évfolyam, 5. szám, 1-3. pp. [Nagyrészt a kispesti helytörténeti mozgalomról szól, példaként állítva a többi kerület elé.]
+- Hajduska István (1976): [A főváros múltjának kutatói](http://apps.arcanum.hu/app/budapest/view/Budapest_1976/?query=SZO%3D(kispest*)&pg=210&layout=s). *Budapest*, 14. évfolyam, 5. szám, 1-3. pp. [Nagyrészt a kispesti helytörténeti mozgalomról szól, példaként állítva a többi kerület elé.]
 - Dr. Buza Péter (1981): [A kispesti Gondűző-villa](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=174&layout=s). *Budapest*, 19. évfolyam, 4. szám, 17-19. pp.
-- Oszlay István: [Új városközpont a régi Kispesten](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=318&layout=s). _Budapest_ 19. évf. 7. sz. (1981), p. 5-7.
+- Oszlay István (1981): [Új városközpont a régi Kispesten](http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D(kispest*)&pg=318&layout=s). _Budapest_ 19. évf. 7. szám, p. 5-7.
 - Dr. Buza Péter (1981): A postamestert Klári néninek hívták. *Budapest* 19. évf. 7. sz, 18-21. pp. [Móricz Zsigmond kispesti kapcsolata.]
 - Szakolczay Lajos (1981): Kispest és a kisember. *Budapest*, 19. évfolyam, 7. szám, pp. 8-9. [Benne utalás a kispesti piac védelméről, ugyanis a II/B ütemben vagy legkésőbb az intézményközpont építésekor elbontották volna és vásárcsarnokot építettek volna. Lehet emiatt nem valósult meg az összes épület a tervből?]
 
-### Térképi ábrázolás
+## Térképi ábrázolás
 Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dashboard map select click`, `r interactive map highlight polygon`
-
-## Képek
-[Fortepan](https://fortepan.hu): 65841, 66152-66156, 66264-66266, 66269, 66270, 66275-66278, 80082, 111500, 110523, 187837-187844, 195782, 195784, 195814-195817, 197911, 197912
-[Ilyesmi is volt Budapest](http://www.ilyenisvoltbudapest.hu): a fenti Fortepan képek, leírásokkal. [XIX. kerület](http://www.ilyenisvoltbudapest.hu/ilyen-is-volt/tizenkilencedik-kerulet-kispest)
 
 ## Folyóiratok, könyvek
 - Magyar Építőművészet ([MATARKA](https://matarka.hu/)-n böngészhető tartalomjegyzék)
@@ -362,6 +362,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Építésügyi Értesítő
 - [Budapest](http://apps.arcanum.hu/app/budapest/)
 - Városépítés
+- Városi Közlekedés
 - Műszaki Tervezés
 - Műszaki Élet
 - Bitó János (2013): Lakóépületek tervezése
@@ -438,7 +439,12 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - alagútzsalu
 
 ## Képek
-FSZEK katalógus: `kispest lakótelep` [Bármely kulcsszó] keresés
+- [Fortepan](https://fortepan.hu): 65841, 66152-66156, 66264-66266, 66269, 66270, 66275-66278, 80082, 111500, 110523, 187837-187844, 195782, 195784, 195814-195817, 197911, 197912
+- [Ilyesmi is volt Budapest](http://www.ilyenisvoltbudapest.hu): a fenti Fortepan képek, leírásokkal. [XIX. kerület](http://www.ilyenisvoltbudapest.hu/ilyen-is-volt/tizenkilencedik-kerulet-kispest)
+- Google `(kispest OR xix) rekonstrukció*`:
+    - A kispesti rekonstrukció alapkőletétele: 1972. október 12. = 30 éve szabad Kispest. (Budapest, 1975) p. 54.
+    - A kispesti városrészközpont makettje. = A 100 éves Kispest. (Budapest, 1972.) p. 234.
+- FSZEK katalógus: `kispest lakótelep` [Bármely kulcsszó] keresés
 *A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés*
 FSZEK Központi Könyvtár Budapest Gyűjtemény, raktár
 
