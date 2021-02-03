@@ -133,7 +133,6 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1977. február 2.*: A XIX. ker. Kispest városközpont II/A ütem beruházási programja [hivatkozik rá az 1981. október 28-i tájékoztató, hivatkozik az 1973. december 19-i beruházási programra, térkép]
     - *1976. december 8.*: Határidőmódosítási kérelem. XIX.ker.Városközpont, rendezési terv. 687. o. 
     - *1976. november 10.*: Beruházási programok előterjesztésének határidő módosítása, 594-595. o.
-    - *1974. június 12.*: A XIX. Kerületi Tanács VB beszámolója munkájáról, különös tekintettel a rekonstrukció helyzetére. [logó, adatok, térkép, és összefoglaló a tervpályázatról két bekezdésben. Utóbbi 1973-ban lett kiiírva, 1974-ben volt határidő, ekkor választottak 17 pályamű közül.]
     - *1974. április 10.*: Javaslat a főváros V. ötéves lakásépítési koncepciójára. [benne fejlesztési indoklás, lakásépítés feltételei, közút, közművek, tervellátottság. Nincs térkép.]
     
     > "A terület tervezése késésben van; a részletes rendezési terv a folyamatban lévő tervpályázat eredményétől függően csak 1974-ben készíthető el."
@@ -213,6 +212,11 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1963. augusztus 10.*: A fővárosi lakásépítési program végrehajtásának helyzete és a további feladatok.
     
     > "Valamit kellene csinálni, mert a fővárosi tanácsnak jó lenne tudni, hogy abból a globális számból, amely a 15 évre szóló tervben bennefoglaltatik, mi lesz a részesedése. Tudniillik a helyzet az, hogy évekkel előbb kell már előkészíteni az építkezést. Ahhoz, hogy a lakótelepek helyét előkészítsük, kb két év szükséges. Azonkívül az új típusterveket is elő kell készíteni a harmadik ötéves tervhez. A jelenlegi tervek azért sem megfelelők, mert a 40 négyzetméter helyett 53 négyzetméter lesz a lakások alapterülete." — Bondor József, BFT VB elnökhelyettes
+    
+- keresés `"XIX Kerületi" Tanács VB 2W beszámoló*`:
+   - *1974. június 12.*: A XIX. Kerületi Tanács VB beszámolója munkájáról, különös tekintettel a rekonstrukció helyzetére. [logó, adatok, térkép, és összefoglaló a tervpályázatról két bekezdésben. Utóbbi 1973-ban lett kiiírva, 1974-ben volt határidő, ekkor választottak 17 pályamű közül.]
+   - *1979. november 8.*: A XIX. ker. Tanács VB beszámolója munkájáról. [1975-1979]
+   - *1987. április 8.*: A XIX. Kerületi Tanács VB beszámolója tevékenységéről. [1980-1986]
 
 ### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
@@ -277,11 +281,12 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 
 - keresés: valami összetett, az ötéves lakástelepítési tervről
     - *1972. augusztus 11.*: Jelentés a IV. ötéves tervben előirányzott budapesti lakásépítés időarányos teljesítéséről. Javaslat az V. ötéves terv budapesti lakásépítési és telepítési előzetes programjára. [benne Az V. ötéves terv lakástelepitése céljára számításba vehető területek. Térkép. Sokban hasonlít az 1972. október 5-i MSZMP BP PB ülésén előadottakkal. Különbség: a 2. melléklet átdolgozva, más számok, Kispest a IV. számú házgyári technológiára jelölve.]
+    - *1976. január 16.*: A Fővárosi Tanács VB előterjesztése a negyedik ötéves lakásépítési terv teljesítéséről és az 1976. évi feladatokról. [Miért voltak lemaradások?]
 
 - keresés `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
     - *1965. április 9.*: A Bp. VB és a Fővárosi Tanács VB együttes ülése Budapest fejlesztésének problémáiról. [Megtalálható a BFT VB alatt is!]
 
-- keresés (kispest OR xix) 2W rekonstrukció*: 
+- keresés `(kispest OR xix) 2W rekonstrukció*`: 
     - *1982. november 17.*: A XIX. Kerületi PB és a PTO beszámolója a XII. kongresszus óta végzett kerületi munkáról. [Őszinteség az összefoglalóban. Pl. szervezési nehézségek]
     - *1986. szeptember 3.*: A XIX. Kerületi PB és a PTO jelentése a XIII. kongresszus óta végzett kerületi munka tapasztalatairól, különös tekintettel a kerület közrendjére, közbiztonságára.
 
