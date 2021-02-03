@@ -290,6 +290,9 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     - *1982. november 17.*: A XIX. Kerületi PB és a PTO beszámolója a XII. kongresszus óta végzett kerületi munkáról. [Őszinteség az összefoglalóban. Pl. szervezési nehézségek]
     - *1986. szeptember 3.*: A XIX. Kerületi PB és a PTO jelentése a XIII. kongresszus óta végzett kerületi munka tapasztalatairól, különös tekintettel a kerület közrendjére, közbiztonságára.
 
+- keresés `Budapest és környéke általános rendezési terv 1971`, 78 találat: 
+    - *1988. február 8.*: [A Fővárosi Tanács VB jelentése Budapest Általános Rendezési Tervének programjáról ](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1988/?pg=308&layout=s). [Rengeteg térkép, grafikon!]
+
 ## Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
 - keresés `HIER=(BFLTerkeptarHierarchy-6) rendezési terv`, 15 találat:
@@ -313,33 +316,13 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 ## Arcanum Digitális Tudománytár
 [Arcanum Digitális Tudománytár](https://adtplus.arcanum.hu/hu/) keresés:
 - `pomsár jános`, `kispest`:  
-    Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. szám:
+    - Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. szám:
     > "A Minisztertanács három évvel ezelőtt jóváhagyta Budapest és környéke általános rendezési tervét és ennek keretében a dél-pesti városrész központját az Üllői út mentén, Kispest területén jelölte meg."
-        
-    Hungaricana keresés `Budapest és környéke általános rendezési terv 1971`, 78 találat:  
-    :arrow_right: *1972. február 11.* MSZMP Budapesti Végrehajtó Bizottságának ülései: A KPM jelentése a közlekedési és hírközlési ágazat budapesti helyzetéről és fejlesztési célkitűzéseiről [link](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1972/?pg=192&layout=s)
-    > "[...] "Budapest és környéke általános rendezési terve 1970"-nel, amelyet a Kormány 1005/1971/II.16./sz. határozatával hagyott jóvá."
-    
-    :star: *1988. február 8.* MSZMP Budapesti Végrehajtó Bizottságának ülései: [A Fővárosi Tanács VB jelentése Budapest Általános Rendezési Tervének programjáról ](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1988/?pg=308&layout=s). [Rengeteg térkép, grafikon!]
-    
-    :heavy_plus_sign: valahogy elkeveredtem a Fővárosi blogra, [Budapest jövője 1971 1. rész](https://fovarosi.blog.hu/2009/02/02/budapest_jovoje_1971_1_resz):
-    > "Budapest és környéke általános rendezési tervét 1971. február 7-én (megj.: másik helyen 16-át említ a könyv) hagyta jóvá a Magyar Népköztársaság Minisztertanácsa"
-        
-    :arrow_right: Hungaricana, Tanácsok Közlönye keresés `Budapest és környéke általános rendezési terv 1971`: Tanácsok közlönye, 1971 (20. évfolyam, 1-61. szám) 1971/8. szám, 232. oldal.
-    > "egyben felhívja Budapest Főváros Tanácsának Végrehajtó Bizottságát, hogy a felülvizsgált általános rendezési terv, továbbá az Országos Építésügyi Szabályzat város- és községrendezési előírásainak alapján a Budapesti Városrendezési Szabályzat módosítását készíttesse el és annak tanácsrendeletként történő kiadásáról gondoskodjék."
-        
-    :arrow_right: Hungaricana, keresés `Budapest és környéke általános rendezési terv 1971`  
-    :arrow_right_hook: 1972. október 31. Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei.
-    > "Épitési és Városfejlesztési Minisztériumnak a már hatályba lévő [Országos Építésügyi Szabályzat] I. kötetet is módosítania kell, és ezek a módosítások több vonatkozásban hatással lesznek az uj Budapesti Városrendezési Szabályzatra." [Ezért későbbre halasztották]
-        
-    :arrow_right_hook: 1975. április 8.  
-    > "hogy a BVSz. tervezetét ... legkésőbb 1975. év végéig terjesszék a Tanács elé" [mivel halasztani kellett újból, hasonlóan az előző okokból]
-        
-    :arrow_right_hook: 1975. december 16. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 50. oldal:
-    > "Budapest Főváros Tanácsa 1971-ben elfogadta Budapest és környéke általános rendezési tervét, amelyet a Kormány 1005/1971./II.26./ Korm. sz. határozatával jóváhagyott. [...] A kormányhatározat alapján - többszöri átdolgozással - elkészítettük az uj BVSZ tervezetét." [De sajna nincs benne szó Kispestről, se térkép. Pontosítva: néhány védett fasor és terület feltüntetése a kerületben.]
-    
-    :leftwards_arrow_with_hook: 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 148. oldal. Itt terjesztik fel a Kormánynak a rendezési tervet, amit ő határozatban jóváhagy. Ebben szerepel térkép! Egyúttal Dianoczky János elvtárs felszólal:
-    > "Kerületünk élete lakás szempontjából 20 éve stagnál és ebből a dermedtségből most már egy minőségi csúszás is bekövetkezik. [...] Szeretném a lakásépítési koncepcióhoz csatlakozva a végleges terv kidolgozásakor konkréten Kispestre vonatkozólag a lakásépítési tervek felülvizsgálását kérni. Abban a reményben vagyunk, hogy ez az 500 lakás csak kezdete a kerület rekonstrukciójának." [Ez lenne az I. ütem, szerintem. A tanácsülés elnöke, Kelemen Lajos reagált: "Kispest vonatkozáséban vállaljuk az ottani városközpont indítását, és ezzel kapcsolatban a kispesti közmüvesítés építésére Giltner elvtársék már kidolgozták a tervet."]
+
+- `kispest végrehajtó bizottság (tervpályázat OR pályázat)`:
+    - Magyar Nemzet, 1973. július (29. évfolyam, 152-177. szám) 1973-07-28 / 175. szám:
+    > "az Építésügyi és Városfejlesztési Minisztérium és a Fővárosi Tanács Végrehajtó Bizottsága együttesen pályázatot írt ki. A tervezési program részletesen meghatározza a kispesti városrészközpont kialakításának feltételeit."
+
 
 ## Arcanum alkalmazások
 [Arcanum alkalmazások](http://apps.arcanum.hu/), melyen belül elérhető a [Budapest](http://apps.arcanum.hu/app/budapest/) folyóirat! Keresés `kispest*`, 594 találat:
