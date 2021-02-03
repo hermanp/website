@@ -18,6 +18,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+toc: true
 ---
 
 A kispesti lakótelep történetét feldolgozó sorozat [1. részében](/hu/post/kispest-lakotelep-1-resz/) olvashattunk arról, hogyan kezdődött a lakótelep építésének tervezése, hogyan ágyazódott bele egy nagyobb budapesti tervbe. E nagy budapesti terv egyik eleme maga a lakástelepítési terv volt, ami folyamatosan alakult. Ahogy [ebben](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1978/?pg=1833&layout=s) az 1978. november 3-i MSZMP BP PB jegyzőkönyvben szerepel:
@@ -319,7 +320,12 @@ Ez meg is történt a BFT VB 3/1975. sz. határozatával. Próbáltam megtaláln
 
 Feljebb láthattuk, hogy áthúzódott az I. ütem lakásépítése az V. ötéves terv idejére. Erre az időszakra vonatkozóan az **1975. október 29**-i BFT VB ülésen tárgyalt *A főváros V. ötéves lakástelepítési és lakásépítési tervében* találunk táblázatot. A 6. sz. mellékletben, *Az állami célcsoportos lakásépítés előkészítettsége, a tervezett lakásszám éves ütemezése* táblázatban láthatjuk, hogy 1976-ban 120, 1977-ben 198 lakást terveztek építeni, ami együtt adja a fentebb látható 318-at. Így a lakótelep I. ütemének befejezése 1977-re volt időzítve.
 
-[1974. június 12]()
+[1974. június 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1974-06-12/?pg=0&layout=s)-én tárgyalták a *XIX. Kerületi Tanács VB beszámolóját*, ami kitért a város rekonstrukcióra. Rövid összefoglalót ad az I. ütem alakulásáról és jelen állásáról és bár nem nevezi meg, de a II. ütem tervpályázatáról is ír. Ezt 1973-ban írták ki, amiről a Magyar Nemzet [1973. július 28-i](https://adtplus.arcanum.hu/hu/view/MagyarNemzet_1973_07/?query=kispest%20v%C3%A9grehajt%C3%B3%20bizotts%C3%A1g%20%28tervp%C3%A1ly%C3%A1zat%20OR%20p%C3%A1ly%C3%A1zat%29&pg=269) száma is beszámol. 1974-ben hirdettek győztest a 17 db pályamű közül. Érdekesség a mellékelt térkép, amelyet lejjebb közlök.
+
+{{< figure src="XIX_beszamolo_terkep_1974.png" title="Térképmelléklet a XIX. kerületi Tanács VB beszámolójához. Az I. ütem és folytatása (talán a módosított beruházási program 318 db paneles lakása?), az ipari terület és a nagyüzemek, valamint a rekonstrukciós terület jelölésével. A M3 metró végállomása már Kőbánya-Kispest." numbered="true" >}}
+
+
+## Jelentés az I. ütem befejezéséről 1982
 
 Az I. ütemről érdemi információt ezt követően a befejezéséről szóló jelentésben lelehetünk fel, ami viszont kitűnő összefoglalását adja a folyamatnak.
 
