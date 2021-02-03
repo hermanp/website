@@ -60,3 +60,26 @@ Az **I. sz. táblázat** az egyes területek részletes értékelését tartalma
 
 A továbbiakban még írnak a kapacitásigényről és arról: fel lehet-e építeni a javaslatban szereplő lakásokat? Rövid válasz: igen.
 
+Az [1974. április 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1974-04-10/?pg=0&layout=s)-én tárgyalt *javaslat a főváros V. ötéves lakásépítési koncepciójáról* párhuzamba állítható a cikksorozat 2. részében részletezett, [1972. április 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=0&layout=s)-i *V. ötéves terv lakásépítéssel kapcsolatos teendőivel*. Mindkettőben a Kispestre vonatkozó érdemi rész a területismertető műleírás, amelyben eltérés tapasztalható:
+- lehatárolás: megnövekszik a terület, a II. ütem területe hangsúlyosan megjelenik.
+- tervellátottság: a terület tervezése megkésett, a részletes rendezési tervet a folyamatban levő tervpályázat miatt később lehet csak elkészíteni. Vélhetőleg ez a II. ütem tervpályázata és rendezési terve, nem pedig a korábbi rendezési tervek újbóli felülvizsgálata.
+- technológia: a II. sz. házgyár helyett a IV. sz. házgyár termékei lettek előírva.
+
+A többi leírás tartalmában hasonló, inkább egyes pontok részletesebbek (pl. közmű). Utolsó pontjában, az táblázatos összefoglalásban látható eltérés:
+
+*1972. április 12. Összefoglaló táblázat.*
+
+| XIX. Kispest központ (ötéves terv) | 1975. XII. 31-ig | 1975. után | Összesen |
+| ---------------------------------- | ---------------- | ---------- | -------- |
+| Építés                             | 600              |      11100 |    11700 |
+| Bontás                             | 600 (?)          |       3100 |     3700 |
+
+
+*1974. április 10. Összefoglaló táblázat.*
+
+| XIX. Kispest központ (ötéves terv) | IV.     | V.   | 1980 után       | Összesen |
+| ---------------------------------- | ------- | ---- | --------------- | -------- |
+| Építés                             | -       | 6000 | 7000            | 13000    |
+| Bontás                             | 500     | 1700 | 1500            | 3700     |
+
+
