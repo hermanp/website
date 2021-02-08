@@ -14,6 +14,9 @@ Mivel a források néhány kivétellel magyar nyelvűek és a téma jellege miat
 
 Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogadom az érdeklődést!
 
+## Szakdolgozat
+- Balázs Péter: [Budapest területének fejlődése 1945-től napjainkig](http://lazarus.elte.hu/hun/digkonyv/szakdolg/2012-bsc/balazs_peter.pdf). ELTE IK Térképtudományi és Geoinformatikai Tanszék, 2011. [Benne a városfejlesztési vezetőkről történeti áttekintés.]
+
 ## Cikkek
 - Google: `panel térkép`, `panel épület típus`, `panelház típusok`
     - [Panel lakás alaprajzok](https://orszagos-tanusito-kozpont.hu/tanusitas/tanusitas-panel-lakas-alaprajzok)
@@ -58,8 +61,13 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
     - Az Építésügyi és Városfejlesztési Minisztérium [10/1970. ÉVM számú közleménye](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1970/?pg=340&layout=s) a ME 95—67 számú, a panelos lakóépületek tervezéséről és kivitelezéséről szóló Műszaki Előírás módosításáról.
 - Hungaricana `tipusterv`:
     - [Új Típusterv Katalógus megjelenése](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?query=%C3%89M%20tipusterv&pg=206&layout=s), *Tanácsok Közlönye*, 1960, 8. évfolyam, 16. szám
+- [Az építésügyi és városfejlesztési miniszter 1/1909. (I.8.) ÉVM számú rendelete az építési tipizálásról](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1969/?pg=71&layout=s). Tanácsok közlönye, 1969, 17. évfolyam, 1. szám
 - Hungaricana `SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)`:
     - [Az ezredik panellakás](https://library.hungaricana.hu/hu/view/DunantuliNaplo_1965_10/?pg=124&layout=s). *Dunántúli Napló*, 1965. október 22., 22. évfolyam, 249. szám. [Benne Juhász Ferenc, a Baranya megyei Építőipari Vállalat főtechnológusát, a panelgyártás technológiájának kidolgozóját, Tillai Ernő építészt, a panelépületek prototípusának és típusterveinek készítőjét és Wolf István építésvezetőt, aki az ezer lakás összeszerelését irányította szólaltatták meg.]
+- Kondor Attila Csaba – Szabó Balázs: [A lakáspolitika hatása Budapest városszerkezetéreaz 1960-as és az 1970-es években](http://www.mtafki.hu/konyvtar/kiadv/FE2007/FE20073-4_237-269.pdf). *Földrajzi Értesítő* 2007. LVI. évf. 3–4. füzet, pp. 237–269.
+- Hungaricana ``:
+    - Réfi Oszkó Magdolna: [Műszaki tervdokumentumok az államosított építőiparban](https://library.hungaricana.hu/hu/view/LeveltariKorpusz_LevModFuz_09/?pg=0&layout=s). Levéltári módszertani füzetek. Bp, 1990, Új Magyar Központi Levéltár, 340 p. [Benne: Az állami műszaki tervező szervezet kialakulása és fejlődése 1948-tól napjainkig. A beruházások tervezésének és lebonyolításának rendszere. Az építési műszaki tervdokumentumok fajtái és tartalma.]
+
 
 ## FSZEK
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
@@ -86,6 +94,7 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
     - Csaba László: A Budapesti 4.sz. Házgyár sorozattervei. _Műszaki Tervezés_ 14. évf. 3. sz. (1974), p. 16-22.
     - Csorba Zoltán: Panelos lakóépületek a Budapesti 3.sz. Házgyár elemeiből. _Műszaki Tervezés_ 15. évf. 4. sz. (1975), p. 10-14.
     - Fülöp Imre: Budapesti 4. sz. Házgyár. _Ipari Építészeti Szemle_ 29. évf. (1979), p. 6-8.
+
 
 ## Hungaricana Könyvtár
 [Hungaricana Könyvtár](https://library.hungaricana.hu/hu/)
@@ -218,6 +227,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
    - *1979. november 8.*: A XIX. ker. Tanács VB beszámolója munkájáról. [1975-1979]
    - *1987. április 8.*: A XIX. Kerületi Tanács VB beszámolója tevékenységéről. [1980-1986]
 
+
 ### BFT
 Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
 
@@ -234,6 +244,7 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
 - keresés passz
     - *1966. március 7.*: A Fővárosi Tanács 1966. évi városfejlesztési tervjavaslata. [Benne: 1966. évi városfejlesztési terv. Melléklet. 
 Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generáltervező BUVÁTI, altervezők FÖMTI, KERTI.]
+
 
 ### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
@@ -254,6 +265,7 @@ MSZMP Budapesti Pártbizottságának ülései
 
 - keresés `15 éves lakásfejlesztési terv`:
     - *1978. november 3.*: Fővárosi Tanács VB javaslata a főváros [tizenöt éves lakásépítési tervének irányelveire](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1978/?pg=219&layout=s), valamint a VI. ötéves terv lakásépítési és telepítési koncepciója. 
+
 
 ### MSZMP BP VB
 MSZMP Budapesti Végrehajtó Bizottságának ülései
@@ -293,6 +305,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 - keresés `Budapest és környéke általános rendezési terv 1971`, 78 találat: 
     - *1988. február 8.*: [A Fővárosi Tanács VB jelentése Budapest Általános Rendezési Tervének programjáról ](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1988/?pg=308&layout=s). [Rengeteg térkép, grafikon!]
 
+
 ## Hungaricana Térképtár
 [Térképek és Építészeti Tervek](https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/) :arrow_right: Budapest Főváros Levéltára – Térképek :arrow_right: Budapest térképeinek katalógusa :arrow_right: [Az 1950–2000 közötti időszakra vonatkozó térképek leírása](https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D(BFLTerkeptarHierarchy-6))
 - keresés `HIER=(BFLTerkeptarHierarchy-6) rendezési terv`, 15 találat:
@@ -312,6 +325,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     - [XIX. kerület. Intézkedési terv. Tervezés, építési lehetőségek, zöldterület, közlekedés](https://maps.hungaricana.hu/hu/BFLTerkeptar/5756), 1961. A Fővárosi Tanács Végrehajtó Bizottság VIII. Városrendezési és Építészeti Osztály osztályvezetője, Szilágyi Lajos hagyta jóvá 1961. május 22-én. Üllői út átépítése, Kosárfonó utca (elődjének) meghosszabbítása, véderdő sáv az ipari terület körül (ma a Lehel utcától ÉNY-ra eső terület a Határ úti csomópontig).
     - [A XIX. kerület városrendezési alaptérképe a beépítési mód, lakókörzet, közintézmények utólagos jelölésével](https://maps.hungaricana.hu/hu/BFLTerkeptar/5754), 1967. február 6. Meglévő és tervezett közintézmények külön jelölve. Az R-12224 jóváhagyott részletes rendezési terv jelölt területe majdnem teljesen lefedi a későbbi kispesti lakótelep területét. A hivatkozott rendezési terv lenne az 1964. július 22-i Fővárosi Tanács Végrehajó Bizottság jegyzőkönyvében szereplő részletes rendezési terv?
     - [XIX. kerület intézkedési tervének módosítási javaslata](https://maps.hungaricana.hu/hu/BFLTerkeptar/5752). Megközelítési távolságok köreivel és a rekonstrukciós terület határának jelölésével.
+
 
 ## Arcanum Digitális Tudománytár
 [Arcanum Digitális Tudománytár](https://adtplus.arcanum.hu/hu/) keresés:
@@ -341,8 +355,10 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 - Dr. Buza Péter (1981): A postamestert Klári néninek hívták. *Budapest* 19. évf. 7. sz, 18-21. pp. [Móricz Zsigmond kispesti kapcsolata.]
 - Szakolczay Lajos (1981): Kispest és a kisember. *Budapest*, 19. évfolyam, 7. szám, pp. 8-9. [Benne utalás a kispesti piac védelméről, ugyanis a II/B ütemben vagy legkésőbb az intézményközpont építésekor elbontották volna és vásárcsarnokot építettek volna. Lehet emiatt nem valósult meg az összes épület a tervből?]
 
+
 ## Térképi ábrázolás
 Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dashboard map select click`, `r interactive map highlight polygon`
+
 
 ## Folyóiratok, könyvek
 - Magyar Építőművészet ([MATARKA](https://matarka.hu/)-n böngészhető tartalomjegyzék)
@@ -357,7 +373,9 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Reischl Antal (1979): Lakóépületek tervezése, Tankönyvkiadó Vállalat, p 328.
 - Ferkai András (2005): [Lakótelepek](https://library.hungaricana.hu/hu/view/VaroshazaKiado_0112/?pg=0&layout=s)
 - Preisich Gábor (1998): Budapest városépítésének története, Műszaki Könyvkiadó
+- Modern építészeti lexikon (Műszaki Könyvkiadó, Budapest, 1978)
 - Panelki: [Construct Your Socialist Prefab Panel Block](https://www.zupagrafika.com/shop/panelki)
+
 
 ## Intézetek, vállalatok
 - Budapest Főváros Tanácsa (**építtető**, Kispest)
@@ -384,6 +402,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet
 - [Magyar Panelrehabilitációs Nonprofit Kft.](http://magyarpanel.hu/)
 
+
 ## Személyek
 - Iván László
 - [Csizmady Adrienne](https://tk.hu/kutato/csizmady-adrienne) (ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet)
@@ -392,6 +411,7 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Balla Regina (PhD hallgató, BME ÉPK Urbanisztika Tanszék)
 - Weiszkopf András (tanársegéd, BME ÉPK [Lakóépülettervezési Tanszék](http://www.lako.bme.hu/?page_id=98))
 - [Mészáros Ábel](https://hu.linkedin.com/in/%C3%A1bel-m%C3%A9sz%C3%A1ros-50b83b56) (Lechner Tudásközpont)
+- kitűnő oldal az urbanistákról, pantheon: https://urbanistak.hu/
 - [Ihrig Dénes](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Sajnos 2019-ben elhunyt. [Kispest központjának részletes rendezési terve](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s). (Társtervező: Takács Máté.) 1963. Ekkor 33 éves, adjunktus. 
 - Zoltai István:
     - Magyar Építőművészet, 1979/6.szám :
@@ -399,8 +419,15 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
     - [Amikor szalvétára fért egy budapesti lakótelep terve](https://index.hu/urbanista/2018/03/28/kaposztasmegyer_lakotelep_terkep_terv_panel_kapi_ujpest/):
     > "Ez a terv még abban az évben kész lett a LAKÓTERV építészgárdája jóvoltából, Zoltai István építész vezetésével (aki egyébként Ybl Miklós-díjas, de azt még 1976-ban kapta a Kispesti lakótelepért)."
     - `"zoltai istván"` Hungaricana keresés, 200 találat. *1987. március 11.* - Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei: Javaslat Reitter Ferenc díj adományozására. [személyes adatok, elismerései, méltatás, a javaslat indoklása építészeti tevékenységével, de Ybl-díjának okát nem említik]
+    - Ybl Egyesület: [Ybl-díjas építészek](http://yblegyesulet.hu/ybl-dij/ybl-dijas-epiteszek/), 1976. Egy Word dokumentum tartalmazza az adatokat: III. fokozat, *„Kispest lakótelep tervezésében kifejtett városrendezési tevékenységéért”*. 1943-ban született.
+    - Úgy tűnik él és alkot jelenleg is: Korényi és Társai Kft. munkáinál vállal szerepet. Z & W Építésziroda?
+    - A BME ÉPK Középülettervezési Tanszékén [diplomázott](http://www.kozep.bme.hu/wp-content/uploads/2016/09/diploma-Kozep-1946-2016.pdf), 1966-ban.
+- [Reischl Antal](https://mek.oszk.hu/00300/00355/html/ABC12527/12847.htm), BFT VB tag, egyetemi tanár a BME ÉPK Lakóépülettervezési Tanszékén
 - Bálint Imre, Kispest II/A ütem és kispesti városközpont tervezője
-- Pomsár János, BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967)
+- [Pomsár János](https://hu.wikipedia.org/wiki/Poms%C3%A1r_J%C3%A1nos): BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967). [Gyászhíre](http://mek.hu/index.php?id=44609) a Magyar Építész Kamara honlapján, [nekrológja](http://meonline.hu/magyar-epitomuveszet-hirek/bucsu/pomsar-janos-1931-2018/) a Magyar Építőművészet oldalán, [életrajza](https://urbanistak.hu/category/mnop/) az urbanistak.hu oldalon található meg.
+- Szilágyi Lajos, Városrendezési és Építészeti Főosztály, főosztályvezető, ÉM miniszterhelyettes. Reitter Ferenc-díj: 1989, Lechner Ödön díj: 1996. Szülőhelyük: Szabolcs-Szatmár című könyvben (Nyíregyháza, 1985, 519 p.) szerepel.
+- Heincz Mihály, Városrendezési és Építészeti Főosztály, főosztályvezető. [Életrajza](https://eptud.viacomkft.hu/hirek/in-memoriam-heincz-mihaly) a gyászhír kapcsán olvasható az Építéstudományi Egyesület oldalán. A Youtube-on elérhető egy 20 perces [portréműsor](https://www.youtube.com/watch?v=l89_KFe3pmU) róla "9. tv Ferencváros Televíziója" csatornáján.
+- [Polónyi Károly](https://epiteszforum.hu/polonyi-karoly-epitesz-emlekkiallitasa), BFT VB Városrendezési és Építészeti Főosztály megbízott főosztályvezető. További cikkek a Lechner Tudásközpont oldalán: A déli part alkirálya [I](http://uj.lechnerkozpont.hu/cikk/a-deli-part-alkiralya-i), [II](http://uj.lechnerkozpont.hu/cikk/a-deli-part-alkiralya-ii). 
 - Pongrácz Pál, Városrendezési és Építészeti Főosztály, főosztályvezető (Kispest II/B ütem előadó)
 - Giltner Andor, tanácselnök helyettes (Kispest II/B ütem felelős)
 - Szabó Balázs (MTA CSFK FTI)
