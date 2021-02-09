@@ -203,7 +203,7 @@ Ezt követik a **területismertető műleírások**, amiket a BUVÁTI I. Városr
 
 Ugyanezen év, [1972. október 5](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1972/?pg=285&layout=s)-én tárgyalta az MSZMP BP PB a fenti anyagokat *"A Bp. VB jelentése az V. ötéves terv budapesti lakásépítés előzetes programjáról"* tárggyal. És érdekesség, hogy történtek módosítások. Például a 2. sz. melléklet táblázatában már IV. számú házgyár van megjelölve technológiaként és a közművesítés kezdetének 1973. Továbbá az V. ötéves tervi lakásépítés a korábbi 3450 helyett 6750!
 
-*2. sz. melléklet: Az V. Ötéves terv lakástelepitése céljára számításba vehető területek*
+*2. sz. melléklet: Az V. Ötéves terv lakástelepítése céljára számításba vehető területek*
 
 | XIX. Kispest központ (ötéves terv) | IV. után | V.   |
 | ---------------------------------- | -------- | ---- |
@@ -320,7 +320,7 @@ a Végrehajtó Bizottság határozatának megfelelően összeállították azt a
 
 Ez meg is történt a BFT VB 3/1975. sz. határozatával. Próbáltam megtalálni ezt a *tervgyűjteményt* a Hungaricana-ban, de nem sikerült. Viszont a FSZEK-ben fellelhető: *Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei.* (Összeállította: Garai László, Szvoboda Imréné, közreadja a FŐBER, Bp., 1976)
 
-Feljebb láthattuk, hogy áthúzódott az I. ütem lakásépítése az V. ötéves terv idejére. Erre az időszakra vonatkozóan az **1975. október 29**-i BFT VB ülésen tárgyalt *A főváros V. ötéves lakástelepítési és lakásépítési tervében* találunk táblázatot. A 6. sz. mellékletben, *Az állami célcsoportos lakásépítés előkészítettsége, a tervezett lakásszám éves ütemezése* táblázatban láthatjuk, hogy 1976-ban 120, 1977-ben 198 lakást terveztek építeni, ami együtt adja a fentebb látható 318-at. Így a lakótelep I. ütemének befejezése 1977-re volt időzítve.
+Feljebb láthattuk, hogy áthúzódott az I. ütem lakásépítése az V. ötéves terv idejére. Erre az időszakra vonatkozóan az **1975. október 29**-i BFT VB ülésen tárgyalt *A főváros V. ötéves lakástelepítési és lakásépítési tervében* találunk táblázatot. A 8. sz. mellékletben, *Az állami célcsoportos lakásépítés előkészítettsége, a tervezett lakásszám éves ütemezése* táblázatban láthatjuk, hogy 1976-ban 120, 1977-ben 198 lakást terveztek építeni, ami együtt adja a fentebb látható 318-at. Így a lakótelep I. ütemének befejezése 1977-re volt időzítve.
 
 [1974. június 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1974-06-12/?pg=0&layout=s)-én tárgyalták a *XIX. Kerületi Tanács VB beszámolóját*, ami kitért a város rekonstrukcióra. Rövid összefoglalót ad az I. ütem alakulásáról és jelen állásáról és bár nem nevezi meg, de a II. ütem tervpályázatáról is ír. Ezt 1973-ban írták ki, amiről a Magyar Nemzet [1973. július 28-i](https://adtplus.arcanum.hu/hu/view/MagyarNemzet_1973_07/?query=kispest%20v%C3%A9grehajt%C3%B3%20bizotts%C3%A1g%20%28tervp%C3%A1ly%C3%A1zat%20OR%20p%C3%A1ly%C3%A1zat%29&pg=269) száma is beszámol. 1974-ben hirdettek győztest a 17 db pályamű közül. Érdekesség a mellékelt térkép, amelyet lejjebb közlök.
 
