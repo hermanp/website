@@ -289,7 +289,7 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
     
     > "Az 1960-ban jóváhagyott általános terv a város szerkezeti tagolásának és a központrendszer kialakításának a kérdésével behatóbban nem foglalkozott. Az azóta végzett vizsgálatok és demográfiai, valamint lakástelepitési tanulmányok, de nem utolsó sorban a sokrétű igények felismerése is ezt a hiányosságot nemcsak nyilvánvalóvá tették, hanem a várostagolás és a központrendszer koncepcionális kialakításának lehetőségére egyben módot is nyújtanak."
     
-    - *1975. április 15.*: A Fővárosi Tanács VB javaslata a főváros V. ötéves lakástelepítési és lakásépítési tervére. [Az állami célcsoportos lakástelepítés telepítési helyein belül az alternatívákban kijelölt helyek között Kispest II. ütem. Javasolják az A alternatíva elfogadását. Táblázat is. Térkép nincs.]
+    - *1975. április 15.*: A Fővárosi Tanács VB javaslata a főváros V. ötéves lakástelepítési és lakásépítési tervére. [Az állami célcsoportos lakástelepítés telepítési helyein belül az alternatívákban kijelölt helyek között Kispest II. ütem. Javasolják az A alternatíva elfogadását. Táblázat is. Térkép nincs. Megegyezik az anyag az 1975. október 29-i BFT VB-n elhangzottakkal.]
 
 - keresés: valami összetett, az ötéves lakástelepítési tervről
     - *1972. augusztus 11.*: Jelentés a IV. ötéves tervben előirányzott budapesti lakásépítés időarányos teljesítéséről. Javaslat az V. ötéves terv budapesti lakásépítési és telepítési előzetes programjára. [benne Az V. ötéves terv lakástelepitése céljára számításba vehető területek. Térkép. Sokban hasonlít az 1972. október 5-i MSZMP BP PB ülésén előadottakkal. Különbség: a 2. melléklet átdolgozva, más számok, Kispest a IV. számú házgyári technológiára jelölve.]
