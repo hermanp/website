@@ -342,6 +342,8 @@ A jegyzőkönyvben Pongrácz Pál, az előterjesztő jelez módosítást és:
 
 Végül a 115/177. VB határozatban tényleg kifejezik nemtetszésüket a kereskedelmi létesítmények összméretével kapcsolatban. Érdekes még említeni a *megvalósítási térrajz* készítést, amire a 121/1977. VB határozat kötelez. Erről jelent [1981. március 25](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-03-25/?pg=199&layout=s)-én a Városrendezési és Építészeti Fősosztály, amire minden elkészült egy kereskedelmi egység kivételével.
 
+{{< figure src="IIA_utem_terkep_1977.png" title="II/A ütem térkép, 1977. Az ütem épületei 1-24 között számozottak. A pontházak típusa (A4), az épületek lakásszáma, szintszáma, parkolók száma, férőhely és tanterem számok feltüntetve. Egy tűzivíz tároló jelölve, amiről az előterjesztésben is szó esik, a többi kettő helye kikövetkeztethető. Jól látható a térképen a Kinizsi utcától (ma: Corvin krt.) a Dobó Katica utcáig épült zajvédő domb, ami garázssorként hasznosul." numbered="true" >}}
+
 ### Jelentés az II/A ütem befejezéséről 1982  
 A megvalósításban résztvevő vállalatok:
 - lebonyolító: Fővárosi Építőipari Beruházási Vállalat
@@ -369,8 +371,182 @@ A 2111 lakás helyett 2121 valósult meg, az orvosi rendelő mérete csökkent 1
 
 És ez utóbbi tárgyban hivatkozok a [1980. július 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-07-30/?pg=196&layout=s)-i BFT VB ülésen elhangzottakra. Lejjebb részletezem.
 
+{{< figure src="/hu/post/kispest-lakotelep-2-resz/Kispest_I_IIA_utem_vege_1982.png" title="I és II/A ütem befejezett állapot térkép, 1982. Eltérés az 1977-es térképhez képest: a szolgáltatóház és az ABC helye felcserélődött a Berzsenyi utcánál, 2 db garzonház épült a Corvin körútnál és a vizes játszótér sincsen megnevezve. A Dobó Katica utcai óvoda helyén ma a Kispesti Forrásház van, nem értem. Lebontották volna? A bölcsődeként feltüntetett, már bővített épület az óvoda épülete ma." numbered="true" >}}
+
 
 ## II/B ütem
+Ez az 1977-es év sűrű lehetett a tervezőknek. Közel fél év múltán benyújtották a BFT VB elé [1977. augusztus 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-08-31/?pg=1&layout=s)-én a **XIX. ker. Kispest II/B ütem beruházási programját**. Az *R-21418 ttsz.* részletes rendezési terv alapján készítették, melyet 1974. június 10-én fogadtak el (hogy ki, azt nem tudom).
+
+### Telepítés
+A 83 hektáros terület körülhatárolása az utcanevekkel. Az ütemezésről táblázatot közölnek:
+
+| Ütem | IV. ötéves | V. ötéves | VI. ötéves | Össz  |
+| ---- | ---------- | --------- | ---------- | ----- |
+| I    |        504 |       318 |          - |   822 |
+| II/A |          - |      2111 |          - |  2111 |
+| II/B |          - |      1542 |       7673 |  9215 |
+| Össz |        504 |      3971 |       7673 | 12148 |
+
+> "A II/B. ill. II/A. ütemek által közrefogott városközpont jelen beruházási program részét nem képezi. A városközpontban elhelyezkedő kereskedelmi, szolgáltatóipari, valamint művelődésügyi létesítmények tervezését a Főv.Tan.VB. Városrendezési és Építészeti Főosztálya megbízásából — e programot is készítő — **LAKÓTERV** fogja végezni tanulmányterv keretében."
+
+Írnak a közlekedési kapcsolatokról és arról, hogy a metró megépülte után (vélhetőleg a lőrinci ágra gondolnak) megszűnik a villamos és *"2x2 haladósávos és 2x1 leállósávos osztott pályás, korszerű autóúz épül."* A terület 3 m-t emelkedik a József Attila utcától a Bem utcáig, így sík területről van szó. Az utcahálózatot sikerült megtartani, vele együtt a faállományt és néhány közművet. *"A területen belüli funkcionális tagozódást három különböző rendeltetésű tömb egymás mellé sorolása adja meg:"*
+- közintézmény tömb
+- lakótömb
+- zöldtömb
+
+### Szanálás
+3325 db lakást szanálnak a megszűnő 1204 db ingatlanon belül. Ezekről közölnek némi statisztikát és ütemezést. Az előterjesztéshez csatolnak egy kimutatást a *"II/B ütem nem lakás célját szolgáló létesítményeiről"* (V. és VI. ötéves tervi csoportosítással). Ezek közül meg kell emlékeznem néhány érdekességről (az V. ötéves tervi területről):
+
+| Utca, házszám           | Hrsz.  | Létesítmény neve                                       | Területe m2 |
+| ----------------------- | ------ | ------------------------------------------------------ | ----------- |
+| Vöröshadsereg útja 124. | 162296 | "Ramóna"" Finomkötöttárú 17.sz. fióküzlete             |          37 |
+| Vöröshadsereg útja 122. | 162280 | "Temaforg" Textilhasznosító Vállalat üzl.              |          64 |
+| Vöröshadsereg útja 120. | 162279 | Délpesti Vendéglátóipari Vállalat "Csendes" Eszpresszo |         103 |
+| Vöröshadsereg útja 94.  | 162242 | Délpesti Vendéglátóipari Vállalat "Betérő" Étterme     |         479 |
+| Lehel u. 33.            | 162397 | Szigeti József címfestő kisiparos műhelye és lakása    |          12 |
+| Kossuth tér 15.         | 162487 | Lakatos Józsefné paplankészítő kisiparos műhelye       |          24 |
+| Attila u. 83.           | 162288 | Szögi Ferenc cipész felsőrész készítő kisiparos műh.   |           9 |
+| Marx u. 25.             | 162469 | Lakatos József ágytoll tisztító kisiparos műhelye      |          11 |
+| Kossuth tér 24.         | 162300 | Délpesti Vendéglátóipari Vállalat "Délibáb" Büfé       |         285 |
+
+És még lehetne sorolni... (fehérneműkészítő, ortopéd és fűzőkészítő, műhímző, kézimunka előnyomó, díszhal és madár kiskereskedő, vasesztergályos, műszaki tömítés készítő...) Érdemes megemlékezni róluk, hiszen ők itt éltek, laktak, dolgoztak. Milyen érdekes szakmák voltak akkor! Ezt például sajnálom, hogy eltűnt a régi világból. Egy szakma megszűnése, vele együtt a tudás, a művészet is, amit hordozhatott a gyakorlója. Ilyenkor fáj a szívem. Hiába, a sok kicsi, földszintes épületben nem csak az emberek, de a szakmák is összezsúfolódtak. Érdemes még megemlíteni a 162299 helyrajzi számú (hrsz.) létesítményeket, ugyanis ezek egy része ma is megtalálható! Pl. az Üllői út 222. alatt a lóversenyiroda vagy a borozó ugyanabban az épületben! Ezek egyértelmű beazonosítását teszik lehetővé az épületnek, a helyrajzi számnak.
+
+Megadják, mit nem szanálnak, mi marad meg:
+- Bajcsy Zsilinszky téri (ma: Templom tér) hármas templomépület ([római katolikus](https://www.nagyboldogasszony.plebania.net/fooldal.php), [református](https://honlap.parokia.hu/lap/kispest-kozponti-reformatus-egyhazkozseg/cikk/mutat/bemutatkozas/), [evangélikus](https://kispest.lutheran.hu/))
+- Bajcsy Zsilinszky téri (ma: Templom tér) SZTK épület (ma: [Kispesti Egészségügyi Intézet](https://euint.kispest.hu/index.php))
+- Lenin téri (ma: Városház tér) Tanácsháza (ma: [Kispest Önkormányzat Polgármesteri Hivatal](https://uj.kispest.hu/onkormanyzat/polgarmesteri-hivatal))
+- Vörös Hadsereg út (ma: Üllői út) mellett felépült OTP lakóház (vélhetőleg az Üllői út 285 alatti OTP fiókhoz csatlakozó háromemeletes épület, az Üllői út - Kossuth Lajos utca sarkán)
+- Irányi utcai kisegítő iskola (ma: [Móra Ferenc Általános Iskola és Egységes Gyógypedagógiai Módszertani Intézmény](http://www.mora.kispest.hu/))
+- Kossuth téri általános iskola (ma: Budapesti XVIII. és XIX. Kerületi Bíróság), nem értem, miért nevezik ezt meg, hiszen ez már a későbbi intézményközpont területére esne...
+- Katica utcai szakközépiskola (ma: [BMSZC Trefort Ágoston Két Tanítási Nyelvű Szakgimnáziuma](https://www.trefort.eu/index.php?oldal=fooldal)), ezt az épületet [Kós Károly tervezte](https://hu.wikipedia.org/wiki/Trefort_%C3%81goston_K%C3%A9t_Tan%C3%ADt%C3%A1si_Nyelv%C5%B1_Szakgimn%C3%A1zium)
+- Hunyadi utcai baptista imaház (ma: Kispesti Baptista Gyülekezet, sajnos a honlapjuknak csak archív állapota érhető el: http://www.kispestibaptista.hu/)
+
+### Közmű
+
+- **vízellátás**: A Gloriett-medence mellett kiépül egy 10000 m3-es medence és szivattyúház, töltővezeték és 6000 m3-es víztorony a Lakatos utca mellett, továbbá a víztoronytól főnyomóvezeték építése a Bem József utcában, összekötve a Kőbányáról érkező vezetékkel. Az Ady Endre utcai vezetéket pedig a József Attila lakótelepi gépházzal. Ezen túl körvezetékek ágaznak le az alap hálózatról. 8 db 100, ill. 50 m3-es *tűzivíz medence* építése szükséges.
+- **gázellátás**: A lakótelep földgáz ellátása úgy biztosítható, hogy alapközműként a XIX. Bem József utcában NÁ 300 mm-es földgáz vezetéket meg kell építeni a Vécsey utcai új nyomásszabályozótól a Szabó Ervin utcai 6 att-s meglévő vezetékkel való összekötésig.
+- **csatornázás**: A lakótelep ellátásához két főgyűjtő szükséges:
+    - Gábor Andor (ma: Fő) - Simonyi utcai főgyűjtő, melynek kivitelezése folyamatban van
+    - Vörös Október (ma: Vas Gereben) u. főgyűjtő üzembehelyezése a lakásépítés szempontjából a VI. ötéves tervben szükséges. Ennek megépítését a Főv.Csat.Művek V. ötéves tervben tervezi.
+    - a lakótelep végleges befejezésének időpontjára szükséges a *Délpesti Szennyvíztisztító Telep* bővítése
+- **távfűtés**: A távvezeték a Kispesti Fűtőerőműből a Ferihegyi gyorsforgalmi út vasút feletti átvezető hídig bakos, ill. magasvezetéssel, a továbbiakban pedig mélyvezetéssel készül. [...] A lakótelep fűtési hálózata — a FŐTÁV igényének megfelelően — *körvezetékes* megoldással készül.
+- **elektromos energia**: A lakótelep 10 kV-os energiaellátása 6 db 10 kV-os kábelről történik. A transzformátor állomásokból kiinduló 0,4 kV-os kábelek kiépítése épületen kívülre kerülnek. (Ez meg mit akar jelenteni?) Az energiaellátás 10 kV-os táppontjai:
+    - a meglévő XVIII. Pestlőrinc Lakatos utcai 180/10 kV-os alállomás,
+    - a tervezett XIX. Kispest Határ úti 120/10 kV-os alállomás.
+- **távbeszélő és közösségi antennarendszer**: Csak a Ferenc központ bővítése után (1978) lehetséges az ellátás, az onnan kiinduló nagyegységű kábellel. A lakótelepen NAK típusú nagyközösségi vevőantenna rendszer létesül. A főállomások épületeit sorolja fel ezután.
+- **útépítés**: Az Üllői úton a gyalogos átkelést metró aluljárókkal és felüljárókkal kell biztosítani, mivel szélesíteni akarják.
+
+### Lakóházak
+A tervezési területen 9215 db lakás építhető meg. Az alkalmazott technológia és szintszám szerinti lakásmegoszlást mutatja be a lenti táblázat:
+
+| Technológia   | Épülettípus | Szintszám | Lakás db | Megoszlás % |
+| ------------- | ----------- | --------- | -------- | ----------- |
+| BHK III panel |        F-90 |      F+10 |     3381 |        40,6 |
+| BHK III panel |         H-O |       F+4 |     1324 |        12,2 |
+| BHK IV panel  |        S-12 |      F+10 |     4510 |        47,2 |
+| Összesen      |             |           |     9215 |       100,0 |
+
+> "Az ötszintes épületek a lakótelepnek a határoló családiházas övezet felé eső szélére lettek telepítve, igy kedvező átmenet alakult ki a beépítésben és városképi szempontból is sokkal kellemesebb a terület megjelenése. A II/B. ütem átlagos lakásalapterülete 52,62 m2. [...] Lakóépületek 1 szobás lakást nem tartalmaznak."
+
+*A 9215 db lakás férőhely és szobaszám szerinti megoszlása*
+
+| férőhely  |     3 |     3 |       4 |     5 |       6 | Össz |
+| --------- | ----- | ----- | ------- | ----- | ------- | ---- |
+| szobaszám | 1+1/2 |     2 | 1+2x1/2 | 2+1/2 | 2+2x1/2 |      |
+| lakásszám |  2137 |  1122 |    3400 |  2012 |     544 | 9215 |
+|         % | 23,19 | 12,18 |   36,90 | 21,83 |    5,90 |  100 |
+
+Az összes lakás beépített szekrénnyel és konyhabútorral, beépített fürdőszobával, központi melegvized szolgáltatással és távfűtéssel ellátott.
+
+### Kapcsolódó beruházás
+V. ötéves tervben (bár nincs említve, vélhetőleg az 1. szakasz, ezen intézmények építése 1980-ra van tervezve):
+- oktatás:
+    - 1 db általános iskola, 16 tantermes, röviden tt (ma: [Kispesti Eötvös József Általános Iskola](http://www.eotvos19.hu/))
+    - 1 db óvoda, 150 férőhelyes, röviden fh (ma: [Kispesti Hársfa Óvoda](http://harsfa.kispest.hu/index.php))
+- egészségügy:
+    - 1 db bölcsőde, 80 fh (ma: [Kispesti Csillagfény Bölcsőde](http://csillagfeny.kispest.hu/index.php))
+
+VI. ötéves tervben:
+- oktatás:
+    - 4 db általános iskola, 4x16 tt
+    - 5 db óvoda, 2×250 + 2×150 + 1×100 fh
+- egészségügy:
+    - 5 db bölcsőde, 2×100 + 2×80 + 60 fh
+    - 2 db gyógyszertár, 428,6 + 326,7 m2
+    - 1 db orvosi rendelő, 1160 m2
+- kereskedelem (8645 m2):
+    - 5 db ABC áruház, 4×1045 + 1288 m2
+    - 5 db zöldségüzlet, 5×120 m2
+    - 1 db élelmiszer iparcikk, 300 m2
+    - 1 db háztartási bolt, 150 m2
+    - 1 db festék bolt, 120 m2
+    - 1 db Röltex, 120 m2
+    - 2 db vendéglő, 2×793,5 m2
+    - 1 db ÁPISZ, 150 m2
+    - 1 db dohány, 30 m2
+    - 1 db virágüzlet, 30 m2
+    - 1 db édességüzlet, 90 m2
+- szolgáltatóipar (2980 m2):
+    - 1 db cipő gyorsjavító, 150 m2
+    - 1 db bőrdíszműves, 60 m2
+    - 1 db kés köszörűs, 60 m2
+    - 4 db férfi-női fodrász, 4×200 m2
+    - 1 db lakáskarbantartó, 100 m2
+    - 1 db lakástakarító, 100 m2
+    - 1 db fényképészet, 150 m2
+    - 1 db textiltisztító szalon, 300 m2
+    - 2 db férfi-női ruhajavító, 2×120 m2
+    - 1 db cipőjavító, 120 m2
+    - 1 db textiltisztító váll., 150 m2
+    - 1 db barkácsműhely, 100 m2
+    - 1 db TV-rádió szervíz, 250 m2
+    - 1 db textil gyorsmosoda, 300 m2
+    - 1 db háztartási gépjavító, 100 m2
+- közösségi: városközpontban, 685 m2
+
+A nevelési, egészségügyi és ellátó intézmények új vázpaneles szerkezetűek. *"A Kereskedelmi Főosztály a Vöröshadsereg útja mentén az V. ötéves tervben beépítésre kerülő területen 2000 m2 iparcikk üzletsor telepítését kéri. A Városrendezési és Építészeti Főosztály állásfoglalása szerint a területen az iparcikk áruház nem fér el. Korábbi elhelyezéssel ért egyet, mely szerint a fennmaradó kereskedelmi létesítményeket a városközpontban helyezik el."* Ezután a költségekről és azok indoklásáról van szó. Összköltség: 7093 millió Ft.
+
+*A beruházás megvalósításának üteme*, részlet
+
+| Megnevezés | Össz | 1977 | 1978 | 1979 | 1980 | VI. ötéves |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---------- |
+| szanálás   | 3325 |  287 |  357 |  681 |  600 |       1400 |
+| építés     | 9215 |    - |    - |  749 |  793 |       7673 |
+
+A befejezési határidő a teljes lakótelepre: 1985. És az előterjesztés végén, az aláírások előtt: "A Végrehajtó Bizottság úgy foglal állást, hogy a **2.2.6.jelű épületet** csak az új piacrész kiépítése után lehet megvalósítani." És ez az én szerencsém.
+
+{{< figure src="IIB_utem_beepitesi_terkep_1977.png" title="II/B ütem beépítési térkép, 1977. Az egyes szakaszok nincsenek megnevezve, de sejthetőek. A 2.2.6 jelű épület a mai Kispesti Piac helyén állt volna, később más csak 226 lesz a jele. Nem valósult meg. Az egyes épületek körvonala mellett típusuk is fel van tüntetve. Látszik a tervezés alatt álló városközpont is." numbered="true" >}}
+
+### Jegyzőkönyv
+A jegyzőkönyvi részben a lakásösszetétel (a tanács határozatainak be nem tartása), a kereskedelmi és szolgáltató létesítmények helyzete (hogyan lesz a kerület ellátva, ha először bontanak) és bizonyos szanálás (tényleg szükséges-e mindent szanálni) a központi kérdés:
+
+> Elnök (**Szépvölgyi Zoltán**): Azt gondolná az ember, hogy egy ilyen nagy városrészközpont építése úgy történik, hogy a kerületi központ 
+tervezése nem a végén kezdődik majd. Ott kereskedelmi létesítmények is épülnek. Előrevetíti árnyékát, hogy ha már a kezdet kezdetén elmaradás van, végül az egész városrészközpont a legvégén épül meg. Miért nincs meg, és mikor lesz meg ennek a városrészközpontnak a terve? Én azt hittem, hogy egy 10 milliárdos beruházáshoz legalább egy rajzot kapunk. Van mellette valami, de azt csak nagyítóval lehet látni. Nem lehetne-e valamilyen alaposabb információt kapni? [Szó van arról, hogy] vizsgáltassa meg aluljárók létesítésének lehetőségét a Vöröshadserog útja két oldala között, figyelembe véve a metró tervezett moghosszabbitását is. Ki tervezte ezt? Tudomásom szerint ilyen terv nem létezik, elképzelés van.  
+> **Pongrácz Pál** (Városrendezési és Építészeti Főosztály, főosztályvezető): [Magyarázza a helyzetet, bár számomra nem tisztán. A városközponti beruházások nem célcsoportból valósulnak meg. Többször más osztályokra hivatkozik, akikkel egyeztettek az új létesítmányek felől. A bontások gondosan meg lettek vizsálgva. A lakásösszetételt az e térségben rendelkezésre álló házgyári lakástípusok határozzák meg.] A kerület központjára az előbbiekben jelzett módon még nem is készülhetett beruházási program, mert egyáltalán nem alakult ki, hogy milyen létesítmények építésével számolhatunk ott. [Az aluljárókról a javaslat] a Vörüshadsereg-út várható nagy forgalmának és a gyalogos közlekedés biztonsága miatt [született], mert a lakásépítési terület mindkét oldalon jelentős területeket érint. A városközpont is mindkét oldalára terjed ki, mindenképpen számolnak azzal, hogy aluljárót kell építeni.  
+> **Csehik Ferencné**: [...] Kispest kereskedelmi hálózata gyakorlatilag erre a területre koncentrálódott és a lakóházakban lévő létesítmények is az elkövetkezendő időben szanálásra kerülnek, így az egész városrészt hozzá kell tenni, nemcsak Kispest, hanem a XVIII. kerület, tehát a környék lakossága is tulajdonképpen ellátás nélkül maradna. Nekünk két problémánk vetődik fel és kérném a Végrehajtó Bizottság ilyen értelmű állásfoglalását. **Az egyik a piac kérdése.** Az eredeti elképzelés szerint a piac sarkán felépülő *226-os számmal jelzett lakóházépület* a fél piacot levágja, akkor az egész piac használhatatlan és tulajdonképpen az egész szanálásra kerül. Bizonyos módosítás van az előterjesztésben, ide van írva, megegyeztünk, hogy ne épüljön meg. [A VB] foglaljon állást úgy, hogy a 226 jelű épület felépítésére csak az új piac kialakítása után kerülhet sor, mert különben félő, hogy ha a munka során hozzányúlnak, akkor a következő problémák lesznek: Nemcsak Kispest, hanem a XVIII. kerület, sőt a IX. kerület egy része is ezen a piacon vásárol, ilyen szempontból tehát nem mindegy ennek a témának az alakulása. **A másik**, amit mindenképpen javasolunk, hogy mondja ki a VB. a **2000 m2-es iparcikk-üzletház telepítését**. Ha ti. nem épül fel, akkor mi lesz a helyzet? Élelmiszerekkel még el lehet látni a területet, mert ha a piachoz nem nyúlunk hozzá, az jelentős ellátást biztosít, a célcsoportos építkezéseken belül ABC-áruházak is épülnek, ha azonban az iparcikküzlet mind szanálásra kerül, azt nem lehet elviselni, hogy egy akkora lélekszámú területről kénytelenek legyenek egy cérnáért, vagy egy pulloverért nem tudom milyen messzire elmenni. Meg kell építeni, mielőtt még a szanálásra sor kerülne, mert különben nagy politikai botrány lesz belőle. [...] hónapok óta folyik ez a vita, [...] Pongrácz elvtárs azt mondja, hogy a szakig. szervek nem adták meg, mit szeretnének. Ez olyan dolog, hogy addig meg sem adhatják amíg nincs megmondva, hogy mit hová lehet tenni. Ugyanígy Farkasinszky elvtársék területén, kulturális területon! Először a Városrendezési Főosztálynak kell megmondani, mit lehet oda telepíteni, hogyan képzelik az oda telepítést. Azután lehet oda kereskedelmi, vagy egyéb létesítményeket telepíteni. Arról nem is szólva, hogy most még egy fillér sincs rá, hiszen nem ennek az ötéves tervnek a témája. Még azt sem tudjuk megmondani, hogy melyik ötéves tervnek lesz témája ez a városrész-központ.  
+> **Reischl Antal**: Bennem most már csak egy kérdés merül fel az egész témával kapcsolatban. Pongrácz elvtársék elképzelésében marad-e a piac a helyén, vagy új helyre kerül?  
+> **Elnök**: Át lesz telepítve.  
+> **Reischl**: Szükséges az áttelepítése?  
+> **Csehik Ferencné**: Oda kerül a városrész központ.  
+> **Elnök**: Ezt a beruházást csak akkor szabad folytatni, — mert folytatásról van szó — ha gondosan, nagyon körültekintően, nem elnagyoltan van előkészítve. [Rámutat a szanálás ütemezésére, indoklására, kerületi ellátás kérdésére.] A másik problémám az, hogy a következő ötéves terv időszakában tulajdonképpen hogyan akarjuk csinálni. [...] Vagy el kellene végezni egy olyan vizsgálatot, amelynek alapján a kivitelezés során tessék otthagyni azokat a létesítményeket a Vöröshadsereg útján, valahol hátrább kezdeni az építkezést és csak akkor bontsák majd le azokat a vacak, ócska, földszintes épületeket, amelyekben azonban tudnak az emberek vásárolni. Kőbányán sem engedtük lebontani az utak melletti üzleteket. Csak akkor bonthatják le őket, ha elkészültek a kereskedelmi és szolgáltató létesítmények. [...] A Tervhivatal azt mondta, hogy 
+az átlag 53 m2. Itt 53 m2 alatt vannak. Nem alapterületről beszélek, hanem lakásösszetételről.  
+> **Reischl**: Nem tud csodát csinálni. 53 m2-nél nem lehet csodát csinálni. Kis lakást kell épiteni, hogy nagy lakás lehessen, de csak bizonyos százalékot tud csinálni ebből meg abból.  
+> **Elnök**: Most ne vitassuk a határozatot! Van a tanácsnak egy határozata. Azt tartsuk be! Ez a lakótelep túl nagy ahhoz, hogy ezt ne vegyük figyelembe! Itt a kis lakások arányszáma lényegesen nagyobb lesz, mint amennyit elhatároztunk, azt nem lehet másképp pótolni, minthogy majd az Újpest II. ütemben csupa kis lakás lesz. Ebből kifolyólag már voltak politikai problémáink. [...] Arra is választ kellene kapni, hogy miért nincs semmi sem leírva a kerületi központról. Oda kell írni, hogy a jövő év március 31-én ide hozzuk. Erre már készült tanulmányterv, még hozzá régen. Csak azután azt félretették. Aztán gyakorlatilag nem történt semmi. Egy ilyen tanulmányterv valamikor elkészült.  
+> **Giltner Andor**: Tervpályázat.  
+> **Elnök**: Jó lenne, ha volna egy makett. Az a kritika ér bennünket állandóan, hogy szürkék, nem szépek. Egy maketten nem lehet ugyan mindent látni, de legalább nézzük meg, hogy hogy néz ki az a kerületközpont! Máskor nem néztük meg, de egyszer el kell kezdeni.  
+> **Reischl**: [Miután átnézte a számokat, indokolja a lakásösszetétel ilyetén alakulását és javasolja, hogy ne változtassanak rajta, mert nem is lehet a körülmények függvényében.]  
+> **Elnök**: Szóval te azt mondod, hogy ez így jó?  
+> **Reischl**: A lakásösszetételen akkor tudunk változtatni, ha a Tervhivatal felemelné az átlagos lakásalapterületet.  
+> **Elnök**: Mit tegyünk? Fogadjuk el így, vagy kérjük, hogy bizonyos kiegészítésekkel hozzák vissza pár hát múlva?  
+> **Reischl**: Kiegészítésekkel.  
+> **Pongrácz**: A beruházási programnak nem tartozéka, hogy a létesítmények ütemezését és pótlását megadja. A végrehajtó bizottság olyan kérésének eleget tudunk tenni, hogy mellékletben hozzuk. Ez azért nem készült el mellékletben, mert nem volt eddig tartozéka. [Lakásösszetétel: említi indoként a házgyári termelés adta terítési lehetőségeket és más lakótelepek építésének megakadását emiatt. Kerületi központ: más a komplex lakásépítés, és a városközpont építés. Előbbi a kapcsolódó intézményeket takarja, a városközpontba viszont egyéb intézmények kerülnek, amelyek más pénzből valósulnak meg.] Másrészről, Csehikné elvtársnő, a Városrendezés letette, hogy mikor lehet telepíteni, hogy milyen intézmények volnának kívánatosak. A többi a szakigazgatási szerveik feladata, válasszák ki. Ami most készül tanulmányterv, ennek városépítési...  
+> **Csehik Ferencné**: Azért ne haragudjék, Pongrácz elvtárs, kimondja, hogy 40000 m2-t lehet elhelyezni. Hevenyészett valami. Az, hogy hogyan, az nincs.  
+> **Pongrácz**: Meg van. Országos pályázat útján készült rendező tanulmányterv és ennek alapján készül a ...  
+> **Elnök**: Mikor készül el?  
+> **Pongrácz**: Szerződéses határidő van rá, meg kellene nézni. [És folytatja...]  
+> **Elnök**: Javasolom, hogy ne fogadjuk el a beruházási programot. Amit Pongrácz elvtárs indokként elmondott, nem indok. [...] Pongrácz elvtárs nincs akadályozva a szanálások előkészítésében, gyakorlatilag az V. ötéves tervi dolog sínen van. Mennyi idő kell ahhoz, hogy vissza tudjátok hozni, megvizsgálni, az összetételt megváltoztatni? Még egyszer mondom. Kapjunk pontos, precíz képet [Aztán rákérdez, hogy mikor tudják újra előterjeszteni, ami még nem hátráltatja a munkát.] Felteszem másként a kérdést: Meddig lehet várni, hogy ne zavarjon benneteket a munkában?  
+> **Pongrácz**: Ebben az évben minden beruházási programot jóvá kell hagynunk.  
+> **Elnök**: Azt javasolom, hogy legkésőbb november végén kapjuk vissza. Kérlek, még egyszer nézzétek jól meg.Nem engedhetjük meg azt, hogy bennünket egy beruházó vállalat belekényszerítsen abba, hogy a várost hogyan fejlesszük. [És elfogadják a napirendről levételt és az újra felterjesztést **1977. november 30-ig.**]
 
 
 ## Az intézményközpont előszele
