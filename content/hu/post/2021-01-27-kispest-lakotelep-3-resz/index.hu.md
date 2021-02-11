@@ -548,8 +548,5 @@ az átlag 53 m2. Itt 53 m2 alatt vannak. Nem alapterületről beszélek, hanem l
 > **Pongrácz**: Ebben az évben minden beruházási programot jóvá kell hagynunk.  
 > **Elnök**: Azt javasolom, hogy legkésőbb november végén kapjuk vissza. Kérlek, még egyszer nézzétek jól meg.Nem engedhetjük meg azt, hogy bennünket egy beruházó vállalat belekényszerítsen abba, hogy a várost hogyan fejlesszük. [És elfogadják a napirendről levételt és az újra felterjesztést **1977. november 30-ig.**]
 
-
-## Az intézményközpont előszele
-
-[1976. december 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1976-12-08/?pg=430&layout=s)-i BFT VB határidőmódosítási kérelem szerint elkészült a rendezési terv a városközpontra vonatkozólag, de mivel az a lakóterületek beruházási programjának tárgyalásával szorosan összefügg, elkülönítetten nem javasolják tárgyalni. A II/B ütem beruházási programjának előterjesztésével egyidőben javasolják napirendre tűzni.
-
+### Újratárgyalás 1977
+1977. december 21
