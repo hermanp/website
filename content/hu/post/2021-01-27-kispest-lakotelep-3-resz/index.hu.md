@@ -434,7 +434,7 @@ Megadják, mit nem szanálnak, mi marad meg:
     - a meglévő XVIII. Pestlőrinc Lakatos utcai 180/10 kV-os alállomás,
     - a tervezett XIX. Kispest Határ úti 120/10 kV-os alállomás.
 - **távbeszélő és közösségi antennarendszer**: Csak a Ferenc központ bővítése után (1978) lehetséges az ellátás, az onnan kiinduló nagyegységű kábellel. A lakótelepen NAK típusú nagyközösségi vevőantenna rendszer létesül. A főállomások épületeit sorolja fel ezután.
-- **útépítés**: Az Üllői úton a gyalogos átkelést metró aluljárókkal és felüljárókkal kell biztosítani, mivel szélesíteni akarják.
+- **útépítés**: Az Üllői úton a gyalogos átkelést metró aluljárókkal és felüljárókkal kell biztosítani, mivel szélesíteni akarják. Leírják főbb utak paramétereit.
 
 ### Lakóházak
 A tervezési területen 9215 db lakás építhető meg. Az alkalmazott technológia és szintszám szerinti lakásmegoszlást mutatja be a lenti táblázat:
@@ -548,5 +548,125 @@ az átlag 53 m2. Itt 53 m2 alatt vannak. Nem alapterületről beszélek, hanem l
 > **Pongrácz**: Ebben az évben minden beruházási programot jóvá kell hagynunk.  
 > **Elnök**: Azt javasolom, hogy legkésőbb november végén kapjuk vissza. Kérlek, még egyszer nézzétek jól meg.Nem engedhetjük meg azt, hogy bennünket egy beruházó vállalat belekényszerítsen abba, hogy a várost hogyan fejlesszük. [És elfogadják a napirendről levételt és az újra felterjesztést **1977. november 30-ig.**]
 
-### Újratárgyalás 1977
-1977. december 21
+
+## II/B ütem módosítások
+
+### 1. szakasz
+
+[1977. december 21](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-12-21/?pg=0&layout=s)-én tárgyalták újra a **XIX. ker. Kispest II/B. ütem beruházási programját**. Ez az 1. szakaszról szól. Mivel fentebb részletesen szemléztem, ezért itt a többlet információra szorítkozok.
+
+> "Az V. és VI. ötéves terv közötti átmenet biztosítása érdekében jelen beruházási program keretében a terület beépítését 1982-ig áthúzódóan mutatjuk be. Ezt indokolja az is, hogy jóváhagyott épülettípusok csak az V. ötéves tervre vannak, melyeket a házgyárak előreláthatóan 1981-82-ben még gyártanak. 1983-tól új lakóépülettípusok lesznek, s ez a naturáliák megváltoztatásával jár."
+
+**Telepítés**. Lehatárolják utcanevekkel az 1. szakaszt és megnevezik a továbbiakat. 
+> "A lakótelep *1. szakaszában*, az 1979-82.évi lakásépítkezések a Lehel u. - Vak Bottyán u. - Katica u. - Vöröshadsereg útja és a Simonyi Zs. u. - Móricz Zs.u. - Irányi u. - Bem u. - Szigligeti u. és Vöröshadsereg útja által határolt területen valósulnak meg. *A továbbiakban* beépítésre kerül még a Szigligeti u. - Bem u. - Magyar L. u. - Vöröshadsereg útja és a Vörös Október u. - József A. u. - Petőfi u. - Ady E. u. - Kisfaludy u. - és Vöröshadsereg útja által bezárt terület. Az 1.szakasz beépítésre javasolt területe 26,1 ha."
+
+Közlik az egyes ütemek és szakaszok épülő lakásszámait. (Érdekesség: I/A ütemről is beszél, ez vélhetőleg a módosított változat, a IV. házgyár épületeivel.)
+
+| Ütem      | I. és I/A | II/A | II/B 1. szakasz | II/B 2. szakasz |
+| --------- | --------- | ---- | --------------- | --------------- |
+| Lakásszám |       822 | 2111 |            2756 |            6200 |
+
+> "[a 832/1977] VB. határozatának megfelelően az **intézményközpont** I.üteme területelőkészítési és tervezési munkái 1979-ben, a kivitelezői kapacitás függvényében pedig a megvalósítás még a tervidőszak folyamán megkezdődhet."  
+> "Az építési terület e részén a teherviselő talaj 10-15 m mélyen van, ezért némely épületet **mélyalapozással** kell megépíteni."
+
+**Szanálás**. 1156 db épületet szanálnak a korábbi 1204-hez képest, éves ütemezés megjelölésével. Itt is közlik a létesítmény címjegyzéket mellékletben, feltüntetve, hogy mely épületet melyik évben szanálnak. (Ez volt a VB kérése.) Az ellátó létesítményeknél az ideiglenes áthelyezést is mellékletben közlik. A IV. sz. mellékletben *A szanálásra kerülő ellátó létesítmények szükséges részének ideiglenes jellegű áthelyezéséről* esik szó.
+> "A jelen beruházási program megvalósítása során 3924 m2 kereskedelmi és 1803 m2 szolgáltatóipari létesítményt szanálunk. Ha az V. ötéves terv folyamán megvalósíthatók lennének a tervezett ellátó létesítmények, akkor biztosított lenne a lakótelep ellátottsága. Amennyiben a kivitelezői vállalások és a megvalósulósok üteme nem teszi lehetővé, úgy az átmeneti időre az alábbi megoldással lehetne enyhíteni a kereskedelmi, ill. szolgáltatóipari ellátás helyzetén: Autóparkolónak, ill. zöldterületnek fenntartott területeken ideiglenes fabarakokat állítanának fel. Ilyen területek: Katica utcai szakközépiskolától Vöröshadsereg útja felé eső zöldterület, melyen 3x600=1800 m2 fabarak állítható fel és a Szigligeti utca és Klapka utca közé tervezett autóparkoló terület, amelyen 1920 m2 fabarak helyezhető el."
+
+Ezután közlik a fabarakkok ütemezését kereskedelem és szolgáltatóipar szempontjából.
+
+> "A tervezőkkel történt újabb egyeztetés szerint a Vöröshadsereg útja mentén lévő üzletsor nem tartható meg az eredetileg ütemezett időnél tovább, mert a tervezett lakótelepi víz-, gáz- csatorna és távfűtési nyomvonal vagy metszi, vagy az ingatlanok területén húzódik, s ezek munkaterületét egy évvel korábban a kivitelezők részére szolgáltatnunk kell a szükséges építési szélességben. Épületrészek bontását, — az érvényben lévő balesetvédelmi előírásokat betartva — üzemben lévő épületen, közmű kikötések nélkül elvégezni nem szabad, és új épületek daruzása sem lehetséges üzemelő létesítmények közelében."
+
+**Közmű**. Nincs változás.
+
+**Lakóházak**. Az 1. szakasz területén 2756 db lakás építhető meg. Az alkalmazott technológia és szintszám szerinti lakásmegoszlást mutatja be a lenti táblázat:
+
+| Technológia   | Épülettípus | Szintszám | Lakás db | Megoszlás % |
+| ------------- | ----------- | --------- | -------- | ----------- |
+| BHK III panel |        F-90 |      F+10 |     1631 |        59,2 |
+| BHK III panel |         H-O |       F+4 |      230 |         8,3 |
+| BHK IV panel  |        S-12 |      F+10 |      895 |        32,5 |
+| Összesen      |             |           |     2756 |       100,0 |
+
+Az 1977. augusztus 31-i BFT VB ülésen kérték, hogy változtassanak a lakásösszetételen, de az ÉVM miniszterhelyettese [válaszként](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-12-21/?pg=719&layout=s) írta, hogy:
+> "[...] Kispesten az I., II/A. ás II/B. Ütemnek az V. ötéves tervben megvalósuló részén a lakásösszetétel a lehetőségekhez mérten messzemenően kielégíti a Végrehajtó Bizottság által az V. ötéves tervidőszakra előírt megoszlási értékeket. Részben ezért, részben az V. ötéves terv teljesítésének veszélyeztetése miatt nem látok lehotőséget az elkészült beruházási program átdolgozására annál is inkább, mivel az adott házgyári épülettípusokkal kedvezőbb lakásösszetétel nem biztosítható." — Szilágyi Lajos, ÉVM miniszterhelyettes. 1977. szeptember 30.
+
+*A 2756 db lakás férőhely és szobaszám szerinti megoszlása*
+
+| férőhely  |     3 |     3 |       4 |     5 |       6 | Össz |
+| --------- | ----- | ----- | ------- | ----- | ------- | ---- |
+| szobaszám | 1+1/2 |     2 | 1+2x1/2 | 2+1/2 | 2+2x1/2 |      |
+| lakásszám |   795 |   418 |     681 |   690 |     172 | 2756 |
+|         % |  28,9 |  15,2 |    27,4 |  25,0 |     6,2 |  100 |
+
+**Kapcsolódó beruházások**.
+> "A tervezővel felülvizsgáltattuk a **2000 m2 iparcikk üzletsor** betelepítésének lehetőségét. Ennek eredményeként elhelyezhető a kért kereskedelmi mennyiség. Az V.sz. mellékletként csatolt **beépítési terv** már ezt tartalmazza. Elmarad ugyanakkor a nem célcsoportos hitelt terhelő Állami Biztosítő. A célcsoportból az alábbi létesítmények kerülnek megvalósításra az 1. szakaszban 1982-ig:"
+
+- oktatás:
+    - 2 db általános iskola, 2×16 tantermes, röviden tt. Napjainkban:
+        - [Kispesti Eötvös József Általános Iskola](http://www.eotvos19.hu/))
+        - [Kispesti Vass Lajos Általános Iskola](https://vassl.hu/). Az elhelyezése módosulni fog, látható a Google Maps-en.
+    - 2 db óvoda. Napjainkban:
+        - 150 férőhelyes, röviden fh: [Kispesti Hársfa Óvoda](http://harsfa.kispest.hu/index.php))
+        - ~~200 fh~~ 150fh: [Kispesti Bóbita Óvoda](http://zoldsziget.kispest.hu/). Google Maps-en látható, hogy a Hársfa Óvodáéval azonos felépítésű az épület, így 150 fh.
+- egészségügy:
+    - 2 db bölcsőde. Napjainkban:
+        - 80 fh: [Kispesti Csillagfény Bölcsőde](http://csillagfeny.kispest.hu/index.php))
+        - ~~100 fh~~ 80 fh: [Kispesti Eszterlánc Bölcsőde](http://eszterlanc.kispest.hu/index.php). Google Maps-en itt is látható, hogy a Csillagfény Bölcsődével azonos felépítésű az épület, így 80 fh.
+- kereskedelem:
+    - 1 db ABC áruház, 1045 m2. Ma: [102. sz. Spar szupermarket](https://www.spar.hu/uzletek/spar-szupermarket-budapest-1191-eoetvoes-utca-5-), 1191 Budapest Eötvös utca 5.
+    - 1 db zöldség üzlet, 120 m2. Ma: [Múzsa Szépségszalon](https://www.muzsaszepsegszalon.hu), Nemzeti dohánybolt
+    - 1 db élelmiszer iparcikk, 300 m2 (?)
+    - iparcikk üzletsor, 2000 m2 (a beépítési terven részletezve, összesen 2020 m2):
+        - vas és edény, 300 m2 (Vagy ez lenne a fentebbi élelmiszer iparcikk? De akkor nem jön ki a 2000 m2!)
+        - vasedény, 600 m2
+        - gyermek ruha, 400 m2
+        - o.rőb., 300 m2
+        - papírbolt, 200 m2
+        - OFOTÉRT, 150 m2
+        - idegenf., 70 m2
+
+Az elbontásra kerülő kereskedelmi létesítmények pótlására átmeneti jelleggel **fabarakkok** létesülnek. A nevelési, egészségügyi és ellátó létesítmények új vázpaneles szerkezetűek. A további területeken 1983-tól felépül még 6200 lakáshoz a jelenlegi normatívákkal számolva lakásarányosan:
+- oktatás:
+    - 3 db általános iskola (3×16 tt): 48 tt
+    - 4 db óvoda (2×200 + 2×100): 600 fh
+- egészségügy:
+    - 4 db bölcsőde (100 + 2×80 + 60): 320 fh
+    - 2 db gyógyszertár (429 + 327): 756 m2
+    - 1 orvosi rendelő: 1160 m2
+- kereskedelem:
+    - 4 db ABC (3×1045 + 1288): 4423 m2
+    - 4 db zöldségüzlet: 480 m2
+    - egyéb kereskedelmi létesítmények összesen: 2177 m2
+- szolgáltatás: összesen 2980 m2
+- közösségi: intézményközpontban 685 m2
+
+Ezután összevetés következik a normatívák szerinti értékekkel. Ezután a költségek részletezése következik. A 2756 db lakáshoz tartozó összesített beruházási költség: 2220,5 millió Ft.
+
+*A beruházás megvalósításának üteme*
+
+| Megnevezés    | Összesen | 1977 | 1978 | 1979 | 1980 | 1981 | 1982 | V. ötéves |
+| ------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | --------- |
+| Szanálás      |     1156 |  310 |  272 |  384 |  190 |    - |    - |      1156 |
+| Építés        |     2756 |    - |    - |    - |  793 |  737 |  477 |      1542 |
+| Ált. isk. tt. |       32 |    - |    - |    - |   16 |    - |   16 |        16 |
+| Óvoda fh.     |      350 |    - |    - |    - |  150 |    - |  200 |       150 |
+| Bölcsőde fh.  |      180 |    - |    - |    - |   80 |    - |  100 |        80 |
+| Keresk. m2    |     3465 |    - |    - |    - |    - | 2465 | 1000 |         - |
+
+Befejezési határidő: 1982.
+
+### Jegyzőkönyv
+
+> **Pongrácz Pál**: Ez a részletes, régi területbeépítési terv, amelyet a beruházási programot megelőzően készített el a LAKÓTERV, rendkívül *mechanikusan, lélektelenül, siváran* építi be ezt a területet. Intézményközpontunk, a leendő városrészközpont kialakítására tett javaslata sincs összehangolva a körülötte levő lakóterületi egységekkel. Városrendezési szempontból nincsenek benne biztosítva az alapvető feltételek. Ezért arra kérem a tisztelt Végrehajtó Bizottságot, hogy a beruházási programot hagyja jóvá az érintett területre, de ne hagyja jóvá a további 6200 lakásra a részletes beépítési tervben tett javaslatot, és kapjak felhatalmazást arra, hogy új beépítési tervet készíthessek, amely megfelel a korszerű városrendezési és építészeti követelményeknek.  
+> **Kovács Gyula** (Kereskedelmi Főosztály, főosztályvezető): A fabarakkokat mi sem tartjuk lebonthatónak 1982-ben, annál kevésbé, mert — amire ez a program nem tér ki — a további szakaszokban még **rendkívül nagyarányú szanálások** történnek **kereskedelmi vonatkozásban**. Az anyag mintegy 3900-4000 négyzetméterről beszél, de az egész programon belül több mint 10000 négyzetméter kereskedelmi hálózat kerül szanálásra, gyakorlatilag az egész kispesti. Jelenleg nemcsak a kerületnek, hanem az agglomerációnak az ellátását is figyelembevéve, a lakosság ellátása rendkivüli nehézségekkel jár. A mai ülésnek nyilván nem lehet témája a városrészközpont, de szeretném jelezni, hogy itt rendkívül nagy feszültségek keletkeznek mindaddig, amig a városrészközpontban fel nem épül majd nemcsak a pótlás, hanem az azt meghaladó igénynek megfelelő kereskedelmi létesítmények is. [...] a vendéglátóipart érinti legnagyobbrészt a szanálás. A vendéglátóipari helyiségeket pedig fabarakkokban visszapótolni nyilván nem lehet.  
+> **Piller Ferenc** (XIX. ker. Tanács részéről): [...] A MÁV végzett egy felmérést utasai körében, és a megkérdezettek 84 százaléka úgy nyilatkozott, hogy Kispesten kivánja beszerezni szükségleti cikkeit. Érthető is, mert az agglomerációénál jobb az itteni ellátás.  
+> **Reischl Antal**: Az előttünk lévő városrendezési tervek pont arra mutatnak lehetőséget, hogy ezt az utcasort fenn lehet tartani akkor is, ha mögötte építünk. Nem tudom, hogy miért... [kell lebontani az Üllői úti üzletsort]  
+> Elnök (**Kelemen Lajos**, általános elnökhelyettes): : Olvastad-e a 4. számú melléklet utolsó oldalát? Az pontos műszaki leírást ad. Vizsgáltattuk.  
+> **Reischl**: Én mint műszaki ember, nem tudom elfogadni, mert a helyzetet katasztrofálisnak látom. Lehet, hogy azt mondják, hogy majd éppen ez a politikai feszültség kikényszeríti a központot, de ilyen elvre nem lehet helyezkedni. Legalább szakaszokban hagyjuk meg.  
+> **Elnök**: [...] Nekem szimpatikusabb az, amit Pongrácz elvtárs mondott, hogy előszanálással először a pótlást biztosítsuk, és majd azt kövesse a szanálás. Elképzelhető az is, hogy — ha szükséges — még több barakkot is kell építeni. Ismerünk a Rózsadomb tetején is kocsmát, éttermet barakkban. Annak megengedték? A Fillér utca tetején.
+
+Végül elfogadták az előszanálásos javaslatot azzal a kikötéssel, hogy Pongrácz Pál és más osztályvezetők javaslatot tesznek rá 1978. június 30-ig (1055/1977 VB határozat). Az [1978. augusztus 2.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1978-08-02/?pg=76&layout=s)-i BFT VB ülésen adják meg a jelentést:
+- a Vécsey utcai általános iskola helyén maradhat, figylembe veszik a II/B ütemnél
+- a városépítési ütem és az azt megelőző közművek kiépítéséhez a munkaterület biztosítása a Vöröshadsereg útja menti üzlethálózat szakaszos szanálását *nem teszi lehetővé*
+- *1978. december 31*-ig a VB elé terjesztendő intézményközpont rendezési terve mellett szerepeltethessék az előszanálásról a javaslatot
+
