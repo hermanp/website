@@ -96,4 +96,81 @@ A mellékletek közül a metszetek sajnos rosszul voltak szkennelve, így nem l�
 
 
 ## Második tárgyalás 1978
-1978. december 20
+
+[1978. december 20](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1978-12-20/?pg=0&layout=s)-a nagy nap lehetett a városépítészet területén. Ekkor tárgyalta a BFT VB **a dél-pesti városrész központ beépítési tervét a XIX. kerületi (kispesti) intézményközpontban**. (A forrásban érdemesebb a kéziratbeli előterjesztést olvasni a 274. oldaltól.) E kerületi intézményközpont a dél-pesti *városrészközpont* szerepét is betöltené, ahogy az [1. részben](/hu/post/kispest-lakotelep-1-resz/) erről olvashattunk az 1971-ben elfogadott Budapest általános rendezési tervében. Kérem, a tisztelt olvasót, ehhez mérten olvassa ezt az előterjesztést.
+
+### Terület lehatárolás
+A terület a Katica - Hunyadi - Ady Endre - Kisfaludy - Simonyi Zsigmond - Vak Bottyán utcák közötti terület, amelyet a Vöröshadsereg útja (Üllői út) szel ketté. Északon Kőbányához a Sibrik Miklós úti felüljáróval kapcsolódik, egyúttal itt található az 1980-ban megépülő M3 metróvégállomás és a csatlakozó buszpályaudvar. 
+
+> "A tervezés során a központ korábban megtervezett közlekedési feltárása — a központ és a METRÓ végállomás jobb kapcsolata érdekében — módosult; a korábbi, a Katica és a Simonyi Zsigmond utca nyomvonalát felhasználó utcapár helyett a központot keletről érintő út [lett tervezve] [...] a METRÓ végállomás és a központ közötti összeköttetést azzal is javítja, hogy a kettő közötti szintbeni kapcsolatot *a terep feletti +5 m-es magasságban* hozza létre. A terv a magas szanálási költségek miatt 2-3 szintes beépítést javasol. A Vöröshadsereg útja a központ területét két — egymástól független — funkciójú területrészre bontja; az északi részen valósul meg a városrész keresködelmi és szolgáltató központja, míg a 
+déli rész főleg kulturális és szabadidő létesítményeknek ad helyet. A teljes központ megvalósulása több évtized alatt, várhatóan a jelenlegi hosszutávú tervidőszakon túli időpontban irányozható csak elő. **Az előterjesztés** tehát — bár háttéranyagként a teljes központ tervét tartalmazza — **a kereskedelmi központ I. ütemének tervéhez** kívánja megszerezni a t. Végrehajtó Bizottság egyetértését."
+
+### Kialakítás
+> "A kereskedelmi központ I. ütemének eladótereit — két szintben — a Szabó Ervin utcára, mint vásárló utcára szervezi. A felsőbb szinten főleg raktározás folyik. Az árufeltöltés a központ két oldalán, épületen belül bonyolódik. A gépjármű parkolás az I. ütem területén az épületek mellett, a -1,2 m-es szinten jön létre. A kereskedelmi központ javasolt szerkezeti rendszere 12 x 12 m-es hálóban telepített pillérrendszer, mely a 31. sz. ÁÉV nagyfesztávú paneljeivel, vagy SPANDECK födémpanelokkal egyaránt lefedhető. Nincs azonban akadálya más építési technológia /pl. acélszerkezet/ alkalmazásának sem."
+
+### Épületek
+> "Az I. ütemben 9000 m2 alapterületű iparcikk áruház, 3000 m2 alapterületű ABC áruház és 10000 m2 alapterületű vásárcsarnok épül. Ez utóbbi felépítése után kerül csak felszámolásra a lakosság ellátásában fontos szerepet játszó piac, hogy területén mintegy 6000 m2 további üzlet legyen kiépíthető. Ez azonban már a megvalósulás későbbi ütemében jön létre. [...] Az I. ütem területén előirányzott kereskedelmi építésnek a lakásépítés ütemével való összehangolása 95 lakás előszanálását teszi szükségessé."
+
+### Pénzügy
+> "A megvalósulás hitelfedezetének egy részét ezért a II/B. szakaszban megépülő lakások után norma szerint járó kereskedelmi és szolgáltató egységek célcsoportos beruházási keretei, többi részét pedig szakági, főosztályi és vállalati pénzeszközök biztosítják."
+
+### A beépítési terv
+
+{{< figure src="delpesti_varosreszkp_beepitesi_terv_cimlap_1978.png" title="Délpesti városrészkötpont beépítési terv címlap, 1978 november. LAKÓTERV - METRÓBER. Törzsszám (Tsz.): 20380/XXIII." numbered="true" >}}
+
+A felterjesztett beépítési terv 46 oldalas, benne 19 db térkép és térképvázlat, terv oldallal, 1 db metszettel, 1 db (homályos) modellfotóval (részlettel). Lássuk, kik tervezték meg mindezt!
+
+| Szerep                         | Név               |
+| ------------------------------ | ----------------- |
+| Felelős tervező                | Zoltai István     |
+| Munkatárs                      | Szabó Ilona       |
+| Generáltervező                 | Gazdag Imre       |
+| Közlekedés tervező             | METRÓBER          |
+|                                | Farkas György     |
+|                                | Váradi Tamás      |
+| Zöldterület tervező            | Karádi Gábor      |
+| Parkolási rendszer             | Keresztény István |
+| Közmű tervezők                 | MÉLYÉPTERV        |
+|                                | GELKA             |
+|                                | POTI              |
+|                                | FŐSZER            |
+| Vezetők                        |                   |
+| Műteremvezető                  | Virág Csaba       |
+| Irodavezető                    | Hollay György     |
+| Főépítész                      | Finta József      |
+| Műszaki igazgatóhelyettes      | Jakab Zoltán      |
+| Igazgató                       | Koltai Endre      |
+| A dokumentációt összeállította | Zoltai István     |
+
+Ezután a tartalomjegyzék következik, amelyet tömörítve közlök az egyes fejezetek címe után. Így könnyebb később felidézni a tartalmát, de mégse terjengős. Az általam érdekesnek tartott pontoknál rövid kivonatot adok, mert bár a teljes anyagot is közzétenném, de így látok kompromisszumot az olvashatóság és a kellő részletesség között.
+
+#### Előzmények
+Ismertetéssel indul az anyag: kicsit többet tudunk meg a pályázatról. Az első tárgyaláson említett tervpályázat *nyilvános és titkos* volt. Az első díjas pályamű alapján elkészítették a terület részletes rendezési tervét, amit később átdolgoztak (de azt nem írják, mikor és miért). Ekközben a LAKÓTERV (az első díjas, bár így kimondottan nem írják le) elkészíti a terület beépítési tervét (tehát az egész lakótelepét). Ez nem részletezte viszont a városközpontot, *"hiszen a tervezők nem rendelkeztek a tervezés alapjául szolgáló tervezési programmal"*. A városközpont előkészítésére Bp. Főv. Tanács VB Városrendezési és Építészeti Főosztálya tervpályázatot kívánt kiírni. A LAKÓTERV, mint a lakótelep generáltervezője a pályázat előkészítése céljából vállalta, hogy kidolgozza a tervezési terület reálisan ütemezhető szerkezeti rendszerét, ezen belül javaslatot tesz az 1. ütem területére. Ez 1977-ben elkészült és ezt tárgyalták 1977. október 12-én, fentebb részletezve. Ezután maradtak abban, hogy a tervpályázatot nem írják ki, hanem a LAKÓTERV-et kérik fel a városrészközpont megtervezésére. Ezt a LAKÓTERV úgí nevezi: **"beépítési tervművelet"** készítésére vállalkozott.
+
+A jelen beépítési terv elkészítését kérő megbízólevél olvasható a következő oldalon a Városrendezési és Építészeti Osztálytól 1977. augusztus 26-tal. Az 1:1000 méretarányú részletes rendezési tervét kérték az intézményközpontnak. Ezután korábbi jóváhagyott tervműveleteket mutatnak be (3 db térkép):
+- **részletes rendezési terv**. Időpont ismeretlen, de ha ez lenne az 1974-ben jóváhagyott, akkor eléggé eltér a három évvel későbbihez képest: nagyrészt S-12-es épülettípusok, az Üllői út mentén A-4-es pontházak nem csak az I. ütem környékén, valami KP-5-ös épülettípus, a "Kossuth téri" általános iskolát meghagynák a városközponton belül, aminek északabbi rész lenne a városközpont, délebbi pedig kerületközpont néven van feltüntetve. És még sok részlet.
+- minisztériumi VÉT-en bemutatott **beépítési koncepció**. Nagyon durva! Többnyire hosszú (pl. többmint 400 és 330 lakásos) sorházakkal operál, egysíkúbb, *"munkahelyi központ"*, nagygarázs, de megjelenik a Derkovics utcától északra valami *szabadszínpad* és *kultúrpark*. Eltűnnek a KP-5-ös házak és helyettük jönnek a H-O-k.
+- **tanulmányterv**, 1977. Ez a fentebb látható intézményközpont **vázlatterv**.
+
+#### Általános tervi összefüggések
+Ismertetés része belehelyezi ezt a fejlesztést a budapesti általános rendezési terv keretébe. Ezután Budapest főúthálózata alatt több érdekes koncepciót tárgyal:
+- **Hungária körúti gyűrű**: a VI. ötéves tervben készül el. Ezen kívül eső városrészek fejlesztése és a bevezető autópályaszakaszok tehermentesítésére épül ki az alábbi kettő gyűrű.
+- **autóútgyűrű**: gyorsforgalmi kapcsolatot biztosít az országos autópályák bevezető szakaszai között, lehetővé teszi az átmenő és teherforgalom számára a lakótelepek és központok elkerülését. Különszintű csomópontokkal épül. Elemeinek felsorolása.
+- **lakótelepi gyűrű** (főforgalmi út): Pest külső városrész és kerületi központjait, illetve az ezekhez kapcsolódó lakótelepeket köti össze. 2×2 nyomú, helytől függően leállósávval, szintbeni jelzőlámpás csomópontokkal. A MÁV, HÉV különszintű keresztezések megépültek vagy épülnek: a MÁV szobi vonala fölött az Árpád úti felüljáró, Kőbánya-Kispest vasútállomás felett a Sibrik M. úti felüljáró, a HÉV Ráckevei vonala feletti Gubacsi felüljáró. Elemeinek felsorolása.
+- **autópálya gyűrű**: a két körúton kívül a városhatár közelében, ill. a városhatáron kívül gyorsforgalmi útként a távlatban épül ki. Elemeinek részletezése.
+
+Ezután Dél-Pest úthálózatát részletezik. A 3 db térképen a budapesti központok rendszerét (lásd [1. részt](/hu/post/kispest-lakotelep-1-resz/)), a budapesti főúthálózatot és a délpesti úthálózatot mutatják be.
+
+{{< figure src="Budapest_fouthalozata_1978.png" title="Budapest főúthálózata, a kispesti intézményközpont tervében, 1978. Láthatóak a főutak gyűrűi, közte érdekes elemekkel, például: az M0 nyomvonala szinte végig a városhatáron belül húzódik, Budán folytatódik, a Hamzsabégi út is főút, van M4-es autópálya, de mintha egy zsákutca lenne a torkolata, valahol a Hungexpo mellett." numbered="true" >}}
+
+{{< figure src="Delpest_uthalozata_ovezeti_terkep_1978.png" title="Dél-Pest úthálózata és övezeti térkép, a kispesti intézményközpont tervében, 1978. A számozás Budapest övezeti beosztása szerinti, ami az 1975-ös Budapesti Városrendezési Szabályzat 1. mellékeletében olvasható, lásd az 1. részt a hivatkozásért." numbered="true" >}}
+
+#### Javasolt megoldás
+
+
+#### Ütemezés - Mutatószámok - Egyeztetések
+
+
+#### Modellfotók
+
+
