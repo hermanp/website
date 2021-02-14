@@ -39,6 +39,18 @@ item:
   organization: Copernicus
   organization_url: https://mooc.copernicus.eu/
   title: Copernicus MOOC
-  url: "/certificate/Copernicus_MOOC _Programme_2nd_edition.pdf"
-
+  url: "/certificate/Copernicus_MOOC_Programme_2nd_edition.pdf"
+- certificate_url: "/certificate/Ujratervezes_program_reszveteli_igazolas_200817.pdf"
+  date_end: "2020-08-12"
+  date_start: "2020-05-25"
+  description: |-
+    - Otthoni munkavégzés
+    - Vállalati Windows alapok
+    - Hálózati alapok
+    - Informatikai tudatosság
+    - Vállalati webfejlesztés
+  organization: Nemzeti Szakképzési és Felnőttképzési Hivatal
+  organization_url: https://www.nive.hu/
+  title: Újratervezés kurzus
+  url: "https://ujratervezes.nive.hu/"
 ---
