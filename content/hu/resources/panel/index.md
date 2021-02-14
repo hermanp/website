@@ -88,6 +88,7 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
         - [11.], 1982-1984. - 1982. - 341 p. - Készült: 1982. aug.
         - [12.], 1982-1984. - 1983. - 308 p. - Készült: 1983. jan.
         - [13.], 1983-1985. - 1983. - 325 p. - Készült: 1983. júl. 
+    - Az 5. ötéves és az 1981-1982. évi budapesti célcsoportos komplex lakásépítési terv hálós elemzése / [kidolgozta az Építésgazdasági és Szervezési Intézet], Budapest, ÉGSZI, 1979
 - `házgyár`:
     - Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei / [összeáll. Garai László, Szvoboda Imréné] ; [közread. a] FŐBER, Bp., 1976
     - Panelos lakóépületek típusterv katalógusa : budapesti házgyárak : 43. sz. Állami Építőipari Vállalat (összeáll. a Tervezésfejlesztési és Típustervező Intézet). ÉVM Műszaki Tervezési Főoszt., Budapest, 1976, 72 p.
