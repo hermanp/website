@@ -179,6 +179,9 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 - egyszerűen ráakadtam `kispest XIX rendezési terv` közben:
     - *1981. február 11.*: Budapest és környéke általános rendezési tervének felülvizsgálata.
     - *1981. június 3.*: Budapest főváros VI. ötéves területfejlesztési tervjavaslata.
+    
+- keresés `("dél-pesti" OR kispest) 2W *központ`:
+    - *1985. február 27.*: A budapesti agglomeráció rendezési tervének koncepciója. [Sok színes térkép!]
 
 - keresés `(III OR harmadik) ötéves terv lakástelepítés`:
     - *1967. június 7.*: „A budapesti lakásépítés, elosztás, telepítés és felújítás néhány időszerű problémája” c. témában a Budapesti Párt Végrehajtó Bizottság által hozott határozatokról.
@@ -226,7 +229,7 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
 - keresés `"XIX Kerületi" Tanács VB 2W beszámoló*`:
    - *1974. június 12.*: A XIX. Kerületi Tanács VB beszámolója munkájáról, különös tekintettel a rekonstrukció helyzetére. [logó, adatok, térkép, és összefoglaló a tervpályázatról két bekezdésben. Utóbbi 1973-ban lett kiiírva, 1974-ben volt határidő, ekkor választottak 17 pályamű közül.]
    - *1979. november 8.*: A XIX. ker. Tanács VB beszámolója munkájáról. [1975-1979]
-   - *1987. április 8.*: A XIX. Kerületi Tanács VB beszámolója tevékenységéről. [1980-1986]
+   - *1987. április 8.*: A XIX. Kerületi Tanács VB beszámolója tevékenységéről. [1980-1986] A városrészközpont megvalósítására anyagi okok miatt nincs lehetőség.
 
 
 ### BFT
@@ -242,10 +245,14 @@ Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei
     > "Az általános terv alapján részletes városrendezési tervet készítünk majd. Elsősorban azokra a területekre készítjük el, ahol a második 5 éves terv során fővárosunk fejlesztésére éehetőség nyílik. Így elsősorban feladataink között szerepel Óbuda, Lágymányos, Angyalföld és Zugló részletes rendezési tervének az elkészítése." [Tehát Kispest ekkor még nem szerepel.]
     - *1954. október 20.*: Beszámoló a fővárosi tanács négyéves munkájáról és feladatairól. Pongrácz Kálmán a Fővárosi Tanács VB-elnökének az 1954. október 20-i tanácsülésen tartott beszámolója.
     > "Ennek ez általános tervnek készítése folyamatban van. [...] Ezek alapján az általános terv ez év vegéig elkészül és az uj tanács elé terjeszthető lesz."
+
 - keresés passz
     - *1966. március 7.*: A Fővárosi Tanács 1966. évi városfejlesztési tervjavaslata. [Benne: 1966. évi városfejlesztési terv. Melléklet. 
 Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generáltervező BUVÁTI, altervezők FÖMTI, KERTI.]
 
+- keresés most lényegtelen:
+    - *1988. május 17.*: Javaslat a Budapest Általános Rendezési Terv programjának elfogadására.
+    - *1988. szeptember 13.*: [Budapest Általános Rendezési Terve 1988](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1988-09-13/?pg=186&layout=s)
 
 ### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
