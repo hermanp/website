@@ -344,7 +344,7 @@ Végül a 115/177. VB határozatban tényleg kifejezik nemtetszésüket a keresk
 
 {{< figure src="IIA_utem_terkep_1977.png" title="II/A ütem térkép, 1977. Az ütem épületei 1-24 között számozottak. A pontházak típusa (A4), az épületek lakásszáma, szintszáma, parkolók száma, férőhely és tanterem számok feltüntetve. Egy tűzivíz tároló jelölve, amiről az előterjesztésben is szó esik, a többi kettő helye kikövetkeztethető. Jól látható a térképen a Kinizsi utcától (ma: Corvin krt.) a Dobó Katica utcáig épült zajvédő domb, ami garázssorként hasznosul." numbered="true" >}}
 
-### Jelentés az II/A ütem befejezéséről 1982  
+## Jelentés az II/A ütem befejezéséről 1982  
 A megvalósításban résztvevő vállalatok:
 - lebonyolító: Fővárosi Építőipari Beruházási Vállalat
 - tervezők:
@@ -369,6 +369,6 @@ A 2111 lakás helyett 2121 valósult meg, az orvosi rendelő mérete csökkent 1
 > A tízszintes lakóházakat a kedvező tájolás biztosítására, valamint a Vöröshadsereg úti forgalomból adódó zajhatás csökkentése érdekében a forgalomra merőlegesen — a megmaradó utcákkal párhuzamosan — helyezték el a tervezők. Tekintettel arra, hogy a lakótelep családi házas övezetbe "metsz" bele, a tízszintes panelházaktól a földszintes épületekig az átmenetet a lakótelepet övező alacsonyabb 5 szintes épületek oldják meg.  
 > Az épületek **színezési módját és színét**, valamint a Vöröshadsereg útjával párhuzamos **"zajvédő domb"**-ot sok kritika érte. A Végrehajtó Bizottság utasításának megfelelően az épületek színezési módját és a "zajvédő dombot" a Városrendezési és Építészeti Főosztály Tervvéleményező Bizottsága megvizsgálta. A lakótelep további építési szakaszán állásfoglalásának megfelelően változtattunk a lakóházak színezési módján és a "zajvédő domb" helyett a Vöröshadsereg út menti sávban intenzív fásítást valósítunk meg."
 
-És ez utóbbi tárgyban hivatkozok a [1980. július 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-07-30/?pg=196&layout=s)-i BFT VB ülésen elhangzottakra. A [4. részben](/hu/post/kispest-lakotelep-2-resz/) részletezem.
+És ez utóbbi tárgyban hivatkozok a [1980. július 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-07-30/?pg=196&layout=s)-i BFT VB ülésen elhangzottakra. A [4. részben](/hu/post/kispest-lakotelep-4-resz/) részletezem.
 
 {{< figure src="/hu/post/kispest-lakotelep-2-resz/Kispest_I_IIA_utem_vege_1982.png" title="I és II/A ütem befejezett állapot térkép, 1982. Eltérés az 1977-es térképhez képest: a szolgáltatóház és az ABC helye felcserélődött a Berzsenyi utcánál, 2 db garzonház épült a Corvin körútnál és a vizes játszótér sincsen megnevezve. A Dobó Katica utcai óvoda helyén ma a Kispesti Forrásház van, nem értem. Lebontották volna? A bölcsődeként feltüntetett, már bővített épület az óvoda épülete ma." numbered="true" >}}
