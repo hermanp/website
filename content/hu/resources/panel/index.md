@@ -114,12 +114,13 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     
     > "a 8. és 9. oldalon felsorolt lakótelepek beruházási programjait folyamatosan, még ez évben [1985] terjessze a Végrehajtó Bizottság elé jóváhagyás végett." 
     
+    - *1983. május 12.*: Tájékoztató jelentés a belső foghíjtelkeken megvalósuló nyugdíjasházak, garzonházak programjáról. (Benne a máshol is felbukkanó "kispesti garzonház", típus, év, kivitelező. [1987. december 2.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-12-02/?pg=180&layout=s): 1985 óta a kispesti garzonház 88 pedagógus lakásának kiutalása. Az 53/c/1985. számú VB határozatról szóló jelentés [1986. szeptember 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1986-09-10/?pg=325&layout=s)-én erről szólt.)
     - *1982. június 9.*: Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről [Hivatkozik az 1977. II. 2-i ülésen a 114-122/1977.sz. V.B. határozatokkal elfogadott II/A ütem beruházási programjára. Megemlíti, hogy többször módosították az I. ütemet, nem lehet mindegyik hivatkozást beazonosítani.]
     - *1982. március 3.*: Új egységesített lakóház, illetve lakástípusok műszaki-gazdasági tervezési rendszerének bemutatása, különös tekintettel a fővárosi igények érvényesítésére. [az E sorozat tervei, épület és lakásváltozatokkal, LAKÓTERV, III. iroda]
     
     > "Különösen a szűk, étkezésre alkalmatlan konyhák állnak a jogos kritikák középpontjában." és "az új tervek áttérnek a lakások, közlekedők/lépcsőházak/ tipizálására, a korábbi épület-tipizálás helyett." 
     
-    - *1981. október 28.*: Tájékoztató a XIX. ker. Kispest rekonstrukciójával kapcsolatos beruházások helyzetéről. [előzmények, tervek, ütemek, időpontok, térkép, kispesti áruház]. 190-206. oldal
+    - *1981. október 28.*: Tájékoztató a XIX. ker. Kispest rekonstrukciójával kapcsolatos beruházások helyzetéről. [előzmények, tervek, ütemek, időpontok, térkép, kispesti áruház]. 190-206. oldal és *A budapesti lakótelepek városrendezési és építészeti kérdései* (21 oldal, nincs térkép, csak 1 db táblázat).
     - *1981. február 11.*: A XIX. kerületi délpesti intézményközpont további tervezési munkáinak leállítása, [indoklással](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-02-11/?pg=205&layout=s). 
     - *1980. július 30.*: Jelentés a VB határozatok végrehajtásáról. [hivatkozik az 1980. február 14-i ülés határozatára] 
     
