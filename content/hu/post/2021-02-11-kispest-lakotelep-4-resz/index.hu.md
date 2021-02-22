@@ -21,7 +21,9 @@ projects: []
 toc: true
 ---
 
-## Első beruházási program 1977
+Ez az ütem nagyságában felülmúlta, bonyodalmaival pedig utolérte az I és II/A ütemeket. Volt nála többszöri módosítás, amelynek egyik oka az V. és VI. ötéves terven átnyúló tervezése és építése volt.
+
+## 1. beruházási program 1977
 Ez az 1977-es év sűrű lehetett a tervezőknek. A II/A ütem beruházási programja után közel fél évvel benyújtották a BFT VB elé [1977. augusztus 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-08-31/?pg=1&layout=s)-én a **XIX. ker. Kispest II/B ütem beruházási programját**. Az *R-21418 ttsz.* részletes rendezési terv alapján készítették, melyet 1974. június 10-én fogadtak el (hogy kik, azt nem tudom).
 
 ### Telepítés
@@ -46,7 +48,7 @@ A 83 hektáros terület körülhatárolása az utcanevekkel. Az ütemezésről t
 
 | Utca, házszám           | Hrsz.  | Létesítmény neve                                       | Területe m2 |
 | ----------------------- | ------ | ------------------------------------------------------ | ----------- |
-| Vöröshadsereg útja 124. | 162296 | "Ramóna"" Finomkötöttárú 17.sz. fióküzlete             |          37 |
+| Vöröshadsereg útja 124. | 162296 | "Ramóna" Finomkötöttárú 17.sz. fióküzlete             |          37 |
 | Vöröshadsereg útja 122. | 162280 | "Temaforg" Textilhasznosító Vállalat üzl.              |          64 |
 | Vöröshadsereg útja 120. | 162279 | Délpesti Vendéglátóipari Vállalat "Csendes" Eszpresszo |         103 |
 | Vöröshadsereg útja 94.  | 162242 | Délpesti Vendéglátóipari Vállalat "Betérő" Étterme     |         479 |
@@ -162,7 +164,7 @@ A nevelési, egészségügyi és ellátó intézmények új vázpaneles szerkeze
 
 A befejezési határidő a teljes lakótelepre: 1985. És az előterjesztés végén, az aláírások előtt: "A Végrehajtó Bizottság úgy foglal állást, hogy a **2.2.6.jelű épületet** csak az új piacrész kiépítése után lehet megvalósítani." És ez az én szerencsém.
 
-{{< figure src="kispest_IIB_beepitesi_terv_vazlat_1977.png" title="II/B ütem beépítési térkép vázlata, 1977. Az egyes szakaszok nincsenek megnevezve, de sejthetőek. A 2.2.6 jelű épület a mai Kispesti Piac helyén állt volna, később más csak 226 lesz a jele. Nem valósult meg. Az egyes épületek körvonala mellett típusuk is fel van tüntetve. Látszik a tervezés alatt álló városközpont is." numbered="true" >}}
+{{< figure src="kispest_IIB_beepitesi_terv_vazlat_1977.png" title="II/B ütem beépítési térkép vázlata, 1977. Az egyes szakaszok nincsenek megnevezve, de sejthetőek. A 2.2.6 jelű épület a mai Kispesti Piac helyén állt volna, később már csak 226 lesz a jele. Nem valósult meg. Az egyes épületek körvonala mellett típusuk is fel van tüntetve. Látszik a tervezés alatt álló városközpont is." numbered="true" >}}
 
 ### Jegyzőkönyv
 A jegyzőkönyvi részben a lakásösszetétel (a tanács határozatainak be nem tartása), a kereskedelmi és szolgáltató létesítmények helyzete (hogyan lesz a kerület ellátva, ha először bontanak) és bizonyos szanálás (tényleg szükséges-e mindent szanálni) a központi kérdés:
@@ -184,7 +186,7 @@ az átlag 53 m2. Itt 53 m2 alatt vannak. Nem alapterületről beszélek, hanem l
 > **Reischl**: [Miután átnézte a számokat, indokolja a lakásösszetétel ilyetén alakulását és javasolja, hogy ne változtassanak rajta, mert nem is lehet a körülmények függvényében.]  
 > **Elnök**: Szóval te azt mondod, hogy ez így jó?  
 > **Reischl**: A lakásösszetételen akkor tudunk változtatni, ha a Tervhivatal felemelné az átlagos lakásalapterületet.  
-> **Elnök**: Mit tegyünk? Fogadjuk el így, vagy kérjük, hogy bizonyos kiegészítésekkel hozzák vissza pár hát múlva?  
+> **Elnök**: Mit tegyünk? Fogadjuk el így, vagy kérjük, hogy bizonyos kiegészítésekkel hozzák vissza pár hét múlva?  
 > **Reischl**: Kiegészítésekkel.  
 > **Pongrácz**: A beruházási programnak nem tartozéka, hogy a létesítmények ütemezését és pótlását megadja. A végrehajtó bizottság olyan kérésének eleget tudunk tenni, hogy mellékletben hozzuk. Ez azért nem készült el mellékletben, mert nem volt eddig tartozéka. [Lakásösszetétel: említi indoként a házgyári termelés adta terítési lehetőségeket és más lakótelepek építésének megakadását emiatt. Kerületi központ: más a komplex lakásépítés, és a városközpont építés. Előbbi a kapcsolódó intézményeket takarja, a városközpontba viszont egyéb intézmények kerülnek, amelyek más pénzből valósulnak meg.] Másrészről, Csehikné elvtársnő, a Városrendezés letette, hogy mikor lehet telepíteni, hogy milyen intézmények volnának kívánatosak. A többi a szakigazgatási szerveik feladata, válasszák ki. Ami most készül tanulmányterv, ennek városépítési...  
 > **Csehik Ferencné**: Azért ne haragudjék, Pongrácz elvtárs, kimondja, hogy 40000 m2-t lehet elhelyezni. Hevenyészett valami. Az, hogy hogyan, az nincs.  
@@ -196,9 +198,9 @@ az átlag 53 m2. Itt 53 m2 alatt vannak. Nem alapterületről beszélek, hanem l
 > **Elnök**: Azt javasolom, hogy legkésőbb november végén kapjuk vissza. Kérlek, még egyszer nézzétek jól meg.Nem engedhetjük meg azt, hogy bennünket egy beruházó vállalat belekényszerítsen abba, hogy a várost hogyan fejlesszük. [És elfogadják a napirendről levételt és az újra felterjesztést **1977. november 30-ig.**]
 
 
-## 1. szakasz 1977
+## 2. beruházási program (1. szakasz) 1977
 
-[1977. december 21](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-12-21/?pg=0&layout=s)-én tárgyalták újra a **XIX. ker. Kispest II/B. ütem beruházási programját**. Ez az 1. szakaszra fókuszál. Mivel fentebb részletesen szemléztem, ezért itt a többlet információra szorítkozok.
+[1977. december 21](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-12-21/?pg=0&layout=s)-én tárgyalták újra a **XIX. ker. Kispest II/B. ütem beruházási programját**. Ez az **1. szakaszra** fókuszál. Mivel fentebb részletesen szemléztem, ezért itt a többlet információra szorítkozok.
 
 > "Az V. és VI. ötéves terv közötti átmenet biztosítása érdekében jelen beruházási program keretében a terület beépítését 1982-ig áthúzódóan mutatjuk be. Ezt indokolja az is, hogy jóváhagyott épülettípusok csak az V. ötéves tervre vannak, melyeket a házgyárak előreláthatóan 1981-82-ben még gyártanak. 1983-tól új lakóépülettípusok lesznek, s ez a naturáliák megváltoztatásával jár."
 
@@ -320,12 +322,12 @@ Végül elfogadták az előszanálásos javaslatot azzal a kikötéssel, hogy Po
 - a városépítési ütem és az azt megelőző közművek kiépítéséhez a munkaterület biztosítása a Vöröshadsereg útja menti üzlethálózat szakaszos szanálását *nem teszi lehetővé*
 - *1978. december 31*-ig a VB elé terjesztendő intézményközpont rendezési terve mellett szerepeltethessék az előszanálásról a javaslatot
 
-{{< figure src="kispest_IIB_beepitesi_terv_cim_1977.png" title="II/B ütem beépítési terv térkép cím mezője, 1977. A LAKÓTERV II. iroda, 3. részlege tervezte, az alaptérképet a Budapesti Geodéziai és Térképészeti Vállalat készítette. Tervező: Zoltay I. (Zoltai István, elírás lehet a név). A többi résztvevők közül többek megtalálhatóak az 5. részben tárgyalt inzétményközponti beépítési tervnél." numbered="true" >}}
+{{< figure src="kispest_IIB_beepitesi_terv_cim_1977.png" title="II/B ütem 1. és 2. szakasz beépítési terv térkép cím mezője, 1977. A LAKÓTERV II. iroda, 3. részlege tervezte, az alaptérképet a Budapesti Geodéziai és Térképészeti Vállalat készítette. Tervező: Zoltay I. (Zoltai István, elírás lehet a név). A többi résztvevők közül többek megtalálhatóak az 5. részben tárgyalt inzétményközponti beépítési tervnél." numbered="true" >}}
 
-{{< figure src="kispest_IIB_beepitesi_terv_atnezet_1977.png" title="II/B ütem beépítési terv térkép, 1977. Az eredeti pdf fájl mérete 36 MB, ez csak átnézeti kép, ennél sokkal részletesebb, például minden egyes fa jelölve van. A firkálmánynak tűnő dolgok a háttérben a helyrajzi számok az alaptérképen. Voltaképp kétrétegű térkép (alaptérkép és beépítési terv)." numbered="true" >}}
+{{< figure src="kispest_IIB_beepitesi_terv_atnezet_1977.png" title="II/B ütem 1. és 2. szakasz beépítési terv térkép, 1977. Az eredeti pdf fájl mérete 36 MB, ez csak átnézeti kép, ennél sokkal részletesebb, például minden egyes fa jelölve van. A firkálmánynak tűnő dolgok a háttérben a helyrajzi számok az alaptérképen. Voltaképp kétrétegű térkép (alaptérkép és beépítési terv)." numbered="true" >}}
 
 
-## Második beruházási program 1979
+## 3. beruházási program (2, 3. szakasz) 1979
 
 [1979. július 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-07-04/?pg=0&layout=s)-én találkozunk újra a II/B ütemmel a BFT VB ülésen: ekkor a teljes ütem beruházási programját tárják a VB elé. Azonban az eltelt időben megváltozott a helyzet:
 - a BKV villamosremiz meghagyása miatt a Vécsey u. - Bem József u. - Magyar László u. - Vörös Hadsereg útja közti területre tervezett lakások megépítését elhalasztják.
@@ -348,7 +350,7 @@ Vagyis a megépülő 8167 db lakásból 7975 db úgynevezett célcsoportból, m�
 
 *1. sz. melléklet. Lakás összetétel a II/B ütemben*
 
-| férőhely  |   ? |     3 |     3 |       4 |     5 |       6 |     ? | Össz |
+| férőhely  |   2 |     3 |     3 |       4 |     5 |       6 |     6 | Össz |
 | --------- | --- | ----- | ----- | ------- | ----- | ------- | ----- | ---- |
 | szobaszám |   1 | 1+1/2 |     2 | 1+2x1/2 | 2+1/2 | 2+2x1/2 |     3 |      |
 | lakásszám | 405 |  1012 |   506 |    4752 |   848 |     194 |   450 | 8167 |
@@ -362,7 +364,7 @@ A közműről szóló részben annyi eltérés van az 1977. augusztus 31-én tá
 ### Kapcsolódó beruházás
 > "A korábban épült lakótelepeken felállított ideiglenes **fabarakok** áthelyezése ugyanis, nem volt lehetséges azok rossz műszaki állapota miatt. Ebben a programban hasonló összegben, de kisebb alapterülettel, könnyen áthelyezhető fémszerkezetű berendezett **konténer** egységek beállítását tervezzük 1980-81. években."
 
-*Lakás és kapcsolódó építmények ütemezése*
+*Lakás és kapcsolódó építmények ütemezése a II/B ütemben*
 
 | Megnevezés          | Összesen | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 |
 | ------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -377,4 +379,60 @@ A közműről szóló részben annyi eltérés van az 1977. augusztus 31-én tá
 | Szolgáltató (m2)    |     1490 |    - |    - |    - |  520 |  970 |    - |    - |
 
 
-{{< figure src="IIB_beepitesi_terv_1979.png" title="II/B ütem beépítési térkép, 1979. Jól láthatóak az előterjesztésben említett módosítások: a Vass Lajos Általános Iskola épületénél, a megmaradó ikerház miatt, a Kossuth téri piac és a Bisztró ház megmaradása, a védősáv a Jahn Ferenc és a Vörös Október (ma: Vas Gereben) utcák között. Bár manapság láthatjuk, hogy megmaradtak az ottani épületek, tehát védősáv meg is valósult, meg nem is." numbered="true" >}}
+{{< figure src="IIB_beepitesi_terv_1979.png" title="II/B ütem beépítési térkép, 1979. Jól láthatóak az előterjesztésben említett módosítások: a Vass Lajos Általános Iskola épületénél a megmaradó ikerház miatt, a Kossuth téri piac és a Bisztró ház megmaradása, a védősáv a Jahn Ferenc és a Vörös Október (ma: Vas Gereben) utcák között. Bár manapság láthatjuk, hogy megmaradtak az ottani épületek, tehát védősáv meg is valósult, meg nem is." numbered="true" >}}
+
+### Jegyzőkönyv
+A kivonatos jegyzőkönyv és azon belül az ülés elnöke, Szépvölgyi Zoltán jól összefoglalja, milyen viták voltak és voltaképp mire jutottak.
+> "Elnök javasolja, hogy a VB. a beruházási programot ne fogadja el, azt napirendjéről vegye le és utasítsa a Beruházási Főosztály vezetőjét, hogy azt a szószerinti jegyzőkönyv alapján való átdolgozás után ismételten terjessze a VB. elé. Az átdolgozás során vegye figyelembe a következőket:  
+> - a lakásépítés gazdaságossága érdekében a beépítési sűrűséget — az előirányzott, zöldterületi és sportterületi normák terhére — jelentős mértékben növelni kell  
+> - a beépítési sűrűség növelésével a szanálási arány jelentős mértékű csökkentését is el kell érni  
+> - készüljön határozati javaslat a szanálások időpontjára és a kisajátítási eljárások meggyorsítására. [...]  
+> - felül kell vizsgálni a megépítendő parkolóhelyek számát. Csak a normában meghatározott, a középtávú időszakra /1985-ig/ szükséges parkolóhelyet kell és szabad most megépíteni. Olyan megoldást kell keresni, amely biztosítja, hogy a lakótelep szélén a későbbiek során lehetőség legyen parkolóhelyek építésére. Amennyiben ezen a területen jelenleg épületek állnak, úgy azokat a Kispest II./B. ütem beruházási programjában csak a hosszabb távlatban szanálandó lakásokként kell figyelembe venni  
+> - a 39458 m2 nem lakás célját szolgáló és szanálásra kerülő helyiségek megoszlására tisztább, világosabb kimutatást kell készíteni /üzlet, üzemi létesítmény, szolgáltatás, iroda stb.  
+> - a program készítése során biztosítani kell az átmeneti időre épülő kereskedelmi létesítmények 1980. IV. negyedévében üzemeltethetők legyenek. Amennyiben ezek építése során új technológiát alkalmaznak [fém konténer], annak bekerülési költségei nem haladhatják meg a barakok bekerülési költségeit  
+> - a kijelölt zöldsávot — amennyiben jogszabályi rendelkezés nem tiltja — zöldterületként kell figyelembe venni. Ennek területét Csak az egész lakótelep építésének befejezése után szabad szanálni  
+> - a sportlétesítmény helyét is csak a lakótelep felépülte után szabad szanálni, illetve akkor, amikor a sportterület építése azt szükségessé teszi."
+
+
+## 4. beruházási program (3. szakasz) 1980
+
+[1980. január 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-01-30/?pg=0&layout=s)-án kerül a módosított beruházási program a BFT VB elé újra. Az előterjesztés elején áttekintik az előzményeket, az eddig tárgyalt, elfogadott és felülvizsgálatra visszadobott anyagokat, a szanálások ütemezését, változtatásait. Ezután a tényleges beruházási program következik, mely nagyrészt megismétli az 1979. július 4-én elhangzottakat. Mik a módosulások?
+- a lakásokhoz viszonyított parkolóhely szám 33% (korábban 52%)
+- egyértelműen írják, hogy az Ady Endre út és a Hunyadi utca sarkán tervezik a konténer üzletek felállítását 1980. év végéig. Ezeket (13 db üzletegység) tételesen felsorolják alapterületükkel együtt a 9. sz. mellékletben.
+- a beépítési sűrűséget növelik azáltal, hogy H-O típusú épületeket részben vagy teljes egészében lecserélnek S-412-es típusúakra a 3. szakasz területén, ezek a 417, 418, 513-as épületek, így 291 db-bal nő a lakásszám
+- két alternatívát kínálnak a Vörös Október (ma Vas Gereben) és Jahn Ferenc utca közötti védősáv területre: "A" esetben nem szanálják az itteni 160 db lakást, "B" esetben ha az ÉVM nem teszi kötelezővé a védősávot, akkor szanálnak és építenek a helyükön egy 295 lakásos épületet. A kivonatos jegyzőkönyv szerint az "A" javaslatot fogadhatják el.
+- nem szanálják a Bisztró (Bistró) házat és a 226 jelű épület megépítését 1983 utánra halaszották, hogy a piac működhessen
+- érdekes módon az egyéb ágazati építmények (általános iskola, óvoda, bölcsőde, orvosi rendelő, közösségi szolgáltatás, ipari szolgáltatás) közül többet törölni kellett a beruházási programból, csak a területet biztosítják számukra. Ezek vélhetőleg a Bocskai - Deák Ferenc utca és az Árpád - Kossuth Lajos utca közötti területen szereplő közintézmények.
+- nem fog szanálás alá kerülni a Tanácsháza előtti tömb
+
+A lakásszámok módosulása a II/B ütemben ("A" alternativa esetén összesen: 8458):
+- 1. szakasz: 1776 db
+- 2. szakasz: 1372 db (első terület), 864 db (további terület)
+- 3. szakasz: 4446 db ("A" alternativa)
+
+A beruházás összköltsége 7535,3 millió Ft-ra módosult. (Részletes kimutatás megtalálható a mellékletekben.)
+
+*1. sz. melléklet. Lakás összetétel a II/B ütemben*
+
+| férőhely  |    2 |     3 |     3 |       4 |     5 |       6 |     6 | Össz |
+| --------- | ---- | ----- | ----- | ------- | ----- | ------- | ----- | ---- |
+| szobaszám |    1 | 1+1/2 |     2 | 1+2x1/2 | 2+1/2 | 2+2x1/2 |     3 |      |
+| lakásszám |  324 |  1012 |   506 |    5214 |   848 |     194 |   360 | 8458 |
+|         % | 3,83 | 11,97 |  5,98 |   61,65 | 10,03 |    2,29 |  4,25 |  100 |
+
+*Lakás és kapcsolódó építmények ütemezése a II/B ütemben*
+
+| Megnevezés          | Összesen | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 |
+| ------------------- | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Építés (db)         |     8458 |    - |  308 | 1094 | 2236 | 2245 | 2201 |  374 |
+| Iskola (tt)         |       48 |    - |    - |   16 |    - |   16 |   16 |    - |
+| Bölcsőde (fh)       |      300 |    - |    - |   80 |   80 |  140 |    - |    - |
+| Óvoda (fh)          |      650 |    - |    - |  150 |  150 |  350 |    - |    - |
+| Keresekedelem (m2)  |     6705 |    - |    - |    - | 3370 |  885 |  885 | 1565 |
+| Orvosi rendelő (m2) |  1916 ++ |    - |    - |    - |    - |    - |    - |    - |
+| Gyógyszertár (m2)   |      756 |    - |    - |    - |    - |  327 |    - |  429 |
+| Szolgáltató (m2)    |     1090 |    - |    - |    - |    - |  520 |    - |  570 |
+
+++ = Az 1980. február 14-i 96/1980. sz. határozatban már szerepel. A Kőbánya-Kispest metró végállomáshoz tervezett 1300 m2-es ABC-t levontam a keresekdelem sorából. A kivonatos jegyzőkönyv alapján az A alternatívával elfogadták az előterjesztést. A zajvédő dombok, valamint az épülő lakóházak színezésének kérdését zsűri elé fogják terjeszteni (100/1980. sz. határozat). A tényleges határozatokat nem értem miért nem lehett most meghozni, csak a következő VB ülésen: [1980. február 14](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-02-14/?pg=99&layout=s)-én. Az építés befejezésének határideje: *1985. december 31.*
+
+{{< figure src="IIB_utem_A_alternativa_1980.png" title="II/B ütem 2, 3. szakasz A alternatíva. Sajnos a kép nem éles, de az 1979-es változattal összehasonlítva láthatóak az eltérések, így a 417, 418, 513-as épületek típusának megváltoztatása S-412-esre a H-O-ról. " numbered="true" >}}
