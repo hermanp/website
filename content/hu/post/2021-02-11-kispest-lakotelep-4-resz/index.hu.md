@@ -164,7 +164,7 @@ A nevelési, egészségügyi és ellátó intézmények új vázpaneles szerkeze
 
 A befejezési határidő a teljes lakótelepre: 1985. És az előterjesztés végén, az aláírások előtt: "A Végrehajtó Bizottság úgy foglal állást, hogy a **2.2.6.jelű épületet** csak az új piacrész kiépítése után lehet megvalósítani." És ez az én szerencsém.
 
-{{< figure src="kispest_IIB_beepitesi_terv_vazlat_1977.png" title="II/B ütem beépítési térkép vázlata, 1977. Az egyes szakaszok nincsenek megnevezve, de sejthetőek. A 2.2.6 jelű épület a mai Kispesti Piac helyén állt volna, később már csak 226 lesz a jele. Nem valósult meg. Az egyes épületek körvonala mellett típusuk is fel van tüntetve. Látszik a tervezés alatt álló városközpont is." numbered="true" >}}
+{{< figure src="kispest_beepitesi_terv_1977.png" title="Kispest lakótelep beépítési térkép vázlata, benne II/B ütem, 1977. Az egyes szakaszok nincsenek megnevezve, de sejthetőek. A 2.2.6 jelű épület a mai Kispesti Piac helyén állt volna, később már csak 226 lesz a jele. Nem valósult meg. Az egyes épületek körvonala mellett típusuk is fel van tüntetve. Látszik a tervezés alatt álló városközpont is." numbered="true" >}}
 
 ### Jegyzőkönyv
 A jegyzőkönyvi részben a lakásösszetétel (a tanács határozatainak be nem tartása), a kereskedelmi és szolgáltató létesítmények helyzete (hogyan lesz a kerület ellátva, ha először bontanak) és bizonyos szanálás (tényleg szükséges-e mindent szanálni) a központi kérdés:
@@ -379,7 +379,7 @@ A közműről szóló részben annyi eltérés van az 1977. augusztus 31-én tá
 | Szolgáltató (m2)    |     1490 |    - |    - |    - |  520 |  970 |    - |    - |
 
 
-{{< figure src="IIB_beepitesi_terv_1979.png" title="II/B ütem beépítési térkép, 1979. Jól láthatóak az előterjesztésben említett módosítások: a Vass Lajos Általános Iskola épületénél a megmaradó ikerház miatt, a Kossuth téri piac és a Bisztró ház megmaradása, a védősáv a Jahn Ferenc és a Vörös Október (ma: Vas Gereben) utcák között. Bár manapság láthatjuk, hogy megmaradtak az ottani épületek, tehát védősáv meg is valósult, meg nem is." numbered="true" >}}
+{{< figure src="kispest_beepitesi_terv_1979.png" title="Kispest lakótelep beépítési térkép, benne II/B ütem, 1979. Jól láthatóak az előterjesztésben említett módosítások: a Vass Lajos Általános Iskola épületénél a megmaradó ikerház miatt, a Kossuth téri piac és a Bisztró ház megmaradása, a védősáv a Jahn Ferenc és a Vörös Október (ma: Vas Gereben) utcák között. Bár manapság láthatjuk, hogy megmaradtak az ottani épületek, tehát védősáv meg is valósult, meg nem is." numbered="true" >}}
 
 ### Jegyzőkönyv
 A kivonatos jegyzőkönyv és azon belül az ülés elnöke, Szépvölgyi Zoltán jól összefoglalja, milyen viták voltak és voltaképp mire jutottak.
@@ -435,4 +435,96 @@ A beruházás összköltsége 7535,3 millió Ft-ra módosult. (Részletes kimuta
 
 ++ = Az 1980. február 14-i 96/1980. sz. határozatban már szerepel. A Kőbánya-Kispest metró végállomáshoz tervezett 1300 m2-es ABC-t levontam a keresekdelem sorából. A kivonatos jegyzőkönyv alapján az A alternatívával elfogadták az előterjesztést. A zajvédő dombok, valamint az épülő lakóházak színezésének kérdését zsűri elé fogják terjeszteni (100/1980. sz. határozat). A tényleges határozatokat nem értem miért nem lehett most meghozni, csak a következő VB ülésen: [1980. február 14](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-02-14/?pg=99&layout=s)-én. Az építés befejezésének határideje: *1985. december 31.*
 
-{{< figure src="IIB_utem_A_alternativa_1980.png" title="II/B ütem 2, 3. szakasz A alternatíva. Sajnos a kép nem éles, de az 1979-es változattal összehasonlítva láthatóak az eltérések, így a 417, 418, 513-as épületek típusának megváltoztatása S-412-esre a H-O-ról. " numbered="true" >}}
+{{< figure src="kispest_beepitesi_terv_1980.png" title="Kispest lakótelep beépítési terv, II/B ütem 3. szakasz A alternatíva. Sajnos a kép nem éles, de az 1979-es változattal összehasonlítva láthatóak az eltérések, így a 417, 418, 513-as épületek típusának megváltoztatása S-412-esre a H-O-ról." numbered="true" >}}
+
+[1980. július 30](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-07-30/?pg=196&layout=s)-án a VB határozatokról szóló jelentések részében közlik a zajvédő dombok és a lakóházak színezésének ügyét (100/1980. sz. határozat alapján).
+
+> "A Városrendezési és Építészeti Főosztály jelenti, hogy a Fővárosi Városrendezési és Építészeti Tervvéleményező Bizottság f. év május 13-i és június 3-i ülésén foglalkozott a határozatban szereplő lakótelep színezésével és az építendő zajvédő dombok témájával. A Bizottság június 3-i ülésén elfogadta a II/B. ütem 2. és 3. szakaszára vonatkozó színmintákat. Ugyan ezen ülésen egyértelmű állásfoglalás született a zajvédő dombok vonatkozásában is. [lásd melléklet]"
+
+> "A Tervvéleményező Bizottság június 3-i ülésén elfogadta a LAKÓTERV által bemutatott **színmintákat**, amelyek a II/B. ütem 2. ill. 3. szakaszára vonatkoznak. E szerint az intézményközpont területétől délkeleti irányban a Kisfaludy utca és Simonyi Zsigmond utca - Klapka - Petőfi utcák által határolt sávban 352-1a szín, majd a Nagy Sándor utca - Szigligeti u. - és a Zrínyi u. - Vécsey utca közötti sáv 322-1a jelű, végül a Jókai u. - Vörös Október u. közötti sávban a 355-1a jelű színek alkalmazásával értett egyet. (A kódszámok a **Budalakk színkártya gyűjteményére** vonatkoznak)."
+
+Szó esik még arról, hogy szeretnék megváltoztatni a színezési módokat, hogy csak az erkélyek elemei és a földszint legyen színezve. Ehhez a kivitelező vállalat beleegyezése szükséges, ami még kérdéses. A módosítást el lehet vetni, mert elsődleges *"a beruházás folyamatosságának biztosítása"*. A zajvédő dombokról részletezés nincs, csak hivatkozás a döntésre. A lejjebb olvasható 1981-es jelentésben kap egy magyarázó bekezdést!
+
+
+## Jelentés az építésről 1981
+
+[1981. október 28](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-10-28/?pg=189&layout=s)-án a BFT VB napirendjein túl került terítékre a **tájékoztató a XIX.kerület Kispesti lakótelep beruházási munkáiról**. Ez az alábbi részekre oszlik:
+
+1. **Előzmények**. Pályáztatás, területlehatárolás, indok. 11407 db lakást említ összesen, 34,8 %-os szanálási arány mellett (vagyis darabszám szerint az új lakások mekkora hányada pótol elbontandót). Ezután átmásoltak ismert szakaszokat: közlekedési kapcsolatok, hármas térszerkezet, épülettípusok és városkép. Építés kezdete: 1973. Befejezés: 1987. A beruházás teljes költsége (alapközművekkel együtt) 11 milliárd Ft. Három ütemben valósul meg.
+
+*3. sz. melléklet. Az ütemek lakásainak szobaszám szerinti megoszlása* Az egyszobás garzonok is szerepelnek a II/A ütemben.
+
+| szobaszám |    1 | 1+1/2 |     2 | 1+2x1/2 | 2+1/2 | 2+2x1/2 |     3 | Össz  |
+| --------- | ---- | ----- | ----- | ------- | ----- | ------- | ----- | ----- |
+| férőhely  |    2 |     3 |     3 |       4 |     5 |       6 |     6 |       |
+| I. ütem   |  166 |   180 |       |     330 |   148 |         |       |   824 |
+| II/A ütem |  398 |       |       |    1696 |   205 |     160 |       |  2459 |
+| II/B ütem |  294 |   972 |   476 |    5050 |   808 |     164 |   360 |  8124 |
+| Összesen  |  858 |  1152 |   476 |    7076 |  1161 |     324 |   360 | 11407 |
+
+2. **Az ütemek ismertetése**. Itt voltaképp felsorolás mellett összevetik a tervezett és megvalósult épületeket összegezve típusok szerint.
+    - I. ütem: 1973-1978 ([2. rész](/hu/post/kispest-lakotelep-2-resz/))
+    - II/A ütem: 1975-1981. Fontos új infó! A Jaquard Textilgyár miatt szanált Corvin krt. melletti védősáv felszabadult a gyár azóta korszerűsített technológiája és az uj OÉSZ előírásai alapján. Ennek megfelelően a területre 1982-1983-as években 2 db 169 lakásos **garzonházat** telepítenek önálló beruházási program keretében. Erről olvashatunk még az [1983. május 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-05-12/?pg=339&layout=s)-i BFT VB ülés *Tájékoztató jelentés a belső foghíjtelkeken megvalósuló nyugdíjasházak, garzonházak programjáról* pontjában. A 3. sz. melléklet táblázatában láthatjuk, hogy **Hajdu** típusú és a Hajdú megyei Állami Építőipari Vállalat (HÁÉV) a kivitelezője. Igaz, itt a lakásszám 168 és 169 db a két épületben. ([3. rész](/hu/post/kispest-lakotelep-3-resz/))
+    - II/B ütem: 1978-1987. Három szakaszban valósul meg. A Bisztróház (26 lakással) és a Szabó Ervin könyvtár szanálás alóli kivonása miatt 334 lakás (2 épület, az egyik a 226 jelű) elmarad a tervezetthez képest. Az elmaradó kereskedelmi és egészségügyi létesítmények a VII. ötéves terv idejére húzódnak át. Épül egy 64 lakásos nyugdíjas ház is (ma: [Zöld Diófa Gondozóház](https://segitokez.kispest.hu/zold_diofa_idosek_klubja)). Ennek a típusa az E sorozatból való és a 43. sz. ÁÉV építi, ahogy erről a fentebb is idézett [1983. május 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-05-12/?pg=338&layout=s)-i anyag is tanúskodik. ([4. rész](/hu/post/kispest-lakotelep-4-resz/), ez a cikk)
+    - intézményközpont. Úgy írják, a beruházási program készítését konkrét építtetői igények hiányában 1980-ban leállították. ([5. rész](/hu/post/kispest-lakotelep-5-resz/))
+    - résztvevő vállalatok:
+        - lebonyolító: Fővárosi Építőipari Beruházási Vállalat
+        - generáltervezők:
+            - Budapesti Városépítési Tervező Vállalat (I. ütem)
+            - Tervezésfejlesztési és Típustervező Intézet (az épületek?)
+            - Lakó- és Kommunális Épületeket Tervező Vállalat (II/A és II/B ütem, felteszem minden, ami nem közmű)
+            - Mélyépítési Tervező Vállalat (felteszem a közmű rész)
+        - generálkivitelezők:
+            - lakóépületek:
+                - Budapesti Lakásépítő Vállalat (I. ütem)
+                - 43.sz. Állami Építőipari Vállalat (talán csak a II/A ütem)
+                - Hajdú megyei Állami Építőipari Vállalat (talán csak II/B ütem)
+            - felépítményi kapcsolódó létesítmények:
+                - 23.sz. Állami Építőipari Vállalat (?)
+                - Vas megyei Állami Építőipari Vállalat (úgy rémlik, II/A és II/B ütem is)
+            - vonalas kapcsolódó létesítmények:
+                - Középmagyarországi Közmű- és Mélyépítő Váll.
+                - Mélyépítő Vállalat 
+3. **Építés és költség**. A lakótelep teljes területének biztosításához 3975 db lakást és 31835 m2 egyéb, nem lakás célját szolgáló helyiséget kell szanálni. Ezekről és visszapótlásukról általánosságban írnak, egy-két esetet kiemelve:
+    - Mentőállomás (ma: [Kispesti Mentőállomás](https://www.mentokispest.hu/), 1195 Budapest Kossuth Lajos u. 6.)
+    - Öregek Napközi Otthona. Ez végül el lesz bontva, mert a 3.1.15 jelű általános iskola kerül a helyére az önkormányzat épületétől délre. Mai helyén: [Zöld Diófa Gondozóház](https://segitokez.kispest.hu/zold_diofa_idosek_klubja), 1195 Budapest, József Attila u. 77.
+    - Szabó Ervin könyvtár (1195 Budapest Kossuth Lajos u. 8.), ma már [Üllői úti Könyvtár](http://www.fszek.hu/konyvtaraink/ulloi_ut_255_). 1191 Budapest, Üllői út 255. alatt, a szolgáltatósoron található meg.
+    - "Nagy Ilona" Szakmunkásképző Intézet 80 fős kollégiuma (ma: [Kisfaludy Károly Középiskolai Kollégium](http://www.kisfaludykoli.sulinet.hu/) és 65 fős)
+    - Ifjugárda Művelődési Ház (ma: [Kispesti Vigadó](http://vigado.kispest.hu/), bár az oldal nem hasznos. Korábban a Kispesti Ipartestület székháza a [Fortepan](https://gallery.hungaricana.hu/hu/Fortepan/1131488/?img=0) szerint.) 
+
+Területelőkészítés késett például ismeretlen helyen tartózkodó vagy külföldi tulajdonos esetén. Problémás a közműszolgáltatás biztosítása a megmaradó családi házas övezetben, miközben közműmentesíteni is kell. Tervhiány nem akadályozta a kivitelezést. A kivitelezésben a parkosítási munkákban adódott több éves csúszás, ezt is indokolják. Gond, amikor egyszerre építik a lakóépületet és a közművet és nincs elég hely a munkához mindenkinek. Kevés az út- és közűépítési kapacitás. Lakótelep költség: 8,9 milliárd Ft. Ennek indoklása (nagyrészt idézem, de szerkesztési okok miatt nem jelölöm):
+- budapesti átlagnál (24 %) magasabb **szanálási arány** (34,8 %) és nagy mértékű nem lakás szanálás (és ebből fakadó kártalanítás)
+- a terület, eltérően Budapest többi lakótelepeitől **7-es földrengés zónába** tartozik, ezért a fogadászint tartószerkezeti méretezésénél mind acél-, mind beton felhasználásban többletköltség jelentkezik.
+- a **magas talajvíz** miatt az épületek fogadószintje a terepszint felett helyezkedik el, ebből adódóan költségnövelő tényező a földbe süllyesztett fogadószinthez képest a kiemelt fogadószint homlokzati kiképzése.
+- a terület **altalaja rendkívül heterogén** összetételű, területileg változó, ezért több helyen teljes talajcserét és az épületek nagy részénél a magas költségeket jelentő mélyalapozást kell alkalmazni.
+- a területen véglegesen, illetve ideiglenesen megmaradó létesítmények részére mind a szanálás, mind az építés ideje alatt több **kiváltó közmű és út** építése szükséges. 
+
+> "1980. január 1-től az ÉVM intézkedésére — a fővárosi vállalatok kapacitáshiányának kiegyenlítésére — a Kispesti lakótelepet **13 vidéki és 3 budapesti vállalat** építi. Budapesten egyedülálló, hogy egy építési területen egyidőben 16 vállalat dolgozzon. A generálkivitelezői feladatát a Hajdú megyei Állami Építőipari Vállalat példásan látja el."
+
+4. **Egyéb feladatok**. Közműves részeket ismétli itt meg.
+5. **Összefoglaló**. Ezt muszáj idéznem:
+
+> A lakótelep megvalósítása során igen sok kritika érte és éri ma is a várostervezőket, felvetve a kérdést, hogy szabad-e egyáltalán ilyen jellegű családi házas településeket teljes egészében megszüntetni és helyükön 10 szintes panelházakat építeni. **A kritika részben jogos**, ugyanis a tervek készítésekor és jóváhagyásakor még más városépítési és gazdaságpolitikai szemlélet uralkodott. Az építésre kijelölt terület határain belül nem vették figyelembe a jó állapotban lévő, megtartható családi házakat és közintézményeket, így a beépítési tervek, közmű és úttervek is szabad területet feltételezve kerültek kiadásra. Ennek következtében előfordult, hogy egyes esetekben a korábbi szanálási szakaszokban olyan épületek is lebontásra kerültek, amelyek jó állapotuk miatt még 20-30 évig is betölthették volna funkciójukat.  
+
+> Az elmúlt két évben ez *a szemlélet gyökeres változáson ment keresztül*. Azóta az építtetők, városrendezők és a tervezők a lakótelepek építési helyének kijelölésekor már számításba veszik azokat az épülettömböket, fontosabb közintézményeket, amelyek rehabilitációval a lakótelep megvalósításával egyidejűleg megtarthatók és városképileg is beleilleszthetők a kialakítandó uj városrészbe. A Kispesti lakótelepen ennek a szemléletváltozásnak — az építés folyamatosságának biztosítása mellett — a II/B. ütem 3. szakaszában tudtunk érvényt szerezni. Az ily módon megtartásra kerülő épületeknek negatív hatása is várhatóan jelentkezik majd az építési munkák végzése során, a kivitelezők, és az ott lakók részéről egyaránt. [...]  
+
+> Elmarasztaló kritikát kapott a már korábban elkészült **lakóépületek színe** és **színezési módja** és a **zajvédő dombok** kialakítása. 
+Ezért a Végrehajtó Bizottság döntése alapján a Városrendezési és Építészeti Főosztály új javaslatot készíttetett a tervezővel, amelyet 1980.II. negyedévében tervzsűri elé terjesztett. Állásfoglalása alapján a II/B. ütem 2. és 3. szakaszán már az új koncepció szerint történik a színezés, zajvédő domb helyett a tervzsűri **intenzív fásítást** javasolt a Vöröshadsereg út mentén, ennek megfelelően a II/B.ütem teljes területén ez kerül megvalósításra. [...]  
+
+> *1980. januárjától* **a vidéki vállalatok belépésével** a Kispesti lakótelep építésében minőségi változás következett be. Igaz ugyan, hogy munkájuk koordinálása, a munkahelyi rend és az építési fegyelem biztosítása sok gondot okoz, de ennél többet jelent, hogy **lényegesen jobb minőségű munkát végeznek**, mint a lakótelep korábbi létesítményeit kivitelező fővárosi vállalatok. Különösen elismerésre méltó a generálkivitelező, Hajdú megyei Állami Építőipari Vállalat és a kommunális létesítményeket megvalósító Vas megyei Állami Építőipari Vállalat eddigi tevékenysége.
+
+A lemaradó parkosításításba a lakosok is besegítenek a kerületi tanács által.
+
+> A lakótelepen élők részéről állandó igényként jelentkezik — a területen megvalósuló alapfokú kereskedelmi és szolgáltató ellátáson felül — a szélesebb választékot, jobb ellátást biztositó **kisüzletek létesítése**. Ennek megoldására a kerületi tanács vezetőivel, a Városrendezési és Építészeti Főosztállyal és a tervezővel közösen megvizsgáltuk az egyéb — nem tanácsi — költségforrásból készülő üzletek építési lehetőségét. Eredményeképpen a lakótelep teljes területén kijelölésre kerültek a városkép szempontjából esztétikus, azonos típusu **pavilonok** telepítési helyei, elsősorban magánkereskedők részére. Nagyobb méretű állami üzleteket a vállalatok igénybejelentése alapján az 1984-85-ös években átadandó E-10 típusu lakóépületek fogadószinti hasznosításával tudunk kialakítani.  
+
+> A Kispesti lakótelep fővárosi viszonylatban **az egyik legnehezebb építési terület**, azáltal, hogy — közvetlenül — meglévő családiházas beépítésű utcák közé ékelődik.  
+
+Panaszbejelentések érkeznek az építési munkálatok miatt megrongálódott utakról.
+
+> Az építési terület **teljes körbekerítése** a lakosság részéről igen nagy ellenállást váltott ki, mivel ezáltal az azon keresztül haladó utcák lezárásra kerültek, így a Vöröshadsereg út megközelítése csak a munkaterület megkerülésével volt lehetséges. A gyalogos átközlekedés megoldására az építési területen — a kerülettel közösen kijelölt helyen — egy ideiglenes, kétoldalt bekerített járdát építtettünk, amelyet több alkalommal fel kell ujíttatnunk az itt dolgozó kivitelezők hanyagsága miatt. Az ideiglenes járda ezév végére megszüntetésre kerül, mivel az itt átadásra kerülő új lakóépületekhez a végleges út és járda elkészül.
+
+A kellemetlenségek ellenére viszont megújul a városrész. Végül elfogadják a jelentést.
+
+{{< figure src="kispest_beepitesi_terv_1981.png" title="Kispest beépítési terv, 1981. Ez már egészen közel áll a jelenkori állapothoz. Eltérések: nem a római katolikus templomtól északra épül meg a 3.1.15 számú általános iskola, hanem a 4.1.13-as nyugdíjasok házával felcserélik a területeket. Megmarad a Fő utcán több épület, a paplak, a KÖZÉRT épülete és a Nagy Ilona Szakmunkásképző Intézet kollégiuma a Kisfaludy utcán és a Szabó Ervin könyvtár és a mentőállomás épülete a Kossuth Lajos utcán. Nincs a 3. szakasz területén H-O típusú épület, helyette más típussal építik az alacsonyabbakat." numbered="true" >}}
+
+Jobb végszót nem tudok írni most sem. Kutakodásaim ellenére nem találtam a II/B ütem befejezéséről tájékoztatót, ennek valamikor 1988-ban kellett volna keletkeznie. Néhány apróságtól eltekintve ez a jelentés adja meg voltaképp a befejezésről szóló jelentést is. (A Vörös Csillag Gépgyár miatti, fentebb is említett véderdő körül még [1988. március 23.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-03-23/?pg=102&layout=s) körül is voltak ügyek, ahogy láthatjuk. Végül nem valósult meg és nem lettek szanálva az épületek.) Voltaképp ezennel elkészült a kispesti lakótelep. Láthattuk mennyi változás történt az évek alatt és mik nem valósult meg. De ennyi lenne az egész? Mi a helyzet azzal az intézményközponttal? Itt le is álltak a lakóteleppel? Ezekre a kérdésekre a válaszokat a következő részekben kaphatjuk meg.
