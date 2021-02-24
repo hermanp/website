@@ -26,6 +26,8 @@ Ahogy a [2. rész](/hu/post/kispest-lakotelep-2-resz/) végén olvashattuk, a ki
 
 ## V. ötéves lakásépítési tervek
 
+### Előkészítés
+
 [1973. február 28](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1973-02-28/?pg=0&layout=s)-án volt napirenden a BFT VB-ban a *"jelentés az V. ötéves terv lakásépítési terve előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra"*. Már részletes ütemezést láthatunk a II. ütem tekintetében, hiszen az I. ütem lakásai a IV. ötéves terv alatt épülnek meg a terv szerint.
 
 *1. sz. táblázat: V. ötéves tervi lakásátadási ütemterv*
@@ -149,6 +151,8 @@ Az M3 metró építéséről elkaptam az alábbi sort:
 
 Ez látható is az 1970-es budapesti városrendezési tervben (lásd az [1. részt](/hu/post/kispest-lakotelep-1-resz/)). A továbbiakban még írnak a kapacitásigényről és arról: fel lehet-e építeni a javaslatban szereplő lakásokat? Rövid válasz: igen.
 
+### Javaslat
+
 Az [1974. április 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1974-04-10/?pg=0&layout=s)-én tárgyalt *javaslat a főváros V. ötéves lakásépítési koncepciójáról* párhuzamba állítható a cikksorozat 2. részében részletezett, [1972. április 12](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=0&layout=s)-i *V. ötéves terv lakásépítéssel kapcsolatos teendőivel*. Mindkettőben a Kispestre vonatkozó érdemi rész a területismertető műleírás, amelyben eltérés tapasztalható:
 - lehatárolás: megnövekszik a terület, a II. ütem területe hangsúlyosan megjelenik.
 - tervellátottság: a terület tervezése megkésett, a részletes rendezési tervet a folyamatban levő tervpályázat miatt később lehet csak elkészíteni. Vélhetőleg ez a II. ütem tervpályázata és rendezési terve, nem pedig a korábbi rendezési tervek újbóli felülvizsgálata.
@@ -187,6 +191,8 @@ Ebben a javaslatban értékelték az első 15 éves (1960-1975) lakásépítés 
 > "[...] a mennyiségi lakáshiány a fővárosban 1975. végén még mindig legnagyobb lesz az országban. 1976-80 közötti években 110 ezer lakás építését és kereken 40 ezer bontását véve számításba, 1980 végére — a lakásfejlesztési terv befejezése után — még mindig csak enyhül a mennyiségi lakáshiány, de meg nem oldódik. [...] Az V. ötéves fővárosi lakásépítési programunk 110 ezer lakás építését irányozza elő. [...] 
 Számításunk szerint az V. ötéves tervidőszak kezdetén 114 ezer lakásigénylővel lehet számolni. Tehát amennyiben lakásmegszűnés egyáltalán nem lenne, akkor sem lehetne a teljes igényt az V. ötéves tervidőszak során kielégíteni."
 
+### Terv
+
 [1975. október 29](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1975-10-29/?pg=0&layout=s)-én tárgyalta a BFT VB *a főváros V. ötéves lakástelepítési és lakásépítési tervét*. Mielőtt Kispestről szólnék, mi is a tervnek a lényegi célja?
 
 > "Ezért a lakáshiány mielőbbi jelentős csökkentése érdekében az V. ötéves tervben törekedni kell: 
@@ -206,7 +212,9 @@ A 6. sz. táblában, *Állami célcsoportos lakásépítés* cím alatt szerepel
 | Kispest II/B.   |        3889 | 1976.XII.  | 1978.IX.  |    - |    - |  699 | 1000 | 2190 |
 
 > **XIX. Kispest II. ütem**  
-> "A kispesti városközpont kialakítása, a terület rekonstrukciója korábban elhatározott és politikailag feltétlen indokolt. A területen az építőipari kapacitás az V. ötéves tervben 6.000 lakás megépítését teszi lehetővé, megfelelő átmenetet biztosít a VI. ötéves terv időszakára az építés folytatásához. Nagyobb arányú gyorsítást az igen nagy szervezettséget és folyamatosságot igénylő építkezés nem tesz lehetővé. Az "A" alternatíva elfogadását javasoljuk." [Ez összecseng az 1973. december 5-i ülésről idézettekkel.]
+> "A kispesti városrészközpont kialakítása, a terület rekonstrukciója korábban elhatározott és politikailag feltétlen indokolt. A területen az építőipari kapacitás az V. ötéves tervben 6.000 lakás megépítését teszi lehetővé, megfelelő átmenetet biztosít a VI. ötéves terv időszakára az építés folytatásához. Nagyobb arányú gyorsítást az igen nagy szervezettséget és folyamatosságot igénylő építkezés nem tesz lehetővé. Az "A" alternatíva elfogadását javasoljuk." [Ez összecseng az 1973. december 5-i ülésről idézettekkel.]
+
+Amúgy a tervet bemutatták az MSZMP BP PB előtt ([1976. április 27](https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__PB_1976/?pg=102&layout=s)-én) és ott is megerősítik a lakásépítési tervnek a budapesti általános rendezési tervhez való kapcsolódását és felsorolják a kialakítandó városrészközpontok között Kispestet is. Érdekesség, hogy a Moszkva térinek a kiépítése későbbre tolódik a nagyarányú szanálás szükségessége miatt.
 
 Térképmellékleteket is tartalmaz az előterjesztés, de érdemi plusz információt nem adnak: az I. ütem területének kerülete van jelölve egy térképen és a *Főváros V. ötéves lakástelepítési és lakásépítési terve* térképe pedig ugyanúgy ábrázolja a területeket, mint fentebb is láthatók. Természetesen jó áttekintést ad a budapesti helyzetről, továbbá annyi pluszt hordoz, hogy a magánerős lakásépítést is feltünteti, azonban számomra az nem releváns.
 
@@ -227,6 +235,8 @@ Hm, érdekes. Fél évvel később már ennyit kell módosítani az ütemezésbe
 > - A tervidőszak utolsó évében erőteljesebben jelentkeztek az építőipar egyenletes termelését akadályozó ipari-gyártmány elsősorban a különböző cső— és szerelvényáru hiányok valamint a kazán illetve trafó-gyártásban és szerelésbon jelentkező zavarok.  
 > - esetenként az előkészítésben a területek átadásában és a tervszolgáltatásban is voltak hiányosságok  
 > - a lakásépítés negyedéves ütemezésének kialakult aránytalansága, amely a végrehajtás során még kedvezőtlenebbül alakult [itt adatokat is közöl]
+
+### Kezdet
 
 [1976. október 26](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1976-10-26/?pg=0&layout=s)-án tárgyalt két összefüggő jelentést is a BFT VB: *az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről* és a *a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről*. V. ötéves beruházások helyzetének tárgyalásakor említi a kispesti közművesítések helyzetét:
 - távhő biztosítást a Kispesti Hőerőmű bővítésével (Budapesti Hőerőmű Vállalat),
