@@ -214,8 +214,12 @@ Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei
     - *1976. október 26.*: Jelentés az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről. [és] Jelentés a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről.
     - *1978. június 21.*: A főváros 1976-1990. közötti 15 éves lakásépítési és lakásfejlesztési programja.
 
-- keresés `"Kispest III. ütem"`:
+- keresés `"Kispest III. ütem"` és `(XIX OR kispest) III 2W ütem` és `kispest corvin`:
     - *1977. december 21.*: Az 1981-1982. évekre vonatkozó és a VI. ötéves tervi előzetes lakásépítési javaslat. [Benne Kispest III. ütem! Térkép! Táblázat! Területleírás!]
+    - *1983. április 27*: Javaslat a VII. ötéves tervi lakástelepítési helyekre. [XIX., Kispest, Corvin körút. Leírás, terv.]
+    - *1989. január 16.*: A Fővárosi Tanács 1989. évi terv- és költségvetési javaslata. [Kispest III. ütem tömbök pénz](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-01-16/?pg=158&layout=s)
+    - *1989. december 4.*: Javaslat a Fővárosi Tanács állásfoglalására a tervezett 1990. évi lakásgazdálkodási intézményekkel kapcsolatban. [Kispest III. ütem](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-12-04/?pg=198&layout=s)
+    - *1990. április 25.*: [Bermuda háromszög szanálás pénz](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1990-04-25/?query=XIX%20OR%20kispest&pg=232&layout=s)
     - *1979. március 27.*: A főváros 15 éves lakásépítési és telepítési tervének koncepciója.
 
 - keresés `(III OR harmadik) "ötéves terv" típusterv`:
@@ -254,6 +258,9 @@ Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generálter
 - keresés most lényegtelen:
     - *1988. május 17.*: Javaslat a Budapest Általános Rendezési Terv programjának elfogadására.
     - *1988. szeptember 13.*: [Budapest Általános Rendezési Terve 1988](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1988-09-13/?pg=186&layout=s)
+
+- érdekesség:
+    - *1990. március 28.*: Javaslat az utca- és házszámtáblák mintájának meghatározására. Az 1986-os [szabványtervet](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1990-03-28/?pg=22&layout=s) az egykori Magyar Iparművészeti Főiskola, a mai MOME oktatói készítették. A betűtípus: Madison, régebbi nevén Amts-Antiqua és még sok más érdekesség.
 
 ### MSZMP BP PB
 MSZMP Budapesti Pártbizottságának ülései
