@@ -26,7 +26,7 @@ III. ütem? De hol? Nos, talán nem lövöm le a poént, ha elárulom az elején
 
 ## VI. ötéves lakásépítési tervek
 
-### Javaslat
+### Előzetes javaslat
 
 [1977. december 21](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1977-12-21/?pg=0&layout=s)-én, az év utolsó BFT VB ülésén kerül terítékre *az 1981-1982. évekre vonatkozó és a VI. ötéves tervi előzetes lakásépítési javaslat*. A lakásépítési területek kiválasztása előtt felmérés készült a második 15 éves lakásfejlesztési terv várható igényeiről és három fő szempontot kívántak mindenképp érvényre juttatni:
 - minél nagyobb mértékű területi koncentrációt a kívánatos fejlesztési irányokban, 
@@ -60,6 +60,17 @@ Ezután következnek a területlehatárolások, amelyek közül lássuk a kispes
 - a közművek mind rácsatlakoztathatók az eddigi kispesti ütemek biztosította hálózatokra.
 
 És... ennyi! A továbbiakban nincs továbblépés. Ez csak terv maradt, vagy inkább csak ötlet. Viszont mégis találunk valami mást III. ütem címen, de ez nem következetesen használt név, helyette inkább **Kispest Corvin krt.** néven emlegették. Hogy mi lehetett ez? Területlehatárolást és térképet is találtam róla, ami voltaképp háromszögnek is tekinthető és ekkor jövök rá, hogy ez lehet a **"Bermuda háromszög"**! Erről írok a III. ütem fejezetben lejjebb.
+
+### Javaslat
+
+[1979. június 6](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-06-06/?pg=0&layout=s)-ra esett a BFT VB-ben *a főváros VI. ötéves lakásépítési és telepítési javaslata*. Az előzmények és a háttérmunka ismertetésénél rámutatnak, hogy az 1979. február 26-án elfogadott 15 éves fővárosi lakásépítési program alapján ("a műszaki-gazdasági realitásokhoz igazodva") a korábbi 124000 helyett 100000 lakást terveznek felépíteni a VI. ötéves terv alatt. Érdekesség, hogy *"az V. ötéves tervi 2000 lakással szemben a VI. ötéves tervidőszakban 7-10000 lakás teljes felépítésénél és további 10000 lakás befejező munkáinál számíthatunk vidéki vállalatok részvételére."*. Szeretnék visszautalni a [4. részben](/hu/post/kispest-lakotelep-4-resz/) olvasható [1981-es tájékoztatóra](/hu/post/kispest-lakotelep-4-resz/#jelent%C3%A9s-az-%C3%A9p%C3%ADt%C3%A9sr%C5%91l-1981) a kispesti beruházási munkákról. Itt részletesen lehet olvasni a vidéki vállalatokról és dicséretükről. Ezek szerint a II/B ütem 8124 db lakásánál a HÁÉV a generálkivitelező, hogy ez "teljes felépítését" jelenti-e, nem tudom, de látható, hogy a kispesti építkezés bizonyosan nagyrészt hozzájárul ehhez a statisztikához.
+
+A kispesti III. ütem már nem szerepel a VI. ötéves tervi javaslatok között, csak a II/B ütem, mint "átmenő lakótelep". A fentiek tükrében ez az egyik terület, ami a "műszaki-gazdasági realitásokhoz igazodva" törlésre került.
+
+Az [1981. június 3](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-06-03/?pg=0&layout=s)-án tárgyalt Budapest Főváros VI. ötéves fejlesztési terve, pontosabban: *Budapest Főváros VI. ötéves területfejlesztési tervjavaslata* nem szolgál Kispest tekintetében érdemi információval. Ugyan rendelkezik egy önálló fejezettel a kispesti városrészközpontról, de csak általánosságban veszi végig az infrastruktúra elemeit és azok változását. A térképek is ezek szemléltetésére szolgálnak, a lakástelepítésről nincs szó.
+
+A III. ütem azonban nem tűnt el teljesen, csak átalakult. Egy másik területet kezdtek így hívni és a VII. ötéves lakásépítési javaslatban tűnik fel elsőként. Ahogy fentebb is utaltam rá, erről írok lejjebb, a III. ütem fejezetében.
+
 
 ## 15 éves lakástelepítési terv 1978
 
@@ -115,9 +126,9 @@ A 69 oldalas második kötetben magát a 15 éves **lakásfejlesztési programot
 
 ### Lakásfejlesztési program
 
-#### Az I. 15 éves (1961-1975) lakásfejlesztés értékelése
+#### Az I. 15 éves lakásfejlesztés értékelése
 
-Az országos I. 15 éves lakásépítési terv mellett Budapestre vonatkozóan nem készült távlati lakásépítési terv. A lakásépítési előirányzatok a középtávú (5 éves) népgazdasági tervek kidolgozása és jóváhagyása során kerültek rögzítésre. Az országos I. 15 éves lakásépítési terv célja a lakásépítés ütemének gyorsítása és ezáltal az önálló lakással nem rendelkezők lakáshoz juttatása és a lakásállomány átalakítása volt.
+Az országos I. 15 éves (1961-1975) lakásépítési terv mellett Budapestre vonatkozóan nem készült távlati lakásépítési terv. A lakásépítési előirányzatok a középtávú (5 éves) népgazdasági tervek kidolgozása és jóváhagyása során kerültek rögzítésre. Az országos I. 15 éves lakásépítési terv célja a lakásépítés ütemének gyorsítása és ezáltal az önálló lakással nem rendelkezők lakáshoz juttatása és a lakásállomány átalakítása volt.
     
 1. *A teljes budapesti lakásállomány fejlődése*. A II. ötéves tervben a megszűnt lakások közel fele 3 és több szobás (lakásmegosztás), a lakás céljaira alkalmatlan lakóépületek bontása viszont jelentéktelen mértékű volt. A IV. ötéves tervben viszont a megszűnt lakások mintegy 70 %-a szoba-konyhás, komfort nélküli volt.
 
@@ -190,7 +201,7 @@ Távlati cél az egy szobára jutó átlagos lakosszám értékének: 1 fő.
     1. *A lakáshiány.* A lakáshiány mértékét elsősorban abból lehet megítélni, hogy az önálló lakásra igényjogosult családegységek miként viszonyulnak a lakások számához. E viszony képezi a mennyiségi lakásigény, illetve lakáshiány fogalmát. A lakásállomány 31 %-os növekedése a kettős feladatot (lakáshiány mérséklés és új többletigény kielégítés) csak részben tudta megoldani, a kezdeti 154000-re tehető lakáshiány csupán 133000-re csökkent. A kezdeti időszakban a családegységek 22 %-ának nem volt önálló lakása, ami 16 százalékra mérséklődött a 15 év során.
     2. *A lakásfejlesztési tevékenység társadalmi hatása.* [Pozitívumai többek között...] A lakásviszonyokban a szocialista társadalom fejlesztési célkitűzéseivel megegyezően kiegyenlítődés következett be, a munkáscsaládok lakáshelyzete gyorsabb ütemben javult, mint a többi társadalmi rétegé. Az új lakótelepek tömeges megjelenése a társadalmi szempontból előnytelen [sic!] családiházas igényt visszaszorította. [Negatívumai többek között...] A lakásépítés térbeli aránytalanságai miatt és a lakáselosztás mechanizmusa vitatható elemeinek következtében társadalmi szegregációs jelenség bontakozott ki. Az új lakótelepeken a fiatal családok, a társasházas területeken az értelmiségiek, a pesti családiházas kerületekben az alacsonyabb végzettségű munkáscsaládok koncentrálódnak, a belső pesti városrészek társadalmilag is elöregednek. Az új lakótelepek lakásállományának összetétele nem teszi lehetővé a teljes demográfiai struktúrájú népesség letelepedését. Az alkalmazott épülettípusok, illetve beépítési mód a lakóhelyi integrációt, a szocialista együttélés új formáinak elterjedését nem segíti kellően.
 
-#### Lakásépítéssel szemben jelentkező követelmények
+#### Lakásépítési követelmények
 
 1. A lakással nem rendelkező családok számának meghatározása, összevetése a nyilvántartott lakásigénylőkkel. Lakásra jogosultak. Az 1970. évi népszámlálás háztartás-összetétel adataiból levezetve a családegységek száma, majd becslés 1976-ra. Átlagos családnagyság meghatározás. Az 1975. októberi tanácsi lakásigénylési kérelmek száma 140000, a BVTV szerint ebből mennyiségi 96000 (69 %). Mennyiségi és minőségi típusú igények felsorolása.
 2. *A jelenlegi lakáshiány minősítése.* A mennyiségi típusu igény azt az alapvető emberi jogot tükrözi, hogy a család, vagy egyedülálló ne kényszerüljön más személyekkel (rokonok, vagy idegenek) egy lakásban együtt lakni. A minőségi típusu igények azt jelentik, hogy az érintettek — életkoruktól, foglalkozásuktól, anyagi-jövedelmi viszonyaiktól és még sok más tényezőtől függően — a kor színvonalának megfelelő és a család igényeihez igazodó lakásban szeretnének élni. Minőségi igények számának meghatározása. A budapesti lakásállomány 43 %-a, összesen 300000 lakás volt 1976 január 1-én egyszobás, és ebből mintegy 200000-re tehető a komfort nélküli szoba-konyhás lakások száma. Ez a minőségi igénylés egyik oka.
@@ -269,7 +280,7 @@ A **területi lakásfejlesztés** elvi koncepciója abban fogalmazható meg, hog
 
 7. Lakásépítési szükséglet a VIII. ötéves terv (1991-95) időszakában.
 
-#### Javaslat Budapest II. 15 éves lakásfejlesztési programjára
+#### Budapest II. 15 éves lakásfejlesztése
 
 1. A lakásépítés mennyiségi és minőségi céljai.
     1. *Az építendő lakások száma és alapterülete.* I. alternatíva szerint: 315 ezer lakás és 65 m2 átlagos alapterület a VII. ötéves terv idején. II. alternatíva (OT miatt): 330 ezer lakás és 60 m2 átlagos alapterület a VII. ötéves terv idején. Javaslat: I. alternatíva elfogadása. Indokok:
@@ -312,7 +323,7 @@ Ezt az anyagot elfogadják, mint alapot, melyet még egyezetnek más hivatalokka
 
 - *"Pest délkeleti részén a Pesterzsébettel, Soroksárral városszerkezeti egységet alkotó, ún. Szentlőrinci úti térség; Csepel déli részén a kavicsbánya-tavak vidéke (XXI. Csepel-dél) jelent gazdaságosan kiszolgálható környezeti szompontból előnyös szabad-területi beépítést. A lakótelepszerű építés mellett a peremkerületi rekonstrukciókat a kerületközpontok körzetében folytatjuk (Újpest, Kőbánya, Rákoskeresztúr, Kispest, Pesterzsébet)."* Ekkor kerülhetett ki Kispest III. ütem a tervből, mivel a térképen már nincs jelölve.
 
-{{< figure src="masodik_15_eves_lakastelepites_kispest_terkep_1979.png" title="A 15 éves lakástelepítési terv területei 1979, részlet. Már nem szerepel Kispest III. ütem." numbered="true" >}}
+{{< figure src="masodik_15_eves_lakastelepites_kispest_terkep_1979.png" title="A 15 éves lakástelepítési terv területei 1979, részlet. Már nem szerepel Kispest III. ütem. Ugyanez a térkép színesben megtalálható a BFT [1979. március 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1979-03-27/?pg=64&layout=s)-i jegyzőkönyvében." numbered="true" >}}
 
 *Lakással nem rendelkező családegységek számának alakulásai*
 
@@ -323,19 +334,65 @@ Ezt az anyagot elfogadják, mint alapot, melyet még egyezetnek más hivatalokka
 | családegységek            |  874 |  920 |  913 |  901 |
 | ellátatlan családegységek |  183 |  167 |   94 |   20 |
 
-Elmondható, hogy ez a terv az előző változathoz képest tömörebben fogalmaz, viszont kevésbé áttekinthető egyes pontokon (vélhetőleg az egyes hivatalok igényeihez szabták a táblázatokat). Végül a tervvel a BFT VB egyetért, de újra át kell dolgozni a szószerinti jegyzőkönyv szerint és ezután kell már közvetlenül a Minisztertanács elé terjeszteni a 92/1979. számú határozat szerint.
+Elmondható, hogy ez a terv az előző változathoz képest tömörebben fogalmaz, viszont kevésbé áttekinthető egyes pontokon (vélhetőleg az egyes hivatalok igényeihez szabták a táblázatokat). Végül a tervvel a BFT VB egyetért, de újra át kell dolgozni a szószerinti jegyzőkönyv szerint és ezután kell már közvetlenül a Minisztertanács elé terjeszteni a 92/1979. számú határozatnak megfelelően.
 
 
-[1979. június 6.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-06-06/?pg=0&layout=s) A főváros VI. ötéves lakásépítési és telepítési javaslata 
+## Általános rendezési terv
 
+Hogy legyen egy kerete a tényfeltáró munkának, áttekintést adok a Budapestet érintő általános rendezési terv (ÁRT) 1980-as évekbeli módosulásáról. **A folyamat a következő**:
 
+1. Az [1027/1960 (XI. 4.)](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?pg=718&layout=s) számú kormányhatározat hagyta jóvá Budapest és környéke általános városrendezési tervét . Ez az **első ÁRT**. Rendelkezett a felülvizsgálatról és határidejéről: III. ötéves terv időszaka.
+2. Az [1005/1971 (II. 16.)](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1971/?pg=299&layout=s) számú kormányhatározat hagyta jóvá Budapest főváros és környéke általános rendezési tervének felülvizsgált változatát. Ez a **második ÁRT**. Ennek felülvizsgálati határideje: VI. ötéves terv időszaka. A két ÁRT-ről az [1. részben](/hu/post/kispest-lakotelep-1-resz/) lehet olvasni.
+3. Elkezdik a második ÁRT felülvizsgálatát 1978 körül (ennek [kezdetéről](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-02-11/?pg=12&layout=s) az 1981. február 11-i előterjesztésben lehet olvasni), és a BFT VB elé terjesztik, ahogy lentebb láthatjuk, az [1980. június 18](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-06-18/?pg=0&layout=s)-i ülésen. Ez csak egy **tájékoztató** a felülvizsgálat helyzetéről, amit a BFT VB elfogad és egységes továbbtervezésre utasít (374 és 375/1980. sz. határozat), és arra, hogy *"dolgozzuk ki az anyag tartalomjegyzékét és a jóváhagyási eljárási ütemtervét"* (376/1980. sz. határozat).
+4. A felülvizsgálat két részre oszlik (jó [összefoglalóval](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-02-27/?pg=9&layout=s) az 1985. február 27-i ülésen): **területrendezési terv** és **területfejlesztési terv**:
+    - Az [1981. február 11](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-02-11/?pg=18&layout=s)-i BFT VB ülésen az ÁRT városépítési koncepcióját tárgyalják és fogadják el, amit később, mint területrendezési tervet hivatkoznak és dolgoznak át. Továbbá: *"Az Építésügyi és Városfejlesztési Minisztérium által közreadott tervezési metodika előírja, hogy az általános rendezési terv részeként el kell készíteni a hosszutávú területfejlesztési koncepciót."* Ezt az Országos Tervhivatal vállalta, de nem teljesítette, többszöri halasztás után sem. Áttevődött a tervezés súlypontja a területfejlesztési koncepcióra.
+    - [Halasztják](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-05-06/?pg=193&layout=s) "Budapest és környéke általános rendezési terv" tárgyalását a fentiek miatt.
+    - Időközben telt az idő és újra kellett tervezni a területrendezési koncepciót is.
+    - [1985. január 18](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1985-01-18/?pg=0&layout=s)-án fogadja el a BFT *a budapesti agglomeráció hosszú távú fejlesztési programját*.
+    - [1985. február 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-02-27/?pg=0&layout=s)-én voltaképp egyesítik a két tervet *a budapesti agglomeráció rendezési tervének koncepciójában*. Ezt a BFT VB elfogadja és a BFT elé terjesztésre rendeli, amit [1985. március 22](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1985-03-22/?pg=0&layout=s)-én a BFT elfogad és egyetért azzal, hogy *"a vitában elhangzott észrevételekkel, javaslatokkal kiegészített "koncepció" képezze a rendezési terv kidolgozásának és véglegesítésének alapját"*. Ezt [tárgyaltatják](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-10-23/?pg=13&layout=s) különféle szervezetekkel.
+5. [1985. október 23](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-10-23/?pg=0&layout=s)-án tárgyalja a BFT VB *a budapesti agglomeráció regionális rendezési tervét*. Tehát ez már a végleges változat a VB előtt. Ezt elfogadják (403/1985. számú VB határozat: *"a budapesti agglomeráció regionális rendezési tervével a további munka alapjául egyetért"*) és a BFT elé terjesztik [1985. november 26](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1985-11-26/?pg=0&layout=s)-án. A BFT ezt elfogadja, de kéri, hogy a vita szerinti kiegészítéssel terjesszék a Minisztertanács elé, 1986-ban.
+6. [1027/1986. (V. 22.)](https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1986/?pg=527&layout=s) számú minisztertanácsi határozat *a budapesti agglomeráció regionális rendezési tervét* jóváhagyja. 1988. december 31-ig pedig a BFT VB készítse el Budapestre és a kerületekre vonatkozó általános rendezési tervet. Egyúttal hatályát veszti ezzel a határozattal az első és a második ÁRT.
+7. Ezután újabb köröket futnak: elkészítenek egy ÁRT **programot** és az alapján akarják a végleges ÁRT-t (**"tervet"**) kihirdetni.
+    - [1987. december 2](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-12-02/?pg=0&layout=s)-án benyújtja a BFT VB Városrendezési és Építészeti Főosztálya *javaslatát Budapest általános rendezési terve elkészítésének programjára*. Mellékelik az ÁRT hatósági egyeztetési kötetét. A BFT VB elfogadja, 536/1987. számú határozatában hatósági egyeztetésre bocsátja és kéri vissza, ha lezárult.
+    - [1988. május 17](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-05-17/?pg=47&layout=s)-én tárgyalja újra a BFT VB a *javaslatot Budapest Általános Rendezési Terv programjának elfogadására*. Egyetért vele és utasítást ad, hogy a BFT elé terjesszék.
+    - [1988. július 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1988-07-08/?pg=0&layout=s)-án terjesztik a BFT elé az ÁRT programot, amit a 87/1988. számú BFT határozat elfogad és az észrevételekkel kiegészített anyagot a Minisztertanács elé terjesztik. DE! Maga az elfogadott anyag csak az [1988. szeptember 13](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1988-09-13/?pg=186&layout=s)-i ülés jegyzőkönyvének kéziratos részében szerepel, anélkül, hogy erre a tartalomjegyzékben egy árva utalás is lenne! (Ez valami levéltári probléma?) A célja a BFT-nek, hogy övé legyen az utolsó szó: azt akarja, hogy miután a Minisztertanács elfogadja az ÁRT programot, *"a program alapján véglegesített "terv"-et a Fővárosi Tanács saját hatáskörben hagyja jóvá"*.
+8. [3208/1988. (VIII. 11.)](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-06-20/?pg=13&layout=s) számú minisztertanácsi határozat Budapest ÁRT programját jóváhagyta és hozzájárult ahhoz, hogy a program alapján véglegesített tervet a BFT saját hatáskörében hagyja jóvá. De sehogy sem találtam meg ezt a jogi aktust. Elírás lenne?
+9. Újabb körök a bürokrácia medencéjében és a lassan véget érő egyeztetések erdejében:
+    - [1989. május 22](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-05-22/?pg=0&layout=s)-én kerül vissza a *javaslat Budapest Általános Rendezési Terve jóváhagyására* a BFT VB elé, aki a 146/1989. számú határozatával elfogadja és a BFT elé terjeszteni rendeli.
+    - [1989. június 20](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-06-20/?pg=0&layout=s)-án tárgyalja a BFT. Újra egyeztetést kell lefolytatni az észrevételek miatt és újra a BFT elé kell terjeszteni a 75/1989. számú BFT határozat alapján.
+10. [1989. szeptember 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-09-15/?pg=0&layout=s). Igen, végre! Ezen a napon a BFT az észrevételek alapján átdolgozott Budapesti Általános Rendezési Tervet jóváhagyja, kihirdetik.
 
+A kezdetekkel ellentétben, amikor még izgalmas volt a kialakuló kispesti városrészközpont gondolata, a 80-as évekre már Kispest vonatkozásában nincs annyi városépítészeti érdekesség, így röviden tudom tárgyalni.
 
+### Tájékoztató 1980
+
+[1980. június 18](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1980-06-18/?pg=0&layout=s)-án került a BFT VB napirendjére a BVTV 1980. májusi keltezésű városépítési koncepciójavaslata *Tájékoztató jelentés Budapest és környéke általános rendezési terve felülvizsgálatának helyzetéről* cím alatt. Az agglomerációt bemutató fekete-fehér, 18 db térképmelléklet és 8 db térképvázlat az egyes ágazatok bontásában taglalja a városépítési koncepciót, de Kispestről érdemben nem esik szó. Itt már felvetődik a további városrészközpontok kialakítása az eddigi 6 db mellett (bár a fejlesztések időtávja eltérő, Pesterzsébet és Kőbánya esetében az ezredforduló van említve):
+
+> "A főváros általános rendezési tervében meghatározott 6 városrészközpontban (Óbuda, Moszkva tér, Móricz Zsigmond körtér, Kispest, Örs vezér tér, Újpest területén) a főváros és környékének felsőfokú közintézmény szükségletei maradéktalanul nem helyezhetők el. Ezért távlati célkitűzésként még további négy kerületi központ kijelölése lenne szükséges (Csepel, Pesterzsébet, Kőbánya, Bosnyák tér)."
+
+Szó esik még az ezredfordulóig esedékes vasúti fejlesztésekről:
+- Kispest-Soroksár új vonal
+- Kispest-Pestimre vonalkorrekció
+- Kispest-Józsefváros harmadik vágány (posta és konténerforgalom)
+
+### Városépítés 1981
+
+[1981. február 11](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-02-11/?pg=0&layout=s)-én tárgyalja és fogadja el a BFT VB *Budapest és környéke általános városrendezési terve városépítési koncepcióját*. Ezt a tájékoztató jelentés átdolgozásával készítette a BVTV szintúgy 1980-ban. A mellékletek fekete-fehérek, 17 db agglomerációs és 2 db budapesti egész oldalas térképmelléklettel, 17 db nem egész oldalas térképmelléklettel és vázlattal. Ebben visszaköszön a 15 éves lakásépítési terv, annak az 1979-ben elfogadott végleges változata, amelyben Kispest III. üteme nem szerepel. Ebben a városépítési koncepcióban is csak a II/B ütem lakásépítésének számait tüntetik fel, a térképen is az I, II/A, II/B ütem. Szót ejtenek Kispest városrészközpontról, annak jövőbeli kilátásáról.
+
+{{< figure src="ART_1981_lakas.png" title="Budapest és környéke általános rendezési terve városépítési koncepció 1980. Lakástelepítés. Részlet. Kispest III. ütem nincs feltüntetve, csak az eddigi ütemek." numbered="true" >}}
+
+### Agglomeráció 1985
+
+[1985. február 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-02-27/?pg=0&layout=s): *A budapesti agglomeráció rendezési tervének koncepciója*. 7 db regionális és 14 db budapesti **színes térképmelléklettel**! Készítette a BVTV, 1985-ben.
+
+Hogy a területrendezési terveknek milyen fajtái vannak, arról a [Budapesti Városrendezési Szabályzat](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1986-09-24/?pg=106&layout=s) újraalkotásakor adnak tájékoztatást. Ez segíti az ÁRT felülvizsgálati folyamatának megértését.
 
 
 ## III. ütem
 
 Lássuk a III. ütem előfordulásait és az adatokat (a BFT VB ülésein)!
+
+### VII. ötéves tervi javaslatok
 
 [1983. április 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-04-27/?pg=126&layout=s): Javaslat a VII. ötéves tervi lakástelepítési helyekre. Ezt találtam első előfordulásaként. Itt jelzik, hogy 500 db lakást építenének 1988-1990 között a VII. ötéves tervben. Található egy részletes leírás is, kiemelést átvéve:
 
@@ -351,9 +408,23 @@ Szó esik még környezetvédelmi vizsgálatokról és a terület ezirányú ren
 
 [1985. július 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-07-31/?pg=175&layout=s&query=corvin): Javaslat a VII. ötéves tervi, kiemelten az 1986-1987. évi lakásépítési helyekre. Megismétlik ez előző pontban foglaltakat az lőterjesztésben, de módosítják az első lakásátadást, az új dátum: 1989. A kivonatos jegyzőkönyv szerint viszont hiába a csökkent szanálási arányszám, mivel ez is magas, ezért az anyag előadója, Kelemen János javasolja, hogy a terület előkészítését halasszák el a VII. ötéves tervben.
 
-[1988. június 29](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-06-29/?pg=0&layout=s): Rácáfol az előzőre! Tárgyalják külön pontban a *javaslatot a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeiről*. Megismétli az előzőekben elhangzott általános megállapításokat. Miért is alakult így? Mert *"a normatív szemléletű lakásépítési gyakorlat a városképi, városszociológiai szempontokat nem mérlegelte"*.
+### XIX. Tanács beszámoló 1987
 
-1. **Helyzetismeertetés**. Hivatkozik a XIX. ker. Tanács 1987. április 8-i beszámolójára. Eszerint 1986. február 18-án jóváhagynak egy új részletes rendezési tervet: R-33015 szám alatt. Ezt felhasználva elkészíttetik a LAKÓTERV-vel, az UVATERV-vel és a BVTV-vel a tervváltozatokat a beépítésre, az esetleges lakásszám növelésre, miközben a zajvédelmet is figyelembe veszik. Ezeket a terveket tárgyalta meg a BFT VB Műszaki és Kommunális Bizottságának Városrendezési és Építészeti Albizottsága 1988. április 7-i ülésén és a legjobb, továbbtervezésre alkalmas tervnek a LAKÓTERV-ét tartja (II. terv, 1. alternatíva). Eszerint:
+Mielőtt rátérnék a fejezetcímben szereplő 1987-es beszámolóra, említést kell tennem az első (1974-es) és a második (1979-es) beszámolókról. Az elsőről a [2. részben](/hu/post/kispest-lakotelep-2-resz/) lehet olvasni, míg az  [1979 november 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-11-08/?pg=0&layout=s)-i másodikról csak annyit mondanék, hogy érdemi információ a lakásépítéssel kapcsolatban nincs benne, csak a kerület általános jellemzésén túl az ellentmondásos rekonstrukciós állapokra utalnak (szanálásról rossz tájékoztatás, lakáselosztási, ellátási gondok). Kérésként a kereskedelem átmeneti sürgős pótlását, valamint a lebontásra kerülő öregek Napközi Otthona természetbeni visszapótlását kérik.
+
+A XIX. kerületi Tanács VB harmadik, [1987. április 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-04-08/?pg=0&layout=s)-i beszámolója kerületi általános összefoglalóval kezd, bár van benne érdekes megjegyzés, például: *"A szanálás miatt az itt élő emberek nagy része Kispestről más kerületekbe költözött, az új házakba zömében fiatal, gyermekes családok kerültek Budapest szinte minden részéből."* Ezután a kerület fejlődésének főbb vonásai ponton belül árnyalódik az 1981-es jelentés, amiről a [4. részben](/hu/post/kispest-lakotelep-4-resz/) olvashattunk.
+
+> "A kerületi lakásállomány minőségi összetétele jelentősen javult, de sok kedvezőtlen beosztású (**kiskonyhás**) és kis alapterületű lakás is felépült. A nagy léptékű építkezés alapvetően kedvező megítélését beárnyékolta a beruházás és kivitelezés számos gondja. A lakásépítésekre mindvégig *az ütemtelenség, a minőségi problémák sokasága, a szervezetlenség* volt jellemző. Sok vidéki építőipari vállalat vett részt a munkában, közülük néhány rendkívül gyengén dolgozott (pl. Szolnok megyei ÁÉV). A rekonstrukció elején és végén résztvevő 43. sz. ÁÉV csak az utolsó épületeknél törekedett a minőség javítására. A minőségi gondok érzékelhetően rontották az új lakásokba költözők közérzetét."
+
+> "Ma a kerület legégetőbb gondja a "Bermuda háromszög" néven ismert összefüggő leromlott kerületrész rekonstrukciójának elmaradása."
+
+Ezután szomorúan beletörődnek az intézményközpont elmaradásába és folytatódnak az egyes tevékenységek bemutatásai, közellátás, stb. A beszámoló végén felhívják a BFT VB figyelmét a Bermuda háromszög szanálásának és a lakásépítésnek a támogatására. Ennek lesz az eredménye a következő fejezetben tárgyalt lépcsőzetes szanálás.
+
+### Lépcsőzetes szanálás
+
+[1988. június 29](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-06-29/?pg=0&layout=s): Külön pontban tárgyalják a *javaslatot a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeiről*. Megismétli a VII. ötéves tervi javaslatokban elhangzott általános megállapításokat. Miért is maradt el ennek a kerületrésznek a fejlesztése a lakótelep mellett? Mert *"a normatív szemléletű lakásépítési gyakorlat a városképi, városszociológiai szempontokat nem mérlegelte"*.
+
+1. **Helyzetismertetés**. Hivatkozik a XIX. ker. Tanács 1987. április 8-i beszámolójára. Eszerint 1986. február 18-án jóváhagynak egy új részletes rendezési tervet: R-33015 szám alatt. Ezt felhasználva elkészíttetik a LAKÓTERV-vel, az UVATERV-vel és a BVTV-vel a tervváltozatokat a beépítésre, az esetleges lakásszám növelésre, miközben a zajvédelmet is figyelembe veszik. Ezeket a terveket tárgyalta meg a BFT VB Műszaki és Kommunális Bizottságának Városrendezési és Építészeti Albizottsága 1988. április 7-i ülésén és a legjobb, továbbtervezésre alkalmas tervnek a LAKÓTERV-ét tartja (II. terv, 1. alternatíva). Eszerint:
     - nem növelik meg a lakásszámot, mert az a lakókörnyezet minőségromlását okozná
     - zajterheléssel foglalkozó tanulmányt kell készíteni
     - komplex elemző és értékelő gazdaságossági vizsgálatot kell készíteni a környezetvédelmi szempontok bevonásával
@@ -376,6 +447,8 @@ A határozatokat elfogadják, ami a szanálás ütemezéséről, beruházási pr
 
 {{< figure src="kispest_III_utem.png" title="Kispest III. ütem térképi vázlat, 1988. A terület 5 tömbre van osztva az utcák által. Napjainkban a Mátyás király út és a Tálas (a térképen Talalas?) utcák között található a Shopmark. A Corvin krt. - Szalay utca között volt a [Hungária-Jacquard Szövőgyár](https://dka.oszk.hu/html/kepoldal/index.phtml?id=28592) telephelye, ahol ma több üzlet működik." numbered="true" >}}
 
+### Áthúzódás
+
 [1988. november 21.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-11-21/?pg=175&layout=s&query=kispest%20OR%20XIX): Tájékoztató a kerületi tanácsok VII. ötéves tervi magánerős lakásépítésének helyzetéről és értékelés ponton belül olvashatunk egy mondatot: *"Megkezdték a Vöröshadsereg-Corvin körút közötti /Bermuda háromszög/ területen — a VIII. ötéves tervre áthúzódóan — 456 db lakás építésének előkészítését."*
 
 [1989. december 4.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-12-04/?pg=198&layout=s): Javaslat a Fővárosi Tanács állásfoglalására a tervezett 1990. évi lakásgazdálkodási intézményekkel kapcsolatban ponton belül írnak a III. ütemről. *"1988-ban 32,50 millió Ft céltámogatás szerepel az éves tervben. Ebből készült el az 5. tömb szanálása, a 4. tömbé is megkezdődött. Lakásátadás 1990 után várható."*
@@ -385,3 +458,5 @@ A határozatokat elfogadják, ami a szanálás ütemezéséről, beruházási pr
 És ennyi. Nincs több fellelhető érdemi információ a III. ütemmel kapcsolatban, csak néhány költségvetési tétel a BFT ülésén ([1989. február 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-02-10/?pg=148&layout=s), [1990. május 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1990-05-15/?pg=160&layout=s)). A fentiek alapján mindenesetre tudható, hogy még beruházási program is készült, ez vélhetőleg a BFT VB elé nem került, csak a kerületi tanácsban tárgyalták.
 
 Hogy miért ismertem fel a III. ütemben a "Bermuda háromszöget"? Még a források felkutatásánál akadtam rá Fenyvesi Dezső, Kispest 1984-1990 közötti tanácselnökének blogjára, ahol egy [írást](https://kispestanno.blog.hu/2013/10/27/a-kispesti-bermuda-haromszog) ennek a területnek szentel. Érdemes elolvasni Györkös Attila hozzászólását (Kanuni Szulejman Szultan becenév alatt), ahol a terület életéről, gyerekkori emlékeiről ír.
+
+Itt ér véget cikksorozatom azon része, amely a kispesti lakótelep építészet történetének forrásait dolgozta fel és követi a lakótelepi lakóépületek térképi ábrázolásának feladata a következő részben.
