@@ -71,6 +71,79 @@ Az [1981. június 3](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1
 
 A III. ütem azonban nem tűnt el teljesen, csak átalakult. Egy másik területet kezdtek így hívni és a VII. ötéves lakásépítési javaslatban tűnik fel elsőként. Ahogy fentebb is utaltam rá, erről írok lejjebb, a III. ütem fejezetében.
 
+## III. ütem
+
+Lássuk a III. ütem előfordulásait és az adatokat (a BFT VB ülésein)!
+
+### VII. ötéves tervi javaslatok
+
+[1983. április 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-04-27/?pg=126&layout=s): Javaslat a VII. ötéves tervi lakástelepítési helyekre. Ezt találtam első előfordulásaként. Itt jelzik, hogy 500 db lakást építenének 1988-1990 között a VII. ötéves tervben. Található egy részletes leírás is, kiemelést átvéve:
+
+> A területet a Határ úti metró csomópont, a Vöröshadsereg út - Szalai u. [helyesen: Szalay u.] - Ady Endre út határolja. Mintegy 300 leromlott állagú lakás van a városképi szempontból rendkívül hátrányos megjelenésű tömbben. A VII. ötéves tervi lakásépitési területek között ez az egyetlen, melyet 55 %~os szanálási aránya ellenére **elsősorban városképi szempontból** javaslunk megszüntetni: a korszerű és városias Üllői út, a magas színvonalu Határ úti csomópont és az új kispesti lakóterület közé ékelődő elhanyagolt, rendezetlen és rossz állagú tömb azt a korszerű városképet szakítja meg, és kelti a **befejezetlenség látszatát**, mely a városközponttól a kispesti városrészközpontig terjed és a repülőtéri út bevezető szakaszának szomszédságában van.  
+
+> A terület tömegközlekedéssel és zömében alapközmüvekkel is ellátott, a metró közvetlen vonzáskörzetében van. Alapvízellátása a délpesti I. főnyomócső kiépítésével biztosított. A 108 db lakóépület 80 %-a gyenge állagú, bontásra érett földszintes házakból áll. Beépítését 10 szintes épületekkel 100 lakás/ha laksűrűség mellett javasoljuk, építhető lakások száma 500 db.
+
+> A KÖJÁL 1983. március 10-én kelt állásfoglalása a terület meglévő viszonyait közegészségügyi szempontból elfogadhatatlannak tartja, az egészségtelen elvizesedett lakások miatt.
+
+Szó esik még környezetvédelmi vizsgálatokról és a terület ezirányú rendezhetőségéről. Az első lakás átadást 1988-ra (esetleg 1987-re) javasolják.
+
+[1985. április 24](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-04-24/?pg=72&layout=s&query=corvin): Jelentés a VII. ötéves tervi lakásépítési feladatok előkészítéséről, különös tekintettel az 1986-1987. évi lakásépítési feladatokra. Itt említik újra, de már emelt lakásszámmal! 500-ról 740 db-ra emelték az építendő lakásszámot.
+
+[1985. július 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-07-31/?pg=175&layout=s&query=corvin): Javaslat a VII. ötéves tervi, kiemelten az 1986-1987. évi lakásépítési helyekre. Megismétlik ez előző pontban foglaltakat az lőterjesztésben, de módosítják az első lakásátadást, az új dátum: 1989. A kivonatos jegyzőkönyv szerint viszont hiába a csökkent szanálási arányszám, mivel ez is magas, ezért az anyag előadója, Kelemen János javasolja, hogy a terület előkészítését halasszák el a VII. ötéves tervben.
+
+### XIX. Tanács beszámoló 1987
+
+Mielőtt rátérnék a fejezetcímben szereplő 1987-es beszámolóra, említést kell tennem az első (1974-es) és a második (1979-es) beszámolókról. Az elsőről a [2. részben](/hu/post/kispest-lakotelep-2-resz/) lehet olvasni, míg az  [1979 november 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-11-08/?pg=0&layout=s)-i másodikról csak annyit mondanék, hogy érdemi információ a lakásépítéssel kapcsolatban nincs benne, csak a kerület általános jellemzésén túl az ellentmondásos rekonstrukciós állapokra utalnak (szanálásról rossz tájékoztatás, lakáselosztási, ellátási gondok). Kérésként a kereskedelem átmeneti sürgős pótlását, valamint a lebontásra kerülő öregek Napközi Otthona természetbeni visszapótlását kérik.
+
+A XIX. kerületi Tanács VB harmadik, [1987. április 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-04-08/?pg=0&layout=s)-i beszámolója kerületi általános összefoglalóval kezd, bár van benne érdekes megjegyzés, például: *"A szanálás miatt az itt élő emberek nagy része Kispestről más kerületekbe költözött, az új házakba zömében fiatal, gyermekes családok kerültek Budapest szinte minden részéből."* Ezután a kerület fejlődésének főbb vonásai ponton belül árnyalódik az 1981-es jelentés, amiről a [4. részben](/hu/post/kispest-lakotelep-4-resz/) olvashattunk.
+
+> "A kerületi lakásállomány minőségi összetétele jelentősen javult, de sok kedvezőtlen beosztású (**kiskonyhás**) és kis alapterületű lakás is felépült. A nagy léptékű építkezés alapvetően kedvező megítélését beárnyékolta a beruházás és kivitelezés számos gondja. A lakásépítésekre mindvégig *az ütemtelenség, a minőségi problémák sokasága, a szervezetlenség* volt jellemző. Sok vidéki építőipari vállalat vett részt a munkában, közülük néhány rendkívül gyengén dolgozott (pl. Szolnok megyei ÁÉV). A rekonstrukció elején és végén résztvevő 43. sz. ÁÉV csak az utolsó épületeknél törekedett a minőség javítására. A minőségi gondok érzékelhetően rontották az új lakásokba költözők közérzetét."
+
+> "Ma a kerület legégetőbb gondja a "Bermuda háromszög" néven ismert összefüggő leromlott kerületrész rekonstrukciójának elmaradása."
+
+Ezután szomorúan beletörődnek az intézményközpont elmaradásába és folytatódnak az egyes tevékenységek bemutatásai, közellátás, stb. A beszámoló végén felhívják a BFT VB figyelmét a Bermuda háromszög szanálásának és a lakásépítésnek a támogatására. Ennek lesz az eredménye a következő fejezetben tárgyalt lépcsőzetes szanálás.
+
+### Lépcsőzetes szanálás
+
+[1988. június 29](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-06-29/?pg=0&layout=s): Külön pontban tárgyalják a *javaslatot a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeiről*. Megismétli a VII. ötéves tervi javaslatokban elhangzott általános megállapításokat. Miért is maradt el ennek a kerületrésznek a fejlesztése a lakótelep mellett? Mert *"a normatív szemléletű lakásépítési gyakorlat a városképi, városszociológiai szempontokat nem mérlegelte"*.
+
+1. **Helyzetismertetés**. Hivatkozik a XIX. ker. Tanács 1987. április 8-i beszámolójára. Eszerint 1986. február 18-án jóváhagynak egy új részletes rendezési tervet: R-33015 szám alatt. Ezt felhasználva elkészíttetik a LAKÓTERV-vel, az UVATERV-vel és a BVTV-vel a tervváltozatokat a beépítésre, az esetleges lakásszám növelésre, miközben a zajvédelmet is figyelembe veszik. Ezeket a terveket tárgyalta meg a BFT VB Műszaki és Kommunális Bizottságának Városrendezési és Építészeti Albizottsága 1988. április 7-i ülésén és a legjobb, továbbtervezésre alkalmas tervnek a LAKÓTERV-ét tartja (II. terv, 1. alternatíva). Eszerint:
+    - nem növelik meg a lakásszámot, mert az a lakókörnyezet minőségromlását okozná
+    - zajterheléssel foglalkozó tanulmányt kell készíteni
+    - komplex elemző és értékelő gazdaságossági vizsgálatot kell készíteni a környezetvédelmi szempontok bevonásával
+    - az új lakásoknak a környezetvédelmi követelményeket teljesíteniük kell
+    - fokozott gondot kell fordítani a terület fasorainak megvédésére a tervezés és kivitelezás során
+    
+> A zajvédelmet azonban az előterjesztők nem tartják gazdaságosan megoldhatónak a terület egészére. Ezért olyan megoldást hozunk javaslatba, mely **szakít a terület kizárólag lakáscélú felhasználásával**, és a terület egy részét közintézmények üzleti alapon való megvalósításával, más részét egy kisebb volumenű, a környezetvédelmi követelményekkel összhangban álló lakásépítésre hasznosítaná. A javaslatok fő szempontja a meglévő megújulásra alkalmatlan épületállomány lebontása.
+
+2. **Területfelhasználási javaslatok**. A terület a meglévő utcahálózatot figyelembevéve öt tömbre osztható.
+    - *I. változat*: lakásépítési terület teljesen. (LAKÓTERV 1. alternatíva) Ekkor 736 db lakást építenének 1988-1995 között. A területen a zajterhelés (közlekedési és ipari) meghaladja a határértékeket, az I. és II. tömbökben pedig olyan mértékű, hogy elhárítása lehetetlenné teszi a gazdaságos lakásépítést. Ezért a Határ úti csomóponthoz közel eső első két tömb lakásépítésre való felhasználása nem javasolható, így a teljes terület lakásépítési hasznosítását magábafoglaló változat sem ajánlható megvalósításra.
+    - *II. változat*: vegyes felhasználás. I-II. tömb: közintézmény (irodaház, biztosító intézet, pénzintézet, szálloda, kereskedelmi központ, stb.). III-IV-V. tömb: lakásépítés 300 lakással. A terület beépítésére pályázat utján, vállalkozási formában kerülhetne sor, esetleg a tanács közvetlen részvételével az alábbi módok szerint:
+        - A lakásállomány elbontása után a felszabaduló területeket eladásra meghirdetik, irodaház, áruház, szálloda, kereskedelmi létesítmények céljára. A telekár tartalmazza a lakástér-pótlási kötelezettségeket, és a vevők feladata lesz a szükséges közművesítés megvalósítása.
+        - A felszabadított terület értékének arányában a Fővárosi Tanács résztvesz a vállalkozásban (apport) és részesedik a létesítmény hasznából, így a telekért azonnali bevételhez nem jut. A vállalkozás megszervezésében a KFT útján vesz részt.
+        - A kettő előző vegyesen.
+    - *III. változat*: területi építési tilalom feloldása, övezeti átsorolása. A romos állagú állami tulajdonú lakások lebontása, a telkek családiház, sorház, társasház céljára való értékesítése, illetve a felszabaduló telkek egy részén pályázat útján kereskedelmi, szolgáltató, esetleg sport és szabadidő létesítmények létrehozása javasolt.
+
+3. **Javaslat**. II. változat. A kerületi Tanács, mint beruházó a II. változat beépítési tervét, ezt követően beruházási programját készíttesse el és hagyja jóvá még 1988. évben. Ezt követően a kerületi Tanács az elkészített beruházási program ütemezését figyelembevéve évenként tudja kérni a szanáláshoz szükséges lakásokat, illetve az építéshez szükséges céltámogatást. A területen álló épületállomány szanálását — a fokozatosság szem előtt tartásával — 1995-ig évenként közel egyenletesen elosztva javasolják végrehajtani.  
+
+A határozatokat elfogadják, ami a szanálás ütemezéséről, beruházási program készítéséről is szól. Az ülés elnökének (Iványi Pál, tanácselnök) a kivonatos jegyzőkönyvben olvasható véleménye alapján hozzáfűznek egy újabb határozatot a sorhoz, miszerint *"felhívja a Beruházási, a Városrendezési és Építészeti Főosztály vezetői és a XIX. kerületi Tanács elnökének a figyelmét más területhasznosítási lehetőségek keresésére"* és kedvezőbb feltételek esetén a koncepció BFT VB elé terjesztésére 1989. december 31-ig.
+
+{{< figure src="kispest_III_utem.png" title="Kispest III. ütem térképi vázlat, 1988. A terület 5 tömbre van osztva az utcák által. Napjainkban a Mátyás király út és a Tálas (a térképen Talalas?) utcák között található a Shopmark. A Corvin krt. - Szalay utca között volt a [Hungária-Jacquard Szövőgyár](https://dka.oszk.hu/html/kepoldal/index.phtml?id=28592) telephelye, ahol ma több üzlet működik." numbered="true" >}}
+
+### Áthúzódás
+
+[1988. november 21.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-11-21/?pg=175&layout=s&query=kispest%20OR%20XIX): Tájékoztató a kerületi tanácsok VII. ötéves tervi magánerős lakásépítésének helyzetéről és értékelés ponton belül olvashatunk egy mondatot: *"Megkezdték a Vöröshadsereg-Corvin körút közötti /Bermuda háromszög/ területen — a VIII. ötéves tervre áthúzódóan — 456 db lakás építésének előkészítését."*
+
+[1989. december 4.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-12-04/?pg=198&layout=s): Javaslat a Fővárosi Tanács állásfoglalására a tervezett 1990. évi lakásgazdálkodási intézményekkel kapcsolatban ponton belül írnak a III. ütemről. *"1988-ban 32,50 millió Ft céltámogatás szerepel az éves tervben. Ebből készült el az 5. tömb szanálása, a 4. tömbé is megkezdődött. Lakásátadás 1990 után várható."*
+
+[1990. április 11.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1990-04-11/?pg=88&layout=s): Jelentés a következő középtávú tervidőszak javasolt lakástelepítési helyeinek felülvizsgálatáról pontban. *"Vöröshadsereg - Ady u. /Bermuda/. 456 db lakás. Három tömbre a beruházási program elkészült. A területelőkészítés, a kisajátítás folyamatban van. Alapközmű építése szükséges."*
+
+És ennyi. Nincs több fellelhető érdemi információ a III. ütemmel kapcsolatban, csak néhány költségvetési tétel a BFT ülésén ([1989. február 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-02-10/?pg=148&layout=s), [1990. május 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1990-05-15/?pg=160&layout=s)). A fentiek alapján mindenesetre tudható, hogy még beruházási program is készült, ez vélhetőleg a BFT VB elé nem került, csak a kerületi tanácsban tárgyalták.
+
+Hogy miért ismertem fel a III. ütemben a "Bermuda háromszöget"? Még a források felkutatásánál akadtam rá Fenyvesi Dezső, Kispest 1984-1990 közötti tanácselnökének blogjára, ahol egy [írást](https://kispestanno.blog.hu/2013/10/27/a-kispesti-bermuda-haromszog) ennek a területnek szentel. Érdemes elolvasni Györkös Attila hozzászólását (Kanuni Szulejman Szultan becenév alatt), ahol a terület életéről, gyerekkori emlékeiről ír.
+
+De mégis, milyen idők voltak ezek a lakásépítésben? Mit terveztek és Kispest vonatkozásában mik lelhetőek fel a nagyívű tervekben?
+
 
 ## 15 éves lakástelepítési terv 1978
 
@@ -168,7 +241,7 @@ Az országos I. 15 éves (1961-1975) lakásépítési terv mellett Budapestre vo
 | fürdőszoba        |   46 |   62 |
 
 
-Távlati cél az egy szobára jutó átlagos lakosszám értékének: 1 fő.
+Távlati cél az egy szobára jutó átlagos lakosszámra: 1 fő.
 
 | 100 lakásra jutó | családegység | lakos | lakos/szoba |
 | ---------------- | ------------ | ----- | ----------- |
@@ -204,8 +277,8 @@ Távlati cél az egy szobára jutó átlagos lakosszám értékének: 1 fő.
 #### Lakásépítési követelmények
 
 1. A lakással nem rendelkező családok számának meghatározása, összevetése a nyilvántartott lakásigénylőkkel. Lakásra jogosultak. Az 1970. évi népszámlálás háztartás-összetétel adataiból levezetve a családegységek száma, majd becslés 1976-ra. Átlagos családnagyság meghatározás. Az 1975. októberi tanácsi lakásigénylési kérelmek száma 140000, a BVTV szerint ebből mennyiségi 96000 (69 %). Mennyiségi és minőségi típusú igények felsorolása.
-2. *A jelenlegi lakáshiány minősítése.* A mennyiségi típusu igény azt az alapvető emberi jogot tükrözi, hogy a család, vagy egyedülálló ne kényszerüljön más személyekkel (rokonok, vagy idegenek) egy lakásban együtt lakni. A minőségi típusu igények azt jelentik, hogy az érintettek — életkoruktól, foglalkozásuktól, anyagi-jövedelmi viszonyaiktól és még sok más tényezőtől függően — a kor színvonalának megfelelő és a család igényeihez igazodó lakásban szeretnének élni. Minőségi igények számának meghatározása. A budapesti lakásállomány 43 %-a, összesen 300000 lakás volt 1976 január 1-én egyszobás, és ebből mintegy 200000-re tehető a komfort nélküli szoba-konyhás lakások száma. Ez a minőségi igénylés egyik oka.
-3. *A népesség növekedése, családszám változás, a családok összetételének és nagyságának változása.* A 15 éves időszakra összesen 80 ezer fő lakosságszám emelkedést irányoztak elő, szemben az előző 15 éves periódus 270 ezer fős emelkedésével. Az OT-KSH előreszámítása szerint Budapest lakosságszáma 1985-től kezdődően csökken, és 1990-re 2080-2100 ezres szintet ér csak el. Megítélésük szerint reális lehetőség van arra, hogy a lakosságszám a 2150 ezret eléri. A bevándorlás és az elvándorlás rendkívül érzékeny az anyagi-gazdasági viszonyok változására. A budapesti lakáshelyzet javulása olyan irányban is kihat, hogy a bevándorlás — főként az ingázók beköltözése következtében — növekszik, mivel könnyebb lakáshoz jutni. Ellensúlyozás: ipari munkahelyek számának csökkentése. Családegységek számának meghatározása, prognózisa. A kétgenerációs család létjogosultsága, nagyszülő szerepe. A 15-20 vénél idősebb egyedülálló és a 25 évesnél idősebb családtag részére önálló lakás biztosítás kötelezettségének elutásítása. Össztársadalmi szempontból sokkal fontosabb feladat, hogy a népességi reprodukció biztosításának előfeltételeként megfelelő méretű és összetételű lakásállományt alakítsanak ki.
+2. *A jelenlegi lakáshiány minősítése.* A mennyiségi típusú igény azt az alapvető emberi jogot tükrözi, hogy a család, vagy egyedülálló ne kényszerüljön más személyekkel (rokonok, vagy idegenek) egy lakásban együtt lakni. A minőségi típusú igények azt jelentik, hogy az érintettek — életkoruktól, foglalkozásuktól, anyagi-jövedelmi viszonyaiktól és még sok más tényezőtől függően — a kor színvonalának megfelelő és a család igényeihez igazodó lakásban szeretnének élni. Minőségi igények számának meghatározása. A budapesti lakásállomány 43 %-a, összesen 300000 lakás volt 1976 január 1-én egyszobás, és ebből mintegy 200000-re tehető a komfort nélküli szoba-konyhás lakások száma. Ez a minőségi igénylés egyik oka.
+3. *A népesség növekedése, családszám változás, a családok összetételének és nagyságának változása.* A 15 éves időszakra összesen 80 ezer fő lakosságszám emelkedést irányoztak elő, szemben az előző 15 éves periódus 270 ezer fős emelkedésével. Az OT-KSH előreszámítása szerint Budapest lakosságszáma 1985-től kezdődően csökken, és 1990-re 2080-2100 ezres szintet ér csak el. Megítélésük szerint reális lehetőség van arra, hogy a lakosságszám a 2150 ezret eléri. A bevándorlás és az elvándorlás rendkívül érzékeny az anyagi-gazdasági viszonyok változására. A budapesti lakáshelyzet javulása olyan irányban is kihat, hogy a bevándorlás — főként az ingázók beköltözése következtében — növekszik, mivel könnyebb lakáshoz jutni. Ellensúlyozás: ipari munkahelyek számának csökkentése. Családegységek számának meghatározása, prognózisa. A kétgenerációs család létjogosultsága, nagyszülő szerepe. A 15-20 évnél idősebb egyedülálló és a 25 évesnél idősebb családtag részére önálló lakás biztosítás kötelezettségének elutásítása. Össztársadalmi szempontból sokkal fontosabb feladat, hogy a népességi reprodukció biztosításának előfeltételeként megfelelő méretű és összetételű lakásállományt alakítsanak ki.
 
 | Budapest (prognózis) | 1976 | 1981 | 1986 | 1991 |
 | -------------------- | ---- | ---- | ---- | ---- |
@@ -362,6 +435,8 @@ Hogy legyen egy kerete a tényfeltáró munkának, áttekintést adok a Budapest
     - [1989. június 20](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-06-20/?pg=0&layout=s)-án tárgyalja a BFT. Újra egyeztetést kell lefolytatni az észrevételek miatt és újra a BFT elé kell terjeszteni a 75/1989. számú BFT határozat alapján.
 10. [1989. szeptember 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-09-15/?pg=0&layout=s). Igen, végre! Ezen a napon a BFT az észrevételek alapján átdolgozott Budapesti Általános Rendezési Tervet jóváhagyja, kihirdetik.
 
+Hogy a területrendezési terveknek milyen fajtái vannak, arról a [Budapesti Városrendezési Szabályzat](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1986-09-24/?pg=106&layout=s) 1986-os újraalkotásakor adnak tájékoztatást. Ez segíti az ÁRT felülvizsgálati folyamatának megértését.
+
 A kezdetekkel ellentétben, amikor még izgalmas volt a kialakuló kispesti városrészközpont gondolata, a 80-as évekre már Kispest vonatkozásában nincs annyi városépítészeti érdekesség, így röviden tudom tárgyalni.
 
 ### Tájékoztató 1980
@@ -383,80 +458,24 @@ Szó esik még az ezredfordulóig esedékes vasúti fejlesztésekről:
 
 ### Agglomeráció 1985
 
-[1985. február 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-02-27/?pg=0&layout=s): *A budapesti agglomeráció rendezési tervének koncepciója*. 7 db regionális és 14 db budapesti **színes térképmelléklettel**! Készítette a BVTV, 1985-ben.
+[1985. február 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-02-27/?pg=0&layout=s): *A budapesti agglomeráció rendezési tervének koncepciója*. 7 db regionális és 14 db budapesti **színes térképmelléklettel**! Készítette a BVTV, 1985-ben. A BFT által elfogadott változatban (lásd fentebb) fekete-fehérek a mellékletek, de mintha 1-1 térképpel több szerepelne. Kispestről annyit említenek, hogy a városrészközpont kiépítése folyamatban van. Pedig ekkor már tudható, hogy nem lesz belőle semmi. Még reménykedtek a BVTV-nél.
 
-Hogy a területrendezési terveknek milyen fajtái vannak, arról a [Budapesti Városrendezési Szabályzat](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1986-09-24/?pg=106&layout=s) újraalkotásakor adnak tájékoztatást. Ez segíti az ÁRT felülvizsgálati folyamatának megértését.
+{{< figure src="bp_teruletfelh_koncepcio_1985.png" title="Budapest területfelhasználásának koncepciója, a budapesti agglomeráció rendezési tervének koncepciójából, 1985. Részlet. Rehabilitációra kijelölt területként látható a kispesti III. ütem, a Bermuda háromszög területe." numbered="true" >}}
 
+{{< figure src="bp_nepessegprognozis_1985.png" title="Budapest népességprognózisa, 1980-2000-ig, a budapesti agglomeráció rendezési tervének koncepciójából, 1985. Részlet. Érdekes módon csak a II/A és II/B ütem 1. szakaszt jelölik erősen növekvő népességű területként, a II/B ütem 2. és 3. szakasz lemaradt." numbered="true" >}}
 
-## III. ütem
+{{< figure src="bp_lakassuruseg_valtozas_1985.png" title="A lakássűrűség változása Budapesten, a budapesti agglomeráció rendezési tervének koncepciójából, 1985. Részlet." numbered="true" >}}
 
-Lássuk a III. ütem előfordulásait és az adatokat (a BFT VB ülésein)!
+[1985. október 23](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-10-23/?pg=0&layout=s)-án tárgyalja újra *a budapesti agglomeráció regionális rendezési tervét*. Ebben már más a térképanyag a februárihoz képest, csak regionális térképeket tartalmaz: 25 db teljes lapos és 13 db kisebb, a teljes lapot nem kitöltő színes térképmellékletet. A BFT által tárgyalt változatban fekete-fehérek a mellékletek és ugyanazok szerepelnek.
 
-### VII. ötéves tervi javaslatok
+### ÁRT 1987-89
 
-[1983. április 27](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-04-27/?pg=126&layout=s): Javaslat a VII. ötéves tervi lakástelepítési helyekre. Ezt találtam első előfordulásaként. Itt jelzik, hogy 500 db lakást építenének 1988-1990 között a VII. ötéves tervben. Található egy részletes leírás is, kiemelést átvéve:
+Ahogy fentebb olvasható, több körön keresztül módosították a Budapest ÁRT-t, melyből egyetlen színes példány az [1987. december 2](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-12-02/?pg=0&layout=s)-i BFT VB ülés jegyzőkönyvében lelhető fel, ami még a hatósági egyeztetési kötet (lásd fentebb). 5 db regionális és 35 db budapesti egész oldalas színes térképmellékletet tartalmaz. Csak gyorsan összeszámoltam őket. Az ábrajegyzék pontosabb, kérem a kedves olvasót, nézze azt át. Gyors áttekintéssel láthatóak a különböző verziók közötti hasonlóságok, ezért végső soron kijelenthető, hogy a színes mellékletek hordozzák a legtöbb információt, még akkor is ha valamelyest módosultak is a későbbiekben.
 
-> A területet a Határ úti metró csomópont, a Vöröshadsereg út - Szalai u. [helyesen: Szalay u.] - Ady Endre út határolja. Mintegy 300 leromlott állagú lakás van a városképi szempontból rendkívül hátrányos megjelenésű tömbben. A VII. ötéves tervi lakásépitési területek között ez az egyetlen, melyet 55 %~os szanálási aránya ellenére **elsősorban városképi szempontból** javaslunk megszüntetni: a korszerű és városias Üllői út, a magas színvonalu Határ úti csomópont és az új kispesti lakóterület közé ékelődő elhanyagolt, rendezetlen és rossz állagú tömb azt a korszerű városképet szakítja meg, és kelti a **befejezetlenség látszatát**, mely a városközponttól a kispesti városrészközpontig terjed és a repülőtéri út bevezető szakaszának szomszédságában van.  
+Mit találtam Kispestről (lakás ügyben)? A városrész- és kerületközpontok funkcionális tartalmánál megjegyzik, a művelődési és szolgáltatás funkcióhiányt és a 3.3.2-2 táblázatban a tervezett lakásépítési területek listájában szerepel Kispest, de nem tudtam beazonosítani, merre gondolták a lakásépítést. Érdekesség az összevetés, amit a 3.3.2-1 ábra mutat be, ami összeveti az IV-V-VI. ötéves tervek mentén a lakásépítéseket és bontásokat a keületek között. Ezen az is látszik, hogy telepszerű lakásépítést 2005-ig bezárólag már nem terveztek Kispesten.
 
-> A terület tömegközlekedéssel és zömében alapközmüvekkel is ellátott, a metró közvetlen vonzáskörzetében van. Alapvízellátása a délpesti I. főnyomócső kiépítésével biztosított. A 108 db lakóépület 80 %-a gyenge állagú, bontásra érett földszintes házakból áll. Beépítését 10 szintes épületekkel 100 lakás/ha laksűrűség mellett javasoljuk, építhető lakások száma 500 db.
+{{< figure src="bp_art_1987_lakasepitesbontas_kerulet.png" title="Az épített és megszűnt lakások számának változása kerületenként 1971 és 1985 között, illetve a rendezési programjavaslat szerint. Budapest általános rendezési terv hatósági egyeztetési kötetéből, 1987. Részlet." numbered="true" >}}
 
-> A KÖJÁL 1983. március 10-én kelt állásfoglalása a terület meglévő viszonyait közegészségügyi szempontból elfogadhatatlannak tartja, az egészségtelen elvizesedett lakások miatt.
+{{< figure src="bp_art_1987_teruletfelh.png" title="Területfelhasználás, területszerkezet, budapest általános rendezési terv hatósági egyeztetési kötetéből, 1987. Részlet." numbered="true" >}}
 
-Szó esik még környezetvédelmi vizsgálatokról és a terület ezirányú rendezhetőségéről. Az első lakás átadást 1988-ra (esetleg 1987-re) javasolják.
-
-[1985. április 24](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-04-24/?pg=72&layout=s&query=corvin): Jelentés a VII. ötéves tervi lakásépítési feladatok előkészítéséről, különös tekintettel az 1986-1987. évi lakásépítési feladatokra. Itt említik újra, de már emelt lakásszámmal! 500-ról 740 db-ra emelték az építendő lakásszámot.
-
-[1985. július 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-07-31/?pg=175&layout=s&query=corvin): Javaslat a VII. ötéves tervi, kiemelten az 1986-1987. évi lakásépítési helyekre. Megismétlik ez előző pontban foglaltakat az lőterjesztésben, de módosítják az első lakásátadást, az új dátum: 1989. A kivonatos jegyzőkönyv szerint viszont hiába a csökkent szanálási arányszám, mivel ez is magas, ezért az anyag előadója, Kelemen János javasolja, hogy a terület előkészítését halasszák el a VII. ötéves tervben.
-
-### XIX. Tanács beszámoló 1987
-
-Mielőtt rátérnék a fejezetcímben szereplő 1987-es beszámolóra, említést kell tennem az első (1974-es) és a második (1979-es) beszámolókról. Az elsőről a [2. részben](/hu/post/kispest-lakotelep-2-resz/) lehet olvasni, míg az  [1979 november 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-11-08/?pg=0&layout=s)-i másodikról csak annyit mondanék, hogy érdemi információ a lakásépítéssel kapcsolatban nincs benne, csak a kerület általános jellemzésén túl az ellentmondásos rekonstrukciós állapokra utalnak (szanálásról rossz tájékoztatás, lakáselosztási, ellátási gondok). Kérésként a kereskedelem átmeneti sürgős pótlását, valamint a lebontásra kerülő öregek Napközi Otthona természetbeni visszapótlását kérik.
-
-A XIX. kerületi Tanács VB harmadik, [1987. április 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-04-08/?pg=0&layout=s)-i beszámolója kerületi általános összefoglalóval kezd, bár van benne érdekes megjegyzés, például: *"A szanálás miatt az itt élő emberek nagy része Kispestről más kerületekbe költözött, az új házakba zömében fiatal, gyermekes családok kerültek Budapest szinte minden részéből."* Ezután a kerület fejlődésének főbb vonásai ponton belül árnyalódik az 1981-es jelentés, amiről a [4. részben](/hu/post/kispest-lakotelep-4-resz/) olvashattunk.
-
-> "A kerületi lakásállomány minőségi összetétele jelentősen javult, de sok kedvezőtlen beosztású (**kiskonyhás**) és kis alapterületű lakás is felépült. A nagy léptékű építkezés alapvetően kedvező megítélését beárnyékolta a beruházás és kivitelezés számos gondja. A lakásépítésekre mindvégig *az ütemtelenség, a minőségi problémák sokasága, a szervezetlenség* volt jellemző. Sok vidéki építőipari vállalat vett részt a munkában, közülük néhány rendkívül gyengén dolgozott (pl. Szolnok megyei ÁÉV). A rekonstrukció elején és végén résztvevő 43. sz. ÁÉV csak az utolsó épületeknél törekedett a minőség javítására. A minőségi gondok érzékelhetően rontották az új lakásokba költözők közérzetét."
-
-> "Ma a kerület legégetőbb gondja a "Bermuda háromszög" néven ismert összefüggő leromlott kerületrész rekonstrukciójának elmaradása."
-
-Ezután szomorúan beletörődnek az intézményközpont elmaradásába és folytatódnak az egyes tevékenységek bemutatásai, közellátás, stb. A beszámoló végén felhívják a BFT VB figyelmét a Bermuda háromszög szanálásának és a lakásépítésnek a támogatására. Ennek lesz az eredménye a következő fejezetben tárgyalt lépcsőzetes szanálás.
-
-### Lépcsőzetes szanálás
-
-[1988. június 29](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-06-29/?pg=0&layout=s): Külön pontban tárgyalják a *javaslatot a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeiről*. Megismétli a VII. ötéves tervi javaslatokban elhangzott általános megállapításokat. Miért is maradt el ennek a kerületrésznek a fejlesztése a lakótelep mellett? Mert *"a normatív szemléletű lakásépítési gyakorlat a városképi, városszociológiai szempontokat nem mérlegelte"*.
-
-1. **Helyzetismertetés**. Hivatkozik a XIX. ker. Tanács 1987. április 8-i beszámolójára. Eszerint 1986. február 18-án jóváhagynak egy új részletes rendezési tervet: R-33015 szám alatt. Ezt felhasználva elkészíttetik a LAKÓTERV-vel, az UVATERV-vel és a BVTV-vel a tervváltozatokat a beépítésre, az esetleges lakásszám növelésre, miközben a zajvédelmet is figyelembe veszik. Ezeket a terveket tárgyalta meg a BFT VB Műszaki és Kommunális Bizottságának Városrendezési és Építészeti Albizottsága 1988. április 7-i ülésén és a legjobb, továbbtervezésre alkalmas tervnek a LAKÓTERV-ét tartja (II. terv, 1. alternatíva). Eszerint:
-    - nem növelik meg a lakásszámot, mert az a lakókörnyezet minőségromlását okozná
-    - zajterheléssel foglalkozó tanulmányt kell készíteni
-    - komplex elemző és értékelő gazdaságossági vizsgálatot kell készíteni a környezetvédelmi szempontok bevonásával
-    - az új lakásoknak a környezetvédelmi követelményeket teljesíteniük kell
-    - fokozott gondot kell fordítani a terület fasorainak megvédésére a tervezés és kivitelezás során
-    
-> A zajvédelmet azonban az előterjesztők nem tartják gazdaságosan megoldhatónak a terület egészére. Ezért olyan megoldást hozunk javaslatba, mely **szakít a terület kizárólag lakáscélú felhasználásával**, és a terület egy részét közintézmények üzleti alapon való megvalósításával, más részét egy kisebb volumenű, a környezetvédelmi követelményekkel összhangban álló lakásépítésre hasznosítaná. A javaslatok fő szempontja a meglévő megújulásra alkalmatlan épületállomány lebontása.
-
-2. **Területfelhasználási javaslatok**. A terület a meglévő utcahálózatot figyelembevéve öt tömbre osztható.
-    - *I. változat*: lakásépítési terület teljesen. (LAKÓTERV 1. alternatíva) Ekkor 736 db lakást építenének 1988-1995 között. A területen a zajterhelés (közlekedési és ipari) meghaladja a határértékeket, az I. és II. tömbökben pedig olyan mértékű, hogy elhárítása lehetetlenné teszi a gazdaságos lakásépítést. Ezért a Határ úti csomóponthoz közel eső első két tömb lakásépítésre való felhasználása nem javasolható, így a teljes terület lakásépítési hasznosítását magábafoglaló változat sem ajánlható megvalósításra.
-    - *II. változat*: vegyes felhasználás. I-II. tömb: közintézmény (irodaház, biztosító intézet, pénzintézet, szálloda, kereskedelmi központ, stb.). III-IV-V. tömb: lakásépítés 300 lakással. A terület beépítésére pályázat utján, vállalkozási formában kerülhetne sor, esetleg a tanács közvetlen részvételével az alábbi módok szerint:
-        - A lakásállomány elbontása után a felszabaduló területeket eladásra meghirdetik, irodaház, áruház, szálloda, kereskedelmi létesítmények céljára. A telekár tartalmazza a lakástér-pótlási kötelezettségeket, és a vevők feladata lesz a szükséges közművesítés megvalósítása.
-        - A felszabadított terület értékének arányában a Fővárosi Tanács résztvesz a vállalkozásban (apport) és részesedik a létesítmény hasznából, így a telekért azonnali bevételhez nem jut. A vállalkozás megszervezésében a KFT útján vesz részt.
-        - A kettő előző vegyesen.
-    - *III. változat*: területi építési tilalom feloldása, övezeti átsorolása. A romos állagú állami tulajdonú lakások lebontása, a telkek családiház, sorház, társasház céljára való értékesítése, illetve a felszabaduló telkek egy részén pályázat útján kereskedelmi, szolgáltató, esetleg sport és szabadidő létesítmények létrehozása javasolt.
-
-3. **Javaslat**. II. változat. A kerületi Tanács, mint beruházó a II. változat beépítési tervét, ezt követően beruházási programját készíttesse el és hagyja jóvá még 1988. évben. Ezt követően a kerületi Tanács az elkészített beruházási program ütemezését figyelembevéve évenként tudja kérni a szanáláshoz szükséges lakásokat, illetve az építéshez szükséges céltámogatást. A területen álló épületállomány szanálását — a fokozatosság szem előtt tartásával — 1995-ig évenként közel egyenletesen elosztva javasolják végrehajtani.  
-
-A határozatokat elfogadják, ami a szanálás ütemezéséről, beruházási program készítéséről is szól. Az ülés elnökének (Iványi Pál, tanácselnök) a kivonatos jegyzőkönyvben olvasható véleménye alapján hozzáfűznek egy újabb határozatot a sorhoz, miszerint *"felhívja a Beruházási, a Városrendezési és Építészeti Főosztály vezetői és a XIX. kerületi Tanács elnökének a figyelmét más területhasznosítási lehetőségek keresésére"* és kedvezőbb feltételek esetén a koncepció BFT VB elé terjesztésére 1989. december 31-ig.
-
-{{< figure src="kispest_III_utem.png" title="Kispest III. ütem térképi vázlat, 1988. A terület 5 tömbre van osztva az utcák által. Napjainkban a Mátyás király út és a Tálas (a térképen Talalas?) utcák között található a Shopmark. A Corvin krt. - Szalay utca között volt a [Hungária-Jacquard Szövőgyár](https://dka.oszk.hu/html/kepoldal/index.phtml?id=28592) telephelye, ahol ma több üzlet működik." numbered="true" >}}
-
-### Áthúzódás
-
-[1988. november 21.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1988-11-21/?pg=175&layout=s&query=kispest%20OR%20XIX): Tájékoztató a kerületi tanácsok VII. ötéves tervi magánerős lakásépítésének helyzetéről és értékelés ponton belül olvashatunk egy mondatot: *"Megkezdték a Vöröshadsereg-Corvin körút közötti /Bermuda háromszög/ területen — a VIII. ötéves tervre áthúzódóan — 456 db lakás építésének előkészítését."*
-
-[1989. december 4.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1989-12-04/?pg=198&layout=s): Javaslat a Fővárosi Tanács állásfoglalására a tervezett 1990. évi lakásgazdálkodási intézményekkel kapcsolatban ponton belül írnak a III. ütemről. *"1988-ban 32,50 millió Ft céltámogatás szerepel az éves tervben. Ebből készült el az 5. tömb szanálása, a 4. tömbé is megkezdődött. Lakásátadás 1990 után várható."*
-
-[1990. április 11.](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1990-04-11/?pg=88&layout=s): Jelentés a következő középtávú tervidőszak javasolt lakástelepítési helyeinek felülvizsgálatáról pontban. *"Vöröshadsereg - Ady u. /Bermuda/. 456 db lakás. Három tömbre a beruházási program elkészült. A területelőkészítés, a kisajátítás folyamatban van. Alapközmű építése szükséges."*
-
-És ennyi. Nincs több fellelhető érdemi információ a III. ütemmel kapcsolatban, csak néhány költségvetési tétel a BFT ülésén ([1989. február 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-02-10/?pg=148&layout=s), [1990. május 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1990-05-15/?pg=160&layout=s)). A fentiek alapján mindenesetre tudható, hogy még beruházási program is készült, ez vélhetőleg a BFT VB elé nem került, csak a kerületi tanácsban tárgyalták.
-
-Hogy miért ismertem fel a III. ütemben a "Bermuda háromszöget"? Még a források felkutatásánál akadtam rá Fenyvesi Dezső, Kispest 1984-1990 közötti tanácselnökének blogjára, ahol egy [írást](https://kispestanno.blog.hu/2013/10/27/a-kispesti-bermuda-haromszog) ennek a területnek szentel. Érdemes elolvasni Györkös Attila hozzászólását (Kanuni Szulejman Szultan becenév alatt), ahol a terület életéről, gyerekkori emlékeiről ír.
-
-Itt ér véget cikksorozatom azon része, amely a kispesti lakótelep építészet történetének forrásait dolgozta fel és követi a lakótelepi lakóépületek térképi ábrázolásának feladata a következő részben.
+Itt ér véget cikksorozatom azon része, amely a kispesti lakótelep építészet történetének forrásait dolgozta fel. Következik a lakótelepi lakóépületek térképi ábrázolásának feladata a következő részben.
