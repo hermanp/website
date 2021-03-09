@@ -89,7 +89,7 @@ Szó esik még környezetvédelmi vizsgálatokról és a terület ezirányú ren
 
 [1985. április 24](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-04-24/?pg=72&layout=s&query=corvin): Jelentés a VII. ötéves tervi lakásépítési feladatok előkészítéséről, különös tekintettel az 1986-1987. évi lakásépítési feladatokra. Itt említik újra, de már emelt lakásszámmal! 500-ról 740 db-ra emelték az építendő lakásszámot.
 
-[1985. július 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-07-31/?pg=175&layout=s&query=corvin): Javaslat a VII. ötéves tervi, kiemelten az 1986-1987. évi lakásépítési helyekre. Megismétlik ez előző pontban foglaltakat az lőterjesztésben, de módosítják az első lakásátadást, az új dátum: 1989. A kivonatos jegyzőkönyv szerint viszont hiába a csökkent szanálási arányszám, mivel ez is magas, ezért az anyag előadója, Kelemen János javasolja, hogy a terület előkészítését halasszák el a VII. ötéves tervben.
+[1985. július 31](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1985-07-31/?pg=175&layout=s&query=corvin): Javaslat a VII. ötéves tervi, kiemelten az 1986-1987. évi lakásépítési helyekre. Megismétlik ez előző pontban foglaltakat az előterjesztésben, de módosítják az első lakásátadást, az új dátum: 1989. A kivonatos jegyzőkönyv szerint viszont hiába a csökkent szanálási arányszám, mivel ez is magas, ezért az anyag előadója, Kelemen János javasolja, hogy a terület előkészítését halasszák el a VII. ötéves tervben.
 
 ### XIX. Tanács beszámoló 1987
 
