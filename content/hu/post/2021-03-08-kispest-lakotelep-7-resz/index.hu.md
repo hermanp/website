@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-03-08'
+lastmod: '2021-03-10'
 featured: no
 image:
   caption: ''
@@ -447,7 +447,13 @@ Scheich Vilmos:
 
 Végül elfogadják és a BFT VB elé rendelik tárgyalásra, hogy az véglegesítse és utána a sajtó is tájékoztatható legyen. Erre [1982. június 9](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-06-09/?pg=0&layout=s)-én kerül sor, ekkor tárgyalják utoljára. Beépítik a legtöbb fenti megjegyzést, pl. település szociológiai aspektusok, parkolási helyzet, aktív lakossági részvétel a tervezés és a kivitelezés során, lakossági sporttevékenység, ipar- és képzőművészek bevonása.
 
-És van egy furcsa dolog: a határozati javaslatok nem olvashatóak, mert **adatvédelmi okok miatt** nem megjeleníthetőek! Röhej! :smile: Egyszerűen nem tudom elképzelni mi lehet ez a dolog. Ráadásul három oldalas lett, ami egy oldalas volt korábban. Felvettem a kapcsolatot Budapest Főváros Levéltárával, meglátjuk mit tudok meg. Elvileg itt fogadják el az anyagot, mert több tárgyalását már nem találtam az adatbázisban.
+És van egy furcsa dolog: a határozati javaslatok nem olvashatóak, mert **adatvédelmi okok miatt** nem megjeleníthetőek! Budapest Főváros Levéltárához írt levelemre [Dr. Rácz Attila](http://bparchiv.hu/felhasznalok/racza), a BFL II. Iratőrző főosztály főosztályvezetője válszolt. Az adatvédelmi korlátozást egy másik ügy miatt kellett meglépni, ami sajnos azon az oldalon volt megtalálható, mint az engem érdeklő téma, így utóbbi is áldozatul esett. Volt olyan kedves és kimásolta a lakótelepi napirendi pont határozatát, ezt én is megteszem itt:
+
+> A napirend 6./ pontja: A budapesti lakótelepek városrendezési és építészeti kérdései.  
+> Előadó: Vallyon István  
+> Elnök: Javasolja, hogy a VB. az előterjesztést fogadja el.  
+> Határozat :  
+> 330. a Végrehajtó Bizottság a budapesti lakótelepek városrendezési és építészeti kérdései cime előterjesztést elfogadja.
 
 
 ________________
@@ -493,7 +499,7 @@ Az ÉVM Építőipari Főosztálya meghatározta 1980. november 26-ai levelében
 
 {{< figure src="E_tipus_epuletvaltozatok_peldak.png" title="Az E típusterv. Példák épületváltozatok kialakítására a lakástípusok variálásával. A képen talán láthatóak a lakásokban a típusaik felirata halványan." numbered="true" >}}
 
-A VI. ötéves tervi lakótelepek előkészítésével összhangban 46 lépcsőházi változat terve készült el 29 féle különböző lakást variálva. Típustervként közzé fogják tenni őket. Az ÉVM és Főváros között 1979. júniusban létrejött megállapodás szerint 1982. évben többszintes épületekben 1116 új tipusú lakást terveztek megépíteni (III. Kaszásdűlő, XVII. Rákoskeresztúr III.ütem, XIX. Kispest II/B ütem) összesen hat épületben. A tervezés és gyártásra való felkészülés határidő késedelme miatt 1982-ben csak Kaszásdűlőn valósul meg 165 lakás prototípusként, így Kispesten a régi tipusú gyártmányokból épülnek.
+A VI. ötéves tervi lakótelepek előkészítésével összhangban 46 lépcsőházi változat terve készült el 29 féle különböző lakást variálva. Típustervként közzé fogják tenni őket. Az ÉVM és Főváros között 1979. júniusban létrejött megállapodás szerint 1982. évben többszintes épületekben 1116 új típusú lakást terveztek megépíteni (III. Kaszásdűlő, XVII. Rákoskeresztúr III.ütem, XIX. Kispest II/B ütem) összesen hat épületben. A tervezés és gyártásra való felkészülés határidő késedelme miatt 1982-ben csak Kaszásdűlőn valósul meg 165 lakás prototípusként, így Kispesten a régi típusú gyártmányokból épülnek.
 
 > Az új termékek fokozatos bevezetése esetén I. ütemben az I-es és a IV-es házgyárak készülnek fel a többszintes (E-5 földszint + 3-4 emelet) lakóépületek elemeinek gyártására. A gyártó-sablonok és segédberendezések tervezése, elkészítése és gyártósorokba állítása olyan ütemben halad, hogy a tényleges gyártás várhatóan 1982. júniusában, napi 5 lakás gyártáskapacitással megindulhat. A II. sz. házgyárban a vállalat egyelőre nem tervezi a termékváltást, a III. sz. házgyár pedig 1984-ig a jelenlegi típusokat gyártja, és addig felkészül az átállásra.
 
@@ -562,7 +568,18 @@ Az új típusú lakások felszereltsége és műszaki tartalma:
 - a beépített szekrényfalak áthelyezésével két kisebb helyiségből egy nagyobb alakítható ki
 - emeleti lakások loggiája elég nagy pl. nyugágyhoz
 
-A E típusról szóló javaslatot a BFT VB elfogadja, de a konkrét állsáfoglalást többen ellenzik, mert szélesebb társadalmi egyeztetést kíván. (Vannak konkrét kritikák egyes lakásoknál.) Utasítják a Beruházási Osztályt, hogy 1983-ban ismét adjon tájékoztatást a bevezetés állapotáról. Ezt meg is teszik [1983. június 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-06-08/?pg=0&layout=s)-án. 
+A E típusról szóló javaslatot a BFT VB elfogadja, de a konkrét állsáfoglalást többen ellenzik, mert szélesebb társadalmi egyeztetést kíván. (Vannak konkrét kritikák egyes lakásoknál.) Utasítják a Beruházási Osztályt, hogy 1983-ban ismét adjon tájékoztatást a bevezetés állapotáról. Ezt meg is teszik [1983. június 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-06-08/?pg=0&layout=s)-án. A tájékoztató pontjai kiegészültek tartalmukban, csak szemlézve őket:
+
+> A fejlesztési programterv keretein belül 25-féle életmód változatú lakás került kiválasztásra különböző alapterületű és szobaszámú változatokkal. [A 29-hez képest.]
+
+> A 43. sz. ÁÉV 1982. januárjában bejelentett döntése alapján, az E-5, az E-11 típusu lakóházi és otthonházi szerkezetek az I. és IV. Házgyárban kerülnek gyártásra. A II. házgyár a VI. ötéves tervben továbbra is a régi típusu épületelemeket gyártja, a III. Házgyárban 
+pedig a meglevő berendezésekhez igazodó, de új termékcsalád kerül bevezetésre.
+
+> A korlátozott számú elemgyártás [mármint a sablonválaszték, amiből összerakhatják a tervezők a házakat] tehát a VI. ötéves tervidőszakban még nem teszi lehetővé, hogy az E termék adta lehetőségek szerinti lakásválaszték teljeskörüen megválósítható legyen. Ezért az új termékekből épülő lakások és épületek komplex értékelése ma még nem időszerű. 
+
+> Nem megoldott még a fürdőszobák válaszfalas rendszerben való megvalósításának kérdése. A kivitelező vállalat — technológiai és gazdasági szempontjai alapján — továbbra is a térelemes fürdőszoba megoldást tudja építeni, így a szűkös fürdőszobák problémáinak megoldását a VII. ötéves tervi lakások fogják csak biztosítani.
+
+Szó esik még a Kaszásdűlői 165 lakásos prototípus épületről, fejlesztési lehetőségeiről, a lakosság tájékoztatásáról. A mellékletben az *Az E termékcsaládból előkészített lakások a VI. ötéves tervben* táblázat szerint Kispestre is jutott ezekből! Az E-5 lakóépülettel a II/B ütemben 1983-ban 392 db, 1984-ben 584 db lakást építenek és a E típusterv "otthonház" terméke alapján 64 lakásos nyugdíjasházat is építettek, ezt külön meg is említettem a [4. részben](/hu/post/kispest-lakotelep-4-resz/). Végül elfogadják (az észrevételekkel együtt) a tájékoztatót és nem határoznak későbbi jelentés adásról.
 
 
 ________________
