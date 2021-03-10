@@ -21,7 +21,11 @@ projects: []
 toc: true
 ---
 
-Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk a lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. De mégis, voltak nagyobb ívű tervek? Bizony, voltak és úgy láttam jónak, hogy külön részben tárgyalom ezeket.
+Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk az ötéves lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. De mégis, voltak nagyobb ívű tervek? Bizony, voltak és úgy láttam jónak, hogy külön részben tárgyalom ezeket. Mit ölelnek fel?
+- **Budapest általános rendezési terve** (ÁRT), mint legátfogóbb terv kerül a legvégén tárgyalásra, a sorozat [1. részében](/hu/post/kispest-lakotelep-1-resz/) tárgyalt első és második ÁRT folytatásaként. Előtte viszont érdekesebb témák kerülnek terítékre.
+- Volt hosszabb távú lakásépítési terv? Igen, **Budapest 15 éves lakásépítési terve**. Előtte ilyen időtávra nem terveztek a lakásépítésben, csak az ötéves tervek keretében.
+- A lakótelepekkel nem foglalkoztak külön? De! A 80-as évek elejére érett meg a gondolat a **lakótelepi városépítészet** felülvizsgálatáról. Ez magával vonta magának az lakásépítészetnek a felülvizsgálatát is.
+- Szóval magát a panelos technológiát is újragondolták? Igen, ez volt a LAKÓTERV **E típusterve**, ami merőben új tervezési módszert hozott a gyakorlatba.
 
 
 ## 15 éves lakástelepítési terv 1978
@@ -289,6 +293,8 @@ Ezt az anyagot elfogadják, mint alapot, melyet még egyezetnek más hivatalokka
 Elmondható, hogy ez a terv az előző változathoz képest tömörebben fogalmaz, viszont kevésbé áttekinthető egyes pontokon (vélhetőleg az egyes hivatalok igényeihez szabták a táblázatokat). Végül a tervvel a BFT VB egyetért, de újra át kell dolgozni a szószerinti jegyzőkönyv szerint és ezután kell már közvetlenül a Minisztertanács elé terjeszteni a 92/1979. számú határozatnak megfelelően.
 
 
+________________
+
 ## Lakótelepek városrendezési kérdései
 
 [1981. október 28](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-10-28/?pg=0&layout=s)-án tárgyaltak a BFT VB-ben egy érdekes anyagot: *A budapesti lakótelepek városrendezési és építészeti kérdéseit*.
@@ -444,6 +450,8 @@ Végül elfogadják és a BFT VB elé rendelik tárgyalásra, hogy az végleges�
 És van egy furcsa dolog: a határozati javaslatok nem olvashatóak, mert **adatvédelmi okok miatt** nem megjeleníthetőek! Röhej! :smile: Egyszerűen nem tudom elképzelni mi lehet ez a dolog. Ráadásul három oldalas lett, ami egy oldalas volt korábban. Felvettem a kapcsolatot Budapest Főváros Levéltárával, meglátjuk mit tudok meg. Elvileg itt fogadják el az anyagot, mert több tárgyalását már nem találtam az adatbázisban.
 
 
+________________
+
 ## Az új E típus
 
 Fentebb utaltak az új E típusú épületekre. Milyenek voltak ezek? Miben tértek el a korábbi típustervektől? Tényleg jobbak voltak? Lássuk az előterjesztést!
@@ -557,6 +565,8 @@ Az új típusú lakások felszereltsége és műszaki tartalma:
 A E típusról szóló javaslatot a BFT VB elfogadja, de a konkrét állsáfoglalást többen ellenzik, mert szélesebb társadalmi egyeztetést kíván. (Vannak konkrét kritikák egyes lakásoknál.) Utasítják a Beruházási Osztályt, hogy 1983-ban ismét adjon tájékoztatást a bevezetés állapotáról. Ezt meg is teszik [1983. június 8](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1983-06-08/?pg=0&layout=s)-án. 
 
 
+________________
+
 ## Általános rendezési terv
 
 Hogy legyen egy kerete a tényfeltáró munkának, áttekintést adok a Budapestet érintő általános rendezési terv (ÁRT) 1980-as évekbeli módosulásáról. **A folyamat a következő**:
@@ -624,5 +634,7 @@ Mit találtam Kispestről (lakás ügyben)? A városrész- és kerületközponto
 {{< figure src="bp_art_1987_lakasepitesbontas_kerulet.png" title="Az épített és megszűnt lakások számának változása kerületenként 1971 és 1985 között, illetve a rendezési programjavaslat szerint. Budapest általános rendezési terv hatósági egyeztetési kötetéből, 1987. Részlet." numbered="true" >}}
 
 {{< figure src="bp_art_1987_teruletfelh.png" title="Területfelhasználás, területszerkezet, budapest általános rendezési terv hatósági egyeztetési kötetéből, 1987. Részlet." numbered="true" >}}
+
+________________
 
 Itt ér véget cikksorozatom azon része, amely a kispesti lakótelep építészet történetének forrásait dolgozta fel. Következik a lakótelepi lakóépületek térképi ábrázolásának feladata a következő részben.
