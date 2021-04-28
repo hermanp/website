@@ -73,7 +73,6 @@ Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogad
 Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a [katalógusban](https://saman.fszek.hu/WebPac/CorvinaWeb):
 - `kispest` kulcsszó, 315 találat:
     - Fodor L. István: Kispest: új városrész születik. _Élet és tudomány_ 33. évf. 39. sz. (1978), p. 1235-1237.
-    - Fucskó Hajnalka: Megtorpant a lépcsőzetes program : Kispest nem adja fel. _Magyar Nemzet_ 58. évf. 175. sz. (1995), p. 8.
     - Gulyás Teréz: A kispesti városrészközpont és környéke. _Városépítés_ 11. évf. 3. sz. (1974), p. 34-35.
     - Kálmánchey Endréné: A kispesti lakótelep közlekedési kapcsolatai. _Városi Közlekedés_ 23. évf. 2. sz. (1983), p. 93-96.
     - Nyárádi Éva: Várospolitika Kispesten. _Budapesti Fórum_ 7. évf. 2-3. sz. (1987), p. 99-101.
@@ -428,16 +427,8 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - Weiszkopf András (tanársegéd, BME ÉPK [Lakóépülettervezési Tanszék](http://www.lako.bme.hu/?page_id=98))
 - [Mészáros Ábel](https://hu.linkedin.com/in/%C3%A1bel-m%C3%A9sz%C3%A1ros-50b83b56) (Lechner Tudásközpont)
 - kitűnő oldal az urbanistákról, pantheon: https://urbanistak.hu/
-- [Ihrig Dénes](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Sajnos 2019-ben elhunyt. [Kispest központjának részletes rendezési terve](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s). (Társtervező: Takács Máté.) 1963. Ekkor 33 éves, adjunktus. 
-- Zoltai István:
-    - Magyar Építőművészet, 1979/6.szám :
-    > "Időközben műtermünkben Zoltai István kollégám megtervezte a csatlakozó kispesti lakótelepet mely hasonló az Üllői útra"
-    - [Amikor szalvétára fért egy budapesti lakótelep terve](https://index.hu/urbanista/2018/03/28/kaposztasmegyer_lakotelep_terkep_terv_panel_kapi_ujpest/):
-    > "Ez a terv még abban az évben kész lett a LAKÓTERV építészgárdája jóvoltából, Zoltai István építész vezetésével (aki egyébként Ybl Miklós-díjas, de azt még 1976-ban kapta a Kispesti lakótelepért)."
-    - `"zoltai istván"` Hungaricana keresés, 200 találat. *1987. március 11.* - Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei: Javaslat Reitter Ferenc díj adományozására. [személyes adatok, elismerései, méltatás, a javaslat indoklása építészeti tevékenységével, de Ybl-díjának okát nem említik. Megítélik neki a díjat, április 4-e alkalmából átadják.]
-    - Ybl Egyesület: [Ybl-díjas építészek](http://yblegyesulet.hu/ybl-dij/ybl-dijas-epiteszek/), 1976. Egy Word dokumentum tartalmazza az adatokat: III. fokozat, *„Kispest lakótelep tervezésében kifejtett városrendezési tevékenységéért”*. 1943-ban született.
-    - Úgy tűnik él és alkot jelenleg is: Korényi és Társai Kft. munkáinál vállal szerepet. Z & W Építésziroda?
-    - A BME ÉPK Középülettervezési Tanszékén [diplomázott](http://www.kozep.bme.hu/wp-content/uploads/2016/09/diploma-Kozep-1946-2016.pdf), 1966-ban.
+- [Ihrig Dénes](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Sajnos 2019-ben elhunyt. [Kispest központjának részletes rendezési terve](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s). (Társtervező: Takács Máté.) 1963. Ekkor 33 éves, adjunktus.
+- Zoltai István
 - [Reischl Antal](https://mek.oszk.hu/00300/00355/html/ABC12527/12847.htm), BFT VB tag, egyetemi tanár a BME ÉPK Lakóépülettervezési Tanszékén. Pro Urbe díj [jelölése](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-01-19/?pg=52&layout=s).
 - Bálint Imre, Kispest II/A ütem és kispesti városközpont tervezője
 - [Pomsár János](https://hu.wikipedia.org/wiki/Poms%C3%A1r_J%C3%A1nos): BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967). [Gyászhíre](http://mek.hu/index.php?id=44609) a Magyar Építész Kamara honlapján, [nekrológja](http://meonline.hu/magyar-epitomuveszet-hirek/bucsu/pomsar-janos-1931-2018/) a Magyar Építőművészet oldalán, [életrajza](https://urbanistak.hu/category/mnop/) az urbanistak.hu oldalon található meg.
