@@ -447,7 +447,7 @@ Scheich Vilmos:
 
 Végül elfogadják és a BFT VB elé rendelik tárgyalásra, hogy az véglegesítse és utána a sajtó is tájékoztatható legyen. Erre [1982. június 9](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-06-09/?pg=0&layout=s)-én kerül sor, ekkor tárgyalják utoljára. Beépítik a legtöbb fenti megjegyzést, pl. település szociológiai aspektusok, parkolási helyzet, aktív lakossági részvétel a tervezés és a kivitelezés során, lakossági sporttevékenység, ipar- és képzőművészek bevonása.
 
-És van egy furcsa dolog: a határozati javaslatok nem olvashatóak, mert **adatvédelmi okok miatt** nem megjeleníthetőek! Budapest Főváros Levéltárához írt levelemre [Dr. Rácz Attila](http://bparchiv.hu/felhasznalok/racza), a BFL II. Iratőrző főosztály főosztályvezetője válszolt. Az adatvédelmi korlátozást egy másik ügy miatt kellett meglépni, ami sajnos azon az oldalon volt megtalálható, mint az engem érdeklő téma, így utóbbi is áldozatul esett. Volt olyan kedves és kimásolta a lakótelepi napirendi pont határozatát, ezt én is megteszem itt:
+És van egy furcsa dolog: a határozati javaslatok nem olvashatóak, mert **adatvédelmi okok miatt** nem megjeleníthetőek! Budapest Főváros Levéltárához írt levelemre [Dr. Rácz Attila](http://bparchiv.hu/felhasznalok/racza), a BFL II. Iratőrző főosztály főosztályvezetője válaszolt. Az adatvédelmi korlátozást egy másik ügy miatt kellett meglépni, ami sajnos azon az oldalon volt megtalálható, mint az engem érdeklő téma, így utóbbi is áldozatul esett. Volt olyan kedves és kimásolta a lakótelepi napirendi pont határozatát, ezt én is megteszem itt:
 
 > A napirend 6./ pontja: A budapesti lakótelepek városrendezési és építészeti kérdései.  
 > Előadó: Vallyon István  
