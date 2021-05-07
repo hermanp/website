@@ -1,6 +1,7 @@
 # creator:  Peter Herman
 # contact:  peter.herman.89@gmail.com
 # date:     2020-12-07
+# status:   not active
 # 
 # Summary ####
 # This R script aims to download all favicons from the URLs of a JSON
