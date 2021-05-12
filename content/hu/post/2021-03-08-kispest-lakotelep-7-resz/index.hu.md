@@ -519,6 +519,15 @@ Mi késlelteti a tervezést?
 | Jakab Z.        | műszaki igazgató helyettes |
 | Koltai E.       | igazgató                   |
 
+Azonban érdemes rámutatni itt egy **Virág Csabával**, LAKÓTERV vezető építészével készült [interjúra](http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf), melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el. Munkatársai Korényi András és Nagy János "a paneltechnológia atyjai" voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:
+
+> Korényi—Zoltai barátaim azután legalább e munka maradék eredményeiből az ún. „E”-típusból megcsinálták a Káposztásmegyeri Lakótelepet. Ez történt 1982-ben.
+
+Egy központi kérdés számomra továbbra is az, hogy **ki és milyen meggondolásból tervezte** a korábbi paneles lakásokat és épületeket? Erre vetett némi fényt az alábbi odavetett mondata Virág Csabának:
+
+> Volt egy Tóth János nevű technikus, ő mondta meg, milyennek kell lenni egy panellakásnak. Mi felfogadtuk őt konzulensnek a pályázathoz. Így kaphattuk meg a munkát, különben csak csökkentett első díjat akartak adni nekünk.
+
+
 *Mi alapján terveztek?*
 
 Az igények 3 szempontja:
