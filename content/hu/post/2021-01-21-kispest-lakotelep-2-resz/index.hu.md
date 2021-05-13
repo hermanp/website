@@ -147,7 +147,7 @@ A mellékletek közül az alábbiak érdekesek:
 - 16. sz: Javaslat az V. ötéves terv lakásépítési területeire. Kispesten 6000, a fenti 3000-rel szemben!
 
 A jegyzőkönyvi részből az alábbit érdemes kiemelni:
-> "A tervezéssel kapcsolatban! Ez év tavaszán az ÉVM-ben Szabó elvtárs elosztotta a vállalatok között a tervezési kapacitást. Meg lett határozva, hogy a Típustervező, a Lakóterv, a BUVÁTI melyik területnek a tervezője." — Heincz Mihály, BFT VB Városrendezési és Építészeti Főosztály vezetője
+> "A tervezéssel kapcsolatban! Ez év tavaszán az ÉVM-ben [Szabó](https://hu.wikipedia.org/wiki/Szab%C3%B3_J%C3%A1nos_(%C3%A9p%C3%ADt%C5%91m%C3%A9rn%C3%B6k)) elvtárs elosztotta a vállalatok között a tervezési kapacitást. Meg lett határozva, hogy a Típustervező, a Lakóterv, a BUVÁTI melyik területnek a tervezője." — Heincz Mihály, BFT VB Városrendezési és Építészeti Főosztály vezetője
 
 1971-ből nincs említenivaló, csak visszautalok az 1. részben tárgyalt általános rendezési tervre, aminek felülvizsgált változatát ekkor hirdették ki. Ekkor már tudható, hogy Kispesten akarják a dél-pesti városrészközpontot kialakítani. Az 1968-as kerületi településfejlesztési terv szerint a lakásépítést itt *"kb. 10.000 - 12.000 lakás nagyságrendben intenzív beépítésű korszerű házgyári épületekkel kell megvalósítani"*. Ennek a fentebb közölt 11700 - 600 = 11100 tervezett házgyári lakás megfelel.
 
@@ -329,7 +329,7 @@ Feljebb láthattuk, hogy áthúzódott az I. ütem lakásépítése az V. ötév
 
 ## Jelentés az I. ütem befejezéséről 1982
 
-Az I. ütemről érdemi információt ezt követően a befejezéséről szóló beszámolóban lelehetünk fel, ami viszont kitűnő összefoglalását adja a folyamatnak. [1982. június 9](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-06-09/?pg=197&layout=s)-én tárgyalták BFT VB-ben *Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről* címen.
+Az I. ütemről érdemi információt ezt követően a befejezéséről szóló beszámolóban lelhetünk fel, ami viszont kitűnő összefoglalását adja a folyamatnak. [1982. június 9](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-06-09/?pg=197&layout=s)-én tárgyalták BFT VB-ben *Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről* címen.
 
 > "Budapest I. 15 éves lakásépítési koncepciójával összhangban került kijelölésre és elfogadásra a XIX.ker. Kispesti városközpont rekonstrukciója. A 11407 db új lakást magába foglaló városrész több építési ütemben valósul meg. A Vöröshadsereg út déli oldalán a Hunyadi, Ady, Corvin krt. és Vöröshadsereg utcák által határolt mintegy 30 ha-os területen két különálló beruházásként épült meg a lakótelep I. és II/A üteme, melyek mind területileg, mind közmű-, út és parkosítás szempontjából szervesen összefüggnek."
 
