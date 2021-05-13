@@ -209,7 +209,7 @@ Eszerint van egy előzménye, a *III. ötéves terv lakástelepítési javaslata
 {{< figure src="Harmadik_oteves_terv_lakastelepites_1962.png" title="Javaslat a harmadik 5 éves terv budapesti lakásépítkezéseinek elhelyezésére, 1962. Kispest már szerepel 500 lakással." numbered="true" >}}
 
 Ezt a lakástelepítési javaslatot tárgyalta meg a BFT VB **1962. szeptember 19**-i ülésén. Tehát látjuk, hogy az általános rendezési tervvel összhangban kijelölték Kispesten a lakásépítési területet, már 1962-ben! De vissza a 1964. július 22-i rendezési tervhez: milyen lakásépítést terveztek itt megvalósítani?
-> "E területnek a Vöröshadsereg útját szegélyező részén, az ottlévő alacsony és elavult beépítés felszámolásával, valamint a felsőfokú közintézmények elhelyezésével, többemeletes beépítésű lakóterület kialakítását kell biztosítani. Az ehhez a magasabb beépítésű területsávhoz szervesen kaposolodó területek viszont lényegében nem tekinthetők ujjáépítendőnek. Ezért itt csupán városszerkezeti alapot kell szolgáltatni ahhoz, hogy továbbfejlesztésük során a korszerű városépítési elvek érvényesüljenek."
+> "E területnek a Vöröshadsereg útját szegélyező részén, az ottlévő alacsony és elavult beépítés felszámolásával, valamint a felsőfokú közintézmények elhelyezésével, többemeletes beépítésű lakóterület kialakítását kell biztosítani. Az ehhez a magasabb beépítésű területsávhoz szervesen kapcsolódó területek viszont lényegében nem tekinthetők ujjáépítendőnek. Ezért itt csupán városszerkezeti alapot kell szolgáltatni ahhoz, hogy továbbfejlesztésük során a korszerű városépítési elvek érvényesüljenek."
 
 Vagyis itt még szó sincs a lakótelepről! Aztán egy oldallal később már árnyalódik a kép és a mai lakótelep egy részletére ismerhetünk rá (az Üllői út - Hunyadi utca - József Attila utca közötti területen):
 > "A rendezési terv kialakítása során a Vöröshadsereg útja menti beépítés uralkodó magasságánál fdsz + 4 emeletnek megfelelő beépités nyert megállapítást. Ily módon biztosítható, hogy a kialakult állapottal szemben nem fog aránytalan léptékváltás bekövetkezni. De biztosítható az is, hogy **a lakóházak a rendelkezésre álló típustervek alkalmazásával** és felvonó nélkül építhetők meg. A főutvonal mentén ritmikusan elhelyezett néhány 10 szintes pontház egyrészt gazdaságosabb beépítési lehetőséget eredményez, másrészt a kiemelt főútvonal városképi egyhangúságát feloldja."  
@@ -221,7 +221,7 @@ Vagyis itt még szó sincs a lakótelepről! Aztán egy oldallal később már �
 És ennyi. Hivatkozás későbbi teendőre nincs, leszámítva az elején említett beépítési tervet és beruházási programot. Viszont itt már I. ütemként hivatkoznak az 500 lakásos építkezésre, amiből 1968-ban 300, 1969-ben 200 lakást építenének meg Szilágyi Lajos, BFT VB VIII. Városrendezési és Építészeti Osztály osztályvezetője szerint. Hivatkozik **térképre és makettre**. Érdemes megjegyezni, kik voltak a külön meghívottak ezen az ülésen:
 - Darabos Iván a XIX. ker. Pártbizottság
 - Lados Mihályné a XIX. ker. Végrehajtóbizottság
-- [Ihrig Dénes](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Ekkor 33 éves, adjunktus, sajnos 2019-ben elhunyt.
+- Ihrig Dénes[^1],[^2] az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Ekkor 33 éves, adjunktus, sajnos 2019-ben elhunyt. Létezik hivatkozás a BME 1970/71-es [évkönyvében](https://library.hungaricana.hu/hu/view/BME_Evkonyv_1970-71/?pg=155&layout=s), az Urbanisztika Tanszék tevékenységénél vélhetőleg erre a munkára: "Budapest, XIX. Kispest központjának részletes rendezési terve" készült az 1970-es évben vagy azt megelőzően. A most tárgyalt legkésőbb 1964-ben.
 - Mező Lajos a BVTV részéről. 
 
 ## Térképek a részletes rendezési terv után
@@ -258,6 +258,9 @@ Ez a kérés meghallgatásra talált, mert az [1967. szeptember 25](https://libr
 
 A 2. és 3. sz. mellékletekben olvashatjuk, hogy a IV. ötéves terv lakásait *blokkos*, az V. ötéves terv lakásait *Larsen-Nielsen* technológiával építenék Kispesten. Láthatunk egy [térképet](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1967-09-25/?pg=76&layout=s) is a IV. ötéves terv telepítési javaslatáról. Lassan visszaérünk a poszt kiindulásához: Budapest általános rendezési tervének 1970-es változatához, melynek kidolgozására felhívják a figyelmet az ülésen a lakástelepítési javaslat tükrében:
 > "Megállapítható továbbá, hogy a IV. és V. ötéves terv lakástelépítésében történő állásfoglalás [...] lényegében **eldönti az általános rendezési terv további fejlesztésének fő irányvonalát**. [...] az itt bemutatott telepítési javaslat, mint az általános terv konkrét módosítását tartalmazó korrekció is megállapítást és jóváhagyást nyerjen. "
+
+
+## I. ütem egyszerűsített beruházási program
 
 Egy évvel később, [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében."
 > "[...] blokkos épitési mód valószínűleg egy haladottabb épitési technológiával lesz megoldva a munkaerőhelyzet miatt. **Blokk helyett: öntési technológia**. [...] A kispesti lakások nem szerepeltek ebben [a III.] az ötéves tervben, csak vonal alatt, mint előkészítendők. **Valószínűleg a IV. ötéves terv első felében indítjuk el**. A XIX. ker. általános városfejlesztési tervével összhangban van ez a rész. Úgy készítettük elő, hogy a nagy fejlesztési tervnek egy része." — Heincz Mihály (BFT VB Városrendezési és Építészeti Főosztály főosztályvezetője)
@@ -341,3 +344,7 @@ Kik készítették a tervjavaslatot?
 > "Nem egy új lakótelepet kell létrehozni, hanem egy élő társadalmi egységet magában foglaló városrészt fejleszteni."
 
 Meglátjuk, ez hogyan sikerül. :slightly_smiling_face: 
+
+
+[^1]: Ihrig Dénes [életrajza](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/) a BME ÉPK Urbanisztikai Tanszék oldalán. 
+[^2]: Ihrig Dénes [oldala](https://urbanistak.hu/ihrig-denes/) az urbanista.hu weboldalon.
