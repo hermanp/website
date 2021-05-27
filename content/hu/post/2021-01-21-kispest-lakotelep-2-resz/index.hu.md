@@ -217,11 +217,16 @@ Hogy ez mivel magyarázható? Talán az alábbi részlettel az előterjesztésb�
 
 Az 1973. február 28-i és az 1973. december 5-i BFT VB ülésen tárgyalt V. ötéves tervi jelentések és javaslatok már csak a II. ütemre vonatkozó adatokat tartalmaznak, így ezek már a cikksorozat [3. részében](/hu/post/kispest-lakotelep-3-resz/) olvashatóak. Furcsa, hogy nem találtam ilyen részletességű javaslatokat, feladat ütemezést a IV. ötéves terv, és így az I. ütem tekintetében. Az eddigiek után érkezünk el az I. ütem módosított (általam inkább valódinak mondott) beruházási programjához.
 
+## I. ütem egyszerűsített beruházási program 1968
+
+Megismétlem az [1. részben](/hu/post/kispest-lakotelep-1-resz) olvasható részt az I. ütemberuházási programjáról. [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében." A lényeg, hogy ebben 525 lakás szerepel, blokkos technológiával. A technológia részletezésnél látszik, hogy a 3 db belső udvaros épületről van szó (amelyek két részből állnak). Ez fog bővülni további épületekkel a módosított beruházási programban. 
+
 
 ## I. ütem módosított beruházási program 1973
 
 [1973. december 19](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1973-12-19/?pg=222&layout=s)-én tárgyalta a BFT VB *XIX. ker. Kispest lakótelep I. ütem módosított beruházási programját*. Hivatkozik az 1968. december 4-i *egyszerűsített beruházási programra*. Hogy miért csak egyszerűsített, arra a következő rész ad választ:
-> "A terület részletes rendezési terve, mely a program szerinti 525 lakásra terjed ki, R-16274.ttsz. alatt került jóváhagyásra. Az előterjesztett program költségelőirányzata az alkalmazni kívánt különböző építési technológiák és építményfajták, valamint az új árrendszer költségkihatásainak ismerete hiányában becsült értékkel került megállapításra az 1967. évi hasonló technológiák költségeinek alapulvételével."
+> "[...] a jóváhagyó határozat kimondja, hogy a költségelőirányzat előzetesnek tekintendő, annak véglegezáse a kiviteli tervek birtokában történjék meg. A kiviteli tervek nagyrészt elkészültek, így most már lehetséges és szükséges a beruházási program költségeinek véglegezése, illetve a program módosítása.   
+Időközben döntés született arra, hogy az I. ütemként kezelt beruházási program egészüljön ki még mintegy 300 lakással — melyeket a IV. sz. Házgyár termékeiből építenek fel — és egy 150 fh-es óvodával. A lakásszám így 822-re nő."
 
 Miután a kiviteli tervek elkészültek, lehetőség volt ezen módosításra. Ezen előterjesztés előtt már módosítottak a részletes rendezési terven is, a változásokat az alábbi táblázatban foglalom össze:
 
