@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-05-12'
+lastmod: '2021-06-01'
 featured: no
 image:
   caption: ''
@@ -69,10 +69,42 @@ A II. ütem tervezésére 1973 augusztusában írták ki a tervpályázatot és 
 > A pályázat célja a távlati városrendezési tervekhez szükséges javaslatok megalkotása volt. Így például a nagyarányú városrendezéssel szorosan összefüggő közlekedési változásokat is figyelembe kellett venni. A bíráló bizottság a pályaművek elbírálásakor megállapította: a tervek többségében felfedezhető az a törekvés, hogy a meglevő úthálózat minél nagyobb részének megtartásával tegyék lehetővé a rekonstrukció szakaszos megvalósítását. [...] A sikeres pályázat javaslatainak felhasználásával a BVTV készíti majd el a dél-pesti városrészközpont részletes rendezési terveit. — Esti Hírlap, 1974. február 26. [^30]
 
 > A Minisztertanács három évvel ezelőtt jóváhagyta Budapest és környéke általános rendezési tervét és ennek keretében a dél-pesti városrész központját az Üllői út mentén, Kispest területén jelölte meg. A távlati városrendezési tervek az V. és VI. ötéves tervek időszakában kerülnek majd megvalósításra de már most szükséges a tervek előkészítéséhez felhasználható anyag beszerzése. Ezért az Építésügyi és Városfejlesztési Minisztérium  és a Fővárosi Tanács pályázatot írt ki a feladat megoldására. A tervpályázatra tizenhét pályamű érkezett be, amelyek felülbírálását most fejezte be a zsűri. [...]  
-A bíráló bizottság összefoglaló jelentésében megállapította, hogy a tervpályázat eredményes volt. A 90 ezer forintos első díjat *Zádori Attila — M. Gremsperger Ilona*, a BUVÁTI munkatársainak terve kapta. Két pályaművet részesítettek egyformán 75 ezer forintos II. díjban. Az egyik terv szerzői *Schwarczuk Ágnes — Szenczy Ottó — Cs. Ládonyi Judit*, a másik pályaművé *Molnár Attila — Zoltai István — Kálnoki Kis Sándor*. A 60 ezer forintos III. díjat *Gönci László — G. Sztrizsák Tamara — Lombár István* pályaművének ítélték. Megvásárolták 45 ezer forintért *Hegedüs Emőke — Papp Lukács — Várady Tamás* és 35 ezer forintért *Bálint Imre — Iványi László — Lannert Mónika — Pomsár János — Lelkes Mihály* pályamunkáját. — Magyar Nemzet, 1974. február 26. [^29]
+A bíráló bizottság összefoglaló jelentésében megállapította, hogy a tervpályázat eredményes volt. A 90 ezer forintos első díjat *Zádori Attila — M. Gremsperger Ilona*, a BUVÁTI munkatársainak terve kapta. Két pályaművet részesítettek egyformán 75 ezer forintos II. díjban. Az egyik terv szerzői *Schwarczuk Ágnes — Szenczy Ottó — Cs. Ládonyi Judit*, a másik pályaművé *Molnár Attila — Zoltai István — Kálnoki Kis Sándor*. A 60 ezer forintos III. díjat *Gönci László — G. Sztrizsák Tamara — Lombár István* pályaművének ítélték. Megvásárolták 45 ezer forintért *Hegedüs Emőke — Papp Lukács — Várady Tamás* és 35 ezer forintért *Bálint Imre — Iványi László — Lannert Mónika — Pomsár János — Lelkes Mihály* pályamunkáját. — Magyar Nemzet, 1974. február 26.[^29]
 
-Ezt a BVTV... de ellentmondásos a...
-[^43] [^49]
+Tehát a BUVÁTI (másnéven BVTV) két munkatársa, **Zádori Attila** és **M. Gremsperger Ilona** (közlekedéstervezés) terve nyerte meg a pályázatot.
+[^43]
+
+{{< figure src="Zadori_Attila_fiatal.png" title="Zádori Attila. Népszabadság, 1975. január 12." numbered="true" >}}
+
+{{< figure src="Zadori_Attila_idos.png" title="Zádori Attila. [Elhunyt](https://mek.hu/index.php?link=Elhunyt_Zadori_Attila_epitesz__1944_2019_) Zádori Attila építész. Magyar Építész Kamara honlapja, 2019. december 6." numbered="true" >}}
+
+> Ki boldogabb ember: a, tervező-e, vagy az első beköltöző? A lakótelep tervezője Zádori Attila építészmérnök, 30 éves. Most ezt mondja: — Fiatalon ilyen nagyszabású feladat! — Mit fűzhetek hozzá? Óriási szakmai lehetőség ez számomra. Nem kispesti vagyok, de hosszú ideig jártam a kerületet, beszélgettem a lakásra váró családokkal, hogy mi az igényük, az álmuk? Így alakítottam ki magamban, majd a tervrajzokon a két-két és fél szobás lakások beosztását. A realizálás a 4-es számú házgyár termékeiből történik. [Megjegyzés: a cikkben megszólal az első beköltöző, Atlasz Mihály, aki feleségével és két gyerekükkel költözött.] — Népszabadság, 1975. január 12.[^78]
+
+> Ebben a munkában [Kispest városközpont] a Lakóterv építészével, a szintén díjnyertes Zoltai Istvánnal működünk együtt, aki 4. számú magyar házgyár termékeiből a lakásépítési feladatok megoldásán tevékenykedik — Magyar Nemzet, 1975. január 26. Interjú Zádori Attilával, nem csak Kispestről.[^31]
+
+A BUVÁTI tervező kollektívája dolgozta ki a részletes rendezési tervet és a beépítési javaslatot. Ennek alapján a Fővárosi Beruházó Vállalat a LAKÓTERV-et bízta meg a beruházási program elkészítésével. Erre azért volt szükség, mert sem a rendezési terv, sem a beépítési tervjavaslat készítésekor még nem állt rendelkezésre a házgyári épületek szekcióterve, így azokat nem tudták figyelembe venni. A konkrét adatok birtokában a házgyári termékek ismeretében a LAKÓTERV a jóváhagyott beépítési tervjavaslaton változtatást eszközölt. A kispesti városközpont tervezésében és a munkálatok irányításában többek között *Hollay György*, a LAKÓTERV irodavezetője, *Zoltai István*, *Bálint Imre*, *Karádi Gábor* építészek vettek részt.[^32]
+
+> Ám, nem lesz siváran egyhangú, kaszárnyaszerű képe sem egy-egy modern házaktól beépített keresztutcának, mert keverik, variálják a házgyári típusokat. Ez végre olyan lakótelep lesz, ahol ki tudják használni a többféle házgyár adta lehetőségeket. — Magyar Nemzet, 1975. március 25.[^79]
+
+A BFT VB Városrendezési Osztályának újonnan kinevezett vezetője rámutat a BUVÁTI által készített szabályozási terv és az 1975. szeptember 30-án kiadott, LAKÓTERV által készített beruházási program pongyolaságára, ami az újonnan épített Irányi Dániel utca 22. és 24. alatti ikerház elbontását jelentette volna.[^80] Ez végül nem történt meg, ahogy ezt olvashatjuk a [4. részben](/hu/post/kispest-lakotelep-4-resz/) a *3. beruházási program* fejezetben.
+
+Az 1978-as Élet és Tudomány cikk a kispesti építkezésekről a következőképp fogalmaz:
+
+> A terveket a LAKÓTERV munkaközössége készítette, Zoltai István vezetésével, Zádori Attila első díjas pályamunkájának felhasználásával. A kivitelező a 43. számú Állami Építőipari Vállalat.[^43]
+
+De maradnak kérdések:
+- Miért a LAKÓTERV-et bízta meg a FŐBER a beruházási programmal? Jobb gyakorlatuk volt ebben a házgyári épületek alkalmazásakor, mint a BUVÁTI-nak?
+- Miért került ennyi munka Zoltai István kezébe?
+- Mennyi valósult meg mások és a saját (Molnár Attila — Zoltai István — Kálnoki Kis Sándor (közlekedéstervezés)) tervükből?
+- Miért kellett változtatni a BUVÁTI beépítési javaslatán, miután ismert lett, milyen épületeket helyezhetnek el Kispesten?
+
+Utal egy esetleges konfliktusra egy későbbi riport, amiben a kispesti szanálások árnyoldalát világítják meg:
+
+> [Piller Ferenc, a kispesti tanács általános elnökhelyettese:] Főként tehát műszaki kérdésekről van szó [a szanálások ügyében], éppen ezért, ha bővebbet akar tudni, javaslom, keresse meg a LAKÓTERV-nél Zoltai István tervezőt!  
+A nevezett szakember azonban újabb nevet adott, Zádori Attiláét, a Budapesti Városépítési Tervező Vállalattól. Zádori Attila viszont sajnálkozva közölte, hogy három évvel ezelőtt foglalkozott utoljára az üggyel [tehát 1977-ben], ezért azt tanácsolja, keressem meg Zoltai Istvánt, a  LAKÓTERV-nél. [...]  
+[Zádori:] Egyébként sajnálom, hogy ennek a területnek a rekonstrukcióját kivették a kezemből. Annak idején volt egy pályázat, amelyen az én tervemet fogadták el. Hozzá is kezdtünk volna a részletes munkához, először is a szanálási érték-becsléshez. Ezt a fázist azonban a fővárosi tanács illetékes szerve szükségtelennek nyilvánította, mondván, hogy időközben egy pályázat nyomán megszületett a kellő értékelés. Ezután került az ügy a LAKÓTERV-hez. — Magyar Hírlap, 1980. július 24.[^49]
+
+Látjuk az egymásra mutogatást. Zádori maga úgy fogalmazott (az újság alapján), hogy "a terület rekonstrukcióját kivették a kezéből". "Egy pályázat nyomán" változott meg a helyzet és ez a pályázat véleményem szerint az [5. részben](/hu/post/kispest-lakotelep-5-resz/) olvasható intézményközpont LAKÓTERV által készített tanulmánya. (Ugyanis más pályázat Kispest tekintetében 1973 után nem volt.) Fentiek alapján azt gondolhatjuk, hogy a tervezés Zoltai István kezében összpontosult. Mivel nem találtam róla összefoglaló anyagot, ezért magam kezdtem kutatásba, ez olvasható lentebb.
 
 
 ## Zoltai István
@@ -223,8 +255,8 @@ A táblázat oldalra görgethető!
 [^28]: Girardi Kornélné: *Orosháza-Gyopárosfürdő rendezési tervpályázata, 1973*. (1974. Magyar Építőművészet, 23. évfolyam 1. szám 2-8. oldal) 54 pályázat. IV. díj, 26. számú pályamű. Molnár Attila — Zoltai István. Tervrajz.
 [^29]: *Kiosztották a dél-pesti városrészközpont tervpályázati díjait*. (1974. február 27. Magyar Nemzet, 30. évfolyam 48. szám 6. oldal) Építésügyi és Városfejlesztési Minisztérium és a Fővárosi Tanács pályázatot írt ki. 17 páyamű. Ismertetés.
 [^30]: *Épül a dél-pesti városrészközpont*. (1974. február 26. Esti Hírlap, 19. évfolyam 48. szám) Tervpályázat eredmény. 
-[^31]: *A tervezőépítész*. (1975. január 26. Magyar Nemzet, 31. évfolyam 22. szám 7. oldal) Interjú Zádori Attilával. Említi Zoltait: Ebben a munkában a Lakóterv építészével, a szintén díjnyertes Zoltai Istvánnal működünk együtt, aki 4. számú magyar házgyár termékeiből a lakásépítési feladatok megoldásán tevékenykedik.
-[^32]: *Új lakótelep Tizenkétezer lakás a kispesti városközpontban*. (1975. augusztus 22. Magyar Nemzet, 31. évfolyam 196. szám 5. oldal) A BUVÁTI tervező kollektívája dolgozta ki a részletes rendezési tervet és a beépítési javaslatot. Ennek alapján a Fővárosi Beruházó Vállalat a LAKÓTERV-et bízta meg a beruházási program elkészítésével. Erre azért volt szükség, mert sem a rendezési terv, sem a beépítési tervjavaslat készítésekor még nem állt rendelkezésre a házgyári épületek szekcióterve, így azokat nem tudták figyelembe venni. A konkrét adatok birtokában a házgyári termékek ismeretében a LAKÓTERV a jóváhagyott beépítési tervjavaslaton változtatást eszközölt. A kispesti városközpont tervezésében és a munkálatok irányításában többek között Hollay György, a LAKÓTERV irodavezetője, Zoltai István, Bálint Imre, Karádi Gábor építészek vettek részt.
+[^31]: *A tervezőépítész*. (1975. január 26. Magyar Nemzet, 31. évfolyam 22. szám 7. oldal) Interjú Zádori Attilával. Említi Zoltait.
+[^32]: *Új lakótelep Tizenkétezer lakás a kispesti városközpontban*. (1975. augusztus 22. Magyar Nemzet, 31. évfolyam 196. szám 5. oldal) Kivitelezés ismertetés, munka leosztás.
 [^33]: *Pelikán Szálló, Szolnok*. (1976. Magyar Építőművészet, 25. évfolyam 2. szám 14-18. oldal) Munkatárs: Zoltai István.
 [^34]: *VÍZIG irodaház, Szolnok*. (1976. Magyar Építőművészet, 25. évfolyam 2. szám 19-21. oldal) Munkatárs: Zoltai István.
 [^35]: *Ybl Miklós-díj, 1976*. (1976. Magyar Építőművészet, 25. évfolyam 4. szám 9. oldal) III. fokozat: Zoltai István (Lakó- és Kommunális Épületeket Tervező Vállalat). Kispest lakótelep tervezésében kifejtett városrendezési tevékenységéért. Arckép.
@@ -235,13 +267,13 @@ A táblázat oldalra görgethető!
 [^40]: *Centrum Áruház, Szolnok*. (1977. Magyar Építőipar, 26. évfolyam 11-12. szám 710-711. oldal) Építész: Zoltai István.
 [^41]: *VIZIG irodaház, Szolnok*. (1977. Magyar Építőipar, 26. évfolyam 11-12. szám 720-721. oldal) Munkatárs: Zoltai István.
 [^42]: *Megyei művelődési és Ifjúsági Ház, Szolnok*. (1977. Magyar Építőipar, 26. évfolyam 11-12. szám 722-724. oldal) Építész: Zoltai István, M. Szabó Ilona.
-[^43]: Fodor. L. István: *Kispest Új városrész születik*. (1978 szeptember 29. Élet és Tudomány, 33. évfolyam 39. szám 1235-1237. oldal) Említés Zoltai Istvánról. Eredeti épületszínek! Makett fotók!
+[^43]: Fodor. L. István: *Kispest Új városrész születik*. (1978. szeptember 29. Élet és Tudomány, 33. évfolyam 39. szám 1235-1237. oldal) Említés Zoltai Istvánról. Eredeti épületszínek! Makett fotók!
 [^44]: Zoltai István: *Szolnok városközpontja*. (1978. Városépítés, 14. évfolyam 3. szám 15-18. oldal)
 [^45]: *A debreceni területrendezési tervpályázat nyertesei*. (1979. május 16. Magyar Nemzet, 35. évfolyam 112. szám 5. oldal) A debreceni városi tanács az ÉVM-mel együtt hirdette meg a debreceni úgynevezett "Hatvan utcai kert" lakóterület rendezésére a pályázatot. A feladat az volt, hogy a kijelölt területen mintegy ötezer lakás felépítésére alkalmas lehetőséget teremtsenek, oly módon, hogy a mai házgyári termékekkel való építkezés mellett azok egyhangúságát feloldó más korszerű építési módok alkalmazására is törekedjenek. I. díj, 80000 forint. Molnár Attila — Zoltai István.
 [^46]: *Új művelődési ház Szolnokon*. (1979. június 3. Magyar Hírlap, 12. évfolyam 128. szám 4. oldal) Tervezte Zoltai István.
 [^47]: *Megyei művelődési és ifjúsági ház — Szolnok*. (1979. Magyar Építőművészet, 28. évfolyam 6. szám 28-29. oldal) Építész: Zoltai István, Szabó Ilona.
 [^48]: Stadler József: *Kaposvár Kisgát rendezési tervpályázatának ismertetése, és a pályázatokról általában*. (1979. Városépítés, 15. évfolyam 1. szám 31-34. oldal) 17 pályázat, I. díj, 80000 forint. Molnár Attila — Zoltai István — Kovács Péter — Mezey András.
-[^49]: *Toronyházak árnyékában*. (1980. július 24. Magyar Hírlap, 13. évfolyam 172. szám 5. oldal) A kispesti szanálás árnyékos oldala. Egymásra mutogatás. Zoltai és Zádori Attila. Zádori mondja, hogy a terület rekonstrukcióját kivették a kezéből annak ellenére, hogy az ő pályázata volt első díjas. "[a szanálási értékbecslést] a fővárosi tanács illetékes szerve szükségtelennek nvilvánította, mondván, hogy időközben egy pályázat nyomán megszületett a kellő értékelés. Ezután került az ügy a LAKÓTERV-hez."
+[^49]: *Toronyházak árnyékában*. (1980. július 24. Magyar Hírlap, 13. évfolyam 172. szám 5. oldal) A kispesti szanálás árnyékos oldala. Egymásra mutogatás. Zoltai és Zádori Attila.
 [^50]: *Ahogy a tervezőmérnök látja*. (1980. június 26. Népszabadság, 38. évfolyam 148. szám 4. oldal) Említés Zoltairól és Káposztásmegyerről, mit terveznek megvalósítani.
 [^51]: *Káposztásmegyerről — kérdőjelekkel*. (1980. szeptember 28. Magyar Nemzet, 36. évfolyam 228. szám 7. oldal)
 [^52]: *Tervpályázat meghirdetése a IV. ker. Káposztásmegyer területén létrehozandó lakóterület beépítésére*. 1978. november 8. Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek [jegyzőkönyvei](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1978-11-08/?pg=185&layout=s) (HU BFL XXIII.102.a.1) Az ÉVM, a BFT VB és a IV. kerületi Tanács VB zártkörű, névaláírásos, meghívásos tervpályázatot hirdet a IV. ker. Káposztásmegyer területének beépítésére, területszerkezetének meghatározására és közlekedési valamint közmű rendszerének megoldására. A tervpályázaton való részvételre az alábbi 5 tervező szervezet kollektívái kapnak meghívást: Általános Épülettervező Vállalat, Budapesti Városépítési Tervező Vállalat, Lakó- és Kommunális Épületeket Tervező Vállalat, Pécsi (később Déldunántúli) Tervező Vállalat, Városépítési Tudományos és Tervező Intézet (utóbbi 2, a többi 1-1 kollektívával, összesen 6 kollektíva).
@@ -259,7 +291,7 @@ A táblázat oldalra görgethető!
 [^64]: Varga Gábor: *Új Móricz Zsigmond Gimnázium*. (1993. Magyar Építőipar, 43. évfolyam 1-2. szám 18-19. oldal) Építész tervező: Zoltai István — Pelikán Imréné.
 [^65]: *Duna Office Center*. (1994. Magyar Építőipar, 44. évfolyam 9-10. szám 289-292. oldal) Építész tervező: Füzesséry Zoltán — Bordi János — Zoltai István.
 [^66]: [Késik az átadás](http://www.hirtukor.hu/bel.php?ssz=11680). 2009. október 20. Százhalombattai Hírtükör. A százhalombattai konferenciaközpont és lakóház átadásának késése okáról tudósítanak, a galériában fotó a két alkotóról Korényi Andrásról és Zoltai Istvánról.
-[^67]: [Egyéni Hild János-díj, Köztérmegújítási Nívódíj](http://epiteszforum.hu/egyeni-hild-janos-dij-koztermegujitasi-nivodij). 2011. május 17. építészfórum. 2011-ben Köztérmegújítási Nívódíjat kapott "Városközpont, főtér"" kategóriában Százhalombatta, Szent István tér rehabilitációja, mely két szervesen kapcsolódó elemből állt: Karádi Gábor vezette térépítész csapat a teret újította, amit szervesen egészít ki a hozzá közvetlenül csatlakozó, Korényi András és Zoltai István vezetésével tervezett épületegyüttes.
+[^67]: [Egyéni Hild János-díj, Köztérmegújítási Nívódíj](http://epiteszforum.hu/egyeni-hild-janos-dij-koztermegujitasi-nivodij). 2011. május 17. építészfórum. 2011-ben Köztérmegújítási Nívódíjat kapott "Városközpont, főtér" kategóriában Százhalombatta, Szent István tér rehabilitációja, mely két szervesen kapcsolódó elemből állt: Karádi Gábor vezette térépítész csapat a teret újította, amit szervesen egészít ki a hozzá közvetlenül csatlakozó, Korényi András és Zoltai István vezetésével tervezett épületegyüttes.
 [^68]: [A város karácsonyi ajándéka – Százhalombatta megújult főtere](http://epiteszforum.hu/a-varos-karacsonyi-ajandeka-szazhalombatta-megujult-fotere). 2010. december 21. építészfórum. Itt elmítik, hogy a tér megújítás tájépítészi és építészeti részre oszlott és az alkotók felsorolásánál olvasni lehet, hogy a tér kialakításában térépítészeti elemekkel részt vett Korényi András és Zoltai István is.
 [^69]: [Pilisvörösvár városi uszoda és sportcsarnok tervpályázat](http://epiteszforum.hu/pilisvorosvar-varosi-uszoda-es-sportcsarnok-tervpalyazat8). 2006. április 18. építészfórum. Zoltai István, Császár Imre, Brodszky Balázs (Inarchi Design Stúdió) szerzők és munkatársaik, kiemelt megvétel, 1200000 forint. A pályázat ismertetése.
 [^70]: [Pilisvörösvár városi uszoda és sportcsarnok tervpályázat (eredmények ismertetése)](http://epiteszforum.hu/pilisvorosvar-varosi-uszoda-es-sportcsarnok-tervpalyazat3). 2006. április 12. építészfórum.
@@ -268,5 +300,8 @@ A táblázat oldalra görgethető!
 [^73]: [Lakóépület és iroda kiviteli terve, tájépítészeti munkarész, Budapest Lenhossék utca 30](https://docplayer.hu/104762767-Budapest-ix-kerulet-lenhossek-utca-30-vendel-utca-20-a-20-b-szam-alatti-hrsz-37341-2-lakoepulet-es-iroda-epitesenek-kiviteli-terve.html). 2017. Ferencváros weboldala. Zoltai az egyik építész tervező.
 [^74]: [Duna Televízió épületének belső átalakítása](https://maps.hungaricana.hu/hu/BFLTervtar/28879/). 1994-1996. Hungaricana Térképtár.
 [^75]: Gerő Balázs: *Pomsár János*. (2018. Régi-Új Magyar Építőművészet, 3. szám 92. oldal) Pomsár János nekrológja, portréfotóval. Említik kispesti Hunyadi-Rákóczi utca közötti lakótelepét, mint megvalósult tervét.
-[^76]: *Alakul a főváros külső kerületeinek új arca*. (1964. február 29. Magyar Nemzet, 20. évfolyam 50. szám 3. oldal). Kispest központ részletes rendezési terve az ÉKME részéről.
-[^77]: *Tíz-tizenöt emeletes épületsorok Óbudán, korszerű városközpont Kispesten*. (1964. július 23. Magyar Nemzet, 20. évfolyam 171. szám 5. oldal). Kispest központ és környéke részletes rendezési terve rövid bemutatás.
+[^76]: *Alakul a főváros külső kerületeinek új arca*. (1964. február 29. Magyar Nemzet, 20. évfolyam 50. szám 3. oldal) Kispest központ részletes rendezési terve az ÉKME részéről.
+[^77]: *Tíz-tizenöt emeletes épületsorok Óbudán, korszerű városközpont Kispesten*. (1964. július 23. Magyar Nemzet, 20. évfolyam 171. szám 5. oldal) Kispest központ és környéke részletes rendezési terve rövid bemutatás.
+[^78]: *Kispest három évtizede. 4. Bontanak, építenek, javasolnak, dolgoznak*. (1975. január 12. Népszabadság, 20. évfolyam 50. szám 3. oldal) Zádori Attila megszólaltatva.
+[^79]: Csákváry Margit: *A megújuló Kispest*. (1975. március 25. Magyar Nemzet, 31. évfolyam 71. szám 7. oldal) A kispesti rekonstrukció ismertetése, Zádori rövid megszólaltatásával, tervismertetésével.
+[^80]: Pálffy Judit: *Kétmilliós hanyagság. Építési engedély és szanálás. Tanulságos történet*. (1978. július 6. Esti Hírlap, 23. évfolyam 157. szám 3. oldal) Az Irányi utca 22. és 24. alatti ikerházról szól. Amit végül mégsem szanáltak, ahogy ezt olvashatjuk a posztokban.
