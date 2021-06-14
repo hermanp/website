@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-01'
+lastmod: '2021-06-14'
 featured: no
 image:
   caption: ''
@@ -28,6 +28,8 @@ A kispesti lakótelepet, mint olvashattuk a cikksorozatban, három részletben t
 
 Nézzük először, mit tudunk!
 
+### Ihrig Dénes
+
 Az [1. részben](/hu/post/kispest-lakotelep-1-resz/) olvashattuk, hogy 1964-ben elfogadják Kispest *részletes rendezési tervét*. Ekkor a meghívottak között olvasható:
 - **Ihrig Dénes** (ÉKME Városépítési Tanszék, a mai BME ÉPK Urbanisztika Tanszék ekkor 33 éves adjunktusa), portréoldala az [urbanistak.hu](https://urbanistak.hu/ihrig-denes/)-n és az [Urbanisztika Tanszéken](http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/)
 - **Mező Lajos**, a BVTV (másnéven BUVÁTI) részéről.
@@ -40,7 +42,11 @@ Sajnos pályázatról eddig nem leltem fel dokumentumot, csak két újságcikket
 
 > A kispesti városközpont kiépítése során a Vöröshadsereg Útja mentén négyemeletes épületeket emelnek, s néhány magasabb épület, úgynevezett pontház teszi majd élénkebbé a városképet. A közintézmények elhelyezésénél figyelembe veszik, hogy a kerület népességének zöme a főútvonal déli oldalán lakik, ezért a kereskedelmi központot és az összefüggő üzletsort is itt alakítják ki. Ezen a részen lesz a kerület igazgatási és politikai központja is. Az újjáépítésre kijelölt területen összesen 5000 lakást emelnek majd. — Magyar Nemzet 1964. július 24. Beszámoló a BFT VB ülésén elfogadott részletes rendezési tervről.[^77]
 
-Ami bizonyítható a BME 1963/64-es tanévének [évkönyve alapján](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s), hogy Ihrig Dénes tervezte, **Takács Máté** társtervezővel együtt a XIX. kerület központjának részletes rendezési tervét 1963-ban. Vélhetőleg összedolgoztak a BUVÁTI-val és így Mező Lajoson keresztül kerül kapcsolatba a tervvel **Pomsár János**, aki szintúgy a BUVÁTI-nál dolgozott. Ő készítette el 1967-ben Kispest városközpont *beépítési tervét*. A források igazolják érintettségét:
+Ami bizonyítható a BME 1963/64-es tanévének [évkönyve alapján](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s), hogy Ihrig Dénes tervezte, **Takács Máté** társtervezővel együtt a XIX. kerület központjának részletes rendezési tervét 1963-ban. Vélhetőleg összedolgoztak a BUVÁTI-val és így Mező Lajoson keresztül kerül kapcsolatba a tervvel **Pomsár János**, aki szintúgy a BUVÁTI-nál dolgozott. 
+
+### Pomsár János
+
+Pomsár János készítette el 1967-ben Kispest városközpont *beépítési tervét*. A források igazolják érintettségét:
 - Pomsár János profilja az [urbanistak.hu](https://urbanistak.hu/pomsar-janos/)-n
 - az [építészfórumon](http://epiteszforum.hu/elhunyt-pomsar-janos-1931-2018) és a Régi-Új Magyar Építőművészetben[^75] olvasható nekrológja
 - 1979-es felterjesztése a BUVÁTI részéről a [Reitter Ferenc-díjra](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1979-02-26/?pg=846&layout=s). Ebben olvashatjuk, hogy 1967-ben készítette el Kispest városközpont beépítési tervét, amely meg is épült.
@@ -71,6 +77,8 @@ A II. ütem tervezésére 1973 augusztusában írták ki a tervpályázatot és 
 > A Minisztertanács három évvel ezelőtt jóváhagyta Budapest és környéke általános rendezési tervét és ennek keretében a dél-pesti városrész központját az Üllői út mentén, Kispest területén jelölte meg. A távlati városrendezési tervek az V. és VI. ötéves tervek időszakában kerülnek majd megvalósításra de már most szükséges a tervek előkészítéséhez felhasználható anyag beszerzése. Ezért az Építésügyi és Városfejlesztési Minisztérium  és a Fővárosi Tanács pályázatot írt ki a feladat megoldására. A tervpályázatra tizenhét pályamű érkezett be, amelyek felülbírálását most fejezte be a zsűri. [...]  
 A bíráló bizottság összefoglaló jelentésében megállapította, hogy a tervpályázat eredményes volt. A 90 ezer forintos első díjat *Zádori Attila — M. Gremsperger Ilona*, a BUVÁTI munkatársainak terve kapta. Két pályaművet részesítettek egyformán 75 ezer forintos II. díjban. Az egyik terv szerzői *Schwarczuk Ágnes — Szenczy Ottó — Cs. Ládonyi Judit*, a másik pályaművé *Molnár Attila — Zoltai István — Kálnoki Kis Sándor*. A 60 ezer forintos III. díjat *Gönci László — G. Sztrizsák Tamara — Lombár István* pályaművének ítélték. Megvásárolták 45 ezer forintért *Hegedüs Emőke — Papp Lukács — Várady Tamás* és 35 ezer forintért *Bálint Imre — Iványi László — Lannert Mónika — Pomsár János — Lelkes Mihály* pályamunkáját. — Magyar Nemzet, 1974. február 26.[^29]
 
+### Zádori Attila
+
 Tehát a BUVÁTI (másnéven BVTV) két munkatársa, **Zádori Attila** és **M. Gremsperger Ilona** (közlekedéstervezés) terve nyerte meg a pályázatot.
 [^43]
 
@@ -98,6 +106,8 @@ De maradnak kérdések:
 - Mennyi valósult meg mások és a saját (Molnár Attila — Zoltai István — Kálnoki Kis Sándor (közlekedéstervezés)) tervükből?
 - Miért kellett változtatni a BUVÁTI beépítési javaslatán, miután ismert lett, milyen épületeket helyezhetnek el Kispesten?
 
+### Váltás
+
 Utal egy esetleges konfliktusra egy későbbi riport, amiben a kispesti szanálások árnyoldalát világítják meg:
 
 > [Piller Ferenc, a kispesti tanács általános elnökhelyettese:] Főként tehát műszaki kérdésekről van szó [a szanálások ügyében], éppen ezért, ha bővebbet akar tudni, javaslom, keresse meg a LAKÓTERV-nél Zoltai István tervezőt!  
@@ -107,14 +117,14 @@ A nevezett szakember azonban újabb nevet adott, Zádori Attiláét, a Budapesti
 Látjuk az egymásra mutogatást. Zádori maga úgy fogalmazott (az újság alapján), hogy "a terület rekonstrukcióját kivették a kezéből". "Egy pályázat nyomán" változott meg a helyzet és ez a pályázat véleményem szerint az [5. részben](/hu/post/kispest-lakotelep-5-resz/) olvasható intézményközpont LAKÓTERV által készített tanulmánya. (Ugyanis más pályázat Kispest tekintetében 1973 után nem volt.) Fentiek alapján azt gondolhatjuk, hogy a tervezés Zoltai István kezében összpontosult. Mivel nem találtam róla összefoglaló anyagot, ezért magam kezdtem kutatásba, ez olvasható lentebb.
 
 
-## Zoltai István
+### Zoltai István
 
 Hogyan is figyeltem fel rá? Talán ez az Urbanista cikk volt a kiindulópont: [Amikor szalvétára fért egy budapesti lakótelep terve](https://index.hu/urbanista/2018/03/28/kaposztasmegyer_lakotelep_terkep_terv_panel_kapi_ujpest/):
 
 > "Ez a terv még abban az évben kész lett a LAKÓTERV építészgárdája jóvoltából, Zoltai István építész vezetésével (aki egyébként Ybl Miklós-díjas, de azt még 1976-ban kapta a Kispesti lakótelepért)."
 
 
-### Reitter Ferenc-díj
+#### Reitter Ferenc-díj
 
 Nosza, elkezdtem keresni a forrásokat róla. A Hungaricana Könyvtárban (`"zoltai istván"`, sorozat: Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei) csak egy olyan [találat](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1987-03-11/?pg=414&layout=s) volt, amely említésre érdemes. *1987. március 11.*-én terjesztették a BFT VB elé a javaslatokat a **Reitter Ferenc-díj** adományozására. Itt olvashatunk munkásságáról méltatásokat, a javaslatáról indoklást. A javaslatot a Magyar Építőművészek Szövetsége és a BFT VB Beruházási Főosztálya tette, de a LAKÓTERV-től is érkezett méltatás. A díjat megítélik neki, április 4-e alkalmából átadják.
 
@@ -127,7 +137,7 @@ A budapesti lakásépítési program megvalósításában 1974. óta vesz részt
 Munkásságának legkiemelkedőbb alkotása a Káposztásmegyeri lakótelep tervezése. Ez a mű eredményeivel, tanulságaival és építéspolitikai jelentőségével a budapesti lakótelepépítési gyakorlat eredményeit messze meghaladó és iránymutató jelentőségű. — részlet a Magyar Építőművészek Szövetsége javaslatából
 
 
-### Pályafutása
+#### Pályafutása
 
 Zoltai István 1943. március 28-án született Budapesten. (Lehet, hogy ő volt a kis sakk tudós egy 1961-es újságcikkben?[^1]) Építészmérnöki diplomáját 1966-ban szerezte az Építőipari és Közlekedési Műszaki Egyetemen (ÉKME), a [Középülettervezési Tanszéken](http://www.kozep.bme.hu/wp-content/uploads/2016/09/diploma-Kozep-1946-2016.pdf). (Az 1949-ben újjáalakuló BME-től 1952-ben különváltak az építő- és építészmérnöki karok, majd 1955-ben csatlakozott hozzájuk a közlekedésmérnöki kar. Innentől ÉKME az intézmény neve, amely 1967-ben egyesült újra a BME-vel. [BME ÉPK története](https://epito.bme.hu/a-kar-tortenete))
 
@@ -149,7 +159,7 @@ Azonban Zoltai István nem ekkor adta ki kezéből az első komolyabb tervet, hi
 **Alkotótársait** megpróbáltam számba venni és erről egy külön táblázat található lentebb. Meg kell jegyeznem azonban, hogy többször előfordult, hogy valaki csak munkatársként volt feltüntetve (például Szabó Ilona vagy Z. Wéber Judit, aki feltehetően a felesége) vagy következetlen volt, hogy mikor vettek bele a tervező kollektívába építészeket és másokat, így nem tekinthetőek a számok kőbe vésetteknek. A nevek rövidítésére a markdown táblázat szerkezete miatt volt szükség. A nevek egyértelműen azonosíthatók a kezdőbetűk alapján. Egyes személyeknek megtalálható az életútja az [urbanistak.hu](https://urbanistak.hu/) oldalon, amit ajánlok az olvasó figyelmébe.
 
 
-### Munkássága
+#### Munkássága
 
 A táblázat oldalra görgethető!
 
