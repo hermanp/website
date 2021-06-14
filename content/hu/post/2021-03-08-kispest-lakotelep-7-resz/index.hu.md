@@ -519,7 +519,7 @@ Mi késlelteti a tervezést?
 | Jakab Z.        | műszaki igazgató helyettes |
 | Koltai E.       | igazgató                   |
 
-Azonban érdemes rámutatni itt egy **Virág Csabával**, LAKÓTERV vezető építészével készült [interjúra](http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf), melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el. Munkatársai Korényi András és Nagy János "a paneltechnológia atyjai" voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:
+Azonban érdemes rámutatni itt egy **Virág Csabával**, LAKÓTERV vezető építészével készült [interjúra](http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf), melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el.[^] Munkatársai Korényi András és Nagy János "a paneltechnológia atyjai" voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:
 
 > Korényi—Zoltai barátaim azután legalább e munka maradék eredményeiből az ún. „E”-típusból megcsinálták a Káposztásmegyeri Lakótelepet. Ez történt 1982-ben.
 
@@ -664,3 +664,6 @@ Mit találtam Kispestről (lakás ügyben)? A városrész- és kerületközponto
 ________________
 
 Itt ér véget cikksorozatom azon része, amely a kispesti lakótelep építészet történetének forrásait dolgozta fel. Következik a lakótelepi lakóépületek térképi ábrázolásának feladata a következő részben.
+
+
+[^1]: Kovács Judit: *N+H rendszer. Titka: az egyszerűség*. (1979. március 18. Magyar Nemzet, 35. évfolyam 65. szám 7. oldal)
