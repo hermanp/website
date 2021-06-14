@@ -469,9 +469,3 @@ Google: `Building Footprint Mapping Using OSM and R Script`, `r interactive dash
 - FSZEK katalógus: `kispest lakótelep` [Bármely kulcsszó] keresés
 *A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés*
 FSZEK Központi Könyvtár Budapest Gyűjtemény, raktár
-
-Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz
-![Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz](IMG_20200730_143336.jpg)
-
-Bp 19. kerület Kispest városközpont 2/B ütem 3. szakasz
-![Bp 19. kerület Kispest városközpont 2/B ütem 3. szakasz](IMG_20200730_143400.jpg)
