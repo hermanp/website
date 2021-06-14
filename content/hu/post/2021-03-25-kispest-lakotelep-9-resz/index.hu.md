@@ -1,5 +1,5 @@
 ---
-title: Kispest lakótelep, 9. rész. A tervezők.
+title: Kispest lakótelep, 9. rész. A tervezők
 author: Peter Herman
 date: '2021-03-25'
 slug: kispest-lakotelep-9-resz
