@@ -33,9 +33,7 @@ item:
   date_end: "2020-12-20"
   date_start: "2020-09-14"
   description: |-
-    - Copernicus adatok és szolgáltatások megértése – áttekintés, elérhetőség, felhasználhatóság.
-    - Sikertörténetek megismerése – hogyan fejlesztettek és tettek közzé Copernicust alkalmazó szolgáltatásokat.
-    - Hozz létre te is – termékfejlesztési és gazdálkodási ismeretek a saját szolgáltatás létrehozásához.
+    A távérzékelés adta lehetőségek megismerése a Copernicus biztosította adatok és szolgáltatások, valamint ezekre építő vállalatok sikertörténetei által. Készségek megszerzése a termékfejlesztés területén.
   organization: Copernicus
   organization_url: https://mooc.copernicus.eu/
   title: Copernicus MOOC

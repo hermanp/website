@@ -32,10 +32,8 @@ item:
 - certificate_url: "/certificate/Copernicus_MOOC_Certificate.pdf"
   date_end: "2020-12-20"
   date_start: "2020-09-14"
-  description: |-
-    - Understand Copernicus data and services – what they are, and how they can be accessed and used.
-    - Learn from success stories – how existing Copernicus-enabled services and applications have been developed and deployed.
-    - Do it yourself – acquire the key skills and knowledge to develop and deploy Copernicus-enabled products and services and to navigate the Copernicus ecosystem.
+  description: 
+    Understand remote sensing capabilities via Copernicus data and services and success stories. Also gaining skills in product development.
   organization: Copernicus
   organization_url: https://mooc.copernicus.eu/
   title: Copernicus MOOC
