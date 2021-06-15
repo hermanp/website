@@ -56,16 +56,51 @@ Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1
 
 ## OpenStreetMap térképezés
 
-Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az OpenStreetMap adatbázisból. Ehhez le kell tölteni a terület shape file-ját.[^3] 
+Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az [OpenStreetMap](https://www.openstreetmap.org) (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni[^3] vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.
+
+Segédletként pedig az alábbiakat találtam:
+- [Település felrajzolása műholdkép alapján](https://www.osmtippek.hu/josm/rajzolas-muholdkeprol/) - OSM Tippek
+- [Épületek, vonalak és területek derékszögesítése, párhuzamosítása](https://www.osmtippek.hu/josm/szerkesztes/derekszogesites/) - OSM Tippek
+- [Fast building tracing with JOSM](https://blog.mapbox.com/fast-building-tracing-with-josm-58a3c3be9be8) - Medium
+- [Map Buildings using JOSM like a Pro](https://www.youtube.com/watch?v=u6KsJOaA-iE) - Youtube
+- [OpenStreetMap szerkesztés JOSM building tools](https://www.youtube.com/watch?v=OWMJX3MoJGk) - Youtube
+- [OSM Kezdők kézikönyve](https://wiki.openstreetmap.org/wiki/Hu:Beginners%27_guide) - OSM Wiki
+
+Ezek alapján a lényeget így szűrtem le: igazítani kell a műholdképet a GPS track-ekhez és meglévő OSM térképhez, aztán rajzol az ember, nem sokat, hogy ne ütközzön mással és feltölti az OSM szerverre.
+
+**Kérdéseim** is voltak, amiket feltettem:
+- *Mit tegyek módosítandó épületnél? Húzogassam a pontokat, vonalakat és egyesítsek stb. vagy töröljem és rajzoljam újra? Vagy hagyjam békében?* **Válasz**: A panelházakat négyszögesíteni kell (JOSM-ben Q gomb). A kérdéses épületek törölhetőek (ha sok módosítás lenne szükséges, mert alapjában véve pontatlan) és  újra rajzolhatóak, a FÖMI 2007/2010 ortofotóról látható tagolással. Ha egyszer valaki rosszul rajzolta be és csak ennyi amink van (tehát egyetlen verzió), akkor nyugodtan törölhető és sokkal kényelmesebb újra berajzolni. Ellenben mondjuk egy nagy bevásrálóközpontot, amit már 5-en átszerkesztettek (Version #5), ott inkább a javítgatás a javasolt, ne vesszen el valami fontos a történetéből.
+- *Melyik hátteret használjam fel a munkához? FÖMI 2007/2010 vagy FÖMI 2005? Bing? A rajzolni kívánt épületek biztosan nem módosultak az utóbbi időben (legfeljebb szigetelték őket).* **Válasz**: FÖMI 2007/2010. FÖMI-t nem szokás eltolni (igazítani) a rajzolás megkezdésekor, csak műholdképet (pl. Bing). A területen az utak geometriái elég jók, igazodnak a FÖMI 2007/2010-hez. Az Ady Endre utat és az Üllői utat ne mozgassam semerre, akkor sem, ha pontatlan a geometriája (mert mondjuk Bing-ről rajzolták), de a közöttük lévő területen azt tehetek arrább, amit jónak látok.
+- *Honnan tudhatnám, hogy munkám felesleges, mert a kispesti lakótelepi területtel már más foglalkozik? Amikor lekérdezem a funkciókat egy területen, akkor látom, ki, mikor, mit módosított. Van valami nyilvántartás, térkép erről, ahol jelezni lehet egy területre a munkát?* **Válasz**: Nem valószínű, hogy más is éppen ott rajzol, szerkessz nyugodtan. A sok szerkesztő miatt nincs olyan, hogy valaki "lefoglal" egy környéket. Ha elég gyakran mentesz, valószínűleg nem fogsz ütközni mással. Azt pedig látod, ha elkezdenek megszaporodni a dolgok épp azon a részen, ahol te is dolgozol — lehet, hogy valaki pont ott érzett késztetést egy kis térképezésre, ezzel besegít neked is. Az elemek történetéből látod, hogy ki csinálja, és vele fel lehet venni a kapcsolatot, és egyeztetni a munkákról.
+
+Fontos továbbá:
+- házszámok feltüntetése POI-ként elhelyezve, lépcsőházanként.
+- épületek adatai: emeletszám, építés ideje, épület színe, építész/tervező, építészeti stílus, stb.
+- source címke a módosításokra
+- park területére ne essen épület, ezt igazítani
+- belső utak felrajzolása
+- paneleknél, magas épületeknél a tető a talajszinti vetülete
+
+### JOSM
+A térképi rajzolást a [JOSM](https://josm.openstreetmap.de/) szoftverrel végeztem. A munka az alábbi lépésekből áll:
+1. Kérdéses terület adatainak letöltése
+2. Légi felvétel betöltése (FÖMI ortofotó 2007-2010)
+3. Rajzolás
+4. Adatok feltöltése az OSM szerverre (esetleges ütközések javítása)
+
+Az OSM szerverére felkerült adatok különböző idő után válhatnak láthatóvá a neten is böngészhető térképen, mivel a térképet az adatokból rajzolja meg a szerver és ez különféle terepi objektumok esetén más-más időt vehet igénybe. Több fórumoldal foglalkozik ezzel a kérdéssel (keresés: `building not render after edit osm`). Például: [Why my last edits are not displayed?](https://help.openstreetmap.org/questions/23836/re-why-my-last-edits-are-not-displayed)
 
 
 ## R Leaflet
+
+Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöm és térképen ábrázolom típus szerint őket. A teljes munkafolyamat R-ben végezhető.
+
 
 ________________
 
 ## Az új E típus
 
-Fentebb utaltak az új E típusú épületekre. Milyenek voltak ezek? Miben tértek el a korábbi típustervektől? Tényleg jobbak voltak? Lássuk az előterjesztést!
+Az E típusú épületek újszerűséget vittek a paneles építészetbe. Milyenek voltak ezek? Miben tértek el a korábbi típustervektől? Tényleg jobbak voltak? Lássuk a BFT VB előterjesztést!
 
 [1982. március 3](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-03-03/?pg=0&layout=s)-án tárgyalta a BFT VB az *új egységesített lakóház, illetve lakástípusok műszaki-gazdasági tervezési rendszerének bemutatása, különös tekintettel a fővárosi igények érvényesítésére* pontot. Ez az E típus ismertetése.
 
@@ -80,7 +115,7 @@ Mert "egységesített".
 
 ### Előnyei
 
-> A mai gyakorlatban egy-egy lakóterületen a területre dolgozó házgyár épület-típusai valósulnak meg. A beépitési terveket és a lakásösszetételt meghatározza a gyártott épülettípus. Így a lakásösszetétel megkívánt változatai gyártási korlátokba ütköznek.
+> A mai gyakorlatban egy-egy lakóterületen a területre dolgozó házgyár épület-típusai valósulnak meg. A beépítési terveket és a lakásösszetételt meghatározza a gyártott épülettípus. Így a lakásösszetétel megkívánt változatai gyártási korlátokba ütköznek.
 
 - Korábban épületeket tipizáltak, az E típusnál a lakásokat, közlekedőket (lépcsőházakat). Eredmény: lehetőség van arra, hogy egy-egy épületben az építtető határozza meg a lakásösszetételt és az építész a városrészhez illeszkedő, változatos tömegű és homlokzati kialakítású, szinte egyedi épületeket tervezzen.
 - Nincs kötött szintszám, 3-tól 11- emeletig lehet építeni (korábban 5 és 11 szintes). 5 emelettől felfele felvonóval.
