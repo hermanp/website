@@ -30,6 +30,14 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
 
+- company: Gedeon Richter Plc
+  company_url: "https://www.gedeonrichter.com/en/"
+  date_end: ""
+  date_start: "2021-07-01"
+  description: Support the clinical trial analysis with biostatistics.
+  location: Budapest
+  title: biostatistician
+
 - company: 2nd Department of Pediatrics, Semmelweis University
   company_url: "https://semmelweis.hu/gyermekklinika2/kutatolabor/"
   date_end: "2020-04-30"

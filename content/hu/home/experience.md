@@ -30,6 +30,14 @@ date_format: 2006-01
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
 
+- company: Richter Gedeon Nyrt.
+  company_url: "https://www.gedeonrichter.com/hu-hu/"
+  date_end: ""
+  date_start: "2021-07-01"
+  description: Biostatisztikai elemzéssel a klinikai vizsgálatok támogatása.
+  location: Budapest
+  title: biostatisztikus
+
 - company: 2. sz. Gyermekgyógyászati Klinika, Semmelweis Egyetem
   company_url: "https://semmelweis.hu/gyermekklinika2/kutatolabor/"
   date_end: "2020-04-30"
