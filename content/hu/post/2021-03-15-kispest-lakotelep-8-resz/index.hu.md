@@ -93,7 +93,7 @@ Az OSM szerverére felkerült adatok különböző idő után válhatnak láthat
 
 ## R Leaflet
 
-Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöm és térképen ábrázolom típus szerint őket. A teljes munkafolyamat R-ben végezhető.
+Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöttem és térképen ábrázoltam őket típus szerint. A teljes munkafolyamat R-ben végezhető.
 
 
 ________________
