@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-02-02'
+lastmod: '2021-12-10'
 featured: no
 image:
   caption: ''
@@ -219,7 +219,19 @@ Az 1973. február 28-i és az 1973. december 5-i BFT VB ülésen tárgyalt V. ö
 
 ## I. ütem egyszerűsített beruházási program 1968
 
-Megismétlem az [1. részben](/hu/post/kispest-lakotelep-1-resz) olvasható részt az I. ütemberuházási programjáról. [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében." A lényeg, hogy ebben 525 lakás szerepel, blokkos technológiával. A technológia részletezésnél látszik, hogy a 3 db belső udvaros épületről van szó (amelyek két részből állnak). Ez fog bővülni további épületekkel a módosított beruházási programban. 
+Megismétlem az [1. részben](/hu/post/kispest-lakotelep-1-resz) olvasható részt az I. ütem beruházási programjáról. [1968. december 4](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1968-12-04/?pg=107&layout=s)-én tárgyalta a BFT VB a *városközpontok építését a XIX. és a XXII. kerületben*. Ez voltaképp a kispesti **I. ütem beruházási programja**. A 4 oldalas előterjesztés elején terület lehatárolás, szanálási statisztikák szerepelnek. Ezután az építendő lakások építési techológiáit és szobaszám statisztikáit részletezik. A kapcsolódó létesítmények megnevezése után a beruházás költségeit taglalják. A határozatban közlik, hogy "hogy a *műszaki kiviteli tervek* birtokában hozzanak döntéseket a magasházak építése ügyében és a költségek véglegezése, valamint a lakásépítkezések ütemezése tekintetében." A lényeg, hogy ebben 525 lakás szerepel, blokkos technológiával. A technológia részletezésnél látszik, hogy a 3 db belső udvaros épületről van szó (amelyek két részből állnak). Ez fog bővülni további épületekkel a módosított beruházási programban. 
+
+{{< figure src="Kispest_alapko_MagyarHirlap_1972.png" title="Új városközpont alapkőletételi ünnepsége. Magyar Hírlap (5. évf. 284. szám) 1972. október 13. péntek" numbered="true" >}}
+
+Aztán megtörtént az első kapavágás. 1972. október 12-én tartották a kispesti rekonstrukció, vagyis a lakótelep alapkőletételi ünnepségét, melyről a másnapi újságok számoltak be. (Fentebb fotó a Magyar Hírlap-beli hírről.) A rekonstrució programjáról szóló emlékokmányt (az alapkőletételi dokumentumot) az alábbi személyek írták alá:
+- Németh Károly, MSZMP PB tag, budapesti pártbizottság első titkára ([Wikipédia](https://hu.wikipedia.org/wiki/N%C3%A9meth_K%C3%A1roly_(politikus)), [Nemzeti Emlékezet Bizottsága](https://neb.hu/asset/phpNB6SOy.pdf))
+- Molnár Endre, XIX. kerületi pártbizottság első titkára
+- Szépvölgyi Zoltán, fővárosi tanács elnöke
+- Virágh Ferencné, XIX. kerületi tanács elnöke ([rövid életrajz](https://www.tortenelmitar.hu/index.php?option=com_content&view=article&id=6489&catid=94:v&Itemid=67))
+
+Továbbá számomra érdekes, ezért említem meg, hogy az ünnepségen részt vett a fenti személyeken kívül Varga Gyula ([rövid életrajz](https://ehistory.hu/index.php?option=com_content&view=article&id=6370&catid=94:v&Itemid=67), [fotó](https://archivum.mtva.hu/photobank/item/MTI-FOTO-UEVmVUVIMVk1a3RxU2l4anEvZEtodz09)), a Zala megyei pártbizottság első titkára, aki Kispest testvérmegyéjét, Zalát képviselte.
+
+{{< figure src="kispest_alapko_okmany.jpg" title="Kispest rekonstrukciójának alapkőletételi okmánya. Forrás: Siklós Zsuzsa, a Kispesti Helytörténeti Gyűjtemény gyűjteményvezetője, történész" numbered="true" >}}
 
 
 ## I. ütem módosított beruházási program 1973
