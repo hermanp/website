@@ -1,12 +1,12 @@
 ---
 title: Kispest lakótelep projekt
 author: Peter Herman
-date: '2021-09-30'
+date: '2021-12-10'
 slug: kispest-lakotelep-projekt
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-09-30'
+lastmod: '2021-12-10'
 featured: no
 image:
   caption: ''
