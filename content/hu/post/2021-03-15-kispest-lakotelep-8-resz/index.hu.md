@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-14'
+lastmod: '2021-12-13'
 featured: no
 image:
   caption: ''
@@ -30,7 +30,7 @@ Térképen ábrázolni az *épület körvonalat* (magyarul talán így mondanán
 
 ## Kiindulási adatok
 
-Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-es Kispest beépítési tervet és *A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés*[^2] című többkötetes kiadvány helyszínrajzait, ezeket egybevetve a Google Maps műholdas alaptérképével, képes voltam összeírni a kispesti lakótelep lakóépületeit (zárójelben típusok szerint):
+Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-es Kispest beépítési tervet, *A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés*[^3] és a *Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése*[^2] című többkötetes kiadványok helyszínrajzait, ezeket egybevetve a Google Maps műholdas alaptérképével, képes voltam összeírni a kispesti lakótelep lakóépületeit (zárójelben típusok szerint):
 
 - I. ütem:
     - 3 db 5 szintes, két különálló egységből álló **ismeretlen típusú** épület és
@@ -38,20 +38,29 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
 - II/A ütem:
     - 3 db 10 szintes **A-4** típusú pontház
     - 10 db 11 szintes **S-12** típusú szalagház és
-    - 5 db 4 és 5 szintes elemekből összeállított **H-O** típusú épület
+    - 5 db 4 és 5 szintes elemekből összeállított **H-0** típusú épület
 - II/B ütem:
     - 12 db 11 emeletes **S-412** típusú szalagház
     - 14 db 11 emeletes **S-312** típusú szalagház
     - 10 db 11 emeletes **F-90** típusú szalagház
-    - 9 db 4 és 5 szintes elemekből összeállított **H-O** típusú épület és
+    - 9 db 4 és 5 szintes elemekből összeállított **H-0** típusú épület és
     - 17 db 4 vagy 5 szintes **E-5** típusú épület
 
-{{< figure src="IMG_20200730_143336.jpg" title="Kispest városközpont 2/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés" numbered="true" >}}
+{{< figure src="kispest_I_IIA.jpg" title="Kispest városközpont I és II/A ütem helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 197. oldal" numbered="true" >}}
 
-{{< figure src="IMG_20200730_143400.jpg" title="Kispest városközpont 2/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés." numbered="true" >}}
+{{< figure src="kispest_IIB_1szakasz.jpg" title="Kispest városközpont II/B ütem 1. szakasz helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 215. oldal. Látható a változás az 1981-ben kiadott helyszínrajzhoz képest, ami lehetséges intézményközponti épületeket is mutat. Eltűnik a 226-os számú épület 1981-re." numbered="true" >}}
 
+{{< figure src="kispest_IIB_1_2szakasz.jpg" title="Kispest városközpont II/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés" numbered="true" >}}
+
+{{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés." numbered="true" >}}
 
 Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat.
+
+
+### Lakóépület típusok
+De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin könyvtár Budapest Gyűjteményében, amelyikre a [2. részben](/hu/post/kispest-lakotelep-2-resz/) is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): *Az 5. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei*[^4]. Továbbá a fentebb hivatkozott[^2] V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.
+
+{{< figure src="tipusterv_eloszlas_hazgyarak.jpg" title="Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti." numbered="true" >}}
 
 
 ## OpenStreetMap térképezés
@@ -232,5 +241,7 @@ Szó esik még a Kaszásdűlői 165 lakásos prototípus épületről, fejleszt�
 
 
 [^1]: Kovács Judit: *N+H rendszer. Titka: az egyszerűség*. (1979. március 18. Magyar Nemzet, 35. évfolyam 65. szám 7. oldal)
-[^2]: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés / [kidolgozta az Építésgazdasági és Szervezési Intézet 31. Főosztály Lakótelep Szervezési Osztálya]. Tanulmányok, helyszínrajzok, tervrajzok, táblázatok, grafikonok. Kiad. az Építésügyi Tájékoztató Központ. 9-13. kötetek lelhetőek fel a FSZEK Budapest Gyűjteményében.
-[^3]: Stackoverflow: R plot building footprint / outline on map using OpenStreetMap data.  https://stackoverflow.com/q/53161186. Elérés: 2021.06.14.
+[^2]: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet / [kidolg. az Építésgazdasági és Szervezési Intézet 11. tagozat Termelésszervezési Osztálya]. Budapest, Építésügyi Tájékoztatási Központ, 1978.
+[^3]: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés / [kidolgozta az Építésgazdasági és Szervezési Intézet 31. Főosztály Lakótelep Szervezési Osztálya]. Tanulmányok, helyszínrajzok, tervrajzok, táblázatok, grafikonok. Budapest, Építésügyi Tájékoztató Központ, 1981. 9-13. kötetek lelhetőek fel a FSZEK Budapest Gyűjteményében.
+[^4]: Az 5. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei / közread. a Fővárosi Építőipari Beruházási Vállalat, Budapest, 1976.
+[^5]: Stackoverflow: R plot building footprint / outline on map using OpenStreetMap data.  https://stackoverflow.com/q/53161186. Elérés: 2021.06.14.
