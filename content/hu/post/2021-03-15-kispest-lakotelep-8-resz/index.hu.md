@@ -37,7 +37,7 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
     - 8 db 10 szintes **A-4** típusú pontház
 - II/A ütem:
     - 3 db 10 szintes **A-4** típusú pontház
-    - 10 db 11 szintes **S-12** típusú szalagház és
+    - 10 db 11 szintes **S-412** típusú szalagház és
     - 5 db 4 és 5 szintes elemekből összeállított **H-0** típusú épület
 - II/B ütem:
     - 12 db 11 emeletes **S-412** típusú szalagház
@@ -50,17 +50,31 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
 
 {{< figure src="kispest_IIB_1szakasz.jpg" title="Kispest városközpont II/B ütem 1. szakasz helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 215. oldal. Látható a változás az 1981-ben kiadott helyszínrajzhoz képest, ami lehetséges intézményközponti épületeket is mutat. Eltűnik a 226-os számú épület 1981-re." numbered="true" >}}
 
-{{< figure src="kispest_IIB_1_2szakasz.jpg" title="Kispest városközpont II/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés" numbered="true" >}}
+{{< figure src="kispest_IIB_1_2szakasz.jpg" title="Kispest városközpont II/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. 1981" numbered="true" >}}
 
-{{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés." numbered="true" >}}
+{{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. 1981" numbered="true" >}}
 
 Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat.
 
 
 ### Lakóépület típusok
-De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin könyvtár Budapest Gyűjteményében, amelyikre a [2. részben](/hu/post/kispest-lakotelep-2-resz/) is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): *Az 5. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei*[^4]. Továbbá a fentebb hivatkozott[^2] V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.
+De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin könyvtár Budapest Gyűjteményében, amelyikre a [2. részben](/hu/post/kispest-lakotelep-2-resz/) is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): *Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei*[^4]. Továbbá a fentebb hivatkozott[^2] V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.
 
-{{< figure src="tipusterv_eloszlas_hazgyarak.jpg" title="Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti." numbered="true" >}}
+{{< figure src="tipusterv_eloszlas_hazgyarak.jpg" title="A négy budapesti házgyár típusválasztéka az V. ötéves terv idején. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti." numbered="true" >}}
+
+{{< figure src="tipusterv_jegyzek_1.jpg" title="A panel lakóépület sorozattervek listája. Forrás: Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 2. oldal. 1976" numbered="true" >}}
+
+{{< figure src="tipusterv_jegyzek_2.jpg" title="A panel lakóépület sorozattervek listája. Forrás: Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 3. oldal. 1976" numbered="true" >}}
+
+A kereshetőség kedvéért táblázatban közölnöm kell a Kispestet érintő részhalmazát a típusoknak. Az összes rendelkezésre álló típus 35 db, az V. ötéves terv ideje alatt gyártottaké 21 db, a kispesti lakótelepen megjelenőké 5 db.
+
+| Házgyár | Típus |  Megjelenési forma | Szekció átlagos lakásterület (m2) |
+| ------- | ----- | ------------------ | --------------------------------- |
+|       4 |   A-4 |  pontház sorolható |                              4906 |
+|       4 | S-412 |             sávház |                              5530 |
+|       3 | S-312 |             sávház |                              5530 |
+|       3 |  F-90 |      sávház sovány |                              4592 |
+|       3 |   H-0 | többszintes sorház |                              6720 |
 
 
 ## OpenStreetMap térképezés
