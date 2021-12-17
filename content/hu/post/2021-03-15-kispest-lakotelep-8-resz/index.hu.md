@@ -68,13 +68,57 @@ De nézzük csak meg, miféle lakóépület típustervekből válogathattak a te
 
 A kereshetőség kedvéért táblázatban közölnöm kell a Kispestet érintő részhalmazát a típusoknak. Az összes rendelkezésre álló típus 35 db, az V. ötéves terv ideje alatt gyártottaké 21 db, a kispesti lakótelepen megjelenőké 5 db.
 
-| Házgyár | Típus |  Megjelenési forma | Szekció átlagos lakásterület (m2) |
-| ------- | ----- | ------------------ | --------------------------------- |
-|       4 |   A-4 |  pontház sorolható |                              4906 |
-|       4 | S-412 |             sávház |                              5530 |
-|       3 | S-312 |             sávház |                              5530 |
-|       3 |  F-90 |      sávház sovány |                              4592 |
-|       3 |   H-0 | többszintes sorház |                              6720 |
+| Házgyár | Tervező vállalat | Típus |  Megjelenési forma | Szintszám | Lakószint |
+| ------- | ---------------- | ----- | ------------------ | --------- | --------- |
+|       4 |              TTI |   A-4 |  pontház sorolható |        10 |        10 |
+|       4 |         LAKÓTERV | S-412 |             sávház |           |           |
+|       3 |         LAKÓTERV | S-312 |             sávház |           |           |
+|       3 |   LAKÓTERV (TTI) |  F-90 |      sávház sovány |        12 |        11 |
+|       3 |   LAKÓTERV (TTI) |   H-0 | többszintes sorház |           |           |
+
+Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak.
+
+#### A-4
+Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható.
+
+{{< figure src="A4_sorolhato_alaprajz.jpg" title="A-4 típusú panelház alaprajza, sorolható változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 87. o., 1976" numbered="true" >}}
+
+{{< figure src="A4_szabadonallo_alaprajz.jpg" title="A-4 típusú panelház alaprajza, szabadonálló változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 88. o., 1976" numbered="true" >}}
+
+{{< figure src="A4_1szoba_u_lakas.jpg" title="A-4 típusú panelház 1 szobás (U kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 89. o., 1976" numbered="true" >}}
+
+{{< figure src="A4_2esfelszoba_tx_lakas.jpg" title="A-4 típusú panelház 2 + félszobás (Tx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 91. o., 1976" numbered="true" >}}
+
+
+#### S-312/S-412
+Ezeknél a típusoknál a fogadószinti lakástípusok nem léteznek (a fentebb írt okok miatt), ezért csak a Kispesten létező, kétféle emeleti lakástípust mutatom be.
+
+{{< figure src="S312es412_alaprajz.jpg" title="S-312 és S-412 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 83. o., 1976" numbered="true" >}}
+
+{{< figure src="S312es412_1es2felszoba_rx_lakas.jpg" title="S-312 és S-412 típusú panelház 1 + 2 félszobás (rx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 86. o., 1976" numbered="true" >}}
+
+{{< figure src="S312es412_1es2felszoba_t_lakas.jpg" title="S-312 és S-412 típusú panelház 1 + 2 félszobás (t kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 85. o., 1976" numbered="true" >}}
+
+
+#### F-90
+Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti lakástípusok megtalálhatóak az emeleti szinteken is, így mindet be tudom mutatni.
+
+{{< figure src="F90_alaprajz.jpg" title="F-90 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 57. o., 1976" numbered="true" >}}
+
+{{< figure src="F90_1esfelszoba_lakas.jpg" title="F-90 típusú panelház 1 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 60. o., 1976" numbered="true" >}}
+
+{{< figure src="F90_2szoba_lakas.jpg" title="F-90 típusú panelház 2 szobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 59. o., 1976" numbered="true" >}}
+
+{{< figure src="F90_2esfelszoba_lakas.jpg" title="F-90 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 58. o., 1976" numbered="true" >}}
+
+
+#### H-0
+
+{{< figure src="H0_alaprajz.jpg" title="H-0 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 72. o., 1976" numbered="true" >}}
+
+{{< figure src="H0_2esfelszoba_lakas.jpg" title="H-0 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 74. o., 1976" numbered="true" >}}
+
+{{< figure src="H0_2es2felszoba_lakas.jpg" title="H-0 típusú panelház 2 + 2 félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 73. o., 1976" numbered="true" >}}
 
 
 ## OpenStreetMap térképezés
