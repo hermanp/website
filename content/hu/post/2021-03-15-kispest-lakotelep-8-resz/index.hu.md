@@ -58,7 +58,7 @@ Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1
 
 
 ### Lakóépület típusok
-De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin könyvtár Budapest Gyűjteményében, amelyikre a [2. részben](/hu/post/kispest-lakotelep-2-resz/) is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): *Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei*[^4]. Továbbá a fentebb hivatkozott[^2] V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.
+De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin Könyvtár Budapest Gyűjteményében, amelyikre a [2. részben](/hu/post/kispest-lakotelep-2-resz/) is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): *Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei*[^4]. Továbbá a fentebb hivatkozott[^2] V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.
 
 {{< figure src="tipusterv_eloszlas_hazgyarak.jpg" title="A négy budapesti házgyár típusválasztéka az V. ötéves terv idején. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti." numbered="true" >}}
 
@@ -71,15 +71,15 @@ A kereshetőség kedvéért táblázatban közölnöm kell a Kispestet érintő 
 | Házgyár | Tervező vállalat | Típus |  Megjelenési forma | Szintszám | Lakószint |
 | ------- | ---------------- | ----- | ------------------ | --------- | --------- |
 |       4 |              TTI |   A-4 |  pontház sorolható |        10 |        10 |
-|       4 |         LAKÓTERV | S-412 |             sávház |           |           |
-|       3 |         LAKÓTERV | S-312 |             sávház |           |           |
+|       4 |         LAKÓTERV | S-412 |             sávház |     11-12 |        11 |
+|       3 |         LAKÓTERV | S-312 |             sávház |     11-12 |        11 |
 |       3 |   LAKÓTERV (TTI) |  F-90 |      sávház sovány |        12 |        11 |
-|       3 |   LAKÓTERV (TTI) |   H-0 | többszintes sorház |           |           |
+|       3 |   LAKÓTERV (TTI) |   H-0 | többszintes sorház |       5-6 |       4-5 |
 
 Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak.
 
 #### A-4
-Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható.
+Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható. A [2. részben](/hu/post/kispest-lakotelep-2-resz/) ezen típus egyszobás lakásáról vitatkoznak. Látható továbbá egy beruházási program térkép, amin még sorolható változatot is elképzeltek az Üllői út mentén, továbbá a szabadonállók tájolása csak égtáj szerinti (a típusterv szerinti északi oldal észak felé tájolva), nem követi az úthálózatot.
 
 {{< figure src="A4_sorolhato_alaprajz.jpg" title="A-4 típusú panelház alaprajza, sorolható változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 87. o., 1976" numbered="true" >}}
 
@@ -105,7 +105,7 @@ Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti
 
 {{< figure src="F90_alaprajz.jpg" title="F-90 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 57. o., 1976" numbered="true" >}}
 
-{{< figure src="F90_1esfelszoba_lakas.jpg" title="F-90 típusú panelház 1 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 60. o., 1976" numbered="true" >}}
+{{< figure src="F90_1esfelszoba_lakas.jpg" title="F-90 típusú panelház 1 + félszobás lakás alaprajza. A 2 jelű félszoba területe nem 16,51 m2, hanem 6,51 m2. Az összegek helyesek. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 60. o., 1976" numbered="true" >}}
 
 {{< figure src="F90_2szoba_lakas.jpg" title="F-90 típusú panelház 2 szobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 59. o., 1976" numbered="true" >}}
 
@@ -120,50 +120,6 @@ Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti
 
 {{< figure src="H0_2es2felszoba_lakas.jpg" title="H-0 típusú panelház 2 + 2 félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 73. o., 1976" numbered="true" >}}
 
-
-## OpenStreetMap térképezés
-
-Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az [OpenStreetMap](https://www.openstreetmap.org) (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni[^3] vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.
-
-Segédletként pedig az alábbiakat találtam:
-- [Település felrajzolása műholdkép alapján](https://www.osmtippek.hu/josm/rajzolas-muholdkeprol/) - OSM Tippek
-- [Épületek, vonalak és területek derékszögesítése, párhuzamosítása](https://www.osmtippek.hu/josm/szerkesztes/derekszogesites/) - OSM Tippek
-- [Fast building tracing with JOSM](https://blog.mapbox.com/fast-building-tracing-with-josm-58a3c3be9be8) - Medium
-- [Map Buildings using JOSM like a Pro](https://www.youtube.com/watch?v=u6KsJOaA-iE) - Youtube
-- [OpenStreetMap szerkesztés JOSM building tools](https://www.youtube.com/watch?v=OWMJX3MoJGk) - Youtube
-- [OSM Kezdők kézikönyve](https://wiki.openstreetmap.org/wiki/Hu:Beginners%27_guide) - OSM Wiki
-
-Ezek alapján a lényeget így szűrtem le: igazítani kell a műholdképet a GPS track-ekhez és meglévő OSM térképhez, aztán rajzol az ember, nem sokat, hogy ne ütközzön mással és feltölti az OSM szerverre.
-
-**Kérdéseim** is voltak, amiket feltettem:
-- *Mit tegyek módosítandó épületnél? Húzogassam a pontokat, vonalakat és egyesítsek stb. vagy töröljem és rajzoljam újra? Vagy hagyjam békében?* **Válasz**: A panelházakat négyszögesíteni kell (JOSM-ben Q gomb). A kérdéses épületek törölhetőek (ha sok módosítás lenne szükséges, mert alapjában véve pontatlan) és  újra rajzolhatóak, a FÖMI 2007/2010 ortofotóról látható tagolással. Ha egyszer valaki rosszul rajzolta be és csak ennyi amink van (tehát egyetlen verzió), akkor nyugodtan törölhető és sokkal kényelmesebb újra berajzolni. Ellenben mondjuk egy nagy bevásrálóközpontot, amit már 5-en átszerkesztettek (Version #5), ott inkább a javítgatás a javasolt, ne vesszen el valami fontos a történetéből.
-- *Melyik hátteret használjam fel a munkához? FÖMI 2007/2010 vagy FÖMI 2005? Bing? A rajzolni kívánt épületek biztosan nem módosultak az utóbbi időben (legfeljebb szigetelték őket).* **Válasz**: FÖMI 2007/2010. FÖMI-t nem szokás eltolni (igazítani) a rajzolás megkezdésekor, csak műholdképet (pl. Bing). A területen az utak geometriái elég jók, igazodnak a FÖMI 2007/2010-hez. Az Ady Endre utat és az Üllői utat ne mozgassam semerre, akkor sem, ha pontatlan a geometriája (mert mondjuk Bing-ről rajzolták), de a közöttük lévő területen azt tehetek arrább, amit jónak látok.
-- *Honnan tudhatnám, hogy munkám felesleges, mert a kispesti lakótelepi területtel már más foglalkozik? Amikor lekérdezem a funkciókat egy területen, akkor látom, ki, mikor, mit módosított. Van valami nyilvántartás, térkép erről, ahol jelezni lehet egy területre a munkát?* **Válasz**: Nem valószínű, hogy más is éppen ott rajzol, szerkessz nyugodtan. A sok szerkesztő miatt nincs olyan, hogy valaki "lefoglal" egy környéket. Ha elég gyakran mentesz, valószínűleg nem fogsz ütközni mással. Azt pedig látod, ha elkezdenek megszaporodni a dolgok épp azon a részen, ahol te is dolgozol — lehet, hogy valaki pont ott érzett késztetést egy kis térképezésre, ezzel besegít neked is. Az elemek történetéből látod, hogy ki csinálja, és vele fel lehet venni a kapcsolatot, és egyeztetni a munkákról.
-
-Fontos továbbá:
-- házszámok feltüntetése POI-ként elhelyezve, lépcsőházanként.
-- épületek adatai: emeletszám, építés ideje, épület színe, építész/tervező, építészeti stílus, stb.
-- source címke a módosításokra
-- park területére ne essen épület, ezt igazítani
-- belső utak felrajzolása
-- paneleknél, magas épületeknél a tető a talajszinti vetülete
-
-### JOSM
-A térképi rajzolást a [JOSM](https://josm.openstreetmap.de/) szoftverrel végeztem. A munka az alábbi lépésekből áll:
-1. Kérdéses terület adatainak letöltése
-2. Légi felvétel betöltése (FÖMI ortofotó 2007-2010)
-3. Rajzolás
-4. Adatok feltöltése az OSM szerverre (esetleges ütközések javítása)
-
-Az OSM szerverére felkerült adatok különböző idő után válhatnak láthatóvá a neten is böngészhető térképen, mivel a térképet az adatokból rajzolja meg a szerver és ez különféle terepi objektumok esetén más-más időt vehet igénybe. Több fórumoldal foglalkozik ezzel a kérdéssel (keresés: `building not render after edit osm`). Például: [Why my last edits are not displayed?](https://help.openstreetmap.org/questions/23836/re-why-my-last-edits-are-not-displayed)
-
-
-## R Leaflet
-
-Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöttem és térképen ábrázoltam őket típus szerint. A teljes munkafolyamat R-ben végezhető.
-
-
-________________
 
 ## Az új E típus
 
@@ -226,7 +182,7 @@ Mi késlelteti a tervezést?
 | Jakab Z.        | műszaki igazgató helyettes |
 | Koltai E.       | igazgató                   |
 
-Azonban érdemes rámutatni itt egy **Virág Csabával**, LAKÓTERV vezető építészével készült [interjúra](http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf), melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el.[^1] Munkatársai Korényi András és Nagy János "a paneltechnológia atyjai" voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:
+Azonban érdemes rámutatni itt egy **Virág Csabával**, a LAKÓTERV vezető építészével készült [interjúra](http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf), melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el.[^1] Munkatársai Korényi András és Nagy János "a paneltechnológia atyjai" voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:
 
 > Korényi—Zoltai barátaim azután legalább e munka maradék eredményeiből az ún. „E”-típusból megcsinálták a Káposztásmegyeri Lakótelepet. Ez történt 1982-ben.
 
@@ -296,6 +252,48 @@ pedig a meglevő berendezésekhez igazodó, de új termékcsalád kerül bevezet
 > Nem megoldott még a fürdőszobák válaszfalas rendszerben való megvalósításának kérdése. A kivitelező vállalat — technológiai és gazdasági szempontjai alapján — továbbra is a térelemes fürdőszoba megoldást tudja építeni, így a szűkös fürdőszobák problémáinak megoldását a VII. ötéves tervi lakások fogják csak biztosítani.
 
 Szó esik még a Kaszásdűlői 165 lakásos prototípus épületről, fejlesztési lehetőségeiről, a lakosság tájékoztatásáról. A mellékletben az *Az E termékcsaládból előkészített lakások a VI. ötéves tervben* táblázat szerint Kispestre is jutott ezekből! Az E-5 lakóépülettel a II/B ütemben 1983-ban 392 db, 1984-ben 584 db lakást építenek és a E típusterv "otthonház" terméke alapján 64 lakásos nyugdíjasházat is építettek, ezt külön meg is említettem a [4. részben](/hu/post/kispest-lakotelep-4-resz/). Végül elfogadják (az észrevételekkel együtt) a tájékoztatót és nem határoznak későbbi jelentés adásról.
+
+
+## OpenStreetMap térképezés
+
+Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az [OpenStreetMap](https://www.openstreetmap.org) (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni[^5] vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.
+
+Segédletként pedig az alábbiakat találtam:
+- [Település felrajzolása műholdkép alapján](https://www.osmtippek.hu/josm/rajzolas-muholdkeprol/) - OSM Tippek
+- [Épületek, vonalak és területek derékszögesítése, párhuzamosítása](https://www.osmtippek.hu/josm/szerkesztes/derekszogesites/) - OSM Tippek
+- [Fast building tracing with JOSM](https://blog.mapbox.com/fast-building-tracing-with-josm-58a3c3be9be8) - Medium
+- [Map Buildings using JOSM like a Pro](https://www.youtube.com/watch?v=u6KsJOaA-iE) - Youtube
+- [OpenStreetMap szerkesztés JOSM building tools](https://www.youtube.com/watch?v=OWMJX3MoJGk) - Youtube
+- [OSM Kezdők kézikönyve](https://wiki.openstreetmap.org/wiki/Hu:Beginners%27_guide) - OSM Wiki
+
+Ezek alapján a lényeget így szűrtem le: igazítani kell a műholdképet a GPS track-ekhez és meglévő OSM térképhez, aztán rajzol az ember, nem sokat, hogy ne ütközzön mással és feltölti az OSM szerverre.
+
+**Kérdéseim** is voltak, amiket feltettem:
+- *Mit tegyek módosítandó épületnél? Húzogassam a pontokat, vonalakat és egyesítsek stb. vagy töröljem és rajzoljam újra? Vagy hagyjam békében?* **Válasz**: A panelházakat négyszögesíteni kell (JOSM-ben Q gomb). A kérdéses épületek törölhetőek (ha sok módosítás lenne szükséges, mert alapjában véve pontatlan) és  újra rajzolhatóak, a FÖMI 2007/2010 ortofotóról látható tagolással. Ha egyszer valaki rosszul rajzolta be és csak ennyi amink van (tehát egyetlen verzió), akkor nyugodtan törölhető és sokkal kényelmesebb újra berajzolni. Ellenben mondjuk egy nagy bevásrálóközpontot, amit már 5-en átszerkesztettek (Version #5), ott inkább a javítgatás a javasolt, ne vesszen el valami fontos a történetéből.
+- *Melyik hátteret használjam fel a munkához? FÖMI 2007/2010 vagy FÖMI 2005? Bing? A rajzolni kívánt épületek biztosan nem módosultak az utóbbi időben (legfeljebb szigetelték őket).* **Válasz**: FÖMI 2007/2010. FÖMI-t nem szokás eltolni (igazítani) a rajzolás megkezdésekor, csak műholdképet (pl. Bing). A területen az utak geometriái elég jók, igazodnak a FÖMI 2007/2010-hez. Az Ady Endre utat és az Üllői utat ne mozgassam semerre, akkor sem, ha pontatlan a geometriája (mert mondjuk Bing-ről rajzolták), de a közöttük lévő területen azt tehetek arrább, amit jónak látok.
+- *Honnan tudhatnám, hogy munkám felesleges, mert a kispesti lakótelepi területtel már más foglalkozik? Amikor lekérdezem a funkciókat egy területen, akkor látom, ki, mikor, mit módosított. Van valami nyilvántartás, térkép erről, ahol jelezni lehet egy területre a munkát?* **Válasz**: Nem valószínű, hogy más is éppen ott rajzol, szerkessz nyugodtan. A sok szerkesztő miatt nincs olyan, hogy valaki "lefoglal" egy környéket. Ha elég gyakran mentesz, valószínűleg nem fogsz ütközni mással. Azt pedig látod, ha elkezdenek megszaporodni a dolgok épp azon a részen, ahol te is dolgozol — lehet, hogy valaki pont ott érzett késztetést egy kis térképezésre, ezzel besegít neked is. Az elemek történetéből látod, hogy ki csinálja, és vele fel lehet venni a kapcsolatot, és egyeztetni a munkákról.
+
+Fontos továbbá:
+- házszámok feltüntetése POI-ként elhelyezve, lépcsőházanként.
+- épületek adatai: emeletszám, építés ideje, épület színe, építész/tervező, építészeti stílus, stb.
+- source címke a módosításokra
+- park területére ne essen épület, ezt igazítani
+- belső utak felrajzolása
+- paneleknél, magas épületeknél a tető a talajszinti vetülete
+
+### JOSM
+A térképi rajzolást a [JOSM](https://josm.openstreetmap.de/) szoftverrel végeztem. A munka az alábbi lépésekből áll:
+1. Kérdéses terület adatainak letöltése
+2. Légi felvétel betöltése (FÖMI ortofotó 2007-2010)
+3. Rajzolás
+4. Adatok feltöltése az OSM szerverre (esetleges ütközések javítása)
+
+Az OSM szerverére felkerült adatok különböző idő után válhatnak láthatóvá a neten is böngészhető térképen, mivel a térképet az adatokból rajzolja meg a szerver és ez különféle terepi objektumok esetén más-más időt vehet igénybe. Több fórumoldal foglalkozik ezzel a kérdéssel (keresés: `building not render after edit osm`). Például: [Why my last edits are not displayed?](https://help.openstreetmap.org/questions/23836/re-why-my-last-edits-are-not-displayed)
+
+
+## R Leaflet
+
+Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöttem és térképen ábrázoltam őket típus szerint. A teljes munkafolyamat R-ben végezhető.
 
 
 [^1]: Kovács Judit: *N+H rendszer. Titka: az egyszerűség*. (1979. március 18. Magyar Nemzet, 35. évfolyam 65. szám 7. oldal)
