@@ -76,10 +76,10 @@ A kereshetőség kedvéért táblázatban közölnöm kell a Kispestet érintő 
 |       3 |   LAKÓTERV (TTI) |  F-90 |      sávház sovány |        12 |        11 |
 |       3 |   LAKÓTERV (TTI) |   H-0 | többszintes sorház |       5-6 |       4-5 |
 
-Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak.
+Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak. Látható, hogy a Típustervező Intézet (TTI) tervezett 
 
 #### A-4
-Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható. A [2. részben](/hu/post/kispest-lakotelep-2-resz/) ezen típus egyszobás lakásáról vitatkoznak. Látható továbbá egy beruházási program térkép, amin még sorolható változatot is elképzeltek az Üllői út mentén, továbbá a szabadonállók tájolása csak égtáj szerinti (a típusterv szerinti északi oldal észak felé tájolva), nem követi az úthálózatot.
+Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható. A [2. részben](/hu/post/kispest-lakotelep-2-resz/#vita-az-egyszob%C3%A1s-lak%C3%A1sokr%C3%B3l) ezen típus egyszobás lakásáról vitatkoznak. Ebben a részben látható továbbá egy beruházási program térkép, amin még sorolható változatot is elképzeltek az Üllői út mentén, továbbá a szabadonállók tájolása csak égtáj szerinti (a típusterv szerinti északi oldal észak felé tájolva), nem követi az úthálózatot.
 
 {{< figure src="A4_sorolhato_alaprajz.jpg" title="A-4 típusú panelház alaprajza, sorolható változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 87. o., 1976" numbered="true" >}}
 
