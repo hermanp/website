@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-12-13'
+lastmod: '2022-05-21'
 featured: no
 image:
   caption: ''
@@ -54,7 +54,17 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
 
 {{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. 1981" numbered="true" >}}
 
-Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat.
+Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat. Elérhetővé teszem az alábbi [Google Docs](https://drive.google.com/drive/folders/11VockHZRwy1nLYWxSr2lg0lp6mn8g1CB?usp=sharing) mappát, melyben panelépületek felújításával kapcsolatos alábbi cikkek érhetőek el (a Magyar Építőipar 1987. évi 36.évf. 5-6. számából):
+
+- Sámsodi Kiss György: Felkészülés a panelos lakóépületek tömeges, sorozatszerű felújítására
+- Kocsis Attiláné: A Bp. XI., Szakasits Árpád út 23-25 sz. paneles lakóépület kísérleti felújítása, tapasztalok.
+    - Éva Andrásné: Paneles lakóépület kísérleti felújítás előkészítése. Magyar Építőipar, 1985. 34. évf. 3. szám, 142-144. pp. Ez az előzménye Kocsis Attiláné cikkének.
+- Gantner Lászlóné: Lakáskorszerűsítés panelos lakóépületekben lakásösszevonások útján
+- Gantner Lászlóné - Birghoffer Péter: A panelos lakóépületek értéknövelő felújítása, az értéknövelő felújítások műszaki eszköztára
+- Sárkány Sándor: A panelos lakóépületek felújításának jogi- és pénzügyi problémái, különös tekintettel a szövetkezeti illetve személyi tulajdonban lévő lakásokra
+- Ágostházi Nóra - Mayer Sándorné: Diagnosztikai eljárások paneles lakóépületek felújításának előkészítéséhez
+- Mayer Sándorné: Új eljárások panelhézagtömítések felújításához
+- Surányi Pál: Szerkezetet érintő átalakítási technológiák paneles épületeknél 
 
 
 ### Lakóépület típusok
@@ -76,7 +86,7 @@ A kereshetőség kedvéért táblázatban közölnöm kell a Kispestet érintő 
 |       3 |   LAKÓTERV (TTI) |  F-90 |      sávház sovány |        12 |        11 |
 |       3 |   LAKÓTERV (TTI) |   H-0 | többszintes sorház |       5-6 |       4-5 |
 
-Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak. Látható, hogy a Típustervező Intézet (TTI) tervezett 
+Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak. 
 
 #### A-4
 Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható. A [2. részben](/hu/post/kispest-lakotelep-2-resz/#vita-az-egyszob%C3%A1s-lak%C3%A1sokr%C3%B3l) ezen típus egyszobás lakásáról vitatkoznak. Ebben a részben látható továbbá egy beruházási program térkép, amin még sorolható változatot is elképzeltek az Üllői út mentén, továbbá a szabadonállók tájolása csak égtáj szerinti (a típusterv szerinti északi oldal észak felé tájolva), nem követi az úthálózatot.
