@@ -40,15 +40,17 @@ Az irodalomkutatás alapozott meg minden írást. Lépésről-lépésre, ide-oda
 Leginkább ingyenesekre. Internetes adatbázisok a tartalmat, személyes weboldalam a keretet adták a cikkekhez. A weboldalamat ingyenes eszközökkel működtetem. Újságcikkekhez főképp az [Arcanum Digitális Tudománytárból](https://adt.arcanum.com/hu/) jutottam hozzá, ezeket feltüntettem. Egyedül ezért a hozzáférésért kellett volna fizetnem, ha nem lettek volna olyan intézmények, amelyek előfizetésén keresztül hozzá nem fértem volna. A FSZEK Budapest Gyűjteménye regisztrációs olvasójeggyel látogatható, ez került 200 Ft-omba. Itt a raktárból kellett kikérnem dokumentumokat.
 2022. májusában értem el ahhoz a ponthoz a források felkutatásában, hogy levéltári kutatómunka válhat szükségessé. Erről tájékozódtam és mint megtudtam, a levéltári kutatás ingyenes, szabad (leszámítva speciális eseteket). Minderről tájékozódni lehet a [Magyar Nemzeti Levéltár](https://mnl.gov.hu/mnl/ol/gyakori_kerdesek) oldalán.
 
-*Mi várható? Mivel bővülhet a cikkek listája?*
+*Mi várható? Mivel bővülhet a cikkek listája?*  
 Meg akarom találni, hogy kinek a tervei alapján készültek a típusépületek és szeretném áttekinteni azt a Tervtári hagyatékot, ami van, ezért a [Lechner Tudásközpont Dokumentációs Központját](https://lechnerkozpont.hu/oldal/altalanos-informaciok) biztos fel fogom keresni. Érdekes téma a panel lakóépületek felújítása és bontása, átnyergelve a múltból a jelenbe és a jövőbe. Jó volna még élő személyeket megszólaltani interjúk keretében. Sajnos Zoltai István, a kispesti lakótelep megvalósításában kulcsszerepet játszó építész eddig nem reagált megkeresésemre.
 
-*Miben segíthet Ön, kedves Olvasó?*
+*Miben segíthet Ön, kedves Olvasó?*  
 Ha tud olyan forrásról, ami érdekes lehet, kérem, írjon emailt! Ha tudja, hogy megsemmisültek dokumentumok, ami érdekelhet, azt is mondja el! Furcsának találom, hogy annyian élnek panelban és alig tudunk rendezett információhoz hozzájutni. Ha Ön építészmérnök és úgy hiszi, segítségére lehetek tervrajzok fellelésében, keressen meg nyugodtan! Talán tudok segíteni, talán nem. Az is lehet, hogy mindketten gazdagodunk!
 
 ## Posztok
 
 ### 1. rész. A kezdetek
+Ez nem csak a kispesti lakótelep, de a cikksorozat kezdete is. Emlékeim szerint miután úgy ítéltem, kellően felkutattam a forrásokat, próbáltam rendszert vinni a feldolgozásukba. Adta magát a történeti áttekintés, mivel a forrásokat is nagyrészt eszerint rendeztem. Ekkor még jóval kevesebb rálátásom volt a témára, így tematikus feldolgozás nehézkes is lett volna. A történeti tárgyalás kezdetének az 1950-es évek második felét tekinthetjük, de a cikk nem innen, hanem az 1971-es Budapest és környéke általános rendezési tervétől indul. Az időben visszafele haladó tárgyalás a felfejtett források mentén eléri a kezdeteket, az 1950-es évek második felét, s ezt követően időben előre halad egészen Kispest 1968-as településfejlesztési tervéig. Mindeközben sok térképpel is megismertetem az olvasót.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-1-resz/)
 
 ### 2. rész. Az I. ütem
 
