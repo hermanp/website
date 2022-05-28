@@ -53,6 +53,7 @@ Ez nem csak a kispesti lakótelep, de a cikksorozat kezdete is. Emlékeim szerin
 [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-1-resz/)
 
 ### 2. rész. Az I. ütem
+Ebben a részben a kispesti lakótelep megépítésének alakuló tervét az 1960-as 15 éves lakásfejlesztési és az ötéves lakásépítési tervek tükrében mutatom be. Az I. ütem egyszerűsített és módosított beruházási programjait összehasonlítva láthatjuk, hogy mik módosultak és miért a tervekben. A cikket az I. ütem befejezéséről szóló 1982-es jelentéssel zárom, több korabeli fénykép mellett. A lakótelep 1972. október 12-i alapkőletételi ünnepségéről is itt emlékezek meg, mellékelve az alapkőletételi okmány fényképét is.  [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-2-resz/)
 
 ### 3. rész. A II/A ütem
 
