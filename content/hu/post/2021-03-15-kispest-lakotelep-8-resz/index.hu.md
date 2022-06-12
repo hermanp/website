@@ -54,7 +54,7 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
 
 {{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. 1981" numbered="true" >}}
 
-Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat. Elérhetővé teszem az alábbi [Google Docs](https://drive.google.com/drive/folders/11VockHZRwy1nLYWxSr2lg0lp6mn8g1CB?usp=sharing) mappát, melyben panelépületek felújításával kapcsolatos alábbi cikkek érhetőek el (a Magyar Építőipar 1987. évi 36.évf. 5-6. számából):
+Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat. Elérhetővé teszem az alábbi [Google Drive](https://drive.google.com/drive/folders/11VockHZRwy1nLYWxSr2lg0lp6mn8g1CB?usp=sharing) mappát, melyben panelépületek felújításával kapcsolatos alábbi cikkek érhetőek el (a Magyar Építőipar 1987. évi 36.évf. 5-6. számából):
 
 - Sámsodi Kiss György: Felkészülés a panelos lakóépületek tömeges, sorozatszerű felújítására
 - Kocsis Attiláné: A Bp. XI., Szakasits Árpád út 23-25 sz. paneles lakóépület kísérleti felújítása, tapasztalok.
