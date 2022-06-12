@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-14'
+lastmod: '2022-06-12'
 featured: no
 image:
   caption: ''
@@ -42,7 +42,9 @@ Sajnos pályázatról eddig nem leltem fel dokumentumot, csak két újságcikket
 
 > A kispesti városközpont kiépítése során a Vöröshadsereg Útja mentén négyemeletes épületeket emelnek, s néhány magasabb épület, úgynevezett pontház teszi majd élénkebbé a városképet. A közintézmények elhelyezésénél figyelembe veszik, hogy a kerület népességének zöme a főútvonal déli oldalán lakik, ezért a kereskedelmi központot és az összefüggő üzletsort is itt alakítják ki. Ezen a részen lesz a kerület igazgatási és politikai központja is. Az újjáépítésre kijelölt területen összesen 5000 lakást emelnek majd. — Magyar Nemzet 1964. július 24. Beszámoló a BFT VB ülésén elfogadott részletes rendezési tervről.[^77]
 
-Ami bizonyítható a BME 1963/64-es tanévének [évkönyve alapján](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s), hogy Ihrig Dénes tervezte, **Takács Máté** társtervezővel együtt a XIX. kerület központjának részletes rendezési tervét 1963-ban. Vélhetőleg összedolgoztak a BUVÁTI-val és így Mező Lajoson keresztül kerül kapcsolatba a tervvel **Pomsár János**, aki szintúgy a BUVÁTI-nál dolgozott. 
+{{< figure src="Takacs_Mate.png" title="Takács Máté. Forrás: urbanistak.hu" numbered="true" >}}
+
+Ami bizonyítható a BME 1963/64-es tanévének [évkönyve alapján](https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&layout=s), hogy Ihrig Dénes tervezte **Takács Máté** társtervezővel együtt a XIX. kerület központjának részletes rendezési tervét 1963-ban. Takács Máté, későbbi szegedi főépítész, ekkor tanársegédként működött a tanszéken, amint olvasható portréoldalán, az [urbanistak.hu](https://urbanistak.hu/takacs-mate/)-n és a [Wikipédián](https://hu.wikipedia.org/wiki/Tak%C3%A1cs_M%C3%A1t%C3%A9_(%C3%A9p%C3%ADt%C3%A9szm%C3%A9rn%C3%B6k)), de érdemes az [epiteszforum.hu](https://epiteszforum.hu/print/a-gondolkodas-csiraja-azon-a-helyen-lakik-ahol-a-haz-felepul1)-n vele készült interjút is olvasni. Vélhetőleg összedolgoztak a BUVÁTI-val és így Mező Lajoson keresztül kerül kapcsolatba a tervvel **Pomsár János**, aki szintúgy a BUVÁTI-nál dolgozott. 
 
 ### Pomsár János
 
@@ -152,16 +154,16 @@ Azonban Zoltai István nem ekkor adta ki kezéből az első komolyabb tervet, hi
 
 {{< figure src="Zoltai_Ybl.png" title="Zoltai István portré, Ybl-díja kapcsán. Magyar Építőművészet 1976. (25. évfolyam 4. szám 9. oldal)" numbered="true" >}}
 
-Úgy tűnik él és alkot **jelenleg** is: Korényi és Társai Kft. munkáinál vállal szerepet. Érdemes megjegyezni, hogy az E típus kidolgozásában vett részt Korényi András (lásd a [7. részt](https://hermanp.github.io/hu/post/kispest-lakotelep-7-resz/)) a LAKÓTERV-en belül, mint műteremvezető, ismeretségük már legalább ekkortól, tehát 1982-től eredeztethető. Arra is van jel, hogy Zoltai családi házat tervez a Z & W Építésziroda keretében, bár a céginformációs adatbázisok nem tartalmaznak ilyet. Legutóbbi munkái közül olvashattunk a Százhalombattai Hírtükörben 2009. október 20-án megjelent [riportban](http://www.hirtukor.hu/bel.php?ssz=11680). Ez a százhalombattai konferenciaközpont építéséről szólt a két tervezővel, Korényi András Ybl-díjas és Zoltai István Ybl- és Reitter Ferenc-díjas építészmérnökökkel. Itt látható az egyetlen neten szabadon fellelhető [kép](http://www.hirtukor.hu/UserFiles/image/2009/1020/nagy/foter_4.jpg) Zoltai Istvánról.
+A közelmúltban a Korényi és Társai Kft. munkáinál vállalt szerepet. Érdemes megjegyezni, hogy az E típus kidolgozásában vett részt Korényi András (lásd a [7. részt](https://hermanp.github.io/hu/post/kispest-lakotelep-7-resz/)) a LAKÓTERV-en belül, mint műteremvezető, ismeretségük már legalább ekkortól, tehát 1982-től eredeztethető. Arra is van jel, hogy Zoltai István családi házat is tervezett: Budapest II. kerületének Ófalu városrészében található házról található írás a [Szép Házak magazin 2014/3. számában](https://www.szephazak.hu/gallery/gallery.php?id=14468&ext=jpg). Legutóbbi munkái közül olvashattunk a Százhalombattai Hírtükörben 2009. október 20-án megjelent [riportban](http://www.hirtukor.hu/bel.php?ssz=11680). Ez a százhalombattai konferenciaközpont építéséről szólt a két tervezővel, Korényi András Ybl-díjas és Zoltai István Ybl- és Reitter Ferenc-díjas építészmérnökökkel. Itt látható az egyetlen neten szabadon fellelhető [kép](http://www.hirtukor.hu/UserFiles/image/2009/1020/nagy/foter_4.jpg) Zoltai Istvánról. Jelenleg már visszavonult, nem foglalkozik tervezéssel (feleségével, Weber Judittal e-mailben folytatott beszélgetés alapján. 2022. június 12).
 
 {{< figure src="Zoltai_Szazhalom_Hirtukor_2009.jpg" title="Balra Korényi András, jobbra Zoltai István a Szent István téren, a Szekeres József Konferencia- és Rendezvényközpont épületével a háttérben. Százhalombattai Hírtükör, 2009. október 20." numbered="true" >}}
 
-**Alkotótársait** megpróbáltam számba venni és erről egy külön táblázat található lentebb. Meg kell jegyeznem azonban, hogy többször előfordult, hogy valaki csak munkatársként volt feltüntetve (például Szabó Ilona vagy Z. Wéber Judit, aki feltehetően a felesége) vagy következetlen volt, hogy mikor vettek bele a tervező kollektívába építészeket és másokat, így nem tekinthetőek a számok kőbe vésetteknek. A nevek rövidítésére a markdown táblázat szerkezete miatt volt szükség. A nevek egyértelműen azonosíthatók a kezdőbetűk alapján. Egyes személyeknek megtalálható az életútja az [urbanistak.hu](https://urbanistak.hu/) oldalon, amit ajánlok az olvasó figyelmébe.
+**Alkotótársait** megpróbáltam számba venni és erről egy külön táblázat található lentebb. Meg kell jegyeznem azonban, hogy többször előfordult, hogy valaki csak munkatársként volt feltüntetve (például Szabó Ilona vagy Z. Weber Judit, aki a felesége) vagy következetlen volt, hogy mikor vettek bele a tervező kollektívába építészeket és másokat, így nem tekinthetőek a számok kőbe vésetteknek. A nevek rövidítésére a markdown táblázat szerkezete miatt volt szükség. A nevek egyértelműen azonosíthatók a kezdőbetűk alapján. Egyes személyeknek megtalálható az életútja az [urbanistak.hu](https://urbanistak.hu/) oldalon, amit ajánlok az olvasó figyelmébe.
 
 
 #### Munkássága
 
-A táblázat oldalra görgethető!
+A lenti táblázatban is található dokumentumoknak az Arcanum Digitális Tudománytárból lementett, pdf formátumú állományai megtalálhatóak az alábbi [Google Drive mappában](https://drive.google.com/drive/folders/115EpQYIoGs2U-s6i9Hk5Ntzr_gEpnv1e?usp=sharing). A táblázat oldalra görgethető!
 
 | Tervpályázat              | Szerzők                             | Dátum | Díj            | Összeg (Ft) | Pályázatok | Hivatkozások            |
 | ------------------------- | ----------------------------------- | ----- | -------------- | ----------- | ---------- | ----------------------- |
