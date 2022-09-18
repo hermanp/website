@@ -111,12 +111,18 @@ Ezeknél a típusoknál a fogadószinti lakástípusok nem léteznek (a fentebb 
 
 A Magyar Nemzeti Levéltár Országos Levéltárban (MNL OL) fellelt alaprajzok (a kutatás menetéről a projekt oldalon írok) az alábbiak:
 
-- általános emeleti alaprajz
+- általános emeleti alaprajz (S-12 épülettípushoz készítették, de az S-312 és S-412 típusokhoz is útmutatóul szolgál)
 - első emeleti épületgépészeti alaprajz
 - fogadószinti épületgépészeti alaprajz
 - A-A metszet és csőelrendezési vázlat
 
 {{< figure src="S_12_altalanos_emeleti_alaprajz.jpg" title="S-12 típusú épület általános emeleti alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  10. doboz, 287/78 tétel, 20380/II törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1976. VIII." numbered="true" >}}
+
+{{< figure src="S_412_gepesz_elso_emeleti_alaprajz.jpg" title="S-412 típusú épület épületgépészeti (víz, csatorna, gáz, központi fűtés, szellőzés) első emeleti alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag, 12. doboz, 5308/78 tétel, 20380/XVI törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1978. IV." numbered="true" >}}
+
+{{< figure src="S_412_gepesz_fogadoszint_alaprajz.jpg" title="S-412 típusú épület épületgépészeti (víz, csatorna, gáz) fogadószinti alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  12. doboz, 5308/78 tétel, 20380/XVI törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1978. IV." numbered="true" >}}
+
+{{< figure src="S_412_AA_metszet_csoelrendezesi_vazlat.jpg" title="S-412 típusú épület A-A metszet és csőelredezési vázlat. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  12. doboz, 5308/78 tétel, 20380/XVI törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1978. IX." numbered="true" >}}
 
 
 #### F-90
@@ -130,6 +136,21 @@ Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti
 
 {{< figure src="F90_2esfelszoba_lakas.jpg" title="F-90 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 58. o., 1976" numbered="true" >}}
 
+A Magyar Nemzeti Levéltár Országos Levéltárban (MNL OL) fellelt alaprajzok (a kutatás menetéről a projekt oldalon írok) az alábbiak:
+
+- általános emeleti alaprajz
+- általános emeleti épületgépészeti alaprajz
+- fogadószinti épületgépészeti alaprajz
+- A-A, B-B metszet
+
+{{< figure src="F_90_emeleti_alaprajz.jpg" title="F-90 típusú épület I-XI. emeleti alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag, 12. doboz, 287/78 tétel, 20359/I törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1975. XII." numbered="true" >}}
+
+{{< figure src="F_90_gepesz_altalanos_szint_alaprajz.jpg" title="F-90 típusú épület épületgépészeti (központi fűtés, szellőzés, víz, gáz, csatorna, szemétledobó) általános szint alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  12. doboz, 5308/78 tétel, 20380/XVI törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1978. IV." numbered="true" >}}
+
+{{< figure src="F_90_gepesz_fogadoszint_alaprajz.jpg" title="F-90 típusú épület épületgépészeti (víz, gáz, csatorna) fogadószint alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  12. doboz, 5308/78 tétel, 20380/XVI törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1978. IV." numbered="true" >}}
+
+{{< figure src="F_90_AA_BB_metszet.jpg" title="F-90 típusú épület A-A, B-B metszet. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  10. doboz, 287/78 tétel, 20359/I törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1975. XII." numbered="true" >}}
+
 
 #### H-0
 
@@ -138,6 +159,8 @@ Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti
 {{< figure src="H0_2esfelszoba_lakas.jpg" title="H-0 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 74. o., 1976" numbered="true" >}}
 
 {{< figure src="H0_2es2felszoba_lakas.jpg" title="H-0 típusú panelház 2 + 2 félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 73. o., 1976" numbered="true" >}}
+
+{{< figure src="H0_AA_metszet.jpg" title="H-0 típusú épület A-A metszet. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  10. doboz, 287/78 tétel, 20380/II törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1976. VII." numbered="true" >}}
 
 
 ## Az új E típus
