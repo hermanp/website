@@ -54,7 +54,7 @@ Felhasználva a [4. részben](/hu/post/kispest-lakotelep-4-resz/) közölt 1981-
 
 {{< figure src="kispest_IIB_3szakasz.jpg" title="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. 1981" numbered="true" >}}
 
-Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat. Elérhetővé teszem az alábbi [Google Drive](https://drive.google.com/drive/folders/11VockHZRwy1nLYWxSr2lg0lp6mn8g1CB?usp=sharing) mappát, melyben panelépületek felújításával kapcsolatos alábbi cikkek érhetőek el (a Magyar Építőipar 1987. évi 36.évf. 5-6. számából):
+Ezekről egy [attribútum táblázatot](https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing) állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat. Elérhetővé teszem az alábbi [Google Drive mappát](https://drive.google.com/drive/folders/11VockHZRwy1nLYWxSr2lg0lp6mn8g1CB?usp=sharing), melyben panelépületek felújításával kapcsolatos alábbi cikkek érhetőek el (a Magyar Építőipar 1987. évi 36.évf. 5-6. számából):
 
 - Sámsodi Kiss György: Felkészülés a panelos lakóépületek tömeges, sorozatszerű felújítására
 - Kocsis Attiláné: A Bp. XI., Szakasits Árpád út 23-25 sz. paneles lakóépület kísérleti felújítása, tapasztalok.
@@ -108,6 +108,15 @@ Ezeknél a típusoknál a fogadószinti lakástípusok nem léteznek (a fentebb 
 {{< figure src="S312es412_1es2felszoba_rx_lakas.jpg" title="S-312 és S-412 típusú panelház 1 + 2 félszobás (rx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 86. o., 1976" numbered="true" >}}
 
 {{< figure src="S312es412_1es2felszoba_t_lakas.jpg" title="S-312 és S-412 típusú panelház 1 + 2 félszobás (t kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 85. o., 1976" numbered="true" >}}
+
+A Magyar Nemzeti Levéltár Országos Levéltárban (MNL OL) fellelt alaprajzok (a kutatás menetéről a projekt oldalon írok) az alábbiak:
+
+- általános emeleti alaprajz
+- első emeleti épületgépészeti alaprajz
+- fogadószinti épületgépészeti alaprajz
+- A-A metszet és csőelrendezési vázlat
+
+{{< figure src="S_12_altalanos_emeleti_alaprajz.jpg" title="S-12 típusú épület általános emeleti alaprajz. Forrás: MNL OL XIX-D-6-m *ÉVM, Építésügyi Igazgatási Főosztály (1972-1984)* nevezetű állag,  10. doboz, 287/78 tétel, 20380/II törzsszámú LAKÓTERV által készített tervrajz. Készítés dátuma: 1976. VIII." numbered="true" >}}
 
 
 #### F-90
