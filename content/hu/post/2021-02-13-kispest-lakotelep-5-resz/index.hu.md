@@ -325,9 +325,11 @@ Legalább volt még távlati esély adva a központnak a VI. ötéves terv vég�
     - [Fitness 5 and GYM](https://www.fitness5.hu/fitness5_kispest/), 1500 m2
     - [Gold Biliárd](http://goldbiliard.hu/), 1195 m2
 
+{{< figure src="Kispesti_Centrum_Aruhaz_hirdeto.jpg" title="A kispesti Centrum Áruház reklámtáblája a 8258. számú SPAR szupermarket bejáratánál, az OTP bankautomata mellett, az épületen belül." numbered="true" >}}
+
 A végső tőrdöfést az [1981. március 25](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1981-03-25/?query=52%2F1980%20hat%C3%A1rozat&pg=250&layout=s)-én hozott 176/1981. számú VB határozat vitte be a városközpontnak:
 
-> A VB. 52/1980. ós 74/1981.sz. határozata előírta a Dól-pesti intézményközpont beruházási programjának előterjesztését. Ennek alapján a munkatervben június 17.-re ütemezték e napirendet. Tekintettel arra, hogy **az intézményközpont kialakítására a következő tervidőszakban nem kerül sor**, kéri a határozatok hatályon kívül helyezését és a napirendnek a munkatervből történő törlését.
+> A VB. 52/1980. ós 74/1981.sz. határozata előírta a Dél-pesti intézményközpont beruházási programjának előterjesztését. Ennek alapján a munkatervben június 17.-re ütemezték e napirendet. Tekintettel arra, hogy **az intézményközpont kialakítására a következő tervidőszakban nem kerül sor**, kéri a határozatok hatályon kívül helyezését és a napirendnek a munkatervből történő törlését.
 
 Így ért véget a nagyszabású terv. Még érdekes, hogy nem képesek elszakadni tőle — vagy csak a városrendezési terv nem engedi:
 - [1985. november 26](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1985-11-26/?pg=57&layout=s)-án BFT által tárgyalt *Budapesti agglomeráció regionális rendezési tervében* szerepel az alábbi mondat: *A kispesti városrészközpont kiépítése folyamatban van. A felső- és középfokú ellátás érdekében további fejlesztése szükséges.*
