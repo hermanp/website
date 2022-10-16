@@ -24,6 +24,8 @@ A kispesti lakótelep kialakulásáról, a panelos technológiájú lakóépüle
 *Miért kezdtem el a témával foglalkozni?*  
 Szerettem volna átlátni, hol vannak panel épületek Budapesten. Találtam erről térképet, de az érdekelt volna, hogy az egyes típusok hol találhatóak. Na, ilyet nem találtam. Egyáltalán, típusok szerinti összesítést. Azonban ez nagy falat lett volna, így kiválasztottam egy hozzám közelálló részt, hogy azon kezdjem el a munkát. Azonban az irodalomkutatás magával ragadott és eljutottam a kispesti panel történelem teljes feldolgozásáig.
 
+{{< figure src="budapest_lakotelepei_ivan_laszlo_budapest_falanszterei_3_abra.png" title="Budapest lakótelepei az 1990-es évek elején. A 95-ös számú a kispesti lakótelep. Forrás: 3. ábra az alábbi cikkből. Iván László (1996): [Budapesti falanszterek](http://www.mtafki.hu/konyvtar/kiadv/FE1996/FE19961-2_73-99.pdf). A tömeges lakásépítés térbeli konzekvenciái. Földrajzi Értesítő XLV. évf, 1-2. füzet, pp. 73-99." numbered="true" >}}
+
 *Mikor fejeződne be a projekt?*  
 Akkor, ha képes lennék egy csinos térképes adatábrázolást összedobni.
 
