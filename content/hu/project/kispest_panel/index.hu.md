@@ -57,6 +57,7 @@ Leginkább ingyenesekre. Internetes adatbázisok a tartalmat, személyes webolda
 Mi várható? Mivel bővülhet a cikkek listája? A tervek listája:
 
 - Fel szeretném lelni az **1973-as tervpályázatot**. Ehhez folytatom a levéltári kutatást az MNL OL után [Budapest Fővásros Levéltárában](https://bparchiv.hu/).
+- A BME ÉPK Urbanisztika Tanszék tervtárában szétnézni, talán fellelem az I. ütem terveit, pl. amihez Ihrig Dénesnek volt köze.
 - Meg akarom találni, hogy **kinek a tervei** alapján készültek a típusépületek és szeretném áttekinteni azt a **tervtári hagyatékot**, ami van, ezért a [Lechner Tudásközpont Dokumentációs Központját](https://lechnerkozpont.hu/oldal/altalanos-informaciok) biztos fel fogom keresni.
 - Érdekes téma a panel lakóépületek **felújítása és bontása**, átnyergelve a múltból a jelenbe és a jövőbe.
 - Jó volna még élő személyeket megszólaltani interjúk keretében.
