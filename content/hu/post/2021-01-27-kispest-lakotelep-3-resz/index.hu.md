@@ -354,7 +354,10 @@ Végül a 115/177. VB határozatban tényleg kifejezik nemtetszésüket a keresk
 
 {{< figure src="IIA_utem_terkep_1977.png" title="II/A ütem térkép, 1977. Az ütem épületei 1-24 között számozottak. A pontházak típusa (A4), az épületek lakásszáma, szintszáma, parkolók száma, férőhely és tanterem számok feltüntetve. Egy tűzivíz tároló jelölve, amiről az előterjesztésben is szó esik, a többi kettő helye kikövetkeztethető. Jól látható a térképen a Kinizsi utcától (ma: Corvin krt.) a Dobó Katica utcáig épült zajvédő domb, ami garázssorként hasznosul." numbered="true" >}}
 
+
 ## Jelentés az II/A ütem befejezéséről 1982  
+[1982. június 9](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1982-06-09/?pg=197&layout=s)-én tárgyalták a megvalósulás módját az I. ütemével együttesen a BFT VB-ben *Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről* napirendi pontban. Előzményekről és a két ütemről van szó, utóbbiaknál részleteiben az előkészítésről, a megvalósítás ismertetéséről és a beruházás értékeléséről. Utóbbi két pontból idézek az alábbiakban a II/A ütemet érintően. Az I. ütemmel kapcsolatban a róla szóló [2. részben](https://hermanp.github.io/hu/post/kispest-lakotelep-2-resz/) olvashatunk.
+
 A megvalósításban résztvevő vállalatok:
 - lebonyolító: Fővárosi Építőipari Beruházási Vállalat
 - tervezők:
