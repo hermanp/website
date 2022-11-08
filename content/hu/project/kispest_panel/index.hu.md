@@ -48,6 +48,7 @@ A kispesti lakótelepre vonatkozóan **négy dokumentumot találtunk**, a XIX-D-
 Javaslom az érintett levéltári egységek kutatását, a lehetséges segédkönyvek áttekintését. Tapasztalatunk azonban az – nem kizárva a sikeres kutatást –, hogy a pályázati anyagokat sokáig nem minősítették maradandó értékűnek, s ezért nem, vagy csak elvétve kerültek a levéltári őrizetbe.
 
 - *2022. július 21-én*, csütörtökön (aznapra szabadságot kérve) jutottam el az [MNL OL Lángliliom utcai kutatóterembe](https://mnl.gov.hu/mnl/ol/langliliom_utca), ahol a kikért anyagokban (a fenti válaszlevélben külön említett 4 db tételben) leltem fel 9 db műszaki tervrajzot. Ezeket digitalizáltattam és az épületekről szóló részben közzétettem. Részletes ismertetésük a Források oldal [Panel](https://hermanp.github.io/hu/resources/panel/) aloldalán olvasható.
+- *2022. november 7-én* tudtam megtekinteni a [BME ÉPK Urbanisztika Tanszéken](https://urb.bme.hu/tudastar/konyvtar-terkeptar/) Varga Imre által nekem előkészített 3 darab, Kispesttel kapcsolatos térképet. Ezek alaptérképek, nem adtak hozzá az eddigi ismeretekhez. Amit megtudtam, hogy túladtak sok térképen a tanszék felújításakor. Ihrig Dénes terveit talán a Lechnerben lehet meglelni. Főképp a BUVÁTI-val dolgoztak együtt a tanszéken. A LAKÓTERV-vel és terveivel kapcsolatban annyit tudtam meg, hogy a rendszerváltás környékén ha privatizálták a céget, akkor esély lehet rá, hogy valaki magára vállalta a cég tervtárát (talán, mert pénzt kapott érte) és akár vidéki helyszínre is elköltöztethette egy raktárba. A lényeg, hogy se az I se a II ütemek anyaga nem volt fellelhető. Ajánlott az önkormányzatot megkeresni a tervek hagyatékával kapcsolatban.
 
 *Milyen erőforrásokra volt szükség?*  
 Leginkább ingyenesekre. Internetes adatbázisok a tartalmat, személyes weboldalam a keretet adták a cikkekhez. A weboldalamat ingyenes eszközökkel működtetem. Újságcikkekhez főképp az [Arcanum Digitális Tudománytárból](https://adt.arcanum.com/hu/) jutottam hozzá, ezeket feltüntettem. Egyedül ezért a hozzáférésért kellett volna fizetnem, ha nem lettek volna olyan intézmények, amelyek előfizetésén keresztül hozzá nem fértem volna. A FSZEK Budapest Gyűjteménye regisztrációs olvasójeggyel látogatható, ez került 200 Ft-omba. Itt a raktárból kellett kikérnem dokumentumokat.
@@ -56,14 +57,13 @@ Leginkább ingyenesekre. Internetes adatbázisok a tartalmat, személyes webolda
 ## Tervek
 Mi várható? Mivel bővülhet a cikkek listája? A tervek listája:
 
-- Fel szeretném lelni az **1973-as tervpályázatot**. Ehhez folytatom a levéltári kutatást az MNL OL után [Budapest Főváros Levéltárában](https://bparchiv.hu/).
-- A BME ÉPK Urbanisztika Tanszék tervtárában szétnézni, talán fellelem az I. ütem terveit, pl. amihez Ihrig Dénesnek volt köze.
+- Fel szeretném lelni az **1973-as tervpályázatot**. Ehhez folytatom a levéltári kutatást az MNL OL után [Budapest Főváros Levéltárában](https://bparchiv.hu/). Mivel előfordulhat, hogy az önkormányzat nem minden anyagot adott át a levéltárnak archiválásra, ezért akár a kispesti önkormányzatot is meg kell keresni.
 - Meg akarom találni, hogy **kinek a tervei** alapján készültek a típusépületek és szeretném áttekinteni azt a **tervtári hagyatékot**, ami van, ezért a [Lechner Tudásközpont Dokumentációs Központját](https://lechnerkozpont.hu/oldal/altalanos-informaciok) biztos fel fogom keresni.
-- Érdekes téma a panel lakóépületek **felújítása és bontása**, átnyergelve a múltból a jelenbe és a jövőbe.
+- Érdekes téma a panel lakóépületek **felújítása és bontása**, átnyergelve a múltból a jelenbe és a jövőbe. Ehhez vélhetőleg jobban kell tudni a tervrajzokat olvasni és kifejezetten **épületszerkezeti, építési technológiai** információkat kell felkutatni. Például azt, hogyan gyártották a kispesti épületekben használt paneleket, mit tartalmaztak, mik az épületfizikai tulajdonságaik.
 - Jó volna még élő személyeket megszólaltatni interjúk keretében.
 
 *Miben segíthet Ön, kedves Olvasó?*  
-Ha tud olyan forrásról, ami érdekes lehet, kérem, írjon emailt! Ha tudja, hogy megsemmisültek dokumentumok, ami érdekelhet, azt is mondja el! Furcsának találom, hogy annyian élnek panelban és alig tudnak rendezett információhoz hozzájutni. Ha Ön építészmérnök és úgy hiszi, segítségére lehetek tervrajzok fellelésében, keressen meg nyugodtan! Talán tudok segíteni, talán nem. Az is lehet, hogy mindketten gazdagodunk!
+Ha tud olyan forrásról, ami érdekes lehet, **kérem, írjon emailt**! Ha tudja, hogy megsemmisültek dokumentumok, ami érdekelhet, azt is mondja el! Furcsának találom, hogy annyian élnek panelban és alig tudnak rendezett információhoz hozzájutni. Ha Ön építészmérnök és úgy hiszi, segítségére lehetek tervrajzok fellelésében, keressen meg nyugodtan! Talán tudok segíteni, talán nem. Az is lehet, hogy mindketten gazdagodunk!
 
 ## Posztok
 
@@ -76,10 +76,12 @@ Ebben a részben a kispesti lakótelep megépítésének alakuló tervét az 196
 [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-2-resz/)
 
 ### 3. rész. A II/A ütem
-Ebben a részben az V. ötéves lakásépítési terv Kispestre, a lakótelepre vonatkozó részével kezdem az ismertetést, majd a lakótelep II/A ütemét mutatom be. A tervezés folyamatáról egy áttekintést kaphatunk a különféle tervek (pl. rendezési terv, szanálási terv, beruházási program) egymásutánisága által. E rész érdekességeként említhető a lakástelepítés tervezését segítő számítógépes programozás, mégha a mikéntjét és a számítógép típusát egyelőre nem is tudjuk. Megtudjuk azt is, hogy a II. ütem két része miért igényel különálló tervezést. Végezetül, hasonlóan az I. ütem részéhez, a befejezésről szóló 1982-es jelentéssel zárom.  
+Ebben a részben az V. ötéves lakásépítési terv Kispestre, a lakótelepre vonatkozó részével kezdem az ismertetést, majd a lakótelep II/A ütemét mutatom be. A tervezés folyamatáról egy áttekintést kaphatunk a különféle tervek (pl. rendezési terv, szanálási terv, beruházási program) egymásutánisága által. E rész érdekességeként említhető a *lakástelepítés tervezését segítő számítógépes programozás*, mégha a mikéntjét és a számítógép típusát egyelőre nem is tudjuk. Megtudjuk azt is, hogy a II. ütem két része miért igényel különálló tervezést. Végezetül, hasonlóan az I. ütem részéhez, a befejezésről szóló 1982-es jelentéssel zárom.  
 [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-3-resz/)
 
 ### 4. rész. A II/B ütem
+Ez az ütem a folytatása a II/A ütemnek, hasonló épületekkel (bár megjelenik az újfajta E típus), építési technológiával, várostervezési elvekkel. Az egyes ütemekbeli lakások aránya az alábbi: I : II/A : II/B = 1 : 2.57 : 10.3, melyből látható, léptéke a megelőző ütemeknél jócskán nagyobb. Ezért ezen terv három szakaszra volt osztva. E szakaszok beruházási programjai szerint tárgyalom az építkezést. Ebben a részben számomra a legérdekesebb, amely még érzelmileg is megérintett, a *szanálásra kerülő*, nem lakás céljára szolgáló létesítményekről található kimutatas. Megismerhetjük kik laktak itt, mivel foglalkoztak (pl. ágytoll tisztító), milyen büfék, kocsmák voltak itt (pl. a "Csendes" Eszpresszo). Ezek hiánya vissza fog köszönni az építkezések előrehaladásánál és az intézményközpont fejlesztésénél is.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-4-resz/)
 
 ### 5. rész. Az intézményközpont
 
