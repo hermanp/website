@@ -11,7 +11,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-03-08'
+lastmod: '2022-11-20'
 featured: no
 image:
   caption: ''
@@ -140,6 +140,6 @@ A határozatokat elfogadják, ami a szanálás ütemezéséről, beruházási pr
 
 És ennyi. Nincs több fellelhető érdemi információ a III. ütemmel kapcsolatban, csak néhány költségvetési tétel a BFT ülésén ([1989. február 10](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1989-02-10/?pg=148&layout=s), [1990. május 15](https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_101_a_1_1990-05-15/?pg=160&layout=s)). A fentiek alapján mindenesetre tudható, hogy még beruházási program is készült, ez vélhetőleg a BFT VB elé nem került, csak a kerületi tanácsban tárgyalták.
 
-Hogy miért ismertem fel a III. ütemben a "Bermuda háromszöget"? Még a források felkutatásánál akadtam rá Fenyvesi Dezső, Kispest 1984-1990 közötti tanácselnökének blogjára, ahol egy [írást](https://kispestanno.blog.hu/2013/10/27/a-kispesti-bermuda-haromszog) ennek a területnek szentel. Érdemes elolvasni Györkös Attila hozzászólását (Kanuni Szulejman Szultan becenév alatt), ahol a terület életéről, gyerekkori emlékeiről ír.
+Hogy miért ismertem fel a III. ütemben a "Bermuda háromszöget"? Még a források felkutatásánál akadtam rá Fenyvesi Dezső, Kispest 1984-1990 közötti tanácselnökének blogjára, ahol egy [írást](https://kispestanno.blog.hu/2013/10/27/a-kispesti-bermuda-haromszog) ennek a területnek szentel. Érdemes elolvasni Györkös Attila hozzászólását (Kanuni Szulejman Szultan felhasználónév alatt), ahol a terület életéről, gyerekkori emlékeiről ír.
 
 De mégis, milyen idők voltak ezek a lakásépítésben? Mit terveztek és Kispest vonatkozásában mik lelhetőek fel a nagyívű tervekben? Erről szól a következő, [7. rész](/hu/post/kispest-lakotelep-7-resz/).
