@@ -6,7 +6,7 @@ slug: kispest-lakotelep-projekt
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-12-10'
+lastmod: '2022-11-20'
 featured: no
 image:
   caption: ''
@@ -84,11 +84,18 @@ Ez az ütem a folytatása a II/A ütemnek, hasonló épületekkel (bár megjelen
 [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-4-resz/)
 
 ### 5. rész. Az intézményközpont
+Felfoghatnánk úgy is ezt a részt, mint amelyik a városépítészet egy sajátos részét mutatja meg nekünk: hogyan gondolnak a környezetbe (adott szempontok szerint) illeszkedő központi teret létrehozni. Aki ránéz a műholdképre, láthatja: a lakótelepet két épülettömbnyi széles családi házas sáv osztja két részre. Ez volt az intézményközpont területe. Hogy milyen régre nyúlik vissza a vágy egy központra, miképpen nézett volna ki, milyen elvek mentén tervezték meg és kik, miért nem valósult meg és mi valósult meg helyette (Kispesti Centrum Áruház, közbeszédben csak Skála, valamint a KÖKI Terminál), nos, ezekről szól ez a rész. Benne vázlatokkal, rendezési tervvel, modellfotóval, térképekkel és sok érdekességgel.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-5-resz/)
 
 ### 6. rész. A III. ütem
+A harmadik ütem, ami még papírra se képződött le igazán. Sőt, a terület lehatárolása is változott az idők folyamán. Sőt, az elnevezése is (és képbe kerül a Bermuda háromszög). Ezzel a résszel végére érünk a kerületi lakásépítések sorát bemutatóknak, miközben a VI. ötéves lakásépítési terv tekintetében tárgyaljuk a témát és megközelítjük a rendszerváltás idejét. De nem is nyújtom tovább az ajánlót, mivel szinte mindent elmondanék. Javaslom az olvasását!  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-6-resz/)
 
 ### 7. rész. A nagy tervek
+Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk az ötéves lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. Ebben a részben azokról a tervekről írok, melyek hosszabb időtávra szóltak: Budapest 15 éves lakásépítési tervéről, melyben például előrejelzik a második világháború óta tartó lakáshiány felszámolásának időpontját, grafikonokkal alátámasztva; a budapesti lakótelepek városrendezési és építészeti kérdéseinek anyagáról, melyben a lakótelep építészet történetéről, a kritikákról és a javaslatokról szólnak; végül az 1980-as évek végére elkészülő harmadik Budapest Általános Rendezési Tervéhez vezető útról és a Kispesttel kapcsolatos pontjairól.
 
 ### 8. rész. Az épületek
+Ez a rész lenne a célja az egész kutatásnak: egyrészt, hogy megismerjem azt, kik tervezték a lakótelepen felépített lakóépületeket, jó esetben azt is, miért olyanra tervezték, amilyenek, másrészt, hogy képes legyek térképen ábrázolni a különböző épülettípusok elhelyezkedését, jó esetben valamilyen interaktív ábrázolási módot alkalmazva, a lakástípusok megjelenítését is lehetővé téve. Ehhez a részhez már levéltári kutatást is kellett végezni, melynek folyamatáról fentebb lehet olvasni, a Munka menete
 
 ### 9. rész. A tervezők
+Ebben a részben emléket szeretnék állítani a Kispest lakótelep kialakításában jelentős szereppel bíró építészekmérnököknek, kiemelve **Ihrig Dénest** (mai BME ÉPK Urbanisztika Tanszék), **Pomsár Jánost** (BUVÁTI), **Zádori Attilát** (BUVÁTI) és **Zoltai Istvánt** (LAKÓTERV), aki Ybl-díjban részesült a kispesti lakóteleppel kapcsolatos munkája okán.
