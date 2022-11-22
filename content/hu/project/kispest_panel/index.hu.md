@@ -6,7 +6,7 @@ slug: kispest-lakotelep-projekt
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-11-20'
+lastmod: '2022-11-22'
 featured: no
 image:
   caption: ''
@@ -92,10 +92,13 @@ A harmadik ütem, ami még papírra se képződött le igazán. Sőt, a terület
 [Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-6-resz/)
 
 ### 7. rész. A nagy tervek
-Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk az ötéves lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. Ebben a részben azokról a tervekről írok, melyek hosszabb időtávra szóltak: Budapest 15 éves lakásépítési tervéről, melyben például előrejelzik a második világháború óta tartó lakáshiány felszámolásának időpontját, grafikonokkal alátámasztva; a budapesti lakótelepek városrendezési és építészeti kérdéseinek anyagáról, melyben a lakótelep építészet történetéről, a kritikákról és a javaslatokról szólnak; végül az 1980-as évek végére elkészülő harmadik Budapest Általános Rendezési Tervéhez vezető útról és a Kispesttel kapcsolatos pontjairól.
+Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk az ötéves lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. Ebben a részben azokról a tervekről írok, melyek hosszabb időtávra szóltak: Budapest 15 éves lakásépítési tervéről, melyben például előrejelzik a második világháború óta tartó lakáshiány felszámolásának időpontját, grafikonokkal alátámasztva; a budapesti lakótelepek városrendezési és építészeti kérdéseinek anyagáról, melyben a lakótelep építészet történetéről, a kritikákról és a javaslatokról szólnak; végül az 1980-as évek végére elkészülő harmadik Budapest Általános Rendezési Tervéhez vezető útról és a Kispesttel kapcsolatos pontjairól.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-7-resz/)
 
 ### 8. rész. Az épületek
-Ez a rész lenne a célja az egész kutatásnak: egyrészt, hogy megismerjem azt, kik tervezték a lakótelepen felépített lakóépületeket, jó esetben azt is, miért olyanra tervezték, amilyenek, másrészt, hogy képes legyek térképen ábrázolni a különböző épülettípusok elhelyezkedését, jó esetben valamilyen interaktív ábrázolási módot alkalmazva, a lakástípusok megjelenítését is lehetővé téve. Ehhez a részhez már levéltári kutatást is kellett végezni, melynek folyamatáról fentebb lehet olvasni, a Munka menete
+Ez a rész lenne a célja az egész kutatásnak: egyrészt, hogy megismerjem azt, kik tervezték a lakótelepen felépített lakóépületeket, jó esetben azt is, miért olyanra tervezték, amilyenek, másrészt, hogy képes legyek térképen ábrázolni a különböző épülettípusok elhelyezkedését, jó esetben valamilyen interaktív ábrázolási módot alkalmazva, a lakástípusok megjelenítését is lehetővé téve. Ehhez a részhez már levéltári kutatást is kellett végezni, melynek folyamatáról fentebb lehet olvasni, a Munka menete ponton belül.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/)
 
 ### 9. rész. A tervezők
-Ebben a részben emléket szeretnék állítani a Kispest lakótelep kialakításában jelentős szereppel bíró építészekmérnököknek, kiemelve **Ihrig Dénest** (mai BME ÉPK Urbanisztika Tanszék), **Pomsár Jánost** (BUVÁTI), **Zádori Attilát** (BUVÁTI) és **Zoltai Istvánt** (LAKÓTERV), aki Ybl-díjban részesült a kispesti lakóteleppel kapcsolatos munkája okán.
+Ebben a részben emléket szeretnék állítani a kispesti lakótelep kialakításában jelentős szereppel bíró építészmérnököknek, kiemelve **Ihrig Dénest** (mai BME ÉPK Urbanisztika Tanszék), **Pomsár Jánost** (BUVÁTI), **Zádori Attilát** (BUVÁTI) és **Zoltai Istvánt** (LAKÓTERV), aki Ybl-díjban részesült a kispesti lakóteleppel kapcsolatos munkája okán.  
+[Tovább a cikkre](https://hermanp.github.io/hu/post/kispest-lakotelep-9-resz/)
