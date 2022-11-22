@@ -2,7 +2,7 @@
 title: Panel
 date: '2021-01-06'
 summary: ''
-lastmod: '2021-01-07'
+lastmod: '2022-11-22'
 type: book
 draft: false
 ---
@@ -94,6 +94,23 @@ Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény)
     - Csaba László: A Budapesti 4.sz. Házgyár sorozattervei. _Műszaki Tervezés_ 14. évf. 3. sz. (1974), p. 16-22.
     - Csorba Zoltán: Panelos lakóépületek a Budapesti 3.sz. Házgyár elemeiből. _Műszaki Tervezés_ 15. évf. 4. sz. (1975), p. 10-14.
     - Fülöp Imre: Budapesti 4. sz. Házgyár. _Ipari Építészeti Szemle_ 29. évf. (1979), p. 6-8.
+
+
+## Levéltárak
+### MNL OL
+A [Kispest lakótelep projekt](https://hermanp.github.io/hu/project/kispest-lakotelep-projekt/) oldalon, A munka menete pontban leírtak szerint jutottam el az alábbi forrásokhoz a Magyar Nemzeti Levéltár Országos Levéltár Lángliliom utcai kutatóhelyén:
+
+- XIX-D-6-m állag, 10. doboz, **287/78. tétel**:
+    - tárgy: Bp. XIX. Kispest II/B ütem felmentési kérelme
+    - címzés: Benedetti Tibor (LAKÓTERV igazgató) által dr. Fülöp Miklós (ÉVM Építésügyi Igazgatási Főosztály főosztályvezetője) részére
+    - időpont: 1978.01.06.
+    - ismertetés: A városrekonstrukció alapkoncepciója a meglévő városzerkezethez való alkalmazkodás. Ennek konzekvenciája, hogy az épületek tengelye az É-D-i irányhoz képest 30 fokkal eltér ÉNY felé. Emiatt nem elégíti ki az OÉSZ III. 41.§ 2. pont előírásait. A II/B ütem területén épülő 1776 lakás 7190 férőhelyéből ez 770 férőhelyet érint, az össz férőhely 10,7%-át. (S-12: 2 db  1/2 szoba, F-90: 1 db 1/2 szoba, H-O: 7 db 1/2 szoba és 15 db lakás.) Hasonló gondok merültek fel Kispest II/A ütemnél, a Pestlőrinc Állami lakótelepnél, ezek megkapták a felmentvényt az előírás alól. Kérik, hogy Kispest II/B ütem esetén is adják meg a felmentvényt.
+    - következmény:Gálosfai Jenő főosztályvezető helyettestől megkapta a felmentvényt, 1978.09.20-án.
+    - mellékletek:
+        - F-90: A-A és B-B metszet, I-XI. emeleti alaprajz
+        - H-O: alaprajzi vázlat É-i irány jelölésével (2.2.10 és 2.2.9 épületek), szekció tervek (E, E\*, F, F\*, G, A, A\*), A-A metszet
+        - S-12: általános emeleti alaprajz
+        - XIX. Kispest rendezési terv II/B ütem V. ötéves terv
 
 
 ## Hungaricana Könyvtár
