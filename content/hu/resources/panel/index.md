@@ -105,12 +105,35 @@ A [Kispest lakótelep projekt](https://hermanp.github.io/hu/project/kispest-lako
     - címzés: Benedetti Tibor (LAKÓTERV igazgató) által dr. Fülöp Miklós (ÉVM Építésügyi Igazgatási Főosztály főosztályvezetője) részére
     - időpont: 1978.01.06.
     - ismertetés: A városrekonstrukció alapkoncepciója a meglévő városzerkezethez való alkalmazkodás. Ennek konzekvenciája, hogy az épületek tengelye az É-D-i irányhoz képest 30 fokkal eltér ÉNY felé. Emiatt nem elégíti ki az OÉSZ III. 41.§ 2. pont előírásait. A II/B ütem területén épülő 1776 lakás 7190 férőhelyéből ez 770 férőhelyet érint, az össz férőhely 10,7%-át. (S-12: 2 db  1/2 szoba, F-90: 1 db 1/2 szoba, H-O: 7 db 1/2 szoba és 15 db lakás.) Hasonló gondok merültek fel Kispest II/A ütemnél, a Pestlőrinc Állami lakótelepnél, ezek megkapták a felmentvényt az előírás alól. Kérik, hogy Kispest II/B ütem esetén is adják meg a felmentvényt.
-    - következmény:Gálosfai Jenő főosztályvezető helyettestől megkapta a felmentvényt, 1978.09.20-án.
+    - következmény: Gálosfai Jenő főosztályvezető helyettestől megkapta a felmentvényt, 1978.09.20-án.
     - mellékletek:
         - F-90: A-A és B-B metszet, I-XI. emeleti alaprajz
         - H-O: alaprajzi vázlat É-i irány jelölésével (2.2.10 és 2.2.9 épületek), szekció tervek (E, E\*, F, F\*, G, A, A\*), A-A metszet
         - S-12: általános emeleti alaprajz
         - XIX. Kispest rendezési terv II/B ütem V. ötéves terv
+- XIX-D-6-m állag, 12. doboz, **5308/78. tétel**:
+    - tárgy: Felmentési kérelem BHK-III és BHK-IV F-90 és S-12 jelü típustervre
+    - címzés: Koltai Endre (LAKÓTERV igazgató) által dr. Fülöp Miklós (ÉVM Építésügyi Igazgatási Főosztály főosztályvezetője) részére
+    - időpont: 1978.09.11.
+    - ismertetés: OÉSZ III. kötet 40.§ /10/ bekezdés alól (bejárati előtér fölé víz- és csatornavezeték , ill. berendezési tárgy nem helyezhető el) felmentést kérnek, mert az F-90 és S-12 típusoknál vagy egyáltalán nem vagy csak szerelt szinten lakások elhagyásával és igen magas költségráfordítással valósítható meg.
+    - következmény: Gálosfai Jenő főosztályvezető helyettestől megkapta a felmentvényt, 1978.09.20-án.
+    - mellékletek:
+        - F-90: BHK-III F-90/21M központi fűtés, szellőzés, víz, gáz, csatorna, szemétledobó általános szint alaprajz (a típus 11 szereltszintes változata); 224 jelű épület víz, csatorna, gáz fogadószinti alaprajz
+        - S-412: alapterv, víz, csatorna, gáz, közp. fűtés, szellőzés I. em. alaprajz (221 jelű épület); víz, csatorna, gáz fogadószinti alaprajz (221 jelű épület); A-A metszet és csőelrendezési vázlat az "A" szekc. "4" raszt.-nél (221 jelű épület)
+- XIX-D-6-m állag, 18. doboz, **3133/79. tétel**:
+    - tárgy: Bpest, XIX. Kispest, II/B ütem 2. szakasz 3.2.16 jelü ált. iskolára felmentési kérelem
+    - címzés: Koltai Endre (LAKÓTERV igazgató) által dr. Fülöp Miklós (ÉVM Építésügyi Igazgatási Főosztály főosztályvezetője) részére
+    - időpont: 1979.05.14.
+    - ismertetés: A beépítési terv módosítva az Irányi Dániel u. 22-24. alatt meglévő és megmaradó épület miatt. Emiatt módosult a tárgyi 16 tantermes iskola elhelyezése a korábban jóváhagyott beépítéshez képest. A módosított beépítési tervet BFT VB 1979. aprilis 9-én R25707 számon jóváhagyta. Az iskola tengelye az É-D-i iránytól a K-re megengedett 44 fokkal szemben 45 fokkal tér el, ezért a tantermek egy része ÉNY-i tájolású. Kérik a fentiek alapján az ÉSZ 203/1-73. 2.11 szakasz előírása alól a felmentést megadni szíveskedjenek.
+    - következmény: felmentés megadva dr. Fülöp Miklós főosztályvezető által 1979.05.24-én.
+    - mellékletek: beépítési terv
+- XIX-D-6-m állag, 25. doboz, **4874/81. tétel**:
+    - tárgy: MSZ-04.140/2-79. sz. szabvány alóli felmentési kérelem
+    - címzés: dr. Nagy Ervin (BFT VB Beszerzési Főosztály) által ÉVM Igazgatási Főosztály részére
+    - időpont: 1981.09.14.
+    - ismertetés: A II/B ütem területén a tervek szerint 2 db HÁÉV típusú garzonház telepítésére kerül sor 1982. és 1983. évi megvalósítással. A telepítendő típusépületek határolószerkezetei nem felelnek meg a tárgyi Hőtechnikai Szabvány (MSZ-04.140/2-72. sz. szabvány 3.2.1 és 6.2 pont) által előírt hőátbocsátási tényező követelményértékeinek. Szilágyi elvtárs az 1981. augusztus 13-i miniszterhelyettesi értekezleten a szabvány alóli felmentést az 1982. évi megvalósíthatóság érdekében soron kívül megadja. Ez alapján kérik ezen levélben is a felmentést a címzettől. ALBAPLAST ablak alkalmazásával tartható, faablakú épületek homlokzatai azonban nem felelnek meg az előírt követelményeknek.
+    - következmény: Jantner Antal nem adta meg a felmentvényt 1981.12.08-án, költségnövekedés okán.
+    - mellékletek: nincs
 
 
 ## Hungaricana Könyvtár
